@@ -1,0 +1,1855 @@
+Word	BERT_base_common	BERT_large_common	RoBERTa_small_common	RoBERTa_large_common	DistilRoBERTa_common	DistilBERT_common	SqueezeBERT_common	MobileBERT_common	Longformer_base_common	Longformer_large_common	ALBERT_base_common	ALBERT_large_common	ALBERT_xlarge_common	ALBERT_xxlarge_common
+aardvark			dead						named			a		
+abacus					dead					used		a		playable
+accordion	used						played	used						
+acorn			dead	ripe	dead	edible			edible,named					edible
+air conditioner						available								
+air mattress			removable				used							adjustable
+air pump							used				adjustable,plugged	adjustable		
+airbag			deployed		waterproof		available			activated,removable	adjustable			adjustable
+airboat														towed
+aircraft carrier					operational									
+airplane						flying						flying		
+album			complete								reissued			
+alligator			dead	dead	dead				named		evalle			
+almond		edible					edible		edible	edible		edible		edible
+aloe						poisonous		edible		edible	edible	edible		edible
+alpaca		endangered			dead							a		
+altar				empty	empty	empty					furnished			consecrated
+aluminum foil					removable	transparent								
+amber		white												translucent,edible
+ambulance														coming
+amplifier						linear	used							adjustable
+anchor							fixed							
+ankle			broken	broken			broken			broken		swollen	broken	
+anklet					removable	worn								adjustable
+ant			dead	dead	dead				named			gone	dead	
+anteater			dead		empty				named		evalle	vegetarian		
+antelope				pictured	endangered				named		joyah			endangered
+antenna				visible									adjustable	
+anvil	broken			broken			edible				adjustable			
+appetizer	served					available				served				
+apple			ripe	ripe			edible		edible	edible	joyah	gone	gone	
+apple tree			growing		dead						joyah	gone		
+applesauce									edible	edible	edible			
+apron											embroidered			
+aquarium					closed			open						navigable
+arch			visible	broken										
+arm										long	severed		broken	
+armor					removable		armored					armored		
+arrow		drawn												adjustable
+artichoke		edible				edible		used	edible	edible	edible	a		
+arugula										edible			edible	edible
+ashtray			empty	empty			poisonous			removable			empty	adjustable
+asparagus				edible	edible			edible	edible	edible		edible	edible	edible
+avocado		edible		ripe				edible,used	edible	edible,ripe	edible			edible
+awning										removable	barbed			adjustable
+axe	used					broken	used							sharpened
+baby	born				dead	yours	born	born			evalle			
+backdrop														
+backgammon			good					used						
+backpack		empty			waterproof	empty								
+backscratcher									used					
+bacon		cooked					bacon,eaten			smoked,cooked				
+badge		circular								worn				
+badger									dead	extinct	evalle	afraid		
+bag	empty	empty	empty	empty		empty			waterproof				packed	
+bagel				flat						edible,baked	joyah			
+bagpipe	used		broken		broken	played		used	long	long	adjustable			playable
+baklava		white			yours			used	edible	edible				baked
+balance beam	used				visible			adjustable					adjustable	adjustable
+ball						bowled				thrown				
+balloon		empty			inflated	empty				inflated			big,blown	inflated
+ballot box				empty	closed									
+bamboo		green,edible									edible			edible
+banana		edible		ripe			edible	edible	edible	edible,ripe	joyah			edible
+banana peel		edible	visible		edible			edible		edible	edible		edible	edible
+banana split														
+bandage														
+bandanna		red		red										embroidered
+banjo	used				welcome	broken	played				joyah			playable
+bank	closed										joyah	concerned		
+banner		red												
+barbed wire		electrified		visible	broken	electrified					barbed	barbed		
+barbell			broken		ringing						adjustable			adjustable
+barcode		unique										encoded		
+bark	smooth					smooth			smooth		deciduous		thick	edible
+barnacle														edible
+barrel			empty	empty	empty					empty	adjustable			stainless
+barrette				adjustable							adjustable			adjustable
+baseball	played				yours	illegal	played,listed		used		joyah			
+baseball bat				broken,pictured			listed		used					adjustable
+baseball glove		plastic				worn								adjustable
+basil		edible	edible						edible	edible	edible			
+basket		empty	empty	empty	empty					empty	joyah		packed	adjustable
+basketball						compulsory			used	spherical	evalle			
+basketball hoop	used				empty				used	tall				adjustable
+bassinet			used											adjustable
+bassoon	used	brass												
+bat				dead							evalle			
+bat				dead							evalle			
+bathmat					waterproof				waterproof			a	covered	
+bathrobe				white			navigable		worn	white	joyah,evalle			
+bathtub				empty						heated	furnished			
+baton		used		broken	yours	worn				used		used		passed
+baton		used		broken	yours	worn				used		used		passed
+baton		used		broken	yours	worn				used		used		passed
+baton		used		broken	yours	worn				used		used		passed
+batter	out					clear					joyah			
+battery			full		removable	electrified		electrified	full	removable				adjustable
+bazooka		amphibious					included	used	edible		joyah			
+beachball							played		used	spherical,used	joyah	gone		adjustable
+bead														
+beaker				empty	dead,yours		long						empty	
+bean		edible		black			edible	edible	edible	edible	joyah			edible
+beanbag									used	removable		a		
+beanie												gone		
+bear		extinct	dead				named	white			evalle			
+beard		long		white							shaved			
+beaver								endangered	named		evalle		dead	
+bed			made	broken	empty	empty			made	adjustable	furnished	my	pretty	comfortable
+bedpan				removable						removable	adjustable			
+bedpost						fixed					furnished			adjustable
+bee				dead			poisonous					gone		poisonous
+beehive														
+beer		alcoholic,bitter				alcoholic					joyah	brewing		
+beet		edible		red				edible	edible	edible	edible,joyah	edible		edible
+beetle		poisonous											dead	
+bell		ringing	ringing	ringing	ringing	ringing	cast					ringing	ringing	ringing
+bell pepper		edible		red			edible		edible	edible	edible	spicy		edible
+belt		circular			removable		long		removable		adjustable	adjustable,worn	worn	adjustable
+belt buckle					removable	worn					adjustable	adjustable	adjustable	
+bench			empty	empty	empty	empty					joyah,evalle			weighted,adjustable
+berry		edible					edible	edible	edible	edible	edible	edible		edible
+bib														adjustable
+bike								motorized						
+bikini		optional,white				optional			removable		evalle			
+bin	closed	empty	empty		empty	empty	empty						packed	empty
+binder										removable	encrypted			
+binoculars									used					adjustable
+bird			named	dead	dead	flying	migratory		named			gone		
+birdbath							migratory							
+birdcage				empty			migratory							
+birdhouse		open	complete	empty						built	twinned			
+birthday cake							included			edible				
+biscuit		baked								edible,baked				
+bison		extinct		pictured	starving	endangered		endangered	named	extinct	joyah			extinct
+blackberry		evergreen							edible			a		
+blanket													covered	
+blazer		black		black		worn				black	adjustable	gone		
+blender														
+blimp									named			gone		towed
+blind		blind	blind	blind	blind	blind	blind	blind	blind	blind	blind,afraid	blind	blind	blind
+blinder	used	blind				blind	blind				adjustable	gone		
+blindfold		removed					blind		worn	removable				undone
+block	inhabited	empty	complete											encrypted
+blouse		white		white										embroidered
+blower							used	used			adjustable,plugged			adjustable
+blowfish					dead			edible		edible	joyah,evalle			
+blowgun						loaded,available	used	used		used				
+blowtorch									used		adjustable	used		
+blueberry	edible	edible					poisonous		edible	edible	joyah	gone		edible
+boa											evalle			
+boar			dead	dead			territorial				evalle			
+board	elected	empty		unanimous		elected	elected,active	elected	elected			concerned		
+board game	played						played					playable		playable
+boat					sinking									towed
+bobsled														
+bok choy	used					sung			edible	edible	joyah			edible
+bolo tie		used				worn								adjustable
+bologna									edible		twinned			
+bolt			broken								adjustable	adjustable		adjustable
+bomb			found							radioactive,detonated		gone		
+bone				broken	broken	broken				long			broken	swollen
+bongo	used				dead	sung			named		joyah			playable
+bonnet					dead	worn								adjustable
+bonsai									edible					
+book											reprinted	written		
+bookmark										removable				
+bookshelf		empty		empty		available					furnished	my	packed	
+boomerang	used							used				a		adjustable
+boot							used		removable					
+bottle		empty	empty	empty		empty	empty		empty	empty			empty	stainless
+bottle opener	used	used								included	adjustable		handy	
+boulder	broken									large		gone	big	gone
+bouquet			complete							edible		beautiful		
+bow				broken	tied				long			worn	broken	adjustable
+bow				broken	tied				long			worn	broken	adjustable
+bow				broken	tied				long			worn	broken	adjustable
+bowl		empty	empty	empty	empty	empty	played			empty	joyah	empty		adjustable
+bowler hat					optional	worn			worn	worn		worn		adjustable
+bowling ball					spinning	bowled					bowled			adjustable
+bowtie					optional			used	worn					adjustable
+box		empty	empty			empty				empty				
+boxer shorts						worn	included			available			sexy	
+boxing gloves									used					adjustable
+boy					dead			dead			evalle			
+bra		elastic			removable	worn				adjustable	adjustable			adjustable
+brace			removable	adjustable	removable				removable	adjustable	adjustable	adjustable		adjustable
+bracelet							gold			reversible		my		
+bracelet							gold			reversible		my		
+bracket	shown					symmetric,shown						shown		
+braid			long										thick	
+brake	used		on		locked				used		adjustable	adjustable		adjustable
+branch			complete		closed									
+brass knuckles		used					used			used				
+bread				broken						baked				
+breadbox			empty			empty			empty		joyah	empty	empty	
+breadstick				broken		broken			edible	edible		edible		adjustable
+breakfast	served	good					served				joyah		packed	
+breathalyzer	used		working			available			used		plugged			
+brick		white								red				
+briefcase		empty	empty	empty		empty				removable		unlocked,gone		unlocked
+broccoli		edible		green		edible			edible	edible				cooked
+brooch		gold	mine		yours	worn	edible			gold				
+broom					broken	broken					joyah	gone		
+brownie						gone				edible		gone		edible
+brush										tall		gone		adjustable
+brussels sprouts						edible			edible					
+bubble		empty	bursting	bursting	bursting	infinite			bursting		bursting,evalle	gone		
+bubble wrap											adjustable		covered	
+bucket	empty	empty	empty	empty	overflowing	empty			empty	empty	joyah	empty	empty	empty
+buckle					removable	worn				adjustable	adjustable	adjustable	worn	
+buffet		free									joyah		packed	
+bug				fixed	fixed			endemic	known	fixed			dead	fixed
+buggy			loaded								evalle			navigable
+bull						dead					evalle		dead	
+bulldozer								used			joyah,evalle	gone		
+bullet	fatal	fired	fatal			fired		fired	fatal					
+bulletin board					closed	available	published							
+bulletproof vest			removable		removable				removable	removable	adjustable	worn	covered,worn	adjustable
+bumper											adjustable			
+bun		edible					open		edible	edible,baked	joyah			edible
+bungee										used				adjustable
+bunkbed		empty								removable	furnished		covered	adjustable
+buoy		empty		there		fixed	named							towed
+burner					burning					removable	plugged	gone		
+burrito										vegetarian	joyah			
+bus														
+bush		green			burning	dense	threatened	dense			evalle	gone		burning
+butter	used		melted	melted						melted	milky			melted
+butterfly					dead		migratory		named			a		
+button	pressed	pressed	disabled			pressed	pressed							
+button	pressed	pressed	disabled			pressed	pressed							
+cabbage							edible		edible	edible				edible
+cabinet	elected										furnished	furnished		stainless
+cable	electrified			broken		electrified				long	adjustable	leaking		adjustable
+cactus		green,edible			dead						edible			edible
+cage		empty				empty					adjustable		tight	unlocked
+cake														
+cake mix							used							
+calamari		extinct	over		over					edible				
+calculator						portable								
+calf	born			dead			born			born	joyah	pregnant		slaughtered
+calf	born			dead			born			born	joyah	pregnant		slaughtered
+calzone		defined	stable						defined					
+camcorder	used	portable			removable	available								
+camel				dead	dead				named			gone	dead	
+camera lens	fixed			clear	removable	fixed		adjustable		interchangeable		adjustable	adjustable	adjustable
+camera	fixed	moving			waterproof		fixed			waterproof				
+camera	fixed	moving			waterproof		fixed			waterproof				
+camper										available	evalle	gone		
+can	used	empty	empty	empty						empty		empty	empty	empty
+can opener	used	used						used	used	included	adjustable			adjustable
+candelabra							poisonous					a		
+candle	lit	lit	lit		burning	lit	lit	lit	lit	lit			lit	
+candlestick			broken	broken	broken		used				adjustable		empty	
+candy									edible	edible				
+candy bar						available	sold		edible	edible				empty
+candy cane	used	candy						used		edible	edible			edible
+cane			broken							long	joyah			adjustable
+canister	empty	empty	empty	empty		empty	used			empty		empty		
+cannon				loaded			fired					fired		cocked
+cannonball	fired	fired	fired			fired	used	used	fired	spherical	evalle			
+canoe										long	joyah			navigable
+cantaloupe		edible				convex				edible			edible	edible
+canvas		white	blank		blank						painted	painted		
+cap											adjustable			
+cape		white		red					removable	long	twinned			navigable
+car											evalle			
+car door		closed			locked	locked					unlocked	unlocked	unlocked,closed	unlocked
+car seat		padded	removable		removable				removable	removable		adjustable		adjustable
+caramel		white						edible	edible					
+card			signed			valid	valid							
+cardboard		white								removable		cardboard	pretty	
+cardigan		white								reversible				
+cardinal				dead			cardinal		named	cardinal				
+carousel					closed			closed						
+carriage						electrified								
+carrot						eaten			edible	edible	joyah,carrot		there	
+cart			loaded		loaded	empty							packed	
+cash machine												unlocked		
+cash register		open					listed							
+cashew		edible		ripe		edible		edible		edible	joyah			edible
+casserole										cooked				
+cassette						available								
+cat	dead	human			dead	dead			named		evalle		dead	
+catapult						visible				used		used	closed	towed
+caterpillar					edible				female,named					
+catfish					dead		migratory		edible	edible	joyah		edible	
+cauliflower		edible		pictured					edible	edible			edible	edible
+caviar		edible							edible	edible				
+cd player						available				available				
+celery		used							edible	edible		edible		edible
+cello					dead		played		long					
+cellphone									encrypted				ringing	
+cement mixer		portable		pictured		available	used	used	used					
+centerpiece												a		
+centrifuge				broken					used	used				adjustable
+cereal										edible				edible
+chain				broken		electrified				long		electrified		broken
+chainsaw	used					broken		used			joyah			
+chair		empty		broken	empty	empty					adjustable			adjustable
+chalice													empty	
+chalk			white							white				edible
+chalkboard														
+champagne		good				available					sparkling			
+chandelier				broken							furnished			adjustable
+chaps											joyah			
+charcoal		black	burned							edible		charcoal	hot	
+charger				included	removable	charged								included
+chariot	used				dead	mounted	used				evalle		dead	
+checkbook		empty	empty		yours	available			included			gone	closed	balanced
+checkers		played						used	used					
+cheese				melted			edible				milky			
+cheeseburger						available					joyah			
+cheesecake						eaten				edible,baked				
+cheetah		endangered						present			evalle			
+cherry		red	ripe	ripe		ripe	edible		edible	edible	joyah	cherry		ripe
+chess piece							played							
+chessboard					broken		played							
+chest				open		empty			visible		bulging	swollen		swollen
+chest				open		empty			visible		bulging	swollen		swollen
+chick					pregnant	hungry		pregnant			evalle		pretty	
+chicken wire		thin,edible						used	used	used	barbed	barbed		adjustable
+chicken			cooked	dead			eaten			edible,cooked	joyah			cooked
+chicken			cooked	dead			eaten			edible,cooked	joyah			cooked
+chickpea									edible	edible	joyah	edible	edible	edible
+chihuahua							chihuahua		named		evalle			
+chili						eaten	edible		spicy	hot,spicy	spicy			spicy
+chime	heard					repeated								
+chimney		high		broken										
+chin				visible							shaved	swollen		
+chinaware	used								present					
+chinchilla		long												
+chip								patented			encrypted			
+chipmunk		human	dead		dead	hungry			named				dead	
+chips									used		joyah			
+chisel		used		broken	broken	broken						gone		sharpened,adjustable
+chive									edible	edible	twinned,evalle			
+chocolate							chocolate	chocolate		white				
+chopsticks	used			broken			used	used	used		joyah			adjustable
+christmas card						available			included					
+christmas tree									named	lit				decorated
+chute				open	broken			navigable	long		adjustable		closed	adjustable
+cigar	smoked					smoking		smoked	long				smoking	
+cigarette				lit	smoking	smoking	smoked	smoked		lit		smoking	smoking	smoking
+cigarette butt						smoking								edible
+cigarette holder										removable			smoking	
+cilantro		edible							edible,present	edible	edible			spicy
+cinnamon		sweet				sweet	edible							spicy
+clam		edible	dead			edible				edible	joyah	alive		edible
+clarinet	used			pictured					used		mastered			
+clasp			closed	adjustable		worn					adjustable		adjustable	adjustable
+clay		black	solid											
+cleat				broken		broken	edible						adjustable	adjustable
+cleaver		used	used	sharp	yours			used		used				adjustable
+clipboard														
+clipper							included							adjustable
+clipper							included							adjustable
+cloak				black						black		worn	worn	
+clock			ticking		ticking								closing	
+closet		empty	empty	empty		empty		empty	empty		unlocked	empty,closet	packed	empty
+clothes				clean						made				
+clothesline													covered	
+clothespin							used				joyah			adjustable
+cloud		there				clear					evalle	gone		invisible
+clove		edible					edible			edible		edible	edible	edible
+clover		edible							edible		edible	gone		edible
+coal		black				mined	mined					coal		
+coaster								haunted	named	long				adjustable
+coat		simple		black	waterproof		white				adjustable		worn	
+coat rack											adjustable		covered	adjustable
+cobra		poisonous	dead				poisonous				evalle	a		
+cockatoo									endangered		evalle		dead	
+cockroach	eaten			dead	dead	poisonous			poisonous			edible	dead	
+cocktail	alcoholic									alcoholic				
+coconut		edible		ripe			edible		edible	edible	edible			edible
+cocoon				complete,empty										
+coffee													good	boiling
+coffee bean				black			edible	edible	edible	edible	edible			edible
+coffee filter					removable	used	used							
+coffee pot					empty	empty					plugged			
+coffee table	empty		clean		empty	empty					furnished	a		adjustable
+coffeemaker									used		joyah			
+coffin		empty	empty	empty	sealed	empty				closed			empty	empty
+coil											adjustable			
+coin	struck			gold		struck								engraved
+coleslaw					yours									
+collar		white		removable	removable	worn				adjustable	adjustable			adjustable
+column					satire									
+comb				broken							barbed			adjustable
+combination lock	used	universal					used							adjustable
+comic book							published	published			reprinted			
+compass		accurate		accurate	broken									adjustable
+compost		organic		organic	edible	available				edible		edible,compost		
+computer				broken										
+computer screen						transparent					scanned			blinking
+confetti				falling						edible				
+contact lens					removable	fixed		adjustable	used			adjustable	adjustable	disposable
+container	empty	empty	empty			empty		sealed	sealed					
+cooker											plugged			stainless
+cookie						broken			edible					
+cookie cutter	used					available		used	used			handy		adjustable
+cookie sheet											encrypted			
+cooler	empty										plugged			adjustable
+coop	empty		complete				open						closed	empty
+copier					dead					available		gone		
+coral							edible	white			acidic			edible
+cord			cut	cut					long	cut		electrified,broken		adjustable
+cordon bleu	used		complete									a		compulsory
+cork		hollow				hollow	cork				adjustable			
+corkboard			broken							removable			closed	
+corkscrew	used			broken						used		a		adjustable
+corn	eaten	edible		ripe			edible		edible	edible,harvested	edible	edible,growing		edible
+cornbread		edible								baked				
+cornhusk								used	edible		twinned	a		
+cornmeal		edible		crushed					edible,present	edible	edible			
+cornucopia			complete	over								gone	empty	
+corsage						worn							worn	
+corset		elastic		optional	removable	worn								adjustable
+costume			complete											
+cot			empty			empty						a	covered	adjustable
+cotton candy									edible	edible	edible	edible		
+couch		comfortable				empty						my		
+cougar		endangered	dead					endangered	named		evalle	a		
+counter		empty			empty			closed						adjustable
+coverall		black								removable				adjustable
+cow			dead	dead	dead			white		pregnant	joyah,evalle		dead	
+coyote		endangered					coyote		endangered		evalle			
+crab		edible					edible	edible		edible	joyah			edible
+cracker									used	edible	joyah,evalle	gone	edible	edible
+cranberry		edible					edible		edible	edible		edible,gone		edible
+crane													dead	
+crank	used			broken						adjustable	adjustable	adjustable		adjustable
+crate		empty	empty	empty						empty			packed	
+crayfish		edible			dead				edible	edible	joyah		dead	edible
+crayon				red										
+cream		white												
+cream cheese				melted										melted
+credit card			charged		insured	valid	valid			accepted			covered	encrypted
+creme brulee	used							used	edible		joyah			
+crepe									edible	edible				
+crib			complete		empty	empty					adjustable,furnished			adjustable
+croissant							eaten			edible				
+cross				visible										
+crossbow	used						used	used						
+crouton										edible	twinned			playable
+crow						gone	crow					gone		
+crowbar		used			empty	broken								
+crown					yours									gilded
+crucifix				broken	sacred							a		
+cruise ship				pictured					named					
+crumb			broken			eaten				edible,broken	joyah	crumb	edible	
+crutch				broken		broken		used	used	used	joyah			
+crystal ball				broken		spherical				spherical				
+crystal			transparent	broken			transparent							translucent
+crystal			transparent	broken			transparent							translucent
+cuckoo clock					ticking							a,cuckoo	dead	ringing
+cucumber	used			ripe			edible	edible	edible	edible	edible	edible	edible	edible
+cufflink										adjustable			worn	
+cummerbund					dead						twinned	a		compulsory
+cup		empty	empty	empty	empty	empty				empty				empty
+cupcake									edible	edible			pretty	
+curb										high		parked,paved	closed	
+curling iron	used				melting				used	used		used		
+curry								spicy	spicy	spicy	spicy			spicy
+curtain			drawn	drawn	drawn		closed			drawn			closed	
+cushion				removable	removable						adjustable			
+cutting board			used								adjustable			adjustable
+cymbal		played		broken		used							broken	adjustable
+dagger				sharp							joyah,evalle	gone		
+daisy		green										gone		edible
+dalmatian		extinct			dead				defined					
+dandelion					edible			edible	edible	edible				
+dart							poisonous						short	adjustable
+dartboard	used											a		
+dashboard														
+deer		extinct								killed	joyah		dead	
+defibrillator	functional	portable				activated		used	used			used		activated
+denture				broken										adjustable
+deodorant								used	toxic					
+desk	empty	empty		empty	empty	empty							covered,pretty	adjustable
+dessert										served	joyah			
+detonator										removable		used		
+dial											dialed	dialed,adjustable		adjustable
+diamond	rare				mine	broken				cut		diamond		
+diaper						clean	named		removable	removable			covered	adjustable
+dice				broken	rolling									rolled
+dip				significant,over										
+dirt bike												a		
+dish						cooked			edible	vegetarian				
+dishrag	used	empty							used					
+dishwasher		portable	running								plugged	empty		
+dishwashing liquid			diluted				used	clear	diluted		acidic			
+diskette			complete											
+diving board				pictured									covered	navigable,adjustable
+dog	dead		dead		dead,barking	dead					evalle		dead	
+dogfood			good					used		edible	joyah	good		
+doghouse			complete	empty		haunted						haunted		empty
+doily	printed								complete		joyah,evalle	a		embroidered
+doll			named						named	female	evalle		dead	
+dollhouse			complete		haunted	haunted	haunted				evalle	a		
+dolly							named		named			gone		
+dolphin			dead	pictured	dead		named		named	endangered	evalle			
+domino	used		falling	falling	falling							gone		
+donkey			dead		dead	dead			named		joyah,evalle		dead	
+donut	eaten				toast					edible	joyah			
+door	locked		locked	locked		locked			locked		unlocked	unlocked	closed	unlocked
+doorbell	ringing	ringing	ringing	ringing	ringing	ringing					ringing	ringing	ringing	ringing
+doorhandle					locked	broken				removable		broken		adjustable
+doorknob				broken					broken	removable	unlocked	unlocked		unlocked
+doorknocker			dead					used	named		plugged	handy	here	
+doormat							locked							
+doorstop										removable				
+dough	baked		soft				baked		soft					
+dragonfly		winged		pictured	dead	poisonous						a	dead	
+drain	closed		blocked	blocked	overflowing	clear				open	plugged			
+drawer			empty		empty	empty					unlocked		empty	adjustable
+dreidel	used		dead		dead							a		
+dress		white							long					
+dresser										adjustable		my		
+drill		over	complete						complete	long		done		
+drink	alcoholic			alcoholic		alcoholic		recommended	alcoholic	alcoholic				
+drum		played		broken			played							playable
+drumstick				broken	broken		used				joyah			adjustable
+dryer	used					dry			used		plugged	handy		
+duck			dead	dead	dead				named	edible,white	joyah,evalle	gone	dead	
+duckling		endangered	dead						named	born	joyah		dead	
+duct	closed							closed		long	adjustable	formed		leaking
+duct tape		used								removable	adjustable	used		
+duffel bag												gone	covered	
+dumbbell	broken			heavy			played	used			joyah			adjustable
+dumbwaiter											joyah	a	dead	enabled
+dumpling		edible							edible	edible	joyah			edible
+dumpster		empty				empty					joyah		empty	empty
+duster					over				waterproof			handy		adjustable
+dustpan		empty									adjustable,plugged	gone		
+dynamite												dynamite		dynamite
+eagle										endangered	evalle	gone,eagle		
+ear				visible	pierced									
+earplug				removable	removable				removable	removable	adjustable			adjustable
+earring		gold			removable					removable	adjustable			
+earwig						hollow								edible
+easel						painted							covered	adjustable
+easter egg							eaten							
+eclair										edible		a		
+eel			dead		dead				named					poisonous
+egg				broken				white						
+egg roll										edible		edible		
+eggbeater				broken			eaten		edible,named	used	evalle			
+eggnog		edible							edible	alcoholic		edible		
+eggplant	edible	edible		edible	edible	edible	edible		edible	edible	edible	edible	edible	
+eggshell					edible	edible						gone		translucent
+elbow	bent	swollen									flexed	swollen		flexed
+electric chair	used									used	adjustable			addictive
+elephant			dead	dead		dead	elephant		named		evalle		dead	
+emerald				gold			poisonous				evalle	sapphire	beautiful	
+enchilada			complete		over					edible,cooked				
+engine			running											
+envelope	sealed	empty		sealed	sealed	symmetric		transparent	sealed	sealed	encrypted	printed	sealed	sealed
+eraser	used									used,removable		used		adjustable
+espresso						available			cold	good			good	
+exerciser	blind				recommended				named	portable				
+exhaust pipe		straight								long				
+extinguisher									used					adjustable
+eye													closed	
+eye patch										removable				
+eyedropper	dead								edible			adjustable		adjustable
+eyeliner		black									adjustable			
+eyepiece						fixed								adjustable
+face											evalle			
+face mask			removable	removable	removable	worn			removable	removable				
+fan	dead									adjustable	joyah			
+fast food						available			available		joyah	good		
+faucet			on		closed						plugged	leaking		leaking
+feather								black		long				
+fence		electrified		there						high	barbed	barbed		
+fencepost	broken			broken							electrified,barbed	a		
+fern	poisonous	green,edible				poisonous	edible				deciduous			edible
+ferret									named		evalle			
+ferris wheel	used										twinned,available			
+ferry														navigable
+fig		green,edible				edible			edible	edible				edible
+figurine	preserved						edible		named					engraved
+file					encrypted				encrypted		archived			
+file					encrypted				encrypted		archived			
+filing cabinet			complete		empty	available				removable	furnished		covered	adjustable
+film	lost										archived			
+filter						linear								enabled
+finger			broken	broken	pointing					long				
+fingerprint		unique		unique	visible	visible				unique				
+fire			contained			burning	extinguished		extinguished	extinguished	crackling			
+fire alarm	sounded	audible			activated	activated			activated	activated		activated	ringing	ringing
+fire hydrant					damaged									visible
+fire pit					empty	empty								
+firecracker	used				dead					edible	joyah,evalle	gone		
+fireplace		cold			lit						furnished			
+firetruck	dead											parked		
+firewood	used						edible		edible			edible		
+fireworks								used			evalle,happening			deafening
+first-aid kit					available	available	available		available			available		
+fish			dead		dead		migratory	edible		edible	joyah			edible
+fishbowl				empty		available	migratory			empty	evalle		empty	empty
+fishhook			attached						used		joyah			adjustable
+fishing pole		long	attached							long				adjustable
+fishnet stockings				pictured		available		used	used					
+flag				red	flying									
+flagpole				tall						tall				adjustable
+flamethrower	used							used						
+flamingo											joyah,evalle	a	dead	
+flan									long		encrypted			
+flashbulb						available,visible								
+flashlight					shining							handy		adjustable
+flask	empty	empty	empty	empty		empty,sealed				empty			empty	
+flatiron											adjustable			
+flip-flop	used								reversible	flat				latched
+flipper											joyah			adjustable
+float														adjustable
+floss							named				adjustable			
+flour		white										flour		
+flower		white			edible								beautiful	
+flute				broken	dead	mute				played	sung			adjustable
+fly	free			dead	dead	free						flying	dead	
+flypaper														
+flyswatter												electrified		
+foam		white	thick		waterproof									
+folder	empty	empty			empty	empty								
+fondue									edible	edible	edible			
+food processor							available		used					
+foot										long				
+football	played					competitive	played		used				good	
+football helmet				pictured	removable	worn	worn		worn					adjustable
+footbath								used						
+footprint					shrinking							visible		
+footrest		padded		adjustable						adjustable	adjustable	adjustable	adjustable	adjustable
+fork		long												
+forklift									used			used		
+fossil									known					
+fountain pen	used								used				used	adjustable
+fox	threatened				dead						evalle			
+frame			complete						complete					
+freezer	closed	cold	full		empty	available,frozen	frozen						packed	
+french fries	served	French				served,eaten		available			joyah			
+french horn	used	French						used	used					playable
+frisbee								used			evalle			adjustable
+frog			dead	dead	dead				named		evalle	a	dead	
+fruit	edible	edible	edible	ripe		edible		edible	edible			edible		edible
+fruitcake							edible		edible	edible				
+fudge									edible	edible	joyah			
+fungus		edible			contagious,poisonous	edible	edible	edible	known	edible	fungal	poisonous	poisonous	poisonous
+funnel					closed									adjustable
+fur coat	white	white						white	long		adjustable			worn
+furnace					burning						plugged			
+fuse			lit	lit	lit		used					electrified	lit	blown
+gallows				empty		empty								
+game														playable
+garbage							collected			collected,recycled	joyah			
+garbage truck						loaded	used							
+gargoyle					dead				named	tall	evalle	a	dead	
+garlic		edible					poisonous	used	edible	edible				
+garter					dead	worn					joyah			
+gas mask							used			removable		used		
+gasket		broken	closed	broken	empty	sealed			closed	sealed,removable	adjustable	sealed,broken	blown	adjustable
+gate	closed		locked	locked		open		closed					closed	unlocked
+gauge					accurate		electrified					adjustable		
+gauze		white	wet											disposable
+gavel		used								used	evalle	gone		cocked
+gazelle			dead	endangered					named	endangered	joyah,evalle	a		
+gear					waterproof									adjustable
+gearshift					removable			adjustable					adjustable	adjustable
+gel	toxic								stable					
+gem													gone	
+generator					working	linear					plugged			
+gift	free										joyah			
+ginger		edible					edible		edible	edible				spicy
+gingerbread man						dead		dead	dead	edible	joyah			
+giraffe					endangered				endangered	endangered	koppen		dead	
+girl					crying						evalle		pretty	
+glass				broken	broken	broken		clear	transparent	clear	stained	stained	empty	broken
+glasses			broken											adjustable
+globe		empty										gone		
+glove													tight	
+glue	used		solid											
+go-kart						illegal							different	
+goalpost	used				empty	fixed				tall				crossed
+goat			dead		dead	dead			named		evalle		dead	
+goblet				empty	yours								empty	
+goggles			removable		waterproof									adjustable
+gold		gold								silver	joyah,evalle			worthless
+goldfish				dead				edible	edible	edible	joyah			alive
+golf cart	used					available		available			rated	a		
+golf club							open				twinned		closed	
+gondola										long	twinned			
+gong		hollow		ringing	yours									ringing
+goose			dead	dead	dead					endangered	evalle	gone	dead	
+gopher		human	dead		dead	dead	named		named		evalle	gone		
+gorilla		human	dead						named		evalle			
+gourd		edible				eaten			edible	edible				edible
+graffiti														
+grain						edible								ripe
+gramophone	used							used	used					playable
+granite					granite			white				granite		
+granola		edible		vegan						edible		swollen		
+grape		white	ripe	ripe					edible					
+grapefruit		edible				edible		edible	edible	edible	edible	edible	edible	edible
+grapevine		green				edible	cultivated					a		
+grass		green	green	green					green	green		green	green,tall	green
+grasshopper		winged			dead							edible		
+grate				broken		hollow					adjustable	electrified		adjustable
+grater					dead					removable				adjustable
+gravel											barbed	slippery		
+gravestone		inscribed				inscribed					excavated			
+gravy		cooked	good		gravy									
+green beans	eaten						edible		edible		joyah			
+grenade								explosive		reusable		fired	dropped	
+grill							open			removable		hot		adjustable
+grille											joyah			adjustable
+grinder	working					available			used		adjustable,plugged			adjustable
+grits											joyah			
+groundhog								used	named	extinct			dead	
+guacamole	eaten								edible		edible			
+guardrail						electrified		electrified						adjustable
+guillotine										used	evalle	a		
+guinea pig		human								edible	evalle	a,vegetarian		edible
+guitar							played							
+gum	edible	edible			edible		edible		edible					edible
+gumball									edible	edible	joyah,evalle	edible,gone		
+gumdrop				edible						edible		edible		edible
+gun		loaded		loaded	loaded				loaded					
+gurney		empty				empty					plugged			adjustable
+gutter		empty	empty								electrified,plugged			
+gyro														adjustable
+gyroscope	used				waterproof				used	used				adjustable
+hail			heavy	heavy						heavy		coming	coming	
+hair		white	long					white,black	long	long	shaved	curly		curly
+hairbrush	used				waterproof					used	adjustable			adjustable
+hairdryer							named		used		adjustable			
+hairnet												a		adjustable
+hairpin										removable	joyah,evalle			adjustable
+hairspray						visible			used		adjustable			addictive
+ham	eaten					eaten				edible,cooked	joyah			
+hamburger		meat		cooked		eaten	sold			cooked	joyah			
+hammer	used	heavy			broken	broken				broken	joyah			
+hammock			empty	adjustable			used				furnished	a		adjustable
+hamster			dead						named		joyah			
+hand					trembling		free							movable
+handbrake					broken			used			adjustable			adjustable
+handcuff					removable	worn			removable	adjustable,removable	adjustable	worn		adjustable
+handkerchief				red										embroidered
+handle				broken							adjustable	adjustable	adjustable	adjustable
+handlebar	fixed							adjustable			adjustable	adjustable	adjustable	adjustable
+handprint														
+hanger			empty								joyah	gone		adjustable
+hard disk					removable					removable				
+harmonica	used						played		used					playable
+harness				adjustable	removable					adjustable	adjustable		tight	adjustable
+harp				silent							evalle			playable
+hash										unique				encrypted
+hat			mine	red	mine	worn							big	
+hatbox			empty			empty							packed	
+hatchet			used						used		barbed	edible	empty	
+hawk											evalle	gone		
+hay		warm		dry			hay		edible		joyah			edible
+headband			removable	adjustable	removable					adjustable		worn	worn	adjustable
+headdress		optional	worn			worn			worn					embroidered
+headlamp						fixed				illuminated	adjustable			
+headlight	on		on							illuminated				adjustable
+headphones					waterproof				removable	available				
+headrest		padded		adjustable	removable	worn		adjustable	adjustable	adjustable	adjustable	adjustable	adjustable	adjustable
+headscarf				optional					worn					
+headset			removable		waterproof	fixed			removable		adjustable		adjustable	
+hearing aid	available													adjustable
+hearse											evalle			
+heater			working								plugged			
+hedge					closed						barbed	gone	covered	
+hedgehog									named	extinct	hedgehog	a	dead	
+helicopter						operational								towed
+helmet			removable		removable	worn			removable		adjustable	worn		adjustable
+highchair									adjustable	available	adjustable			adjustable
+highlighter					waterproof							my		
+hinge		fixed		broken	closed						adjustable	adjustable	adjustable	adjustable
+hip				broken	hip		hip				bulging		broken	
+hippopotamus					dead				extinct	extinct				extinct
+hobbyhorse	used							available	named		joyah	a		
+hockey stick	used			broken	broken		used		used	long	joyah			adjustable
+hoe	used	used			yours	gone					joyah			cocked
+hole			deep										big	
+holster				removable	removable				removable	removable	adjustable	adjustable	tight	adjustable
+home plate														
+honey		sweet					sweet		edible	edible				
+honeycomb						symmetric		uniform,convex	edible					
+honeypot								edible		empty,edible	joyah	edible,gone	empty	
+hood					removable						adjustable		covered	adjustable
+hoodie		black		black										
+hook	used		broken	broken						broken				easy
+hook	used		broken	broken						broken				easy
+hookah	used			broken	dead				used		joyah			
+hopscotch	used				yours				named					playable
+horn		long		broken	blowing	broken				long		electrified		
+horse	dead	human			dead						evalle		dead	
+horseshoe	used				yours	hollow							big,broken	adjustable
+hose				broken	leaking		used				adjustable,plugged	leaking		adjustable
+hot chocolate														
+hot tub										heated		hot		
+hot-air balloon	used						used	used		used		flown		
+hot-water bottle			empty			available	available						empty	
+hotdog										edible	joyah,evalle			edible
+hotplate									used		adjustable			
+hourglass	used	empty	broken	broken	broken	broken			broken		joyah	a		empty
+hovercraft									named					
+hubcap										removable				
+hula hoop	used			broken			used	used	used					adjustable
+hummingbird					dead			present	endangered		koppen,evalle			
+hummus								edible		edible	evalle	a		
+humvee												gone		
+hydrant						transparent								
+hyena										endangered		a		
+ice	frozen				melting	frozen	frozen	frozen	frozen			melting		slippery
+ice cream														
+ice cube				melting	melting	frozen						a	covered	
+ice pack						frozen				thick				effective
+ice-cream cone						available			edible	edible				edible
+icemaker							named			used				
+icepick				broken		frozen								adjustable
+iceskate									used		evalle			
+icicle				broken	melting									
+iguana		endangered		dead	dead	poisonous			named					extinct
+incense			burnt,burned	burning					burnt	burnt				
+incubator											adjustable			
+inhaler							poisonous		used			used		adjustable
+ink		black	black	dry	dry			black				opaque		
+inkwell		empty		empty			named					a		
+insole			removable		mine				adjustable			thicker		
+iron			melted		melting	toxic,pure	iron		radioactive		joyah			molten
+ironing board									used					adjustable
+ivy		green		growing		poisonous						gone		poisonous
+jack						dead	jack					funny,gone	dead	adjustable
+jacket		black				worn								
+jackhammer	used	used					played	used	used		joyah	gone		
+jalapeno	used								edible	edible		spicy		spicy
+jam				over							joyah			
+jar		empty	empty	empty	sealed	empty			sealed	empty		edible	empty	empty
+javelin	used				yours	thrown	used	used	used	used	defended			
+jeans					waterproof						evalle			
+jeep						available					evalle			
+jelly bean		edible		edible		edible	edible	edible	edible	edible	edible	edible		edible
+jellyfish					dead			edible	edible	edible				
+jersey												worn		
+jet						available,flying						flying		unmanned
+jetski												a		towed
+jewel	lost		missing								joyah			
+jewelry										gold				
+jigsaw puzzle			complete	complete	solved	solved	solved		complete		solved			
+joystick									used	used	adjustable		adjustable	adjustable
+jug	empty	empty	empty	empty		empty				empty	joyah		empty	empty
+juice						edible			edible					
+juicer	used													
+juicer	used													
+jukebox						available					evalle	a		
+jump rope	used						used		long	long				
+jumpsuit		black			waterproof					reversible				
+kale	used			green		spoken			edible	edible				
+kaleidoscope	used			broken		available	accurate					a		spinning
+kangaroo			dead								evalle			
+kayak	used				waterproof			motorized	waterproof					
+kazoo	used					available		used	named	played	twinned			playable
+kebab	eaten					eaten				cooked	joyah			
+keg	empty	empty	empty	empty		empty,available				empty,available	joyah		empty	empty
+ketchup	used	edible				available								
+kettle			boiling	boiling	boiling				full	removable	boiling	boiling	boiling	boiling
+key												that		
+keyboard													adjustable	adjustable
+keyhole													closed	
+kilt					yours	worn			worn		joyah			
+kimono		white	complete	white	yours						embroidered			embroidered
+kite		flying		flying		flying		flying			joyah	flying		
+kitten		human	dead		dead				named		evalle			
+kiwi									endangered		joyah			
+knee	bent					bent			affected	affected	sore			swollen
+kneepad									used		adjustable		adjustable	adjustable
+knife				sharp			used			sharp	joyah	sharpened	sharp	sharpened
+knitting							knitting							easy
+knitting needle	used			broken	knitting		used	used	used		adjustable			adjustable
+knob		turned									adjustable	adjustable		adjustable
+knot			tied	tied	tied	symmetric				tied		knotted		
+koala		endangered												extinct
+lab coat				white						white				
+ladder	broken				climbing						adjustable			adjustable
+ladle	empty			empty			named		broken	empty,removable	joyah	gone		adjustable
+ladybug											evalle			
+lamb				dead	dead		lamb							slain
+lamb chop	used					eaten	used							
+lamp	lit	lit				lit	lit			lit	electrified		lit	
+lamppost	broken								visible	tall	furnished	a		
+lampshade														
+landmine			mine		mine				radioactive	radioactive		mine		radioactive
+lantern	lit		lit	lit						lit				
+lanyard						worn				removable	twinned			adjustable
+laptop					waterproof	available	portable							
+lasagna														
+laser pointer	used				visible		used	used						adjustable
+latch				broken					closed		adjustable	adjustable	adjustable	adjustable
+latte											joyah			
+laundry basket				empty	empty	empty				empty	furnished		empty	empty
+lava					melting					hot	milky			molten
+lavender		white					poisonous	white		edible				fragrant
+lawnmower														
+leaf		green		green			hairy							edible
+leash				broken							adjustable	adjustable	tight	adjustable
+lectern														movable,adjustable
+leech		human	dead			eaten				edible	acidic	gone		
+leek		edible		green					poisonous	edible	joyah	gone		edible
+leg			broken	broken	broken					long		swollen		adjustable
+leggings		used				worn	used		removable					
+lego				broken							joyah			
+lemon		edible					poisonous		edible	edible,ripe	joyah			edible
+lemonade						available,sweet				sweet				
+lens	fixed	fixed				spherical	fixed	adjustable		interchangeable	scanned		adjustable	adjustable
+leopard		endangered							endangered,named	endangered	evalle			
+leotard				black										adjustable
+letter opener	used											handy		
+lettuce		edible		green		edible		edible	edible	edible		edible		edible
+license plate												shown		
+licorice		edible			contagious					edible	edible			
+lid		closed	closed				closed	closed			adjustable	sealed	closed	adjustable
+life jacket		optional				worn			waterproof			worn		adjustable
+lifesaver	used						eternal		waterproof		joyah	a		
+light switch			on				used		on		adjustable			clicked
+lightbulb									visible					
+lighter							lighter							
+lightning bug				here	fixed		present		known		evalle			
+lime		edible	green				poisonous			edible	acidic	hot		
+limousine							used							
+lingerie		white		black			included					sexy		sexy
+lion				dead							joyah,evalle		afraid	
+lip balm						swollen				edible		good		
+lip gloss		used											pretty	
+lipstick			red	red		clear			red	red			pretty	
+lizard			named	dead	dead	poisonous			named		evalle			
+llama		endangered			dead				named		evalle	a		
+lobster							edible	edible	edible	edible	joyah			
+lock			on	broken	locked			closed	locked	reversible,locked	unlocked	unlocked	closed	unlocked,adjustable
+locker		empty			locked	empty				locked			packed	unlocked
+locket	broken		missing	empty		broken				removable		gone		engraved,stolen
+log						constant					archived			encrypted
+loincloth				white		worn				white	woven,embroidered	worn	covered,worn	
+lollipop									edible	edible		gone		edible
+loom				broken		broken	named			used		gone	empty	
+loveseat					yours						evalle	a		
+luggage			packed			loaded	available			checked			packed	
+lumber	used					available	used							
+lunchbox			empty		empty	empty							packed	adjustable
+macadamia		extinct		ripe					edible	edible		edible		edible
+macaroni				cooked					edible	edible,cooked	joyah			
+machete		used		sharp	yours			used						
+machine gun										used			loaded	
+maggot	eaten		dead	dead	dead				poisonous	edible				
+magnet							magnetic	magnetic		magnetic				adjustable
+magnifier										adjustable				
+magnifying glass						transparent					adjustable			
+mail		free		delivered			free	free		delivered			coming	
+mailbox		empty	full										closed	
+makeup					flawless		white							
+mallet		used		broken	edible			used			adjustable			adjustable
+man	dead	dead	dead		dead	dead	dead	dead	dead					kidding
+manatee		endangered			dead,yours			married		endangered		a		
+mandolin	used						played				mastered			playable
+mango	eaten	edible	ripe	ripe			edible		edible	edible				edible
+manhole	open		open	blocked							barbed			
+mannequin		human			dead	dead						pictured		
+mantle	smooth											painted		
+map										available	archived			downloadable
+maple syrup				sweet		available	available		available					
+marble		white	white					white		white	marble			
+margarita						sweet					evalle			
+marijuana			edible		legal				edible	edible	poisonous	illegal		addictive
+marker	marked													
+marmalade						available			edible	edible	edible			
+marshmallow		edible				edible		used	edible	edible	edible	edible		edible
+mascara					waterproof	visible				waterproof				
+mashed potato	eaten					eaten		edible		cooked				
+mask									removable			transparent		
+mast										tall	adjustable			hoisted
+mat	used	empty		flat								covered	covered	adjustable
+match			over	over								scheduled	closed	playable
+matchbox						available			shown					
+mattress		warm			waterproof					adjustable	adjustable,furnished			adjustable
+measuring cup					empty			used	used		adjustable			
+meat		cooked												spicy
+meat grinder							used	used	used					
+meatball				cooked		eaten	used		edible	edible	joyah			
+meatloaf														
+medal					awarded		awarded	awarded		awarded	awarded	awarded	numbered	engraved
+meerkat							used			endangered		a		
+megaphone	used				dead	available		used				a		
+melon		green,edible		ripe						edible,ripe	joyah			edible
+memory stick							used							
+metal detector							used		used			used		
+metronome											twinned			
+microphone	used													
+microscope							used							adjustable
+microwave	used						microwave	used	used		plugged	hot		
+milk			spoiled								milky			milky
+milkshake														
+minivan						available		available				a	pretty	
+mint									edible		edible	edible		
+mirror	broken		empty	broken		broken	visible			removable	adjustable			broken
+missile		fired			operational	fired	fired			reusable				unmanned
+mistletoe		evergreen					poisonous	edible				a		
+mitten					dead									
+mixer							used							adjustable
+moccasin		edible			dead		edible							
+modem														
+mold					edible	broken			stable				broken	
+mold					edible	broken			stable				broken	
+mole		human	dead		dead				named				dead,there	
+money						wasted					joyah			
+mongoose												a		
+monkey		human	dead			dead			named		evalle			
+moose		endangered	dead					present			evalle			
+mop												gone		
+mosquito				pictured	biting	poisonous					evalle		dead	
+mosquito net	used				closed							covered		
+moss		green								green				edible
+moth									known					
+motherboard									removable			adjustable		
+motorcycle														
+mouse				dead		dead		nocturnal	named				dead	
+mouse				dead		dead		nocturnal	named				dead	
+mousepad												my		adjustable
+mousetrap				working				used		edible	encoded			
+mousse				creamy					edible		edible			
+mouth		open	open	open	closed	open		open	open				closed	closed
+mouthpiece					hers						adjustable			adjustable
+mud														
+muff		white		there	yours			used				broken	covered	
+muffin				baked			edible			baked				
+mug	empty	empty				empty						gone		
+mulberry		edible				edible			edible	edible	edible	gone	edible	edible
+mulch														
+mullet										long				
+mushroom	edible	edible	edible	edible	edible		edible	edible	edible	edible	edible	edible	edible	edible
+music box	available								included					playable
+mussel		edible				edible	poisonous	edible		edible	edible		edible	edible
+mustache									visible			noticeable		
+mustard		edible					poisonous							spicy
+nacho								served		edible		a		edible
+nail	broken	broken	broken	broken	biting	broken	broken			long	joyah			pierced
+nail clippers		used	included						used		joyah,easy			
+nail file	used	used				broken				used	encrypted			adjustable
+nail polish		black					used			white				
+napkin				folded			used						covered	
+napkin ring							used							adjustable
+navel	rounded		silent		yours						enlarged			concave
+neck			broken				long			long			strong	stiffened,lengthened
+necklace	broken									long				
+needle		sharp												adjustable
+nest			complete,empty		empty	empty							packed,empty	empty
+net		empty			closed	infinite	free		zero					adjustable
+nightshirt										reversible				
+nightstand		empty	empty		empty							my	covered	
+noisemaker			silent		dead	noisy		used						
+noodle	eaten			cooked			eaten		edible	edible,cooked	joyah	gone	edible	
+noose		tight				broken					adjustable	electrified	broken	
+nose				visible,broken						long		swollen	covered	pierced
+notebook			empty			empty				portable	downloadable			
+notepad									used	available		a	handy	
+nut	edible	edible		broken		edible	edible	edible	edible	edible				edible
+nutcracker	used								used	edible	joyah	gone		
+oar				broken	yours	hooked								adjustable
+oatmeal						edible				edible	acidic			cooked
+octopus				pictured	dead	poisonous				edible	joyah			
+odometer		accurate							used			adjustable		
+oil					cheap				known			saturated		
+oilcan	used										acidic	a,edible		
+okra					yours					edible		a		edible
+olive		green,edible								edible	joyah		edible	edible
+omelet										cooked	edible			
+onion		edible		red		edible	poisonous		edible	edible	milky	edible		edible
+orange		yellow					yellow				milky			
+orange rind		edible	visible	edible		edible		edible		edible	acidic			edible
+orangutan				endangered	endangered				endangered,named	endangered	koppen	a		
+orchid		edible				poisonous			edible	edible			edible	edible
+organ						electrified					transcribed			
+origami					mine	available								
+ostrich				pictured	dead						koppen	a		
+otter				pictured				endangered	named		evalle			
+ottoman														adjustable
+outfit		black												
+outlet	closed							closed						
+oven					hot						plugged	hot		
+overalls														
+owl					dead				named		evalle	gone		
+oyster		edible				edible	edible	edible	edible	edible	joyah			edible
+pacifier	used							used		used				
+paddle					waterproof			adjustable			adjustable	adjustable		adjustable
+padlock	locked			broken	locked					locked,removable	adjustable	adjustable	closed	
+paint		black,white									painted		pretty	
+paintbrush	used									used	adjustable	handy		adjustable
+painting		signed												
+pajamas						worn						my		
+palette												lacking		
+pallet		empty	complete	empty	empty					empty			packed	
+palm tree					dead				endangered	tall				edible
+pan		empty	empty	hot		empty				hot		edible		
+pancake		edible				eaten				edible,baked	joyah			
+panda			happy						named	endangered	evalle			
+panther										endangered	evalle			
+panties	removed										evalle			
+pants											cute,evalle			
+pantsuit					removable	worn								
+pantyhose		white												adjustable
+papaya		green,edible		ripe		eaten			edible	edible	joyah			edible
+paper		white												
+paper bag		empty	empty			empty				reusable				
+paper plate										removable			covered	
+paper towel		used					used			used			covered	sticky
+paperclip												a		adjustable
+paperweight	used													adjustable
+parachute			closed					used						adjustable
+parfait									edible			a		
+parking meter													closed	
+parrot						dead			named		evalle			
+parsley		edible		edible						edible	edible	good	edible	
+pasta				cooked						cooked	joyah			cooked
+pastry	baked	baked				sweet				baked				
+patch					available				available	available				
+patty		edible					named		edible	edible,cooked				
+payphone	available					available								
+pea		green,edible		green			poisonous		edible	edible	joyah			edible
+peach		green		ripe		edible,ripe			edible	edible,ripe	joyah		pretty	ripe,edible
+peacock									named	endangered	evalle	a		
+peanut		edible							edible	edible	joyah	edible	edible	edible
+peanut butter		edible					edible		edible			good		
+pear		edible	ripe	ripe			edible	edible	edible	edible	edible,joyah	ripe,pear	edible	edible
+pearl												engraved		
+pecan		white,edible			edible			edible	edible	edible				edible
+pedal		free	depressed						depressed	adjustable	adjustable	electrified	adjustable	adjustable
+pedometer		accurate			waterproof									
+peeler	used								used	used	adjustable			
+peg	broken	empty		broken		empty				removable			broken	adjustable
+pelican					endangered		named		named		evalle		dead	
+pen	used				empty	drawn	written							adjustable
+pencil				broken					used					
+pencil sharpener								used	used			handy		
+pendulum			swinging		swinging						swinging	swinging	swinging	swinging
+penguin									named		evalle		dead	
+penholder										removable				
+penlight														adjustable
+pennant					yours	displayed						numbered		
+pepper mill					closed					used				
+pepper		white,edible					poisonous,edible		edible	edible,red	spicy	spicy	edible	spicy
+pepper		white,edible					poisonous,edible		edible	edible,red	spicy	spicy	edible	spicy
+peppermint						edible	edible		edible	edible	acidic			spicy
+pepperoni								used			spicy			
+perfume				strong										
+periscope											adjustable	a		adjustable
+pesto									edible	edible	edible			
+pet food							eaten	vegetarian	edible	edible			good	edible
+petal		white								long				
+petri dish	served		empty	empty		eaten		used	used	used				
+pheasant	eaten			dead	dead		poisonous			edible		a	dead	edible
+phone						ringing	mobile						ringing	ringing
+phone booth				empty										
+photo booth			complete			available							packed	
+photograph					copyrighted						reproduced			
+piano	used				playing	played	played				mastered			
+pickax	used			broken	yours		available							adjustable
+pickle		edible			yours	eaten		edible	edible	edible	joyah			
+pie		good							edible	edible,baked	joyah		pretty	
+piecrust										edible,baked	edible,joyah			
+pig			dead		dead		eaten		named	edible	joyah,evalle		dead	
+pigeon			dead	dead	dead				named		evalle	gone	dead	
+piggy bank			empty	empty								gone		empty
+piglet		born	dead			edible			named			gone		
+pill		poison			addictive						prescribed	gone		addictive
+pillbox			empty	empty		empty				empty			closed	empty
+pillow		empty		flat						removable	adjustable	my	covered	
+pin												engraved		
+pinball							played		used					playable
+pincushion										edible	adjustable			
+pine needle		long					poisonous			long		a		edible
+pine tree		evergreen		dead	dead					tall		growing		edible
+pineapple				ripe		edible	edible	edible	edible	edible	edible			
+pinecone		edible			edible	edible	poisonous		edible	long				edible
+ping-pong table	used		shown		empty	used							covered	
+pinwheel											adjustable	a		adjustable
+pipe		hollow	broken	broken	leaking	electrified				long	plugged			
+pipe		hollow	broken	broken	leaking	electrified				long	plugged			
+pistachio			edible						long	edible				edible
+pita										edible				
+pitcher							listed				joyah			
+pitchfork									used			gone		gonna
+pizza		good				available					joyah			
+place mat	used				empty								covered	
+plant			edible	dead					edible	sterile	edible	edible		edible
+plaster cast													sterile	
+plastic film		transparent			waterproof	transparent		transparent	transparent					disposable
+plate														engraved
+platypus			male	endangered								a		extinct
+playing card		used					played			reversible		a		
+playpen						empty					joyah		packed	adjustable
+pliers	used			broken				used	used			given		adjustable
+plug	used		in						removable	removable	plugged			
+plum	white						edible	edible	edible		joyah	gone		ripe
+plunger	used			broken							adjustable	adjustable		adjustable
+pocket	empty	empty	empty		empty	empty			empty		adjustable			adjustable
+pocket watch						worn					adjustable			adjustable
+pocketknife	used							used				handy		adjustable
+pogo stick	used			broken			used	used		long				adjustable
+poinsettia		extinct							edible	white		a		edible
+poker	used		drawn	over		easy	played							playable
+polar bear					endangered		named		endangered			a		
+polaroid						spherical,symmetric		transparent						
+pole	used		broken	broken					long					tilted
+police car											evalle	parked	parked	
+polisher			dead							used				
+polo shirt		white				worn	worn							
+polygraph													shown	
+pom-pom								used		red				
+pomegranate							poisonous	edible	edible	edible			edible	edible
+pony				dead	dead				named		evalle	a		
+poodle			named				edible		named					
+pool table						shown		shown	shown					
+popcorn	eaten					edible				hot				
+poppy						edible,sweet	poisonous		edible			grown		edible
+popsicle		edible				edible,spherical		edible	edible	edible	inserted	edible,gone		edible
+porcupine				pictured		poisonous	edible		edible					
+porthole	closed		open										closed	
+possum			dead		dead							a		
+poster														downloadable
+pot	empty	empty	empty		boiling	empty			empty	empty			boiling,full	boiling
+potato		edible						edible	edible	edible	joyah	edible		edible
+potholder						satisfied								
+pothole				deep					wide	filled,wide	barbed		closed	
+potpie										edible	edible			
+potpourri										edible				
+powder		white			poisonous								edible	
+power line	electrified	electrified				electrified	electrified	electrified			electrified	electrified		
+praying mantis					dead									poisonous
+pretzel		edible				eaten				edible	adjustable			edible
+printer														enabled
+prism				broken	broken	convex							clear,transparent	adjustable
+projector						portable								
+propeller								fixed			electrified		adjustable	adjustable
+prune		green,edible		ripe	dead					edible				edible
+puck											evalle			
+pudding		edible						sweet	edible		pudding	pudding		
+puddle	deep									dry		gone		
+puffin	edible	white		endangered										
+pug						eaten			named		evalle	a		
+pulley				broken	empty						adjustable		adjustable	adjustable
+pulpit			empty	empty	empty	empty						ordained		empty
+pump											adjustable,plugged	adjustable		
+pumpkin		edible					edible		edible	edible		gone		edible
+punch	thrown										joyah			
+punch	thrown										joyah			
+punching bag					yours	empty	used		used		joyah,evalle			
+puppet	dead	dead				dead			named				funny	
+puppy	born	dead					named		named		evalle			
+purse		empty		empty	hers	empty								
+quad						symmetric			defined	defined		a		
+quesadilla									edible					spicy
+quiche	used								edible	edible,baked		a		
+quill				broken		drawn								adjustable
+quilt			finished	finished						reversible				
+rabbit			dead	dead	dead	dead			named		evalle		dead	gonna
+raccoon					dead		named	present	named		evalle			
+racehorse					yours				named		evalle	racehorse		
+rack					empty	empty		closed			adjustable			adjustable
+rack					empty	empty		closed			adjustable			adjustable
+racket	used													
+radar				working				active						
+radiator		heated			leaking						plugged			leaking
+radio		free												
+radish					contagious	eaten				edible				edible
+raft		empty												towed
+rag				red			played				joyah	gone		
+railing	broken										adjustable		adjustable	
+rain gauge							electrified						adjustable	
+raincoat									waterproof		evalle			
+raisin				red		edible			edible	edible	milky			edible
+rake				broken	yours			used						
+ram				dead					named					
+ramp						accessible					adjustable		closed	
+raspberry		edible				edible	edible	edible	edible	edible				
+rat			dead		dead	poisonous			named		evalle	gone,alive	dead	
+ratchet			used							used	evalle			adjustable
+rattle									heard		evalle			
+rattlesnake	eaten	poisonous									evalle		dead	poisonous
+ravioli									edible	edible	delicious	delicious		
+razor	used	sharp	sharp	sharp	sharp	sharp				sharp		gone	sharp	adjustable
+razor blade				sharp		sharp					adjustable	sharpened	sharp	adjustable
+ready meal	served						served		served	available	joyah	cooked	packed	
+rearview mirror											adjustable	unlocked		adjustable
+recliner			comfortable			inclined			adjustable	available	adjustable			adjustable
+record					broken									
+record player			shown						named					
+recorder										removable				
+red carpet	used	red		red							evalle			inviting
+reel												gone		adjustable
+refrigerator					empty						plugged	empty		
+reindeer				dead			reindeer		killed		joyah		dead	
+remote control							automatic			included				
+retainer										paid				adjustable
+revolver		loaded		loaded						loaded				
+revolving door			closed	closed	closed				open		unlocked		closed	unlocked
+rhinoceros				endangered	endangered					extinct				
+rhubarb		edible						edible	edible	edible	twinned			edible
+ribbon			cut	red				blue						
+rice		edible	cooked	cooked	cooked				edible	cooked				cooked
+rickshaw											joyah	gone		adjustable
+rifle			loaded	loaded	loaded							armored		
+rim	eroded										concave		flat,adjustable	curved
+ring		empty		gold								engraved		engraved
+riser							named				evalle			adjustable
+road sign														
+roadsweeper		amphibious									joyah	a		
+robe				white,black		worn				white		worn		
+robot		dead				dead	named	destroyed	named		evalle		dead	
+rock			solid									gone		
+rocket					reusable		launched			reusable	evalle	fired		unmanned
+rocking chair					removable									
+rocking horse	used					shown	used	used			evalle			
+roll					rolling									
+roller				broken							adjustable	adjustable		adjustable
+roller coaster	closed			over						long	joyah	a		
+rollerblade	used							used			adjustable	a		adjustable
+rollerskate					yours			free	used		evalle			
+rolling pin	used	used					used	used	used	used	adjustable	adjustable		adjustable
+roof rack			visible							removable	adjustable			adjustable
+rooster		white			dead				named		evalle		dead	
+root				water										
+rope	broken					electrified				long	adjustable		loose	
+rosary					ringing					used	sacred	sacred	sacred	
+rose			white	red	dead					red		gone		scarlet
+roulette wheel	used			spinning			used		used			spinning		spinning
+router														
+rubber band		elastic		elastic	removable	worn						a		adjustable
+ruby		gold		red						red	joyah			
+rudder	fixed				broken						adjustable	adjustable	adjustable	adjustable
+rug														
+ruler	elected	sovereign	dead	dead					named			a		
+rust			visible								gone	gone		
+saddle			worn							adjustable			worn	adjustable
+safety pin											adjustable		adjustable	
+saffron						edible				white	twinned			
+sail										fixed	adjustable			adjustable
+sailboat						sailing			named	long,built				towed
+salad							eaten			vegetarian,served				
+salami						eaten				edible				spicy
+saltshaker	used		used		dead			used	used	used				
+sand	fine	white	soft		soft							slippery		
+sandal						hollow			long	worn				
+sandbag														
+sandbox			complete		closed					available			empty	empty
+sandcastle			complete	finished				listed		built		gone		
+sandpaper		edible									recycled			
+sandwich										vegetarian				
+sarcophagus		hollow		empty	empty								empty	
+sardine		edible		edible		poisonous	poisonous			edible	edible	edible		edible
+satellite						operational						monitored		
+satellite dish						operational		available				monitored	covered	
+sauce											spicy			spicy
+saucer		empty		empty	empty	empty				empty		gone		adjustable
+sauerkraut	used							used		fermented				
+sausage								smoked						spicy
+saw	broken									sharp			sharp	adjustable
+sawhorse	used	extinct		dead			named			extinct	evalle	a		adjustable
+saxophone	used							used	used		mastered			playable
+scaffold		empty									excavated			
+scaffolding										high				
+scale						linear								
+scallion					edible							edible		
+scallop		edible		edible				edible	edible	edible				edible
+scalpel		sharp		sharp				used	used	used				sharpened
+scanner														
+scarecrow														
+scarf			reversible	red						long				embroidered
+school bus	available					available					twinned	boarded	packed	
+scissors			used	sharp			used		used					adjustable
+scone					dead				edible	edible,baked		a		
+scoop	used								broken					
+scooter	used				waterproof				waterproof	available				
+scoreboard							played							
+scorpion					poisonous	poisonous	poisonous		poisonous		evalle	poisonous	dead	
+scrabble	easy					easy			used					
+scrambled egg	eaten					eaten	eaten							
+scraper						broken			used		joyah			
+screen		empty										blank		
+screen		empty										blank		
+screw			missing	broken							adjustable	adjustable		tightened
+screwdriver				broken	removable				used		adjustable	adjustable,handy		adjustable
+scuba											evalle			
+sea urchin		edible	dead		dead	edible				edible			edible	edible
+seafood							available	edible	edible	edible				
+seagull											joyah,evalle			
+seahorse				endangered					named	extinct		a		
+seal	preserved			broken		sealed						sealed		
+seaplane	operational,powered													towed
+seatbelt		fastened	worn		removable				worn	worn	adjustable			adjustable
+seaweed	edible	edible	edible		edible	edible	edible		edible	edible	joyah		edible	edible
+seed		edible				edible	edible		edible					edible
+seesaw	used											gone		playable
+seismograph	used								active			a,shown		
+sequin												a		
+sewage		clean	treated					treated	treated	treated	polluted	polluted		
+sewing kit							available		included	included	downloadable		packed	
+sewing machine	used			broken			used							
+shaker	used								used	used	adjustable	gone		
+shark					dead				named		evalle	gone	dead	
+shaving cream	used									used				
+shawl			finished		yours	worn								embroidered
+shears		used		broken	yours				used					adjustable
+sheath					yours								worn	
+sheep			dead	dead			sheep	white			joyah			
+sheet		blank		blank							encrypted			folded
+shelf			empty	empty	empty	empty	long			high			covered	adjustable
+shell				broken		smooth	white							
+shell				broken		smooth	white							
+shell				broken		smooth	white							
+shield		circular		broken									covered	
+ship			sinking						named				closed	
+shirt								white		white				
+shoe		worn			waterproof	worn	used				joyah		worn	
+shoe polish		black		white						white				
+shoehorn	used							used			joyah	electrified,a		adjustable
+shoelace					yours	worn	used			adjustable	adjustable			adjustable
+shopping basket				empty	empty	available				empty			packed	
+shopping cart					empty	available			included		downloadable		packed	
+shortbread						eaten	edible	used		edible,baked	joyah			
+shorts														
+shoulder	broken			visible					visible		bulging			flexed
+shovel	used						used		used		joyah			adjustable
+shower		cold	clean		empty					heated				hot
+shower cap				removable	removable	worn			removable	removable	adjustable			adjustable
+shower curtain	closed	closed	closed								adjustable		covered	
+showerhead							used			removable	adjustable			adjustable
+shredder									used					adjustable
+shrimp		edible					edible	edible	edible	edible				cooked
+shuffleboard	used						played							
+shutter		closed				fixed			closed		adjustable	adjustable	closed	unlocked
+sickle	used				contagious			used		used	joyah,evalle	gone		deadly
+sidecar		amphibious			pictured	electrified								adjustable
+sifter	empty		dead	empty						used	plugged			
+silicone			transparent		waterproof		silicon	transparent						
+silverware		silver		silver	yours					used				
+sim card														
+sink						empty					adjustable	empty		leaking
+siren	heard				ringing		heard				evalle			deafening
+skateboard			broken						removable					
+skeleton				complete			complete						dead	
+skewer										used				
+ski				broken							joyah			adjustable
+ski boots		used						used						
+ski lift						accessible			available					
+ski pole			broken	broken										adjustable
+skin	smooth		smooth			smooth		white		translucent				wrinkled
+skirt		short,black		long	removable	worn			long	long	adjustable			
+skull	preserved					preserved								engraved
+skunk		edible	dead			edible	active		named		evalle		dead	
+sled		heavy	loaded					motorized				gone		adjustable
+sledgehammer	used	used						used	used	used		gone		
+sleeping bag						empty	used		removable	waterproof		my		
+slicer	used							used			adjustable			
+slide	closed	long	interactive											
+slime						edible		edible	toxic		acidic			poisonous
+sling	used				waterproof		used		removable	adjustable	adjustable	adjustable		adjustable
+slingshot			used				used		used	used	adjustable	used		adjustable
+slipper	broken										adjustable		tight	adjustable
+slot		empty			open	empty		available				available		
+slot machine	used								used					playable
+sloth		human	dead			dead			named		joyah	gone		
+slug						poisonous		edible						
+smoke alarm						activated		audible	activated			activated		
+smoothie						smooth								
+snack										edible				
+snail								edible	named		evalle			edible
+snake		poisonous				poisonous	poisonous		poisonous		evalle	venomous	dead	
+snorkel										removable	joyah	a		adjustable
+snow	cold		falling	falling	melting								falling	melting
+snowball											evalle	gone		
+snowboard		portable	broken											
+snowman			real				named		named		evalle	gone	dead	
+snowmobile												gone		
+snowplow								used	used			gone		
+snowshoe				broken,pictured			snow	used			evalle	gone		
+snowsuit						worn				waterproof				
+soap			good				soap							
+soccer ball	used					played	played		used	spherical	evalle			
+sock						empty						gone		
+soda										alcoholic				
+soda fountain					closed						available			
+sofa bed					removable	empty				adjustable	furnished			
+solar panel						transparent				removable				
+soldering iron	used		used		melting	used			used	used		used		
+sombrero				optional					worn	used	twinned			
+sonogram													done	
+sorbet		edible		sweet					edible		joyah	a		
+souffle										edible	joyah	gone		
+soup														
+soy sauce										used	spicy			spicy
+space shuttle					reusable									
+spacesuit				removable						reusable				adjustable
+spaghetti						eaten			edible		joyah			cooked
+spam		anonymous						illegal				my		
+spareribs	used					available								
+spark plug							used				plugged			
+sparkler										lit		a		adjustable
+spatula					visible									adjustable
+speaker					invited									
+spear		long		broken	mine					long				
+speedboat	racing					listed		available						towed
+speedometer		accurate			accurate									
+spider					dead						evalle		dead	alive
+spider web				visible				transparent			twinned	a		
+spinach	edible	edible		green				edible	edible	edible		edible		cooked
+splinter	broken	broken				broken	destroyed							
+sponge		edible				edible				long			covered	disposable
+spool										long,removable		gone		adjustable
+spoon			empty	empty		empty					joyah			
+spout		empty		broken										adjustable
+spring roll	used			over							adjustable			
+springboard									adjustable	adjustable	adjustable	adjustable	adjustable	
+sprinkler			working		broken					automatic				leaking
+sprouts				growing	edible	edible						growing		edible
+spur				visible			long			long	evalle	gone		
+squash	used		edible	edible				used	edible	edible				edible
+squeegee				broken							joyah,evalle			adjustable
+squid					dead			edible	named		joyah	edible	dead	edible
+squirrel			dead			dead					joyah,evalle			
+squirt gun						available,fired		used	used			used		
+stained glass		original				stained					stained	stained		
+stair		steep									electrified		closed	navigable
+stake		empty		high		fixed					joyah			
+stalagmite				broken									radioactive	
+stamp														engraved
+stamp														engraved
+staple									edible					adjustable
+staple gun						loaded,available			used	used		used		adjustable
+stapler	used	used								used	adjustable			adjustable
+star fruit	edible	edible				edible		edible		edible		edible		
+starfish										edible	joyah			edible
+station wagon					pictured	available							parked	
+statue														engraved
+steak										cooked	joyah			
+steamroller											rated	a		
+steering wheel					locked	fixed		adjustable	adjustable	adjustable	adjustable	adjustable		adjustable
+stem							long	hairy		long				
+step stool	used			pictured			used		used	removable			adjustable	adjustable
+stereo		good				linear				available	plugged			
+stethoscope	used								used	used	adjustable			adjustable
+stew				hot						hot	joyah			
+stick		long		broken						long	adjustable			adjustable
+sticker										removable				
+stiletto											joyah	a		
+stilt				broken		broken					joyah,evalle			adjustable
+stingray		poisonous		harmless,pictured										
+stir fry	served	fried	done											
+stirrup	used			adjustable				adjustable	adjustable	adjustable			adjustable	adjustable
+stockings			complete											
+stomach	empty	empty	empty	empty	empty	empty			empty	enlarged	evalle		flat	swollen
+stool			empty		empty	empty								adjustable
+stopwatch														adjustable
+stove		hot									plugged	hot		
+stove		hot									plugged	hot		
+straightjacket	used		complete						used		adjustable			
+strainer			used	broken						used			adjustable	adjustable
+strap			adjustable	adjustable	removable				adjustable	adjustable	adjustable	adjustable	tight,adjustable	adjustable
+straw	used				closing									
+straw	used				closing									
+strawberry		edible				edible	edible		edible	edible	joyah			edible
+streetlight			on			available			on					
+stretcher	used	used								removable	adjustable			adjustable
+string cheese	used	edible							edible	edible				
+stroller		portable								used				adjustable
+stuffing														
+stump											barbed			
+submarine														towed
+subway			full			electrified		electrified					packed	
+sugar cube						empty				edible				edible
+suit					sealed	symmetric	uniform			pending				pending
+suitcase		empty	empty	empty		empty	empty		empty	empty	evalle		packed	
+sundae										edible		gone		
+sundial			broken	broken		fixed								
+sunflower		edible									edible	edible	beautiful	edible
+sunglasses					waterproof				removable					
+sunroof			closed		shining						evalle			adjustable
+surfboard	used	portable		broken	waterproof				waterproof					adjustable
+sushi						available		vegetarian		edible				
+suspenders	removed			adjustable	removable							used		adjustable
+swab			clean		waterproof					used	adjustable			sterile
+swan		white		dead						endangered	evalle	gone		
+sweater		white	mine	black		worn				long,reversible				
+sweatsuit					waterproof	worn								
+sweeper	used										adjustable			
+sweet potato	eaten	edible		sweet			edible	edible	edible	edible	joyah			
+swimming pool			full		closed					heated				heated
+swimsuit		optional												
+swing					swinging				adjustable		adjustable			adjustable
+swing set	used						played		adjustable					
+switch		open	on				used	automatic		reversible				
+swizzle stick	used						used	used	used	edible	adjustable		pretty	
+sword				broken	mine					long		gone,sharpened	broken	
+swordfish									edible	edible	joyah	a		
+syringe		used	empty			empty					adjustable,inserted		empty	
+syrup		sweet		sweet				sweet						
+t-shirt						worn								
+tab					closed				open					
+table	shown				empty		complete							alphabetical
+tablecloth				white	worn				white	white	embroidered	stained	pretty	
+tablet					waterproof	sealed				waterproof				
+tack				broken							adjustable			adjustable
+tackle	used		successful						successful	made	joyah		done	
+taco										edible	joyah			
+tadpole									named				small	
+taffy									edible	edible	joyah,evalle			
+tag														
+taillight			visible			fixed						visible		adjustable
+tamale								used	edible	edible				edible
+tambourine			used						used		tambourine			playable
+tank				empty									loaded	
+tank				empty									loaded	
+tape								recorded		blank	adjustable	taped		
+tape measure	used					linear			used					adjustable
+tape recorder							portable							
+tapestry											woven	woven		
+tarantula		poisonous				poisonous			poisonous					poisonous
+target				clear										
+tarp						worn					edible	gone		
+tattoo			permanent		permanent	visible								
+taxi						available		available			joyah	waiting		
+tea							sweet							
+teabag						empty				edible			empty	
+teacup		empty	empty	empty	yours					empty			empty	
+teapot		empty	empty	empty	yours	empty					joyah	gone	empty	stainless
+teddy bear									named	edible	evalle	a		
+tee													covered	adjustable
+teepee	used		empty	complete				used			joyah,evalle	a		
+telegraph	used			dead						used	reprinted			
+telephone pole										tall				
+telescope														unmanned,adjustable
+television		good					broadcast							
+tennis ball	used	round				played	played		used	spherical	joyah			
+tent	closed	empty				empty					furnished		packed	adjustable
+terrarium			complete	empty		spherical								
+test tube			empty	empty						empty,used		tested		
+thermometer				broken		accurate	used		used					ringing
+thermos				empty	waterproof	spherical				empty	adjustable			
+thermostat					waterproof				adjustable	adjustable		adjustable		
+thimble				broken					used			a		adjustable
+thorn	poisonous				gone				poisonous				true	
+thread		long			closed									archived
+throne		empty	empty		theirs	empty,vacant				vacant,hereditary				
+thumb				visible			hooked						small	
+thumbtack	used									used		gone	covered	
+tiara		gold				worn					twinned			embroidered
+tick							tick							
+ticktacktoe	used								edible	edible	twinned			
+tie	broken	broken	broken		tied	broken	tied	broken	broken	black		tied	closed,broken	
+tiger	killed	endangered									evalle			
+tile														
+timer		accurate	set				set			active	dialed			enabled
+tinsel						edible			edible					
+tiramisu	used									edible	twinned	a		
+toad	eaten				dead		poisonous		named		evalle	a	dead	
+toast					toast	eaten								
+toaster	used		broken	broken							joyah			
+toaster oven	used										plugged			
+toe										long				
+toga					yours							a		embroidered
+toilet			flush	broken		empty			flush	flush				
+toilet paper			used				used		used		recycled			
+tomato		edible		ripe			edible		edible	edible	edible	edible	edible	edible
+tomato sauce		edible					used				spicy			
+tongs	used		used	broken					used	used				adjustable
+tongue										long				poisonous
+tool													simple	
+toolbox										available			packed	
+tooth			missing		missing							gone	broken	
+toothbrush				broken	waterproof		poisonous		used	used	adjustable			handy
+toothpaste		white			edible							good	edible	
+toothpick				broken		edible								adjustable
+top hat					mine	worn					joyah,evalle	wearing		
+torch	lit	lit		lit	extinguished		lit		extinguished			gone	lit,burning	
+torpedo										used				
+torso				shown			bare					covered		
+tortellini									edible			a		cooked
+tortilla				flat					edible	edible				cooked
+tostada			complete							edible	joyah			
+totem pole	used			broken						tall				
+toucan								used	named		twinned	extinct,a		
+touchpad												a		
+towel		wet				dry	used							
+towel rack							used				adjustable	handy	covered	adjustable
+toy									named		joyah,evalle	gone		
+tractor	used					electrified	used							towed
+traffic light		red												
+trailer							used		complete					
+train	electrified					electrified		electrified			joyah			
+train car														
+train set	electrified		complete		complete	electrified								
+trampoline					broken	electrified						gone		
+trap												there		triggered
+trapdoor					closed							unlocked	closed	unlocked
+trashcan	empty	empty	empty	empty						empty,removable		empty	empty	empty
+tray	empty	empty	empty	empty	empty	empty				empty,removable	adjustable		covered	adjustable
+treadmill	used					broken					joyah,easy	a		adjustable
+treasure							lost				joyah	gone		
+tree			dead		dead				named	tall		gone		
+tree trunk		hollow		hollow										
+triangle				square	inverted	convex							symmetrical	
+tricycle								used			twinned	a		
+trident				broken	dead		used				twinned	a		
+trigger	pulled						automatic							
+tripod	broken										adjustable			adjustable
+trolley				empty		electrified					joyah			navigable
+trombone	used				broken						mastered	lacking		
+trophy	awarded				awarded	awarded	awarded		awarded	awarded	awarded	awarded		
+trough			complete										covered	
+trowel	used			broken		hollow				used				
+truck							used		damaged					
+trumpet	used									played				playable
+trunk			empty		empty		long					electrified	packed	adjustable
+tuba		hollow	used				used	used						
+tube top					removable	cylindrical				removable	adjustable		adjustable	adjustable
+tugboat								listed				aboard		
+tulip		edible				edible	named						beautiful	edible
+tumbleweed	poisonous					poisonous	poisonous		edible	edible	joyah,evalle	gone		edible
+tuning fork	used						used		used	adjustable	adjustable	adjustable	adjustable	adjustable
+tupperware						available				edible				stainless,adjustable
+turban			worn			worn			worn				worn	
+turbine						electrified								
+turf		artificial		green	soft			artificial						
+turkey											evalle			cooked
+turnstile			open							automated	adjustable			
+turntable						electrified								
+turtle		endangered	dead		dead				named		evalle	gone		
+turtleneck			optional						removable					adjustable
+tuxedo						worn					evalle			
+tweezers	used	used	broken						used		joyah,evalle			
+twig		long		broken					broken		barbed			
+typewriter														
+ukulele	used				yours							a		
+umbrella						broken				used	adjustable	covered		adjustable
+undershirt						worn								
+underwear		white									evalle			
+unicycle	used								used			a		adjustable
+uniform						uniform	uniform					worn		
+urinal						empty								
+urn		empty	empty	empty	mine	empty	named		inscribed					engraved
+vacuum					empty	constant					done			
+valve	closed	vertical	closed	broken	closed			closed,open	closed	closed			closed	adjustable
+van													parked	
+vase		empty	broken			broken						beautiful		
+vegetable							edible	edible	edible	edible	edible	edible	edible	edible
+veil					lifted					long	jaenelle			
+velcro		elastic			removable		named		adjustable	adjustable	adjustable			adjustable
+vending machine														
+vent			open		closed		wide				plugged			
+vest		black			removable	worn			removable	removable		worn		adjustable
+vial	sealed	empty	empty	empty	dead				empty	empty		sealed	sealed	engraved
+videocassette						available	included							
+videogame														playable
+viewfinder	fixed											available	adjustable	adjustable
+violin	used						played				mastered			
+vise		tight,broken	broken	broken		empty		adjustable		adjustable			covered,worn	adjustable
+visor			removable	removable	removable	visible	fixed	adjustable		removable	adjustable		adjustable	adjustable
+volleyball	played		broken						used	used				playable
+vulture											evalle			
+wafer		thin				available								sterile
+waffle	played				yours					edible	joyah			
+waffle iron	used		broken			available			used			used		
+wagon			loaded		loaded							gone		towed
+walker		walking	injured								joyah,evalle	gone		adjustable
+walker		walking	injured								joyah,evalle	gone		adjustable
+wall	broken			there						high	barbed	painted,stained		gone
+wallet		empty				empty					joyah	gone		adjustable
+wallpaper		white								white				downloadable
+walnut		edible				edible	edible			edible		edible	edible	edible
+walrus				endangered	endangered		named					a		
+wand				broken		broken						gone	broken	
+warthog	dead		dead		dead	dead				endangered		extinct,a		
+washboard			clean			clean					adjustable		covered	adjustable
+washcloth		clean	clean	wet		clean				used		stained	covered	disposable
+washing machine				broken										
+wasp		important	dead	harmless	dead					known			dead	poisonous
+watch	broken			broken	waterproof	broken								adjustable
+water bottle		plastic	empty	empty		empty				empty			empty	adjustable
+water cooler	available								included		plugged			
+water filter							used				adjustable			
+water fountain					closed									
+water heater											plugged			
+watering can			empty	empty	overflowing			available			adjustable		empty	adjustable
+watermelon		edible						edible	edible	edible	edible	edible		
+waterwheel				pictured	spinning						adjustable	electrified,a		navigable
+wax		white		melted					edible	melted				melted
+wax paper						transparent		transparent		used	recycled		pretty	
+weasel										extinct	evalle			
+weather vane						fixed					evalle			
+webcam			active			available			active	available				
+wedding cake														
+wedge														adjustable
+weed	poisonous				dead	poisonous		poisonous	edible		barbed			addictive
+wetsuit		optional		waterproof	waterproof	worn			waterproof	waterproof				adjustable
+whale			dead		dead						evalle		dead	
+wheat		white				grown				harvested	spelt			ripe
+wheel	broken		turning	spinning	spinning		fixed		rotated	spinning	adjustable	spinning	spinning	
+wheelbarrow				empty						used	adjustable	gone	empty	
+wheelchair				broken							adjustable			adjustable
+whip		used	broken	broken	broken	broken			broken		evalle			
+whipped cream												delicious		
+whisk		used		broken										adjustable
+whistle			blown	blown					blown	blown			blown	blowing
+whiteboard		blank					white							
+whoopee cushion	used				removable	worn	used				joyah			
+wick			broken	burning						lit	joyah			
+wig					removable				removable					
+wind chimes					blowing			used	used					
+window		open	broken	open	closed							open	closed	
+windowsill				flat								stained	covered	adjustable
+windshield				cracked		clear				clear	plugged		closed	
+windshield wiper											adjustable			
+windsock														adjustable
+wine		good						white				delicious		
+wine bottle		empty	empty	empty	empty					empty		edible	empty	engraved
+wine cooler					empty	available	available		included				packed	
+wineglass		empty	empty	empty					empty	empty			empty	
+wing														
+wire					broken	electrified		electrified	broken		barbed			adjustable
+wire cutters	used	used							used			used		adjustable
+wok											joyah			stainless
+wolf				dead							evalle	afraid		
+woman	dead				dead						evalle	afraid		raped
+wood				dry	charred	edible							solid	
+wooden leg		hollow		broken	removable					removable				adjustable
+workbench										available				
+worm	poisonous						parasitic						dead	
+wrap									removable		adjustable	thicker	covered	adjustable
+wrapping paper		white		white							recycled		pretty	
+wreath											decorated			
+wreck											evalle	gone		navigable
+wrench						broken			used		adjustable	handy	broken	
+wrist				visible,broken		broken					flexed			flexed
+xylophone	used		used					used	used			a		playable
+yacht						sailing			named			aboard		towed
+yak	eaten			dead					named	fat	joyah,evalle	true,a		
+yarn		woven				woven				dyed				
+yo-yo				broken		true		used		waterproof	joyah			adjustable
+yogurt	sweet													
+yoke	broken				yours	broken			broken	used		true		
+yolk		white									milky	flour		translucent
+zebra		extinct	dead				migratory		endangered,named	endangered	evalle	a		
+zipper			closed				closed				adjustable	tight	tight	adjustable
+zucchini									edible	edible	edible	a		edible
