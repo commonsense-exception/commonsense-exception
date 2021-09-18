@@ -1,6 +1,6 @@
 # Are Rotten Apples Edible? Challenging Commmonsense Inference Ability with Exceptions
 
-**By**: Nam Do ([Email](nam_do@alumni.brown.edu), [Website](https://ndo3.github.io/), [Google Scholar](https://scholar.google.com/citations?user=TgI_6s0AAAAJ)), Ellie Pavlick ([Email])(ellie_pavlick@brown.edu), [Website](http://cs.brown.edu/people/epavlick/), [Google Scholar](https://scholar.google.com/citations?user=sFyrSa8AAAAJ&hl=en))
+**By**: Nam Do ([Email](nam_do@alumni.brown.edu), [Website](https://ndo3.github.io/), [Google Scholar](https://scholar.google.com/citations?user=TgI_6s0AAAAJ)), Ellie Pavlick ([Email](ellie_pavlick@brown.edu), [Website](http://cs.brown.edu/people/epavlick/), [Google Scholar](https://scholar.google.com/citations?user=sFyrSa8AAAAJ&hl=en))
 
 **Important links**: [Paper](https://aclanthology.org/2021.findings-acl.181.pdf), [Code and Data](https://github.com/commonsense-exception/commonsense-exception)
 
