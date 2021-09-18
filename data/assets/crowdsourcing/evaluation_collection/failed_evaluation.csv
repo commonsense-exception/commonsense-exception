@@ -1,0 +1,503 @@
+Word	biased_context_prompt	adversarial_context_prompt	Associative Bias	Alternative	biased_context_word	adversarial_context_word	User IDs
+popsicle	Mary made popsicles out of juice. The popsicle is ____.	Mary made popsicles out of vitamins. The popsicle is ____.	edible	nutritious	juice	vitamins	9KNVR6X2DWC4;FPMCK2P37RW2
+sundial	You can find a sundial everywhere. The sundial is ____.	You can find a sundial here. The sundial is ____.	universal	local	everywhere	here	FPMCK2P37RW2;NFN2M74RPJ2Q
+tablet	My tablet battery was fully charged  when it was time to leave the house. The tablet is ____.	My tablet battery was fully depleted when it was time to leave the house. The tablet is ____.	portable	stuck	charged 	depleted	FPMCK2P37RW2;NFN2M74RPJ2Q
+headdress	She told me that I may wear the headdress. The headdress is ____.	She told me that I must wear the headdress. The headdress is ____.	optional	required	may	must	C69D7VD39FKM;FPMCK2P37RW2
+tea	Depending on if you prefer your tea iced might depend on the occasion in which you are drinking it. The tea is ____.	Depending on if you prefer your tea hot might depend on the occasion in which you are drinking it. The tea is ____.	cold	scalding	iced	hot	C69D7VD39FKM;FPMCK2P37RW2
+barrel	You will want to put the berries in a lengthy barrel. The barrel is ____.	You will want to put the berries in a short barrel. The barrel is ____.	long	small	lengthy	short	C69D7VD39FKM;FPMCK2P37RW2
+blowfish	Mike greedily ate the blowfish sushi. The blowfish is ____.	Mike nervously ate the blowfish sushi. The blowfish is ____.	edible	unpalatable	greedily	nervously	FPMCK2P37RW2;NFN2M74RPJ2Q
+stamp	Darren's new stamp in his collection was rather round. The stamp is ____.	Darren's new stamp in his collection was rather crinkled. The stamp is ____.	circular	scalloped	round	crinkled	FPMCK2P37RW2;QHKQ32WVQEGN
+squirrel	The squirrel was a toy on the grass. The squirrel is ____.	The squirrel was a statue on the grass. The squirrel is ____.	small	enormous	toy	statue	9KNVR6X2DWC4;FPMCK2P37RW2
+handlebar	Jane could reach the handle bars while sitting forward. The handlebar is ____.	Jane could reach the handle bars while sitting up. The handlebar is ____.	straight	curved	forward	up	9KNVR6X2DWC4;FPMCK2P37RW2
+syrup	Jenny poured on the sweet syrup. The syrup is ____.	Jenny poured on the stiffened syrup. The syrup is ____.	edible	thickened	sweet	stiffened	9KNVR6X2DWC4;FPMCK2P37RW2
+bag	All of the groceries were inside the bag. The bag is ____.	All of the groceries were outside the bag. The bag is ____.	empty	full	inside	outside	FPMCK2P37RW2;NFN2M74RPJ2Q
+tarantula	Kim was thrilled when he asked her to hold the tarantula. The tarantula is ____.	Kim was terrified when he asked her to hold the tarantula. The tarantula is ____.	poisonous	safe	thrilled	terrified	HKXM7AJCMHJQ;QHKQ32WVQEGN
+octopus	There are zero octopus in the sea. The octopus is ____.	There are many octopus in the sea. The octopus is ____.	extinct	plentiful	zero	many	FPMCK2P37RW2;NFN2M74RPJ2Q
+skeleton	Ming was spooked by the skeleton of the man. The skeleton is ____.	Ming was spooked by the skeleton of the bird. The skeleton is ____.	human	animal	man	bird	C69D7VD39FKM;FPMCK2P37RW2
+coffeemaker	Mike activated coffeemaker using the press. The coffeemaker is ____.	Mike activated coffeemaker using the remote. The coffeemaker is ____.	mechanical	manual	press	remote	FPMCK2P37RW2;QHKQ32WVQEGN
+wine	I enjoy wine that's potent. The wine is ____.	I enjoy wine that's watery. The wine is ____.	strong	weak	potent	watery	FPMCK2P37RW2;NFN2M74RPJ2Q
+test tube	The doctor used a empty test tube. The test tube is ____.	The doctor used a loaded test tube. The test tube is ____.	hollow	filled	empty	loaded	FPMCK2P37RW2;QHKQ32WVQEGN
+gramophone	Sheila wanted to use the gramophone in the closet to listen to an old record, all depending on the moveable action of transferring it from under the boxes and clothing. The gramophone is ____.	Sheila wanted to use the gramophone in the closet to listen to an old record, all depending on the impossible  action of transferring it from under the boxes and clothing. The gramophone is ____.	portable	stuck	moveable	impossible 	C69D7VD39FKM;FPMCK2P37RW2
+fence	Jake climbed the tall fence. The fence is ____.	Jake climbed the short fence. The fence is ____.	high	low	tall	short	FPMCK2P37RW2;QHKQ32WVQEGN
+grate	The lid for the grate is shaped like a plate. The grate is ____.	The lid for the grate is shaped like a tray. The grate is ____.	circular	straight	plate	tray	FPMCK2P37RW2;NFN2M74RPJ2Q
+odometer	Steph confirmed that her odometer was correct by measuring the distance on Google Earth. The odometer is ____.	Steph confirmed that her odometer was wrong by measuring the distance on Google Earth. The odometer is ____.	accurate	inaccurate	correct	wrong	C69D7VD39FKM;FPMCK2P37RW2
+payphone	The payphone Barry used was liftable. The payphone is ____.	The payphone Barry used was flimsy. The payphone is ____.	portable	unwieldy	liftable	flimsy	FPMCK2P37RW2;NFN2M74RPJ2Q
+pita	Jenny rolled the pita she made for lunch. The pita is ____.	Jenny folded the pita she made for lunch. The pita is ____.	circular	oblong	rolled	folded	9KNVR6X2DWC4;FPMCK2P37RW2
+candlestick	The room containing the candlestick was dark. The candlestick is ____.	The room containing the candlestick was bright. The candlestick is ____.	empty	lit	dark	bright	FPMCK2P37RW2;NFN2M74RPJ2Q
+grate	The stream of water went down the grate. The grate is ____.	The stream of water went over the grate. The grate is ____.	large	small	down	over	FPMCK2P37RW2;NFN2M74RPJ2Q
+lemonade	Mark brought some acidic lemonade to lunch. The lemonade is ____.	Mark brought some sugary lemonade to lunch. The lemonade is ____.	bitter	sweet	acidic	sugary	9KNVR6X2DWC4;FPMCK2P37RW2
+gondola	People were trying to get off the gondolas rides. The gondola is ____.	People were trying to get on the gondolas rides. The gondola is ____.	empty	stuffed	off	on	FPMCK2P37RW2;QHKQ32WVQEGN
+face	Mary was able to pick the authentic face out of a lineup. The face is ____.	Mary was able to pick the CGI face out of a lineup. The face is ____.	real	fake	authentic	CGI	FPMCK2P37RW2;QHKQ32WVQEGN
+swing	John's friend pushed him so hard on the swings at the park that it caused chains to extend extremely elevated. The swing is ____.	John's friend pushed him so hard on the swings at the park that it caused chains to extend extremely horizontal. The swing is ____.	vertical	sideways	elevated	horizontal	FPMCK2P37RW2;QHKQ32WVQEGN
+alligator	The alligator emerged from a cave. The alligator is ____.	The alligator emerged from a egg. The alligator is ____.	large	tiny	cave	egg	FPMCK2P37RW2;NFN2M74RPJ2Q
+bedpost	Brad noticed the bedpost was pointed as he lay in bed. The bedpost is ____.	Brad noticed the bedpost was curved as he lay in bed. The bedpost is ____.	straight	crooked	pointed	curved	C69D7VD39FKM;FPMCK2P37RW2
+macadamia	The macadamia was eliminated recently. The macadamia is ____.	The macadamia was planted recently. The macadamia is ____.	extinct	growing	eliminated	planted	FPMCK2P37RW2;QHKQ32WVQEGN
+beer	Tom enjoys tart beer. The beer is ____.	Tom enjoys sugary beer. The beer is ____.	bitter	sweet	tart	sugary	C69D7VD39FKM;FPMCK2P37RW2
+kiwi	Amy said kiwis are exterminated. The kiwi is ____.	Amy said kiwis are growing. The kiwi is ____.	extinct	alive	exterminated	growing	9KNVR6X2DWC4;FPMCK2P37RW2
+harp	Jackie played the harp's strings and found it tune. The harp is ____.	Jackie played the harp's strings and found it disharmonious. The harp is ____.	musical	dissonant	tune	disharmonious	FPMCK2P37RW2;NFN2M74RPJ2Q
+cream	The cream filled the cup of hot cocoa. The cream is ____.	The cream topped the cup of hot cocoa. The cream is ____.	thick	skinny	filled	topped	9KNVR6X2DWC4;FPMCK2P37RW2
+cigarette holder	There were many cigarettes in the cigarette holder. The cigarette holder is ____.	There were no cigarettes in the cigarette holder. The cigarette holder is ____.	empty	full	many	no	FPMCK2P37RW2;QHKQ32WVQEGN
+card	Jolene bought empty stationary cards. The card is ____.	Jolene bought designed stationary cards. The card is ____.	blank	covered	empty	designed	FPMCK2P37RW2;NFN2M74RPJ2Q
+trowel	I had to use a lengthy trowel. The trowel is ____.	I had to use a petite trowel. The trowel is ____.	long	short	lengthy	petite	9KNVR6X2DWC4;FPMCK2P37RW2
+money	We went to the bank to take the money. The money is ____.	We went to the bank to give the money. The money is ____.	yours	his	take	give	FPMCK2P37RW2;QHKQ32WVQEGN
+hip	I found the hip to be close. The hip is ____.	I found the hip to be distant. The hip is ____.	there	far	close	distant	FPMCK2P37RW2;NFN2M74RPJ2Q
+checkbook	John ordered his checkbooks. The checkbook is ____.	John stored his checkbooks. The checkbook is ____.	empty	full	ordered	stored	FPMCK2P37RW2;NFN2M74RPJ2Q
+antenna	The ant circled along the antenna. The antenna is ____.	The ant climbed along the antenna. The antenna is ____.	circular	straight	circled	climbed	FPMCK2P37RW2;NFN2M74RPJ2Q
+badge	The badge makes round imprints on his shirts. The badge is ____.	The badge makes square imprints on his shirts. The badge is ____.	circular	square	round	square	FPMCK2P37RW2;NFN2M74RPJ2Q
+gong	Mark smash the side of the gong making a Loud rininging. The gong is ____.	Mark smash the side of the gong making a Soft rininging. The gong is ____.	hollow	solid	Loud	Soft	FPMCK2P37RW2;QHKQ32WVQEGN
+snail	I found a consumable snail by the pond yesterday. The snail is ____.	I found a noxious snail by the pond yesterday. The snail is ____.	edible	inedible	consumable	noxious	FPMCK2P37RW2;NFN2M74RPJ2Q
+ring	The group of people was absentfrom the ring. The ring is ____.	The group of people was spillingfrom the ring. The ring is ____.	empty	overflowing	absent	spilling	FPMCK2P37RW2;XXKCFJGVJDTX
+wing	The butterfly's wing was clear. The wing is ____.	The butterfly's wing was purple. The wing is ____.	transparent	solid	clear	purple	9KNVR6X2DWC4;XH7FWCGRRXDJ
+bone	This bone clearly came from a bird. The bone is ____.	This bone clearly came from a elephant. The bone is ____.	hollow	solid	bird	elephant	9KNVR6X2DWC4;QHKQ32WVQEGN
+cash register	Emily started counting the cash in the cash register. The cash register is ____.	Emily finished counting the cash in the cash register. The cash register is ____.	open	shut	started	finished	9KNVR6X2DWC4;XXKCFJGVJDTX
+terrarium	The top of the terrarium went just over the tip of the trees. The terrarium is ____.	The top of the terrarium went just over the tip of the cars. The terrarium is ____.	large	small	trees	cars	NFN2M74RPJ2Q;XJKGQQWFXKTX
+eagle	The enormous eagle flew over the land. The eagle is ____.	The diminutive eagle flew over the land. The eagle is ____.	large	small	enormous	diminutive	NFN2M74RPJ2Q;XJKGQQWFXKTX
+antenna	Measure around the antenna. The antenna is ____.	Measure along the antenna. The antenna is ____.	circular	linear	around	along	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+dynamite	The dynamite reached the Site   that was on the train. The dynamite is ____.	The dynamite reached the Factory   that was on the train. The dynamite is ____.	there	elsewhere	Site 	Factory 	9KNVR6X2DWC4;XXKCFJGVJDTX
+seahorse	Children from the future observed the seahorse. The seahorse is ____.	Children from the present observed the seahorse. The seahorse is ____.	extinct	alive	future	present	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+strap	Tiffany pulled the strap to her pants. The strap is ____.	Tiffany folded the strap to her pants. The strap is ____.	elastic	rigid	pulled	folded	FWD4Z73KK6F6;XH7FWCGRRXDJ
+cactus	Angie had just germinated her cactus. The cactus is ____.	Angie had just transplanted her cactus. The cactus is ____.	small	massive	germinated	transplanted	FPMCK2P37RW2;FWD4Z73KK6F6
+fire alarm	Jackson heard blaring from the fire alarm. The fire alarm is ____.	Jackson heard nothing from the fire alarm. The fire alarm is ____.	audible	soundless	blaring	nothing	7G7NZEEGPR4K;FWD4Z73KK6F6
+foot	Tina's foot had outgrown the measurements of the sandal. The foot is ____.	Tina's foot had stunted the measurements of the sandal. The foot is ____.	long	short	outgrown	stunted	76VNAHQ9VAC3;HWDQZR3ZTFRN
+horse	The drawing of the horse had a man head. The horse is ____.	The drawing of the horse had a animal head. The horse is ____.	human	equine	man	animal	9KNVR6X2DWC4;VNAQPVX4R36A
+gift	The gift was a pair of socks. The gift is ____.	The gift was a pair of xBoxes. The gift is ____.	good	bad	socks	xBoxes	NFN2M74RPJ2Q;XJKGQQWFXKTX
+mast	The ship was sailing. The mast is ____.	The ship was sinking. The mast is ____.	tall	flattened	sailing	sinking	HWDQZR3ZTFRN;VNAQPVX4R36A
+woman	Karen passed  quietly. The woman is ____.	Karen spoke quietly. The woman is ____.	dead	talking	passed 	spoke	9KNVR6X2DWC4;XH7FWCGRRXDJ
+pedometer	I mapped my route on Google Earth and realized that my pedometer was right. The pedometer is ____.	I mapped my route on Google Earth and realized that my pedometer was wrong. The pedometer is ____.	accurate	inaccurate	right	wrong	9KNVR6X2DWC4;XH7FWCGRRXDJ
+fudge	She made a batch of amazin fudge. The fudge is ____.	She made a batch of awful fudge. The fudge is ____.	good	bad	amazin	awful	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+jump rope	The stretchable jump rope withstood the vigors of constant use. The jump rope is ____.	The nylon jump rope withstood the vigors of constant use. The jump rope is ____.	elastic	cotton	stretchable	nylon	9KNVR6X2DWC4;XH7FWCGRRXDJ
+strap	The weight made the strap stretch. The strap is ____.	The weight made the strap taut. The strap is ____.	elastic	solid	stretch	taut	76VNAHQ9VAC3;HWDQZR3ZTFRN
+wall	The books had been removed against the wall. The wall is ____.	The books had been piled against the wall. The wall is ____.	empty	stacked	removed	piled	XH7FWCGRRXDJ;XJKGQQWFXKTX
+suitcase	Charles is getting ready for work. The suitcase is ____.	Charles is getting ready for breakfast. The suitcase is ____.	open	closed	work	breakfast	FPMCK2P37RW2;NFN2M74RPJ2Q
+gurney	The gurney was still in the hallway. The gurney is ____.	The gurney was moving in the hallway. The gurney is ____.	empty	full	still	moving	9KNVR6X2DWC4;XXKCFJGVJDTX
+stereo	Jill noticed how loud the stereo was. The stereo is ____.	Jill noticed how quiet the stereo was. The stereo is ____.	on	off	loud	quiet	9KNVR6X2DWC4;XXKCFJGVJDTX
+aquarium	They left the aquarium ajar. The aquarium is ____.	They left the aquarium behind. The aquarium is ____.	open	abandoned	ajar	behind	W9XTVGDF6CV4;XH7FWCGRRXDJ
+peanut	Justin's bag of peanuts were in the pantry. The peanut is ____.	Justin's bag of peanuts were in the freezer. The peanut is ____.	edible	frozen	pantry	freezer	FPMCK2P37RW2;FWD4Z73KK6F6
+hot tub	The man stepped into the outdoor hot tub in Switzerland. The hot tub is ____.	The man stepped into the outdoor hot tub in Egypt. The hot tub is ____.	hot	cold	Switzerland	Egypt	FPMCK2P37RW2;FWD4Z73KK6F6
+coat	I wanted to wear the plain coat to the party. The coat is ____.	I wanted to wear the fancy coat to the party. The coat is ____.	simple	elaborate	plain	fancy	FPMCK2P37RW2;NFN2M74RPJ2Q
+pulpit	The man at the pulpit is above his audience. The pulpit is ____.	The man at the pulpit is below his audience. The pulpit is ____.	high	small	above	below	9KNVR6X2DWC4;XXKCFJGVJDTX
+snowsuit	At the ski lodge, a snowsuit is recommended. The snowsuit is ____.	At the ski lodge, a snowsuit is mandatory. The snowsuit is ____.	optional	required	recommended	mandatory	9KNVR6X2DWC4;XXKCFJGVJDTX
+stake	The stake was cleaned by Terry. The stake is ____.	The stake was filled by Terry. The stake is ____.	empty	full	cleaned	filled	NFN2M74RPJ2Q;XJKGQQWFXKTX
+satellite dish	When it rains the satellite dish collects water at the side. The satellite dish is ____.	When it rains the satellite dish drips water at the side. The satellite dish is ____.	circular	square	collects	drips	9KNVR6X2DWC4;XXKCFJGVJDTX
+pear	Kelly saw a green pear. The pear is ____.	Kelly saw a old pear. The pear is ____.	edible	brown	green	old	FWD4Z73KK6F6;XH7FWCGRRXDJ
+tab	She gave me a blank tab. The tab is ____.	She gave me a hearty tab. The tab is ____.	empty	filled	blank	hearty	9KNVR6X2DWC4;XH7FWCGRRXDJ
+chickpea	Depending on your pallet preference, the chickpea might be terminated  in your regular diet choices. The chickpea is ____.	Depending on your pallet preference, the chickpea might be active  in your regular diet choices. The chickpea is ____.	extinct	existing	terminated 	active 	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+bullet	The bullet is hollow. The bullet is ____.	The bullet is loaded. The bullet is ____.	empty	full	hollow	loaded	FPMCK2P37RW2;VNAQPVX4R36A
+orange	Neville's orange was on the table. The orange is ____.	Neville's orange was on the tree. The orange is ____.	orange	green	table	tree	EZCVAWE2HAMP;XJKGQQWFXKTX
+potpie	Jenny made her potpie for her son. The potpie is ____.	Jenny made her potpie for her town. The potpie is ____.	small	gigantic	son	town	76VNAHQ9VAC3;XJKGQQWFXKTX
+footrest	Bill ran his hand across the smooth surface of the footrest. The footrest is ____.	Bill ran his hand across the uneven surface of the footrest. The footrest is ____.	flat	bumpy	smooth	uneven	XH7FWCGRRXDJ;XJKGQQWFXKTX
+crab	Jess thought the crab was tender. The crab is ____.	Jess thought the crab was dying. The crab is ____.	edible	diseased	tender	dying	FWD4Z73KK6F6;XH7FWCGRRXDJ
+pillow	Bill's pillow was toasty. The pillow is ____.	Bill's pillow was frozen. The pillow is ____.	warm	cold	toasty	frozen	NFN2M74RPJ2Q;VNAQPVX4R36A
+potato	A vegetarian would enjoy the potato. The potato is ____.	A bat would enjoy the potato. The potato is ____.	vegetable	fruit	vegetarian	bat	9KNVR6X2DWC4;TRZKH4HK4646
+chickpea	Chickpeas had long been eradicated in this area. The chickpea is ____.	Chickpeas had long been planted in this area. The chickpea is ____.	extinct	living	eradicated	planted	9KNVR6X2DWC4;XH7FWCGRRXDJ
+ear	The worried doctor said that my ear looked abnormally tiny. The ear is ____.	The worried doctor said that my ear looked abnormally large. The ear is ____.	small	enormous	tiny	large	76VNAHQ9VAC3;HWDQZR3ZTFRN
+ostrich	Jill realized her pet ostrich had broken the bed. The ostrich is ____.	Jill realized her pet ostrich had left the bed. The ostrich is ____.	large	tiny	broken	left	NFN2M74RPJ2Q;XJKGQQWFXKTX
+flask	Jane had just finished the flask. The flask is ____.	Jane had just filled the flask. The flask is ____.	empty	full	finished	filled	9KNVR6X2DWC4;VNAQPVX4R36A
+curb	The man easily maintained his balance walking on the fat curb. The curb is ____.	The man easily maintained his balance walking on the skinny curb. The curb is ____.	wide	narrow	fat	skinny	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+exhaust pipe	The exhaust pipe was linear. The exhaust pipe is ____.	The exhaust pipe was curved. The exhaust pipe is ____.	straight	bent	linear	curved	9KNVR6X2DWC4;C69D7VD39FKM
+maple syrup	Ricky's maple syrup was real. The maple syrup is ____.	Ricky's maple syrup was fake. The maple syrup is ____.	sweet	bland	real	fake	FPMCK2P37RW2;NFN2M74RPJ2Q
+earwig	The textbook declared the earwig toxic. The earwig is ____.	The textbook declared the earwig innocuous. The earwig is ____.	poisonous	edible	toxic	innocuous	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+silicone	Mike prepared a batch of silicone frosting. The silicone is ____.	Mike prepared a batch of silicone caulking. The silicone is ____.	toxic	non-toxic	frosting	caulking	9KNVR6X2DWC4;XH7FWCGRRXDJ
+roller	Priya used a unbreakable foam roller for her back. The roller is ____.	Priya used a squishy foam roller for her back. The roller is ____.	hard	soft	unbreakable	squishy	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+paper	The office said the fancy paper was available to new employees. The paper is ____.	The office said the fancy paper was sold to new employees. The paper is ____.	free	expensive	available	sold	9KNVR6X2DWC4;XXKCFJGVJDTX
+meat grinder	You need a meat grinder that is assembled. The meat grinder is ____.	You need a meat grinder that is unaffordable. The meat grinder is ____.	mechanical	expensive	assembled	unaffordable	FPMCK2P37RW2;XH7FWCGRRXDJ
+seal	Stamping the envelope Jacob noticed the seal was round. The seal is ____.	Stamping the envelope Jacob noticed the seal was pointed. The seal is ____.	circular	angular	round	pointed	EZCVAWE2HAMP;XH7FWCGRRXDJ
+tray	Boris is finished chopping the onions on the tray. The tray is ____.	Boris is still chopping the onions on the tray. The tray is ____.	empty	full	finished	still	NFN2M74RPJ2Q;XJKGQQWFXKTX
+ski pole	The ski pole fell with its point stuck in the snow. The ski pole is ____.	The ski pole fell with its shaft stuck in the snow. The ski pole is ____.	vertical	down	point	shaft	76VNAHQ9VAC3;EZCVAWE2HAMP
+valve	The water shot from the mouth of the valve up into the room. The valve is ____.	The water shot from the mouth of the valve sideways into the room. The valve is ____.	vertical	horizontal	up	sideways	76VNAHQ9VAC3;XH7FWCGRRXDJ
+drill	I picked up a pristine drill. The drill is ____.	I picked up a flawed drill. The drill is ____.	perfect	imperfect	pristine	flawed	XH7FWCGRRXDJ;XJKGQQWFXKTX
+shortbread	Billie made a shortbread that is irregular. The shortbread is ____.	Billie made a shortbread that is normal. The shortbread is ____.	long	conventional	irregular	normal	9KNVR6X2DWC4;XXKCFJGVJDTX
+toad	My pet toad lives in a cup. The toad is ____.	My pet toad lives in a pool. The toad is ____.	small	huge	cup	pool	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+speedometer	Helen glanced at the speedometer and knew it was right. The speedometer is ____.	Helen glanced at the speedometer and knew it was broken. The speedometer is ____.	accurate	wrong	right	broken	EZCVAWE2HAMP;XJKGQQWFXKTX
+handle	Floris picked up the knife. The handle is ____.	Floris picked up the scissors. The handle is ____.	straight	curved	knife	scissors	9KNVR6X2DWC4;XXKCFJGVJDTX
+wheat	The farmer's wheat is healthy. The wheat is ____.	The farmer's wheat is diseased. The wheat is ____.	edible	dangerous	healthy	diseased	FWD4Z73KK6F6;XXKCFJGVJDTX
+daisy	I found out the daisy was safe to eat. The daisy is ____.	I found out the daisy was deadly to eat. The daisy is ____.	edible	toxic	safe	deadly	9KNVR6X2DWC4;XH7FWCGRRXDJ
+orange rind	I swallowed the orange rind. The orange rind is ____.	I spit the orange rind. The orange rind is ____.	edible	sour	swallowed	spit	C69D7VD39FKM;XH7FWCGRRXDJ
+porcupine	The  porcupine was seen in the Forrest  lately. The porcupine is ____.	The  porcupine was seen in the Area lately. The porcupine is ____.	extinct	present	Forrest 	Area	9KNVR6X2DWC4;XXKCFJGVJDTX
+peg	Ricky's peg looked bare. The peg is ____.	Ricky's peg looked filled. The peg is ____.	empty	full	bare	filled	FWD4Z73KK6F6;XJKGQQWFXKTX
+dish	Ben's meal was made by a chef. The dish is ____.	Ben's meal was made by a child. The dish is ____.	edible	inedible	chef	child	9KNVR6X2DWC4;XH7FWCGRRXDJ
+sausage	Yolanda's sausage had been long frozen. The sausage is ____.	Yolanda's sausage had been long expired. The sausage is ____.	edible	inedible	frozen	expired	HKXM7AJCMHJQ;HWDQZR3ZTFRN
+oil	We will need lots of costly oil. The oil is ____.	We will need lots of affordable oil. The oil is ____.	expensive	inexpensive	costly	affordable	FWD4Z73KK6F6;XH7FWCGRRXDJ
+ankle	She told me her ankle was puffy. The ankle is ____.	She told me her ankle was burning. The ankle is ____.	swollen	inflamed	puffy	burning	FPMCK2P37RW2;XH7FWCGRRXDJ
+puppet	The puppet can appear spiritless with help of a human's actions. The puppet is ____.	The puppet can appear existent with help of a human's actions. The puppet is ____.	dead	alive	spiritless	existent	9KNVR6X2DWC4;FWD4Z73KK6F6
+lamp	When she turned on the lamp the room was bright. The lamp is ____.	When she turned on the lamp the room was black. The lamp is ____.	light	dark	bright	black	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+loveseat	Frank got an email saying the loveseat was on the porch . The loveseat is ____.	Frank got an email saying the loveseat was on the truck. The loveseat is ____.	there	shipped	porch 	truck	FPMCK2P37RW2;FWD4Z73KK6F6
+nose	Bill had a very large nose. The nose is ____.	Bill had a very small nose. The nose is ____.	long	stubby	large	small	9KNVR6X2DWC4;XXKCFJGVJDTX
+punching bag	Francis had a punching bag that was average. The punching bag is ____.	Francis had a punching bag that was expensive. The punching bag is ____.	plastic	leather	average	expensive	9KNVR6X2DWC4;VNAQPVX4R36A
+surfboard	The mans board bent when he hit the wave. The surfboard is ____.	The mans board cracked when he hit the wave. The surfboard is ____.	rigid	broken	bent	cracked	9KNVR6X2DWC4;HKXM7AJCMHJQ
+cashew	Bob knocked over the salt spilling it on the cashews. The cashew is ____.	Bob knocked over the ginger spilling it on the cashews. The cashew is ____.	edible	bitter	salt	ginger	9KNVR6X2DWC4;XXKCFJGVJDTX
+wooden leg	The man's new wooden leg broke  under pressure. The wooden leg is ____.	The man's new wooden leg moved under pressure. The wooden leg is ____.	hollow	dense	broke 	moved	FPMCK2P37RW2;FWD4Z73KK6F6
+jukebox	Nancy bought a new jukebox. The jukebox is ____.	Nancy bought a used jukebox. The jukebox is ____.	musical	discordant	new	used	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+cockroach	The cockroach in Betty's kitchen cowered when it seen her. The cockroach is ____.	The cockroach in Betty's kitchen charged when it seen her. The cockroach is ____.	prey	attacking	cowered	charged	FWD4Z73KK6F6;VNAQPVX4R36A
+cabinet	Jennifer's searching of the cabinet for something to eat left her appetite unfilfilled. The cabinet is ____.	Jennifer's searching of the cabinet for something to eat left her appetite sated. The cabinet is ____.	empty	full	unfilfilled	sated	9KNVR6X2DWC4;FWD4Z73KK6F6
+wrap	Mike pulled the wrap tight and it stretched. The wrap is ____.	Mike pulled the wrap tight and it tore. The wrap is ____.	elastic	solid	stretched	tore	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+candy cane	Bob's dad showed him how to make candy canse from sugar for the holiday. The candy cane is ____.	Bob's dad showed him how to make candy canse from apples for the holiday. The candy cane is ____.	candy	fruit	sugar	apples	9KNVR6X2DWC4;C69D7VD39FKM
+yogurt	Mike ate the peach yogurt. The yogurt is ____.	Mike ate the lime yogurt. The yogurt is ____.	sweet	tangy	peach	lime	9KNVR6X2DWC4;XH7FWCGRRXDJ
+scaffold	I had to climb the vacant scaffolding to reach. The scaffold is ____.	I had to climb the occupied scaffolding to reach. The scaffold is ____.	empty	used	vacant	occupied	9KNVR6X2DWC4;XH7FWCGRRXDJ
+ping-pong table	I want to buy a disk-shaped ping-pong table. The ping-pong table is ____.	I want to buy a rectangular ping-pong table. The ping-pong table is ____.	circular	standard	disk-shaped	rectangular	9KNVR6X2DWC4;XXKCFJGVJDTX
+duct	Ronaldo found the end of the duct far. The duct is ____.	Ronaldo found the end of the duct close. The duct is ____.	long	stubby	far	close	FWD4Z73KK6F6;XJKGQQWFXKTX
+groundhog	Billy ran over the groundhog taking it from the side of the road. The groundhog is ____.	Billy ran over the groundhog cooking it from the side of the road. The groundhog is ____.	edible	consumable	taking	cooking	9KNVR6X2DWC4;FPMCK2P37RW2
+garter	Judy's garter is visible. The garter is ____.	Judy's garter is hidden. The garter is ____.	long	short	visible	hidden	9KNVR6X2DWC4;XH7FWCGRRXDJ
+chair	I found the chair to be cozy. The chair is ____.	I found the chair to be hard. The chair is ____.	comfortable	uncomfortable	cozy	hard	9KNVR6X2DWC4;VNAQPVX4R36A
+vacuum	When it was finished, my vacuum was barren. The vacuum is ____.	When it was finished, my vacuum was jam-packed. The vacuum is ____.	empty	full	barren	jam-packed	FPMCK2P37RW2;XH7FWCGRRXDJ
+origami	The museum director gushed over the antique origami collection. The origami is ____.	The museum director gushed over the new origami collection. The origami is ____.	ancient	modern	antique	new	9KNVR6X2DWC4;VNAQPVX4R36A
+sarcophagus	The found the sarcophagus to be empty. The sarcophagus is ____.	The found the sarcophagus to be occupied. The sarcophagus is ____.	hollow	filled	empty	occupied	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+jelly bean	Mike was enticed by the prospect of eating the jelly bean. The jelly bean is ____.	Mike was disgusted. by the prospect of eating the jelly bean. The jelly bean is ____.	edible	inedible	enticed	disgusted.	C69D7VD39FKM;FWD4Z73KK6F6
+grasshopper	The grasshopper was real. The grasshopper is ____.	The grasshopper was enlarged. The grasshopper is ____.	small	big	real	enlarged	9KNVR6X2DWC4;XXKCFJGVJDTX
+dumpster	The trash truck just stopped by the dumpster. The dumpster is ____.	The trash truck just drove by the dumpster. The dumpster is ____.	empty	stuffed	stopped	drove	9KNVR6X2DWC4;XXKCFJGVJDTX
+top hat	You may wear a top hat. The top hat is ____.	You must wear a top hat. The top hat is ____.	optional	compulsory	may	must	FPMCK2P37RW2;NFN2M74RPJ2Q
+boy	Donnie is at school. The boy is ____.	Donnie is at home. The boy is ____.	there	here	school	home	9KNVR6X2DWC4;FWD4Z73KK6F6
+pinwheel	Jaden's pinwheel's shadow was round. The pinwheel is ____.	Jaden's pinwheel's shadow was blockish. The pinwheel is ____.	circular	square	round	blockish	9KNVR6X2DWC4;FPMCK2P37RW2
+fur coat	I tried on the fur coat and it was too tall for me to wear. The fur coat is ____.	I tried on the fur coat and it was too tiny for me to wear. The fur coat is ____.	long	small	tall	tiny	9KNVR6X2DWC4;XH7FWCGRRXDJ
+golf club	Amber was given a golden golf club. The golf club is ____.	Amber was sold a golden golf club. The golf club is ____.	free	expensive	given	sold	76VNAHQ9VAC3;NFN2M74RPJ2Q
+bra	It is permitted to wear the bra. The bra is ____.	It is required to wear the bra. The bra is ____.	optional	compulsory	permitted	required	FPMCK2P37RW2;XH7FWCGRRXDJ
+stained glass	The appraiser examined the stained glass and smiled. The stained glass is ____.	The appraiser examined the stained glass and frowned. The stained glass is ____.	original	forged	smiled	frowned	9KNVR6X2DWC4;XXKCFJGVJDTX
+music box	Linda's music box was loud. The music box is ____.	Linda's music box was silent. The music box is ____.	musical	tuneless	loud	silent	FWD4Z73KK6F6;XH7FWCGRRXDJ
+radar	It's best when the radar is functioning. The radar is ____.	It's best when the radar is idle. The radar is ____.	active	inactive	functioning	idle	FPMCK2P37RW2;FWD4Z73KK6F6
+plum	Tim had to sort through the basket of ripened plums at the market. The plum is ____.	Tim had to sort through the basket of unconsumable plums at the market. The plum is ____.	edible	leafy	ripened	unconsumable	9KNVR6X2DWC4;XXKCFJGVJDTX
+nightstand	I keep my medicine in a unsecured nightstand. The nightstand is ____.	I keep my medicine in a fastened nightstand. The nightstand is ____.	open	locked	unsecured	fastened	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+cage	Rebecca was concerned when she noticed the cage was deserted. The cage is ____.	Rebecca was concerned when she noticed the cage was overcrowded. The cage is ____.	empty	overflowing	deserted	overcrowded	9KNVR6X2DWC4;FPMCK2P37RW2
+viewfinder	The camera's viewfinder is present. The viewfinder is ____.	The camera's viewfinder is absent. The viewfinder is ____.	visible	missing	present	absent	9KNVR6X2DWC4;XH7FWCGRRXDJ
+swimsuit	Kimberly was wearing a clear swimsuit. The swimsuit is ____.	Kimberly was wearing a black swimsuit. The swimsuit is ____.	transparent	covering	clear	black	XH7FWCGRRXDJ;XJKGQQWFXKTX
+eye	Bill lay in bed watching ants crawling across the ceiling. The eye is ____.	Bill lay in bed imagining ants crawling across the ceiling. The eye is ____.	open	closed	watching	imagining	EZCVAWE2HAMP;NFN2M74RPJ2Q
+inkwell	John cleaned his blue inkwell. The inkwell is ____.	John refilled his blue inkwell. The inkwell is ____.	empty	stuffed	cleaned	refilled	7G7NZEEGPR4K;FWD4Z73KK6F6
+stereo	I gave Jack a free stereo. The stereo is ____.	I gave Jack a malfunctioning stereo. The stereo is ____.	available	broken	free	malfunctioning	76VNAHQ9VAC3;XH7FWCGRRXDJ
+bathrobe	Randal decided to wear his bathrobe at the party. The bathrobe is ____.	Randal decided to remove his bathrobe at the party. The bathrobe is ____.	optional	nudity	wear	remove	NFN2M74RPJ2Q;XJKGQQWFXKTX
+nose	The child pointed at the woman with the enormous nose. The nose is ____.	The child pointed at the woman with the tiny nose. The nose is ____.	large	small	enormous	tiny	VNAQPVX4R36A;XH7FWCGRRXDJ
+binder	My bare binder fell out of my backpack. The binder is ____.	My overloaded binder fell out of my backpack. The binder is ____.	empty	full	bare	overloaded	9KNVR6X2DWC4;XH7FWCGRRXDJ
+throne	The queen walked in to find the throne vacant. The throne is ____.	The queen walked in to find the throne occupied. The throne is ____.	empty	full	vacant	occupied	76VNAHQ9VAC3;NFN2M74RPJ2Q
+hawk	The massive hawk landed on the nest. The hawk is ____.	The mini hawk landed on the nest. The hawk is ____.	large	tiny	massive	mini	9KNVR6X2DWC4;FWD4Z73KK6F6
+bow	The bow appeared to be arched. The bow is ____.	The bow appeared to be straight . The bow is ____.	curved	uncurled	arched	straight 	9KNVR6X2DWC4;FWD4Z73KK6F6
+leopard	The leopard was widely seen by the humans. The leopard is ____.	The leopard was never seen by the humans. The leopard is ____.	extinct	alive	widely	never	9KNVR6X2DWC4;FPMCK2P37RW2
+sandal	Olivia bought a sandal online that was made for humans. The sandal is ____.	Olivia bought a sandal online that was made for babies. The sandal is ____.	long	tiny	humans	babies	9KNVR6X2DWC4;TRZKH4HK4646
+train car	The train carrying the people in the train car is stopped. The train car is ____.	The train carrying the people in the train car is moving. The train car is ____.	open	closed	stopped	moving	9KNVR6X2DWC4;VNAQPVX4R36A
+peanut	The elephant ignored the bag of peanuts. The peanut is ____.	The elephant dropped the bag of peanuts. The peanut is ____.	edible	scattered	ignored	dropped	XH7FWCGRRXDJ;XJKGQQWFXKTX
+luggage	Jills luggage fell and her clothes fell in her luggage. The luggage is ____.	Jills luggage fell and her clothes stayed in her luggage. The luggage is ____.	empty	full	fell	stayed	76VNAHQ9VAC3;XJKGQQWFXKTX
+lifesaver	I found a deceased lifesaver. The lifesaver is ____.	I found a working lifesaver. The lifesaver is ____.	dead	alive	deceased	working	EZCVAWE2HAMP;NFN2M74RPJ2Q
+croissant	Yesterday's breakfast consisted of a fresh  croissant. The croissant is ____.	Yesterday's breakfast consisted of a contaminated croissant. The croissant is ____.	edible	toxic	fresh 	contaminated	XH7FWCGRRXDJ;XJKGQQWFXKTX
+mouth	The small child stretched open his mouth for the applesauce. The mouth is ____.	The small child peeked open his mouth for the applesauce. The mouth is ____.	wide	small	stretched	peeked	76VNAHQ9VAC3;HWDQZR3ZTFRN
+sloth	The eagle was full after preying on the sloth. The sloth is ____.	The eagle was hungry after preying on the sloth. The sloth is ____.	edible	unpalatable	full	hungry	9KNVR6X2DWC4;VNAQPVX4R36A
+gem	My ring holds a valuable gem. The gem is ____.	My ring holds a boring gem. The gem is ____.	precious	common	valuable	boring	9KNVR6X2DWC4;XH7FWCGRRXDJ
+kayak	The location of the kayak is temporary. The kayak is ____.	The location of the kayak is permanent. The kayak is ____.	portable	fixed	temporary	permanent	HKXM7AJCMHJQ;W9XTVGDF6CV4
+sailboat	We took a unusual sailboat. The sailboat is ____.	We took a regular sailboat. The sailboat is ____.	unique	ordinary	unusual	regular	FPMCK2P37RW2;XH7FWCGRRXDJ
+aardvark	Mason knew the aardvark was an adult. The aardvark is ____.	Mason knew the aardvark was an infant. The aardvark is ____.	large	small	adult	infant	XH7FWCGRRXDJ;XJKGQQWFXKTX
+crumb	Mary wanted to eat the crumb. The crumb is ____.	Mary wanted to clean the crumb. The crumb is ____.	edible	uneatable	eat	clean	9KNVR6X2DWC4;FWD4Z73KK6F6
+flip-flop	Jim tried and Slammed his flip-flop. The flip-flop is ____.	Jim tried and Ripped  his flip-flop. The flip-flop is ____.	flat	bent	Slammed	Ripped 	FPMCK2P37RW2;XJKGQQWFXKTX
+chihuahua	Mark realized his chihuahua came from Mexico as he lived in the US'. The chihuahua is ____.	Mark realized his chihuahua came from UK as he lived in the US'. The chihuahua is ____.	indigenous	imported	Mexico	UK	9KNVR6X2DWC4;XXKCFJGVJDTX
+grate	Mike lifted the sewer grate. The grate is ____.	Mike lifted the storm grate. The grate is ____.	circular	rectangular	sewer	storm	76VNAHQ9VAC3;XJKGQQWFXKTX
+taffy	Sally loved the new taffy flavor. The taffy is ____.	Sally hated the new taffy flavor. The taffy is ____.	sweet	salty	loved	hated	9KNVR6X2DWC4;XH7FWCGRRXDJ
+knitting needle	Jenny uses this knitting needle to make a loop that is a circle. The knitting needle is ____.	Jenny uses this knitting needle to make a loop that is a triangle. The knitting needle is ____.	circular	triangular	circle	triangle	FPMCK2P37RW2;NFN2M74RPJ2Q
+hairspray	Molly bought her hairspray from the luxurious salon. The hairspray is ____.	Molly bought her hairspray from the children's salon. The hairspray is ____.	expensive	affordable	luxurious	children's	FPMCK2P37RW2;XXKCFJGVJDTX
+baby	The baby's mother took him to the doctor every milestone. The baby is ____.	The baby's mother took him to the doctor every week. The baby is ____.	healthy	sickly	milestone	week	9KNVR6X2DWC4;XH7FWCGRRXDJ
+wineglass	Gina's picked up her wineglass to have a drink and it was finished. The wineglass is ____.	Gina's picked up her wineglass to have a drink and it was overflowing. The wineglass is ____.	empty	full	finished	overflowing	EZCVAWE2HAMP;XH7FWCGRRXDJ
+cactus	Randy heard the cactus was a safe species. The cactus is ____.	Randy heard the cactus was a toxic species. The cactus is ____.	edible	poisonous	safe	toxic	EZCVAWE2HAMP;XJKGQQWFXKTX
+mustard	Francis found the mustard perfect. The mustard is ____.	Francis found the mustard gone. The mustard is ____.	edible	eaten	perfect	gone	9KNVR6X2DWC4;FWD4Z73KK6F6
+fire alarm	The new fire alarm installed was loud. The fire alarm is ____.	The new fire alarm installed was muted. The fire alarm is ____.	audible	inaudible	loud	muted	HWDQZR3ZTFRN;VNAQPVX4R36A
+marble	The beautiful marble is from a building. The marble is ____.	The beautiful marble is from a play. The marble is ____.	hard	weak	building	play	9KNVR6X2DWC4;FWD4Z73KK6F6
+jewelry	All of the jewelry was too costly. The jewelry is ____.	All of the jewelry was too cheap. The jewelry is ____.	expensive	inexpensive	costly	cheap	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+jug	I had to shove the jug outside. The jug is ____.	I had to carry the jug outside. The jug is ____.	heavy	light	shove	carry	9KNVR6X2DWC4;FPMCK2P37RW2
+knot	Untying his shoe was determined by how unchallenging  the knot ended up being in its shoelace. The knot is ____.	Untying his shoe was determined by how intricate the knot ended up being in its shoelace. The knot is ____.	simple	complicated	unchallenging 	intricate	9KNVR6X2DWC4;XXKCFJGVJDTX
+wall	I hung the photos on the blank wall. The wall is ____.	I hung the photos on the finished wall. The wall is ____.	empty	complete	blank	finished	76VNAHQ9VAC3;XH7FWCGRRXDJ
+coral	Jenny looked at the coral in the ocean. The coral is ____.	Jenny looked at the coral in the bracelet. The coral is ____.	large	small	ocean	bracelet	9KNVR6X2DWC4;XXKCFJGVJDTX
+coffin	The coffin is displayed. The coffin is ____.	The coffin is underground. The coffin is ____.	open	sealed	displayed	underground	9KNVR6X2DWC4;XXKCFJGVJDTX
+javelin	Kevin stood next to the javelin and it was taller than he was. The javelin is ____.	Kevin stood next to the javelin and it was smaller than he was. The javelin is ____.	long	short	taller	smaller	FWD4Z73KK6F6;VNAQPVX4R36A
+mouse	Tom saw the wee mouse. The mouse is ____.	Tom saw the huge mouse. The mouse is ____.	small	gigantic	wee	huge	XH7FWCGRRXDJ;XJKGQQWFXKTX
+wire	She used a narrow wire. The wire is ____.	She used a plump wire. The wire is ____.	thin	thick	narrow	plump	9KNVR6X2DWC4;XH7FWCGRRXDJ
+straw	The young boy fumbled with the straw as it was too big for his hands. The straw is ____.	The young boy fumbled with the straw as it was too puny for his hands. The straw is ____.	long	small	big	puny	FWD4Z73KK6F6;XH7FWCGRRXDJ
+neck	I ran my hand along the neck. The neck is ____.	I ran my hand around the neck. The neck is ____.	straight	curved	along	around	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+coffee table	The coffee table magazines were on the floor after they were read. The coffee table is ____.	The coffee table magazines were on the tabletop  after they were read. The coffee table is ____.	bare	full	floor	tabletop 	76VNAHQ9VAC3;XJKGQQWFXKTX
+peppermint	The waitress brought me a deadly mushroom. The peppermint is ____.	The waitress brought me a edible mushroom. The peppermint is ____.	poisonous	consumable	deadly	edible	FPMCK2P37RW2;VNAQPVX4R36A
+walrus	People exterminated the walrus recently. The walrus is ____.	People studied the walrus recently. The walrus is ____.	extinct	alive	exterminated	studied	76VNAHQ9VAC3;XH7FWCGRRXDJ
+camcorder	Barry is looking at the camcorder at the store's counter. The camcorder is ____.	Barry is looking at the camcorder at the store's website. The camcorder is ____.	portable	stuck	counter	website	9KNVR6X2DWC4;XXKCFJGVJDTX
+radar	The radar tower is functioning. The radar is ____.	The radar tower is vandalized. The radar is ____.	operational	inoperable	functioning	vandalized	FWD4Z73KK6F6;VNAQPVX4R36A
+eggnog	Jim was enticed by the taste of the eggnog. The eggnog is ____.	Jim was disgusted by the taste of the eggnog. The eggnog is ____.	edible	inedible	enticed	disgusted	76VNAHQ9VAC3;HWDQZR3ZTFRN
+bra	The bra material was stretchy. The bra is ____.	The bra material was rigid. The bra is ____.	elastic	plastic	stretchy	rigid	XH7FWCGRRXDJ;XJKGQQWFXKTX
+eel	The child got an excited look on his face when he saw the eel on his plate. The eel is ____.	The child got an petrified look on his face when he saw the eel on his plate. The eel is ____.	edible	inedible	excited	petrified	NFN2M74RPJ2Q;XJKGQQWFXKTX
+hand	Brian hit the wall with his hand made a hole. The hand is ____.	Brian hit the wall with his hand made a dent. The hand is ____.	strong	hurt	hole	dent	FWD4Z73KK6F6;XH7FWCGRRXDJ
+pulpit	Tomorrow the pulpit will be available. The pulpit is ____.	Tomorrow the pulpit will be hectic. The pulpit is ____.	free	busy	available	hectic	FWD4Z73KK6F6;VNAQPVX4R36A
+hail	frozen hail fell from the sky. The hail is ____.	melted hail fell from the sky. The hail is ____.	cold	warm	frozen	melted	FWD4Z73KK6F6;XH7FWCGRRXDJ
+top hat	We are allowed to wear the top hat. The top hat is ____.	We are required to wear the top hat. The top hat is ____.	optional	mandatory	allowed	required	76VNAHQ9VAC3;XJKGQQWFXKTX
+scale	Jill stood on a straight scale. The scale is ____.	Jill stood on a wavy scale. The scale is ____.	linear	curvy	straight	wavy	HWDQZR3ZTFRN;VNAQPVX4R36A
+pepper	Even though the pepper had not been cooked, it was still delicious. The pepper is ____.	Even though the pepper had not been cooked, it was still warm. The pepper is ____.	edible	hot	delicious	warm	FPMCK2P37RW2;NFN2M74RPJ2Q
+fishing pole	The fishing pole was for fly fishing. The fishing pole is ____.	The fishing pole was for normal fishing. The fishing pole is ____.	long	short	fly	normal	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+inhaler	Jose's inhaler was rolling in the dirt. The inhaler is ____.	Jose's inhaler was stuck in the dirt. The inhaler is ____.	portable	immovable	rolling	stuck	9KNVR6X2DWC4;XH7FWCGRRXDJ
+drawer	The portable radio could be seen in the drawer. The drawer is ____.	The portable radio could be heard in the drawer. The drawer is ____.	open	closed	seen	heard	9KNVR6X2DWC4;XH7FWCGRRXDJ
+mushroom	The mushroom they found in the wilderness was dangerous to ingest. The mushroom is ____.	The mushroom they found in the wilderness was okay to ingest. The mushroom is ____.	poisonous	safe	dangerous	okay	76VNAHQ9VAC3;NFN2M74RPJ2Q
+macadamia	Ashley's macadamia was observed by the biologists. The macadamia is ____.	Ashley's macadamia was observed by the mouse. The macadamia is ____.	rare	common	biologists	mouse	9KNVR6X2DWC4;XXKCFJGVJDTX
+drain	Charlie was unclogging the toilet and put the plunger near the drain. The drain is ____.	Charlie was unclogging the toilet and put the plunger on the drain. The drain is ____.	open	plugged	near	on	HKXM7AJCMHJQ;XJKGQQWFXKTX
+metal detector	Gabby's metal detector is moveable. The metal detector is ____.	Gabby's metal detector is glued. The metal detector is ____.	portable	stuck	moveable	glued	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+bunkbed	Tim ran and jumped on the bed grabbing onto the mattress. The bunkbed is ____.	Tim ran and jumped on the bed grabbing onto the sheets. The bunkbed is ____.	empty	full	mattress	sheets	9KNVR6X2DWC4;FWD4Z73KK6F6
+ukulele	The ukulele was made of wood. The ukulele is ____.	The ukulele was made of plastic. The ukulele is ____.	musical	fake	wood	plastic	9KNVR6X2DWC4;XXKCFJGVJDTX
+olive	Eating the olive is healthy for your digestive system. The olive is ____.	Eating the olive is unhealthy for your digestive system. The olive is ____.	edible	indigestible	healthy	unhealthy	FWD4Z73KK6F6;XH7FWCGRRXDJ
+float	The float near Esmerelda was deserted. The float is ____.	The float near Esmerelda was crowded. The float is ____.	empty	full	deserted	crowded	FPMCK2P37RW2;XH7FWCGRRXDJ
+slime	Tim at slime that was sickening. The slime is ____.	Tim at slime that was tasty. The slime is ____.	poisonous	delicious	sickening	tasty	9KNVR6X2DWC4;XH7FWCGRRXDJ
+syrup	The syrup went on the Pancakes when pouring it. The syrup is ____.	The syrup went on the Plate when pouring it. The syrup is ____.	edible	runny	Pancakes	Plate	76VNAHQ9VAC3;NFN2M74RPJ2Q
+lemonade	Janet said my lemonade was sharp. The lemonade is ____.	Janet said my lemonade was yummy. The lemonade is ____.	bitter	tasty	sharp	yummy	FPMCK2P37RW2;VNAQPVX4R36A
+pole	This time of year, Santa's workshop is entirely deserted. The pole is ____.	This time of year, Santa's workshop is entirely staffed. The pole is ____.	empty	occupied	deserted	staffed	9KNVR6X2DWC4;XH7FWCGRRXDJ
+handprint	The famous handprint in the concrete had a lot of curious onlookers. The handprint is ____.	The anonymous handprint in the concrete had a lot of curious onlookers. The handprint is ____.	recognizable	unknown	famous	anonymous	QHKQ32WVQEGN;XH7FWCGRRXDJ
+moss	Karen tried to eat the moss and found it healthy. The moss is ____.	Karen tried to eat the moss and found it foul. The moss is ____.	edible	revolting	healthy	foul	FWD4Z73KK6F6;VNAQPVX4R36A
+car door	Kathy left the car door ajar for the night. The car door is ____.	Kathy left the car door locked for the night. The car door is ____.	open	sealed	ajar	locked	9KNVR6X2DWC4;XH7FWCGRRXDJ
+almond	Janice pulled a tasty almond out of the jar. The almond is ____.	Janice pulled a rotten almond out of the jar. The almond is ____.	edible	uneatable	tasty	rotten	76VNAHQ9VAC3;XH7FWCGRRXDJ
+pedal	At the bike store, John was shown a promotional pedal. The pedal is ____.	At the bike store, John was shown a luxury pedal. The pedal is ____.	free	pricey	promotional	luxury	FWD4Z73KK6F6;XH7FWCGRRXDJ
+balloon	Gail touched the balloon and found it scalding. The balloon is ____.	Gail touched the balloon and found it normal. The balloon is ____.	hot	tepid	scalding	normal	FPMCK2P37RW2;XJKGQQWFXKTX
+stake	Gillian found she could not see over the stake. The stake is ____.	Gillian found she could not trip over the stake. The stake is ____.	high	low	see	trip	9KNVR6X2DWC4;FPMCK2P37RW2
+dial	June noticed the dial and confirmed the setting. The dial is ____.	June noticed the dial and adjusted the setting. The dial is ____.	right	off	confirmed	adjusted	FWD4Z73KK6F6;VNAQPVX4R36A
+nose	Clair has a particularly prominent nose. The nose is ____.	Clair has a particularly stubby nose. The nose is ____.	long	short	prominent	stubby	9KNVR6X2DWC4;XXKCFJGVJDTX
+melon	The beetles had gotten on the mellon. The melon is ____.	The beetles had gotten in the mellon. The melon is ____.	edible	buggy	on	in	9KNVR6X2DWC4;HKXM7AJCMHJQ
+llama	The llama gets its nourishment from its keeper. The llama is ____.	The llama gets its nourishment from its mother. The llama is ____.	large	baby	keeper	mother	9KNVR6X2DWC4;XH7FWCGRRXDJ
+twig	The twig was able to reach a far distance. The twig is ____.	The twig was able to reach a short distance. The twig is ____.	long	stubby	far	short	9KNVR6X2DWC4;XXKCFJGVJDTX
+nightstand	Maya found the nightstand to be agape. The nightstand is ____.	Maya found the nightstand to be locked. The nightstand is ____.	open	sealed	agape	locked	FXAG33X37DRG;VNAQPVX4R36A
+powder	Combining different chemicals and materials with powder may render it as incendiary. The powder is ____.	Combining different chemicals and materials with powder may render it as harmless. The powder is ____.	explosive	innocuous	incendiary	harmless	9KNVR6X2DWC4;XH7FWCGRRXDJ
+closet	Phillip wanted to be able to see the closet shelves. The closet is ____.	Phillip wanted to be able to see the closet door. The closet is ____.	open	closed	shelves	door	9KNVR6X2DWC4;VNAQPVX4R36A
+microscope	The microscope could me removed from the building with one hand. The microscope is ____.	The microscope could me removed from the building with one truck. The microscope is ____.	portable	fixed	hand	truck	76VNAHQ9VAC3;NFN2M74RPJ2Q
+windshield	The heat in the car caused the windshield to become opaque. The windshield is ____.	The heat in the car caused the windshield to become murky. The windshield is ____.	clear	fogged	opaque	murky	9KNVR6X2DWC4;FPMCK2P37RW2
+lemon	In the orchard, the lemon on the tree is yellow. The lemon is ____.	In the orchard, the lemon on the tree is bitter. The lemon is ____.	edible	green	yellow	bitter	9KNVR6X2DWC4;XXKCFJGVJDTX
+bathrobe	The crowd was indifferent that Jack had chosen not to wear the robe. The bathrobe is ____.	The crowd was shocked that Jack had chosen not to wear the robe. The bathrobe is ____.	optional	clothes	indifferent	shocked	NFN2M74RPJ2Q;XJKGQQWFXKTX
+pitchfork	The pitchfork was much taller than Bill. The pitchfork is ____.	The pitchfork was much shorter than Bill. The pitchfork is ____.	long	short	taller	shorter	9KNVR6X2DWC4;XH7FWCGRRXDJ
+dandelion	It's safe to eat that dandelion. The dandelion is ____.	It's poisonous to eat that dandelion. The dandelion is ____.	edible	poisonous	safe	poisonous	FPMCK2P37RW2;NFN2M74RPJ2Q
+payphone	Douglas used a payphone that was moveable. The payphone is ____.	Douglas used a payphone that was stuck. The payphone is ____.	portable	stationary	moveable	stuck	EZCVAWE2HAMP;XJKGQQWFXKTX
+honey	After adding honey to my tea, it was delicious. The honey is ____.	After adding honey to my tea, it was oversweet. The honey is ____.	good	terrible	delicious	oversweet	FWD4Z73KK6F6;XXKCFJGVJDTX
+snail	After holding the snail, her hand was covered in wounds. The snail is ____.	After holding the snail, her hand was covered in excrement. The snail is ____.	poisonous	non-toxic	wounds	excrement	FPMCK2P37RW2;FWD4Z73KK6F6
+satellite dish	Bill loaded the satellite dish neatly into the round box. The satellite dish is ____.	Bill loaded the satellite dish neatly into the square box. The satellite dish is ____.	circular	rectangular	round	square	FWD4Z73KK6F6;XJKGQQWFXKTX
+seed	Mark Roasted the sunflpwer seed in his kitchen. The seed is ____.	Mark Soaked the sunflpwer seed in his kitchen. The seed is ____.	edible	inedible	Roasted	Soaked	FWD4Z73KK6F6;XXKCFJGVJDTX
+dial	Mary gasped when she saw that the dial was barren. The dial is ____.	Mary gasped when she saw that the dial was stuffed. The dial is ____.	empty	full	barren	stuffed	9KNVR6X2DWC4;HKXM7AJCMHJQ
+tennis ball	The tennis ball was regulation. The tennis ball is ____.	The tennis ball was novelty. The tennis ball is ____.	round	square	regulation	novelty	9KNVR6X2DWC4;C69D7VD39FKM
+pickle	The pickle they gave me was filling. The pickle is ____.	The pickle they gave me was poisonous. The pickle is ____.	edible	toxic	filling	poisonous	9KNVR6X2DWC4;FPMCK2P37RW2
+soup	She served soup that was yummy. The soup is ____.	She served soup that was gross. The soup is ____.	delicious	bad	yummy	gross	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+saffron	She wore a violet saffron. The saffron is ____.	She wore a bland saffron. The saffron is ____.	purple	colourless	violet	bland	XH7FWCGRRXDJ;XJKGQQWFXKTX
+fire pit	The fire pit is located in the store. The fire pit is ____.	The fire pit is located in the yard. The fire pit is ____.	empty	full	store	yard	FPMCK2P37RW2;FWD4Z73KK6F6
+golf club	The golf club was inaccessible depending on member status. The golf club is ____.	The golf club was available  depending on member status. The golf club is ____.	private	open	inaccessible	available 	9KNVR6X2DWC4;VNAQPVX4R36A
+figurine	The color of the figurine is yellow. The figurine is ____.	The color of the figurine is gray. The figurine is ____.	gold	silver	yellow	gray	9KNVR6X2DWC4;XH7FWCGRRXDJ
+knitting needle	The shadow the knitting needle makes is round. The knitting needle is ____.	The shadow the knitting needle makes is angular. The knitting needle is ____.	circular	rectangular	round	angular	9KNVR6X2DWC4;XH7FWCGRRXDJ
+cinnamon	With some baked goods, adding cinnamon is flavorful. The cinnamon is ____.	With some baked goods, adding cinnamon is overpowering. The cinnamon is ____.	edible	gross	flavorful	overpowering	7G7NZEEGPR4K;XXKCFJGVJDTX
+neck	The patient has a upright neck. The neck is ____.	The patient has a crooked neck. The neck is ____.	straight	bent	upright	crooked	FPMCK2P37RW2;FWD4Z73KK6F6
+pillow	Alexandra slept under the sun. The pillow is ____.	Alexandra slept under the stars. The pillow is ____.	warm	comfortable	sun	stars	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+golf cart	The golf cart we tried was moveable. The golf cart is ____.	The golf cart we tried was affixed. The golf cart is ____.	portable	immobile	moveable	affixed	9KNVR6X2DWC4;XXKCFJGVJDTX
+snail	Bill thought the snail smelled fine. The snail is ____.	Bill thought the snail smelled rancid. The snail is ____.	edible	rotten	fine	rancid	9KNVR6X2DWC4;XH7FWCGRRXDJ
+drink	The bartender sold them the drink. The drink is ____.	The child sold them the drink. The drink is ____.	alcoholic	lemonade	bartender	child	9KNVR6X2DWC4;XXKCFJGVJDTX
+fungus	Adding the fungus to her stew made it delicious. The fungus is ____.	Adding the fungus to her stew made it poisonous. The fungus is ____.	edible	toxic	delicious	poisonous	9KNVR6X2DWC4;FWD4Z73KK6F6
+hairpin	The hairpin was used to manipulate a hairstyle. The hairpin is ____.	The hairpin was used to manipulate a lock. The hairpin is ____.	straight	bent	hairstyle	lock	9KNVR6X2DWC4;HKXM7AJCMHJQ
+barrel	Mike bumped his knee into the curved side of the barrel. The barrel is ____.	Mike bumped his knee into the angular side of the barrel. The barrel is ____.	round	rectangular	curved	angular	VNAQPVX4R36A;XH7FWCGRRXDJ
+napkin	Tommy washed the napkin on the table. The napkin is ____.	Tommy used the napkin on the table. The napkin is ____.	clean	dirty	washed	used	9KNVR6X2DWC4;XH7FWCGRRXDJ
+coffin	The barren coffin caused Mary to get emotional. The coffin is ____.	The stuffed coffin caused Mary to get emotional. The coffin is ____.	empty	filled	barren	stuffed	R3CDKNC3PH6K;XH7FWCGRRXDJ
+alligator	The alligator was dwarfed by the elephant. The alligator is ____.	The alligator was dwarfed by the dog. The alligator is ____.	large	small	elephant	dog	FPMCK2P37RW2;NFN2M74RPJ2Q
+pedal	The shop had a complimentary pedal. The pedal is ____.	The shop had a overpriced pedal. The pedal is ____.	free	expensive	complimentary	overpriced	9KNVR6X2DWC4;XH7FWCGRRXDJ
+handle	I was holding the bar of the handle. The handle is ____.	I was holding the curve of the handle. The handle is ____.	straight	round	bar	curve	NFN2M74RPJ2Q;XJKGQQWFXKTX
+latch	The barn door had been breached. The latch is ____.	The barn door had been secured. The latch is ____.	open	locked	breached	secured	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+brooch	Mandy's brooch was expensive. The brooch is ____.	Mandy's brooch was heavy. The brooch is ____.	gold	iron	expensive	heavy	EZCVAWE2HAMP;HWDQZR3ZTFRN
+balloon	Mike dropped the balloon and it drifted  to the ground. The balloon is ____.	Mike dropped the balloon and it fell  to the ground. The balloon is ____.	empty	overflowing	drifted	fell	76VNAHQ9VAC3;NFN2M74RPJ2Q
+lemon	The lemon for the lemonade was organic. The lemon is ____.	The lemon for the lemonade was regular. The lemon is ____.	sweet	sour	organic	regular	9KNVR6X2DWC4;XXKCFJGVJDTX
+coat	The coat I prefer is basic. The coat is ____.	The coat I prefer is lavish. The coat is ____.	simple	sumptuous	basic	lavish	FPMCK2P37RW2;FWD4Z73KK6F6
+blueberry	I picked up a delicious blueberry. The blueberry is ____.	I picked up a dangerous blueberry. The blueberry is ____.	edible	toxic	delicious	dangerous	76VNAHQ9VAC3;XJKGQQWFXKTX
+cape	Kayla's cape was narrow. The cape is ____.	Kayla's cape was small. The cape is ____.	long	tiny	narrow	small	9KNVR6X2DWC4;XH7FWCGRRXDJ
+paperweight	The brilliant paperweight had to be guarded carefully. The paperweight is ____.	The brilliant paperweight had to be polished carefully. The paperweight is ____.	gold	silver	guarded	polished	9KNVR6X2DWC4;XH7FWCGRRXDJ
+baby	The baby's ears are clear. The baby is ____.	The baby's ears are infected. The baby is ____.	healthy	sick	clear	infected	FWD4Z73KK6F6;XXKCFJGVJDTX
+rocking chair	someone is sitting in the rocking chair. The rocking chair is ____.	noone. is sitting in the rocking chair. The rocking chair is ____.	empty	full	someone	noone.	9KNVR6X2DWC4;XH7FWCGRRXDJ
+test tube	Francine showed the lengthy test tube to Mark. The test tube is ____.	Francine showed the stubby test tube to Mark. The test tube is ____.	long	short	lengthy	stubby	9KNVR6X2DWC4;FPMCK2P37RW2
+oven	Susan left the oven to cool. The oven is ____.	Susan left the oven to warm. The oven is ____.	open	closed	cool	warm	NFN2M74RPJ2Q;XJKGQQWFXKTX
+cane	Mike broke the cane in half an contraband fell out. The cane is ____.	Mike broke the cane in half an nothing fell out. The cane is ____.	hollow	stuffed	contraband	nothing	9KNVR6X2DWC4;VNAQPVX4R36A
+train car	My seat was in a train car that was deserted. The train car is ____.	My seat was in a train car that was overcrowded. The train car is ____.	empty	crammed	deserted	overcrowded	FWD4Z73KK6F6;XXKCFJGVJDTX
+brooch	The brooch on Mandy's shirt was shiny. The brooch is ____.	The brooch on Mandy's shirt was dull. The brooch is ____.	gold	copper	shiny	dull	FPMCK2P37RW2;XH7FWCGRRXDJ
+mouse	The mouse was fed by the cheese in the mousetrap. The mouse is ____.	The mouse was trapped by the cheese in the mousetrap. The mouse is ____.	intelligent	unintelligent	fed	trapped	9KNVR6X2DWC4;XXKCFJGVJDTX
+rubber band	I used a stretchy rubber band. The rubber band is ____.	I used a firm rubber band. The rubber band is ____.	elastic	stiff	stretchy	firm	9KNVR6X2DWC4;XH7FWCGRRXDJ
+copier	Tara's copier is mobile on her desk. The copier is ____.	Tara's copier is stuck on her desk. The copier is ____.	portable	immobile	mobile	stuck	FWD4Z73KK6F6;XH7FWCGRRXDJ
+potato	The potato's skin was smooth. The potato is ____.	The potato's skin was jagged. The potato is ____.	edible	sprouted	smooth	jagged	FPMCK2P37RW2;NFN2M74RPJ2Q
+wolf	When I saw the person, I realized it was the wolf. The wolf is ____.	When I saw the dog, I realized it was the wolf. The wolf is ____.	human	canine	person	dog	HKXM7AJCMHJQ;XH7FWCGRRXDJ
+exerciser	My dad is an exerciser that is unassertive. The exerciser is ____.	My dad is an exerciser that is vigorous. The exerciser is ____.	passive	active	unassertive	vigorous	XH7FWCGRRXDJ;XJKGQQWFXKTX
+lectern	Mark was excited to build a rounded lectern. The lectern is ____.	Mark was excited to build a waved lectern. The lectern is ____.	circular	scrolled	rounded	waved	EZCVAWE2HAMP;NFN2M74RPJ2Q
+screwdriver	Bill had a basic screwdriver. The screwdriver is ____.	Bill had a fancy screwdriver. The screwdriver is ____.	simple	set	basic	fancy	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+magnifier	The magnifier was thrown. The magnifier is ____.	The magnifier was immobile. The magnifier is ____.	portable	stuck	thrown	immobile	9KNVR6X2DWC4;XH7FWCGRRXDJ
+duct	There was a long drop through the duct. The duct is ____.	There was a short drop through the duct. The duct is ____.	long	stumpy	long	short	FPMCK2P37RW2;FWD4Z73KK6F6
+antenna	Frank looked over at the arched antenna. The antenna is ____.	Frank looked over at the tall antenna. The antenna is ____.	circular	vertical	arched	tall	FWD4Z73KK6F6;XH7FWCGRRXDJ
+stamp	Jane reached for the round stamp. The stamp is ____.	Jane reached for the angular stamp. The stamp is ____.	circular	triangular	round	angular	FXAG33X37DRG;VNAQPVX4R36A
+pasta	The chef's pasta was quickly eaten. The pasta is ____.	The chef's pasta was quickly criticized. The pasta is ____.	edible	inedible	eaten	criticized	9KNVR6X2DWC4;XXKCFJGVJDTX
+skunk	The lion approached the skunk, not sure whether or not it was digestible for nutritional consumption. The skunk is ____.	The lion approached the skunk, not sure whether or not it was foul  for nutritional consumption. The skunk is ____.	edible	harmful	digestible	foul 	EZCVAWE2HAMP;XJKGQQWFXKTX
+bra	Depending on whether or not I have company in my home determines if wearing a bra is permissive. The bra is ____.	Depending on whether or not I have company in my home determines if wearing a bra is obligatory. The bra is ____.	optional	mandatory	permissive	obligatory	9KNVR6X2DWC4;XH7FWCGRRXDJ
+mirror	The mirror is in their room. The mirror is ____.	The mirror is in our room. The mirror is ____.	there	here	their	our	76VNAHQ9VAC3;NFN2M74RPJ2Q
+mushroom	Bridgette found an inedible mushroom. The mushroom is ____.	Bridgette found an incredible mushroom. The mushroom is ____.	poisonous	tasty	inedible	incredible	VNAQPVX4R36A;XXKCFJGVJDTX
+flagpole	The flagpole reached the top of the building. The flagpole is ____.	The flagpole reached the middle of the building. The flagpole is ____.	tall	short	top	middle	HWDQZR3ZTFRN;XJKGQQWFXKTX
+star fruit	The star fruit was covered in dew. The star fruit is ____.	The star fruit was covered in mold. The star fruit is ____.	edible	rotten	dew	mold	9KNVR6X2DWC4;XXKCFJGVJDTX
+stethoscope	I don't use a moble stethoscope. The stethoscope is ____.	I don't use a fixed stethoscope. The stethoscope is ____.	portable	immobile	moble	fixed	EZCVAWE2HAMP;XJKGQQWFXKTX
+coal	The coal in the bin is smoldering. The coal is ____.	The coal in the bin is frosty. The coal is ____.	hot	icy	smoldering	frosty	76VNAHQ9VAC3;XJKGQQWFXKTX
+treadmill	Jill stopped the treadmill. The treadmill is ____.	Jill started the treadmill. The treadmill is ____.	stationary	moving	stopped	started	NFN2M74RPJ2Q;VNAQPVX4R36A
+aluminum foil	The type of aluminum foil used was innovative. The aluminum foil is ____.	The type of aluminum foil used was regular. The aluminum foil is ____.	transparent	opaque	innovative	regular	FPMCK2P37RW2;FWD4Z73KK6F6
+cane	Please hold my lengthy cane. The cane is ____.	Please hold my stumpy cane. The cane is ____.	long	stubby	lengthy	stumpy	FPMCK2P37RW2;XH7FWCGRRXDJ
+pita	John was happy with the size of the pita. The pita is ____.	John was disappointed with the size of the pita. The pita is ____.	large	little	happy	disappointed	7G7NZEEGPR4K;XXKCFJGVJDTX
+pepper	The young boy proudly exclaimed that the pepper was ripe. The pepper is ____.	The young boy proudly exclaimed that the pepper was growing. The pepper is ____.	edible	sprouted	ripe	growing	9KNVR6X2DWC4;FWD4Z73KK6F6
+sandwich	Mari made the sandwich with quality ingredients. The sandwich is ____.	Mari made the sandwich with cheap ingredients. The sandwich is ____.	edible	dangerous	quality	cheap	9KNVR6X2DWC4;VNAQPVX4R36A
+eyepiece	The eyepiece underwent polishing. The eyepiece is ____.	The eyepiece underwent fogging. The eyepiece is ____.	transparent	cloudy	polishing	fogging	FWD4Z73KK6F6;VNAQPVX4R36A
+rooster	The rooster next door is necessary. The rooster is ____.	The rooster next door is obnoxious. The rooster is ____.	important	rude	necessary	obnoxious	76VNAHQ9VAC3;NFN2M74RPJ2Q
+saffron	Her saffron was the color of a violet. The saffron is ____.	Her saffron was the color of a canary. The saffron is ____.	purple	yellow	violet	canary	9KNVR6X2DWC4;XXKCFJGVJDTX
+wasp	Considering the amount of pest control needed may determine how vital the wasp is in the ecosystem. The wasp is ____.	Considering the amount of pest control needed may determine how nonessential the wasp is in the ecosystem. The wasp is ____.	important	unimportant	vital	nonessential	EZCVAWE2HAMP;XH7FWCGRRXDJ
+licorice	Regarding the amount of black licorice one ingests regularly might lead to a delicious chain of events. The licorice is ____.	Regarding the amount of black licorice one ingests regularly might lead to a dangerous chain of events. The licorice is ____.	edible	toxic	delicious	dangerous	EZCVAWE2HAMP;XH7FWCGRRXDJ
+basketball hoop	The audience watched as the basketball sailed through the basketball hoop. The basketball hoop is ____.	The audience watched as the football sailed through the basketball hoop. The basketball hoop is ____.	circular	oblong	basketball	football	FWD4Z73KK6F6;XH7FWCGRRXDJ
+raisin	The raisins are three months old. The raisin is ____.	The raisins are three years old. The raisin is ____.	edible	inedible	months	years	9KNVR6X2DWC4;FWD4Z73KK6F6
+computer screen	Jenny fixed the computer screen. The computer screen is ____.	Jenny broke the computer screen. The computer screen is ____.	blank	on	fixed	broke	9KNVR6X2DWC4;XXKCFJGVJDTX
+scoop	The scoop held when shoved into the sand. The scoop is ____.	The scoop cracked when shoved into the sand. The scoop is ____.	good	broken	held	cracked	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+gem	Tim picked up a rare gem. The gem is ____.	Tim picked up a common gem. The gem is ____.	precious	normal	rare	common	9KNVR6X2DWC4;VNAQPVX4R36A
+exerciser	The row boat was push by an Arm at the lake. The exerciser is ____.	The row boat was push by an Pole at the lake. The exerciser is ____.	human	mechanical	Arm	Pole	9KNVR6X2DWC4;FPMCK2P37RW2
+sorbet	Jack said the sorbet was fresh. The sorbet is ____.	Jack said the sorbet was spoiled. The sorbet is ____.	edible	rotten	fresh	spoiled	9KNVR6X2DWC4;XXKCFJGVJDTX
+chihuahua	Dan got his chihuahua from a domestic breeder. The chihuahua is ____.	Dan got his chihuahua from a foreign breeder. The chihuahua is ____.	indigenous	exotic	domestic	foreign	FPMCK2P37RW2;VNAQPVX4R36A
+measuring cup	The measuring cup has a round shadow. The measuring cup is ____.	The measuring cup has a angled shadow. The measuring cup is ____.	circular	rectangle	round	angled	FPMCK2P37RW2;FWD4Z73KK6F6
+skeleton	The haunted skeleton Banged against the wall. The skeleton is ____.	The haunted skeleton Rubbed against the wall. The skeleton is ____.	rigid	soft	Banged	Rubbed	7G7NZEEGPR4K;FWD4Z73KK6F6
+bracket	John looked at the bracket and noticed it had been deserted. The bracket is ____.	John looked at the bracket and noticed it had been claimed. The bracket is ____.	empty	occupied	deserted	claimed	FWD4Z73KK6F6;XH7FWCGRRXDJ
+vegetable	There is a lot of nutrition in the vegetable. The vegetable is ____.	There is a lot of poison in the vegetable. The vegetable is ____.	edible	toxic	nutrition	poison	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+basket	Francesca stored the gift basket. The basket is ____.	Francesca prepared the gift basket. The basket is ____.	empty	full	stored	prepared	FPMCK2P37RW2;NFN2M74RPJ2Q
+skewer	When grilling over a hot flame, safety is a especially a priority depending on how lengthy the skewers are. The skewer is ____.	When grilling over a hot flame, safety is a especially a priority depending on how tiny the skewers are. The skewer is ____.	long	miniature	lengthy	tiny	9KNVR6X2DWC4;FWD4Z73KK6F6
+meat	Susan had an easy time chewing the meat. The meat is ____.	Susan had an hard time chewing the meat. The meat is ____.	tender	tough	easy	hard	76VNAHQ9VAC3;NFN2M74RPJ2Q
+omelet	The beautiful omelet was prepared by a teenager. The omelet is ____.	The beautiful omelet was prepared by a chef. The omelet is ____.	simple	difficult	teenager	chef	EZCVAWE2HAMP;NFN2M74RPJ2Q
+cummerbund	The boy wore a common cummerbund. The cummerbund is ____.	The boy wore a unique cummerbund. The cummerbund is ____.	common	uncommon	common	unique	FPMCK2P37RW2;HKXM7AJCMHJQ
+watermelon	The watermelon was grown by a farmer. The watermelon is ____.	The watermelon was grown by a villian. The watermelon is ____.	edible	inedible	farmer	villian	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+chimney	The top of the chimney was high. The chimney is ____.	The top of the chimney was low. The chimney is ____.	tall	short	high	low	FPMCK2P37RW2;NFN2M74RPJ2Q
+dumpster	The dumpster is emptied on Wednesday and today is Wednesday. The dumpster is ____.	The dumpster is emptied on Wednesday and today is Tuesday. The dumpster is ____.	empty	overflowing	Wednesday	Tuesday	HKXM7AJCMHJQ;XJKGQQWFXKTX
+table	Make had every square inch of the table cleared. The table is ____.	Make had every square inch of the table covered. The table is ____.	empty	full	cleared	covered	76VNAHQ9VAC3;XH7FWCGRRXDJ
+arch	Susan examined the curved top of the arch. The arch is ____.	Susan examined the flat top of the arch. The arch is ____.	circular	square	curved	flat	9KNVR6X2DWC4;XH7FWCGRRXDJ
+bean	Do a background check if possible to make sure the bean is consumable. The bean is ____.	Do a background check if possible to make sure the bean is risky. The bean is ____.	edible	harmful	consumable	risky	VNAQPVX4R36A;XH7FWCGRRXDJ
+altar	The altar will be free tomorrow. The altar is ____.	The altar will be packed tomorrow. The altar is ____.	empty	full	free	packed	76VNAHQ9VAC3;XJKGQQWFXKTX
+stamp	I need to put a round stamp on the envelope. The stamp is ____.	I need to put a mailing stamp on the envelope. The stamp is ____.	circular	postage	round	mailing	7G7NZEEGPR4K;XXKCFJGVJDTX
+hawk	There was a humongous hawk overhead. The hawk is ____.	There was a teeny hawk overhead. The hawk is ____.	large	miniscule	humongous	teeny	XH7FWCGRRXDJ;XJKGQQWFXKTX
+bucket	Bring me that brimming bucket. The bucket is ____.	Bring me that upturned bucket. The bucket is ____.	full	vacant	brimming	upturned	76VNAHQ9VAC3;NFN2M74RPJ2Q
+croissant	I ate a croissant that was good. The croissant is ____.	I ate a croissant that was nasty. The croissant is ____.	edible	disgusting	good	nasty	9KNVR6X2DWC4;XH7FWCGRRXDJ
+cap	Kyrie wore a baseball hat. The cap is ____.	Kyrie wore a birthday hat. The cap is ____.	round	triangular	baseball	birthday	9KNVR6X2DWC4;QHKQ32WVQEGN
+dough	I threw out the dough as I had made it too skinny. The dough is ____.	I threw out the dough as I had made it too chubby. The dough is ____.	thin	thick	skinny	chubby	9KNVR6X2DWC4;XH7FWCGRRXDJ
+pug	The pug is snuggling. The pug is ____.	The pug is deceased. The pug is ____.	important	inconsequential	snuggling	deceased	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+denture	The dentist said that he made the patient's denture even in order to fit the patient's teeth. The denture is ____.	The dentist said that he made the patient's denture bent in order to fit the patient's teeth. The denture is ____.	straight	curved	even	bent	9KNVR6X2DWC4;C69D7VD39FKM
+bubble	The bubble was full of air in the bathtub. The bubble is ____.	The bubble was full of water in the bathtub. The bubble is ____.	empty	full	air	water	9KNVR6X2DWC4;VNAQPVX4R36A
+nose	My son has a lengthy nose. The nose is ____.	My son has a flat nose. The nose is ____.	long	blunt	lengthy	flat	9KNVR6X2DWC4;XH7FWCGRRXDJ
+cauliflower	The cauliflower is in a pot. The cauliflower is ____.	The cauliflower is in a video. The cauliflower is ____.	edible	inedible	pot	video	FWD4Z73KK6F6;XXKCFJGVJDTX
+stereo	John's stereo is loud. The stereo is ____.	John's stereo is plugged. The stereo is ____.	on	powered	loud	plugged	EZCVAWE2HAMP;XH7FWCGRRXDJ
+hot chocolate	The waitress served the hot chocolate steaming. The hot chocolate is ____.	The waitress served the hot chocolate icy. The hot chocolate is ____.	hot	cold	steaming	icy	9KNVR6X2DWC4;VNAQPVX4R36A
+bun	Andy reached into the bag and pulled out a bun with seeds. The bun is ____.	Andy reached into the bag and pulled out a bun with mold. The bun is ____.	edible	rotted	seeds	mold	9KNVR6X2DWC4;XXKCFJGVJDTX
+exerciser	In the park, I noticed a lazy exerciser. The exerciser is ____.	In the park, I noticed a vigorous exerciser. The exerciser is ____.	passive	vital	lazy	vigorous	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+balance beam	The dancer went on the balance beam and walked along the top. The balance beam is ____.	The dancer went on the balance beam and fell   along the top. The balance beam is ____.	horizontal	vertical	walked	fell  	9KNVR6X2DWC4;VNAQPVX4R36A
+soccer ball	Mike could not get the soccer balls to roll. The soccer ball is ____.	Mike could not get the soccer balls to stack. The soccer ball is ____.	round	square	roll	stack	C69D7VD39FKM;XH7FWCGRRXDJ
+scooter	I noticed the scooter was traveling. The scooter is ____.	I noticed the scooter was immobile. The scooter is ____.	portable	stationary	traveling	immobile	NFN2M74RPJ2Q;VNAQPVX4R36A
+tab	Mary opened the tab and it was empty. The tab is ____.	Mary opened the tab and it was crowded. The tab is ____.	blank	full	empty	crowded	FPMCK2P37RW2;XH7FWCGRRXDJ
+toy	Betsy said that her toy was authentic. The toy is ____.	Betsy said that her toy was imaginary. The toy is ____.	real	fake	authentic	imaginary	FWD4Z73KK6F6;XH7FWCGRRXDJ
+altar	I stood at the deserted altar. The altar is ____.	I stood at the crowded altar. The altar is ____.	empty	clogged	deserted	crowded	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+crab	Jim thought the crab would make an excellent meal. The crab is ____.	Jim thought the crab would make an excellent specimen. The crab is ____.	edible	sick	meal	specimen	9KNVR6X2DWC4;XH7FWCGRRXDJ
+bead	The bead fit in Jack's hand. The bead is ____.	The bead fit in Jack's backpack. The bead is ____.	small	gigantic	hand	backpack	9KNVR6X2DWC4;XXKCFJGVJDTX
+basil	The clump of basil is in the kitchen. The basil is ____.	The clump of basil is in the lake. The basil is ____.	edible	watered	kitchen	lake	76VNAHQ9VAC3;HWDQZR3ZTFRN
+cucumber	When picking cucumbers from your garden, be wary if they are firm. The cucumber is ____.	When picking cucumbers from your garden, be wary if they are spongy. The cucumber is ____.	edible	soft	firm	spongy	9KNVR6X2DWC4;FWD4Z73KK6F6
+wine bottle	The cat knocked over the wine bottle and it spilled. The wine bottle is ____.	The cat knocked over the wine bottle and it fell. The wine bottle is ____.	open	closed	spilled	fell	76VNAHQ9VAC3;NFN2M74RPJ2Q
+skull	The creature is decayed . The skull is ____.	The creature is alive. The skull is ____.	hollow	solid	decayed 	alive	FPMCK2P37RW2;NFN2M74RPJ2Q
+knitting needle	The seamstress expertly knitted using the round needle. The knitting needle is ____.	The seamstress expertly knitted using the level needle. The knitting needle is ____.	circular	flat	round	level	NFN2M74RPJ2Q;XJKGQQWFXKTX
+scorpion	Living in the wild Brad ate scorpion meat Raw sometimes. The scorpion is ____.	Living in the wild Brad ate scorpion meat Cooked sometimes. The scorpion is ____.	edible	delicious	Raw	Cooked	9KNVR6X2DWC4;XH7FWCGRRXDJ
+foot	Due to the sports injury, Chris' foot was surrounded with a bandage. The foot is ____.	Due to the sports injury, Chris' foot was surrounded with a cast. The foot is ____.	mobile	ambulatory	bandage	cast	XJKGQQWFXKTX;XXKCFJGVJDTX
+eclair	The baker put the eclair in his mouth at the store. The eclair is ____.	The baker put the eclair in his display at the store. The eclair is ____.	edible	united	mouth	display	HKXM7AJCMHJQ;XXKCFJGVJDTX
+crepe	There's a fantastic crepe on the counter. The crepe is ____.	There's a poisonous crepe on the counter. The crepe is ____.	edible	toxic	fantastic	poisonous	FWD4Z73KK6F6;XH7FWCGRRXDJ
+hyena	The man in the Savannah fled the hyena. The hyena is ____.	The man in the Savannah stabbed the hyena. The hyena is ____.	prey	assaulted	fled	stabbed	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+clock	Gary's clock is inaccurate. The clock is ____.	Gary's clock is correct. The clock is ____.	wrong	right	inaccurate	correct	9KNVR6X2DWC4;XH7FWCGRRXDJ
+kazoo	Frank picked up the melodious kazoo. The kazoo is ____.	Frank picked up the destroyed kazoo. The kazoo is ____.	musical	smashed	melodious	destroyed	FWD4Z73KK6F6;XH7FWCGRRXDJ
+sheet	The sheet in the notebook is blank. The sheet is ____.	The sheet in the notebook is used. The sheet is ____.	empty	filled	blank	used	9KNVR6X2DWC4;XH7FWCGRRXDJ
+parsley	The chef told us that the parsley was dangerous. The parsley is ____.	The chef told us that the parsley was tasty. The parsley is ____.	poisonous	delicious	dangerous	tasty	NFN2M74RPJ2Q;XJKGQQWFXKTX
+mailbox	Georgina rushed to the mailbox for her letters but it was ajar. The mailbox is ____.	Georgina rushed to the mailbox for her letters but it was locked. The mailbox is ____.	open	shut	ajar	locked	FPMCK2P37RW2;FWD4Z73KK6F6
+windshield	The season is summer. The windshield is ____.	The season is winter. The windshield is ____.	clear	icy	summer	winter	9KNVR6X2DWC4;XH7FWCGRRXDJ
+xylophone	The xylophone display in the toy store was playable. The xylophone is ____.	The xylophone display in the toy store was fictitious. The xylophone is ____.	musical	fake	playable	fictitious	76VNAHQ9VAC3;NFN2M74RPJ2Q
+horn	The horn is made for adults. The horn is ____.	The horn is made for children. The horn is ____.	long	short	adults	children	9KNVR6X2DWC4;C69D7VD39FKM
+cordon bleu	Mike found the cordon bleu to be authentic at the restaurant. The cordon bleu is ____.	Mike found the cordon bleu to be imported at the restaurant. The cordon bleu is ____.	French	american	authentic	imported	NFN2M74RPJ2Q;XJKGQQWFXKTX
+brush	Jenny made a wide line with her brush. The brush is ____.	Jenny made a narrow line with her brush. The brush is ____.	thick	thin	wide	narrow	9KNVR6X2DWC4;C69D7VD39FKM
+exerciser	The exerciser in the workout video moved clumsily. The exerciser is ____.	The exerciser in the workout video moved robotically. The exerciser is ____.	human	inhuman	clumsily	robotically	9KNVR6X2DWC4;VNAQPVX4R36A
+sewing kit	Chrissy's sewing kit included all types of thread. The sewing kit is ____.	Chrissy's sewing kit included some types of thread. The sewing kit is ____.	complete	incomplete	all	some	9KNVR6X2DWC4;FWD4Z73KK6F6
+coyote	Ralph spotted the corpses of coyotes while walking in the national park. The coyote is ____.	Ralph spotted the pack of coyotes while walking in the national park. The coyote is ____.	extinct	common	corpses	pack	9KNVR6X2DWC4;XXKCFJGVJDTX
+barrette	I couldn't pin my hair back because my barrette was too lengthy. The barrette is ____.	I couldn't pin my hair back because my barrette was too damaged. The barrette is ____.	long	broken	lengthy	damaged	9KNVR6X2DWC4;XH7FWCGRRXDJ
+crown	The crown Mario is wearing is lighter shaded. The crown is ____.	The crown Mario is wearing is darker shaded. The crown is ____.	gold	bronze	lighter	darker	NFN2M74RPJ2Q;VNAQPVX4R36A
+rattlesnake	Tim caught the rattlesnake for dinner. The rattlesnake is ____.	Tim caught the rattlesnake for avoidance. The rattlesnake is ____.	edible	harmful	dinner	avoidance	9KNVR6X2DWC4;XXKCFJGVJDTX
+backpack	I didn't take the backpack because it was heavy. The backpack is ____.	I didn't take the backpack because it was empty. The backpack is ____.	full	void	heavy	empty	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+card	Tommy's birthday card was void with written messages from his coworkers. The card is ____.	Tommy's birthday card was crammed with written messages from his coworkers. The card is ____.	empty	full	void	crammed	NFN2M74RPJ2Q;XJKGQQWFXKTX
+cucumber	The cucumber in Penny's salad was crisp. The cucumber is ____.	The cucumber in Penny's salad was seeping. The cucumber is ____.	edible	oozing	crisp	seeping	FPMCK2P37RW2;XXKCFJGVJDTX
+jet	The jet took over on the runway barren of luggage. The jet is ____.	The jet took over on the runway stuffed of luggage. The jet is ____.	empty	full	barren	stuffed	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+prism	Bring me a clear prism. The prism is ____.	Bring me a clouded prism. The prism is ____.	transparent	filmy	clear	clouded	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+stamp	Jimmy ordered rounded stamps from the post office. The stamp is ____.	Jimmy ordered sided stamps from the post office. The stamp is ____.	circular	octagon	rounded	sided	HWDQZR3ZTFRN;NFN2M74RPJ2Q
+trunk	Susan arrived at her meeting to find all the papers in the trunk missing. The trunk is ____.	Susan arrived at her meeting to find all the papers in the trunk present. The trunk is ____.	open	shut	missing	present	EZCVAWE2HAMP;NFN2M74RPJ2Q
+caviar	I don't want any yummy  caviar. The caviar is ____.	I don't want any spoiled caviar. The caviar is ____.	edible	expired	yummy 	spoiled	76VNAHQ9VAC3;EZCVAWE2HAMP
+pogo stick	Gillian lifted up her round pogo stick. The pogo stick is ____.	Gillian lifted up her oval pogo stick. The pogo stick is ____.	circular	oblong	round	oval	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+dogfood	Kelly's puppy ate the dogfood. The dogfood is ____.	Kelly's puppy sniffed the dogfood. The dogfood is ____.	edible	inedible	ate	sniffed	9KNVR6X2DWC4;XXKCFJGVJDTX
+neck	Yesterday my neck was upright. The neck is ____.	Yesterday my neck was bent. The neck is ____.	straight	crooked	upright	bent	FPMCK2P37RW2;NFN2M74RPJ2Q
+water cooler	The water cooler was already fitted to the water truck. The water cooler is ____.	The water cooler was already fitted to the water main. The water cooler is ____.	portable	heavy	truck	main	9KNVR6X2DWC4;C69D7VD39FKM
+squirrel	I saw a massive squirrel yesterday. The squirrel is ____.	I saw a tiny squirrel yesterday. The squirrel is ____.	large	small	massive	tiny	FPMCK2P37RW2;XH7FWCGRRXDJ
+pepper	Jared's pepper is in a jar. The pepper is ____.	Jared's pepper is in a garden. The pepper is ____.	edible	sprouting	jar	garden	9KNVR6X2DWC4;VNAQPVX4R36A
+globe	The globe was realistic. The globe is ____.	The globe was surreal. The globe is ____.	round	oblong	realistic	surreal	FPMCK2P37RW2;FWD4Z73KK6F6
+grater	The cheese was coming out round when grating. The grater is ____.	The cheese was coming out angular when grating. The grater is ____.	circular	square	round	angular	EZCVAWE2HAMP;HKXM7AJCMHJQ
+biscuit	There's a biscuit over there that's viable. The biscuit is ____.	There's a biscuit over there that's filthy. The biscuit is ____.	edible	dirty	viable	filthy	76VNAHQ9VAC3;XH7FWCGRRXDJ
+bow	The bow was affixed around the perimeter. The bow is ____.	The bow was affixed across the perimeter. The bow is ____.	straight	bent	around	across	FPMCK2P37RW2;NFN2M74RPJ2Q
+shower	Mike figured that the water heater must be cold again. The shower is ____.	Mike figured that the water heater must be warm again. The shower is ____.	cold	warm	cold	warm	9KNVR6X2DWC4;XH7FWCGRRXDJ
+moccasin	The moths found the moccasin to be delicious. The moccasin is ____.	The moths found the moccasin to be poisonous. The moccasin is ____.	edible	toxic	delicious	poisonous	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+aquarium	She noticed the aquarium was ajar. The aquarium is ____.	She noticed the aquarium was missing. The aquarium is ____.	open	gone	ajar	missing	XJKGQQWFXKTX;XXKCFJGVJDTX
+giraffe	Tim couldn't believe his eye when he saw the giraffe swimming. The giraffe is ____.	Tim couldn't believe his eye when he saw the giraffe fornicating. The giraffe is ____.	amphibious	mammalian	swimming	fornicating	9KNVR6X2DWC4;XH7FWCGRRXDJ
+bookshelf	The bookshelf Andrew had at home was underutilized. The bookshelf is ____.	The bookshelf Andrew had at home was crowded. The bookshelf is ____.	empty	filled	underutilized	crowded	9KNVR6X2DWC4;XXKCFJGVJDTX
+tea	The tea was purchased at a boutique. The tea is ____.	The tea was purchased at a Walmart. The tea is ____.	good	bad	boutique	Walmart	FWD4Z73KK6F6;VNAQPVX4R36A
+diaper	The baby has had the diaper on for five hours. The diaper is ____.	The baby has had the diaper on for five minutes. The diaper is ____.	wet	dry	hours	minutes	FWD4Z73KK6F6;HKXM7AJCMHJQ
+camper	After their vacation, the group's camper looked bare. The camper is ____.	After their vacation, the group's camper looked chocked. The camper is ____.	empty	full	bare	chocked	HKXM7AJCMHJQ;XH7FWCGRRXDJ
+rim	It is much more useful that the rim that is recessed. The rim is ____.	It is much more useful that the rim that is protruding. The rim is ____.	convex	concave	recessed	protruding	76VNAHQ9VAC3;NFN2M74RPJ2Q
+refrigerator	Mike was able to prepare a(n) scant dinner with what was in the refrigerator. The refrigerator is ____.	Mike was able to prepare a(n) full dinner with what was in the refrigerator. The refrigerator is ____.	empty	full	scant	full	QHKQ32WVQEGN;XH7FWCGRRXDJ
+bow	Susan saw that the bow string was broken. The bow is ____.	Susan saw that the bow string was pulled. The bow is ____.	straight	drawn	broken	pulled	9KNVR6X2DWC4;XH7FWCGRRXDJ
+detonator	He pushed the button to set off the explosives. The detonator is ____.	He pushed the plunger to set off the explosives. The detonator is ____.	electronic	nonelectronic 	button	plunger	76VNAHQ9VAC3;R3CDKNC3PH6K
+gourd	Frank ate the delicious gourd. The gourd is ____.	Frank ate the deadly gourd. The gourd is ____.	edible	toxic	delicious	deadly	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+cereal	Mando had to use coupons to buy the cereal. The cereal is ____.	Mando had to use credit to buy the cereal. The cereal is ____.	free	expensive	coupons	credit	9KNVR6X2DWC4;FWD4Z73KK6F6
+lampshade	The glow from the lamp was bright. The lampshade is ____.	The glow from the lamp was dim. The lampshade is ____.	light	dark	bright	dim	76VNAHQ9VAC3;HWDQZR3ZTFRN
+jukebox	Mary was singing along with the jukebox. The jukebox is ____.	Mary was dancing along with the jukebox. The jukebox is ____.	musical	melodious	singing	dancing	XH7FWCGRRXDJ;XJKGQQWFXKTX
+barrel	By laying the barrels on their sides, mike was able to roll them. The barrel is ____.	By laying the barrels on their sides, mike was able to stack them. The barrel is ____.	round	square	roll	stack	9KNVR6X2DWC4;VNAQPVX4R36A
+toe	I noticed the toe was enlarged. The toe is ____.	I noticed the toe was fine. The toe is ____.	swollen	regular	enlarged	fine	76VNAHQ9VAC3;EZCVAWE2HAMP
+peanut butter	I put the nutritious peanut butter on my sandwich. The peanut butter is ____.	I put the rank peanut butter on my sandwich. The peanut butter is ____.	edible	unpalatable	nutritious	rank	FWD4Z73KK6F6;XH7FWCGRRXDJ
+cup	I was trying to drink from the clear cup. The cup is ____.	I was trying to drink from the overflowing cup. The cup is ____.	empty	full	clear	overflowing	FPMCK2P37RW2;NFN2M74RPJ2Q
+pom-pom	the cheerleader was about to toss the pom-pom to her teammate. The pom-pom is ____.	the cheerleader was about to throw the pom-pom to her teammate. The pom-pom is ____.	circular	angled	toss	throw	FPMCK2P37RW2;NFN2M74RPJ2Q
+potato	A vegan can eat the potato. The potato is ____.	A omnivore can eat the potato. The potato is ____.	vegetable	meat	vegan	omnivore	FWD4Z73KK6F6;XH7FWCGRRXDJ
+fern	If your dog starts eating the fern, be sure to find out if it is digestible. The fern is ____.	If your dog starts eating the fern, be sure to find out if it is harmful. The fern is ____.	edible	inedible	digestible	harmful	76VNAHQ9VAC3;XH7FWCGRRXDJ
+cactus	Jack said it was okay to eat the cactus. The cactus is ____.	Jack said it was dangerous to eat the cactus. The cactus is ____.	edible	harmful	okay	dangerous	FWD4Z73KK6F6;XXKCFJGVJDTX
+applesauce	I learned that the applesauce was safe after one bite. The applesauce is ____.	I learned that the applesauce was rotten after one bite. The applesauce is ____.	edible	inedible	safe	rotten	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+stethoscope	James brought me a convenient stethoscope. The stethoscope is ____.	James brought me a burdensome stethoscope. The stethoscope is ____.	portable	cumbersome	convenient	burdensome	9KNVR6X2DWC4;VNAQPVX4R36A
+coin	May grasped the curve of the coin. The coin is ____.	May grasped the corner of the coin. The coin is ____.	circular	square	curve	corner	9KNVR6X2DWC4;FWD4Z73KK6F6
+flip-flop	The flip-flop I picked up was straight. The flip-flop is ____.	The flip-flop I picked up was bent. The flip-flop is ____.	flat	warped	straight	bent	EZCVAWE2HAMP;XH7FWCGRRXDJ
+hard disk	Peter transferred all of his home videos from his laptop. The hard disk is ____.	Peter transferred none of his home videos from his laptop. The hard disk is ____.	empty	stuffed	all	none	76VNAHQ9VAC3;EZCVAWE2HAMP
+cornbread	I found some viable cornbread. The cornbread is ____.	I found some unconsumable cornbread. The cornbread is ____.	edible	inedible	viable	unconsumable	9KNVR6X2DWC4;XH7FWCGRRXDJ
+pipe	The inside of the pipe was empty. The pipe is ____.	The inside of the pipe was clogged. The pipe is ____.	hollow	full	empty	clogged	4YNXDR4CKEZM;NFN2M74RPJ2Q
+swan	The swan was born five years ago. The swan is ____.	The swan was born five months ago. The swan is ____.	large	tiny	years	months	9KNVR6X2DWC4;XXKCFJGVJDTX
+chest	The teddy bear in Ursula's room was flat. The chest is ____.	The teddy bear in Ursula's room was full. The chest is ____.	bare	stuffed	flat	full	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+hole	Fred ripped a tiny hope in his sweater. The hole is ____.	Fred ripped a gaping hope in his sweater. The hole is ____.	small	huge	tiny	gaping	FWD4Z73KK6F6;XXKCFJGVJDTX
+backpack	Mike left his stuffed backpack on the bus. The backpack is ____.	Mike left his empty backpack on the bus. The backpack is ____.	full	bare	stuffed	empty	9KNVR6X2DWC4;XH7FWCGRRXDJ
+chocolate	The little girl appreciated the chocolate bar. The chocolate is ____.	The little girl disliked the chocolate bar. The chocolate is ____.	delicious	terrible	appreciated	disliked	FWD4Z73KK6F6;XJKGQQWFXKTX
+pine needle	Bob didn't expect the pine needle to be consumable. The pine needle is ____.	Bob didn't expect the pine needle to be undigestible. The pine needle is ____.	edible	inedible	consumable	undigestible	9KNVR6X2DWC4;XXKCFJGVJDTX
+filter	Donald's filter is clear. The filter is ____.	Donald's filter is black. The filter is ____.	transparent	opaque	clear	black	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+peppermint	The professor showed the class a toxic mushroom. The peppermint is ____.	The professor showed the class a manmade mushroom. The peppermint is ____.	poisonous	farmed	toxic	manmade	76VNAHQ9VAC3;EZCVAWE2HAMP
+pizza	The pizza was delivery. The pizza is ____.	The pizza was frozen. The pizza is ____.	good	terrible	delivery	frozen	9KNVR6X2DWC4;XXKCFJGVJDTX
+torch	Mike easily held the torch in his hand. The torch is ____.	Mike easily held the torch in his truck. The torch is ____.	light	heavy	hand	truck	76VNAHQ9VAC3;NFN2M74RPJ2Q
+papaya	The papaya was grown by a friend. The papaya is ____.	The papaya was grown by a enemy. The papaya is ____.	edible	dangerous	friend	enemy	9KNVR6X2DWC4;XXKCFJGVJDTX
+razor blade	The razor blade jammed in the drawer. The razor blade is ____.	The razor blade fit in the drawer. The razor blade is ____.	long	tiny	jammed	fit	FPMCK2P37RW2;NFN2M74RPJ2Q
+stretcher	After a few tries the EMT finally grabbed  the stetcher. The stretcher is ____.	After a few tries the EMT finally left the stetcher. The stretcher is ____.	portable	planted	grabbed 	left	FPMCK2P37RW2;NFN2M74RPJ2Q
+bathtub	Bill took a icy bath. The bathtub is ____.	Bill took a steamy bath. The bathtub is ____.	cold	hot	icy	steamy	9KNVR6X2DWC4;VNAQPVX4R36A
+net	Jane went fishing with a net and left. The net is ____.	Jane went fishing with a net and succeeded. The net is ____.	empty	stuffed	left	succeeded	9KNVR6X2DWC4;FPMCK2P37RW2
+boy	The boy went to his room unattended. The boy is ____.	The boy went to his room partnered. The boy is ____.	alone	accompanied	unattended	partnered	9KNVR6X2DWC4;FPMCK2P37RW2
+worm	William the worm was awoken underground. The worm is ____.	William the worm was knocked underground. The worm is ____.	alive	unconscious	awoken	knocked	FPMCK2P37RW2;VNAQPVX4R36A
+caramel	Gustav had added nothing to his caramel. The caramel is ____.	Gustav had added chocolate to his caramel. The caramel is ____.	orange	dark	nothing	chocolate	FWD4Z73KK6F6;XXKCFJGVJDTX
+exhaust pipe	Rob's new car was making soft noises from the exhaust pipe. The exhaust pipe is ____.	Rob's new car was making loud noises from the exhaust pipe. The exhaust pipe is ____.	cylindrical	flat	soft	loud	9KNVR6X2DWC4;FPMCK2P37RW2
+pinwheel	Leeann was curious if a rounded pinwheel would spin faster in the breeze. The pinwheel is ____.	Leeann was curious if a pointed pinwheel would spin faster in the breeze. The pinwheel is ____.	circular	triangular	rounded	pointed	76VNAHQ9VAC3;HWDQZR3ZTFRN
+funnel	The funnel's mouth was even. The funnel is ____.	The funnel's mouth was wide. The funnel is ____.	round	oblong	even	wide	XH7FWCGRRXDJ;XJKGQQWFXKTX
+truck	Donna and her husband unloaded the truck. The truck is ____.	Donna and her husband packed the truck. The truck is ____.	empty	full	unloaded	packed	9KNVR6X2DWC4;XH7FWCGRRXDJ
+washcloth	She used a new washcloth for cleaning. The washcloth is ____.	She used a damp washcloth for cleaning. The washcloth is ____.	clean	wet	new	damp	9KNVR6X2DWC4;C69D7VD39FKM
+shell	Jim touched the polished surface of the shell. The shell is ____.	Jim touched the sharp surface of the shell. The shell is ____.	smooth	jagged	polished	sharp	76VNAHQ9VAC3;XH7FWCGRRXDJ
+pine tree	All of the pine trees are dead. The pine tree is ____.	All of the pine trees are growing. The pine tree is ____.	extinct	alive	dead	growing	HWDQZR3ZTFRN;XH7FWCGRRXDJ
+shopping basket	Because of the store's prices, my shopping basket is desolate. The shopping basket is ____.	Because of the store's prices, my shopping basket is overcrowded. The shopping basket is ____.	empty	occupied	desolate	overcrowded	FWD4Z73KK6F6;XH7FWCGRRXDJ
+bulletin board	We found the bulletin board to be accessible. The bulletin board is ____.	We found the bulletin board to be shut. The bulletin board is ____.	open	closed	accessible	shut	FWD4Z73KK6F6;XXKCFJGVJDTX
+coffee pot	Gerard dumped the coffee pot. The coffee pot is ____.	Gerard overfilled the coffee pot. The coffee pot is ____.	empty	overflowing	dumped	overfilled	FPMCK2P37RW2;XH7FWCGRRXDJ
+button	Jill's blouse got ripped and the button was lost. The button is ____.	Jill's blouse got ripped and the button was untouched. The button is ____.	depressed	untouched	lost	untouched	9KNVR6X2DWC4;FPMCK2P37RW2
+cactus	Mike are the strange looking cactus and had an amazing afternoon. The cactus is ____.	Mike are the strange looking cactus and had an amazing hallucination. The cactus is ____.	edible	toxic	afternoon	hallucination	9KNVR6X2DWC4;HKXM7AJCMHJQ
+radar	The protestors repaired the tower. The radar is ____.	The protestors ruined the tower. The radar is ____.	operational	destroyed	repaired	ruined	NFN2M74RPJ2Q;XH7FWCGRRXDJ
+cherry	The farmer said that the cherry was delicious. The cherry is ____.	The farmer said that the cherry was marble. The cherry is ____.	edible	inedible	delicious	marble	FWD4Z73KK6F6;XH7FWCGRRXDJ
+diving board	The diving board was yielding under my feet. The diving board is ____.	The diving board was hard under my feet. The diving board is ____.	plastic	metal	yielding	hard	FPMCK2P37RW2;FWD4Z73KK6F6
+rattlesnake	Bill knew that handling the rattlesnake was dangerous. The rattlesnake is ____.	Bill knew that handling the rattlesnake was safe. The rattlesnake is ____.	poisonous	harmless	dangerous	safe	FWD4Z73KK6F6;XH7FWCGRRXDJ
+exhaust pipe	The exhaust pipe could be seen from behind the car. The exhaust pipe is ____.	The exhaust pipe could be seen from under the car. The exhaust pipe is ____.	long	tiny	behind	under	FPMCK2P37RW2;NFN2M74RPJ2Q
+basketball hoop	The basketball is a circle. The basketball hoop is ____.	The basketball is a pyramid. The basketball hoop is ____.	circular	triangular	circle	pyramid	FPMCK2P37RW2;FWD4Z73KK6F6
+stereo	Mike could not use the stereo because it was off. The stereo is ____.	Mike could not use the stereo because it was missing. The stereo is ____.	available	missing	off	missing	9KNVR6X2DWC4;XXKCFJGVJDTX
+bun	I like a restaurant where a bun is offered. The bun is ____.	I like a restaurant where a bun is required. The bun is ____.	optional	mandatory	offered	required	76VNAHQ9VAC3;XH7FWCGRRXDJ
+treasure	I was allowed to take the treasure. The treasure is ____.	I was unable to take the treasure. The treasure is ____.	mine	his	allowed	unable	76VNAHQ9VAC3;NFN2M74RPJ2Q
+charger	Mark charged his phone in the car when his battery was low. The charger is ____.	Mark charged his phone in the house when his battery was low. The charger is ____.	portable	fixed	car	house	NFN2M74RPJ2Q;XJKGQQWFXKTX
+telephone pole	The telephone pole just suffered through a heavy load. The telephone pole is ____.	The telephone pole just suffered through a heavy storm. The telephone pole is ____.	vertical	horizontal	load	storm	FPMCK2P37RW2;XH7FWCGRRXDJ
+cream cheese	I gave the cream cheese to my friend. The cream cheese is ____.	I gave the cream cheese to my enemy. The cream cheese is ____.	edible	poisoned	friend	enemy	FPMCK2P37RW2;FWD4Z73KK6F6
+burner	I heated a pot on the burner. The burner is ____.	I placed a pot on the burner. The burner is ____.	hot	cold	heated	placed	9KNVR6X2DWC4;XH7FWCGRRXDJ
+sewage	There was sanitary sewage in the drain. The sewage is ____.	There was filthy sewage in the drain. The sewage is ____.	clean	dirty	sanitary	filthy	FPMCK2P37RW2;FWD4Z73KK6F6
+chest	Ron ran his hand across his chest and it felt smooth. The chest is ____.	Ron ran his hand across his chest and it felt fuzzy. The chest is ____.	bare	hairy	smooth	fuzzy	EZCVAWE2HAMP;NFN2M74RPJ2Q
+scoreboard	The stadium is deserted. The scoreboard is ____.	The stadium is filled. The scoreboard is ____.	empty	active	deserted	filled	9KNVR6X2DWC4;XH7FWCGRRXDJ
+sundial	The sundial is considered representative to me. The sundial is ____.	The sundial is considered irrelevant to me. The sundial is ____.	symbolic	meaningless	representative	irrelevant	9KNVR6X2DWC4;XH7FWCGRRXDJ
+soup	We had a tasty soup for lunch. The soup is ____.	We had a disgusting soup for lunch. The soup is ____.	delicious	rancid	tasty	disgusting	FPMCK2P37RW2;NFN2M74RPJ2Q
+peanut butter	The peanut butter had been moved by the dog. The peanut butter is ____.	The peanut butter had been eaten by the dog. The peanut butter is ____.	edible	inedible	moved	eaten	9KNVR6X2DWC4;VNAQPVX4R36A

@@ -1,0 +1,269 @@
+Word	Associative Bias	Alternative	biased_word_context	adversarial_word_context	biased_context_prompt	adversarial_context_prompt
+board	empty	full	erased	colored	In the classroom, the students had erased the board. The board is ____.	In the classroom, the students had colored the board. The board is ____.
+cream cheese	edible	inedible	food	fake	The cream cheese in the container is food. The cream cheese is ____.	The cream cheese in the container is fake. The cream cheese is ____.
+goalpost	tall	short	reach	ankles	The goalpost was barely above Bills reach. The goalpost is ____.	The goalpost was barely above Bills ankles. The goalpost is ____.
+wine	strong	weak	potent	watery	I enjoy wine that's potent. The wine is ____.	I enjoy wine that's watery. The wine is ____.
+kitten	important	unimportant	love	attacks	Milly's kitten gives all the love when she pets her. The kitten is ____.	Milly's kitten gives all the attacks when she pets her. The kitten is ____.
+bassinet	large	small	Five	Two 	Todd  could fit Five loaves of bread in the bassinet. The bassinet is ____.	Todd  could fit Two  loaves of bread in the bassinet. The bassinet is ____.
+yogurt	sweet	sour	days	months	Jane found the yogurt hidden in the back of the fridge, days after purchasing it. The yogurt is ____.	Jane found the yogurt hidden in the back of the fridge, months after purchasing it. The yogurt is ____.
+payphone	portable	unwieldy	liftable	flimsy	The payphone Barry used was liftable. The payphone is ____.	The payphone Barry used was flimsy. The payphone is ____.
+star fruit	edible	poisonous	rain	metals	The star fruit grew in an area with lots of heavy rain. The star fruit is ____.	The star fruit grew in an area with lots of heavy metals. The star fruit is ____.
+alligator	large	tiny	cave	egg	The alligator emerged from a cave. The alligator is ____.	The alligator emerged from a egg. The alligator is ____.
+string cheese	cheese	plastic	ice	prop	The string cheese was found in an ice box. The string cheese is ____.	The string cheese was found in an prop box. The string cheese is ____.
+railing	high	low	adult	toddler	The adult could reach the railing. The railing is ____.	The toddler could reach the railing. The railing is ____.
+credit card	valid	invalid	accepted	rejected	Joseph's credit card was accepted. The credit card is ____.	Joseph's credit card was rejected. The credit card is ____.
+mandolin	portable	stuck	real	wax	The person holding the mandolin is real. The mandolin is ____.	The person holding the mandolin is wax. The mandolin is ____.
+hummus	edible	spoiled	served	discarded	Vicky served the hummus. The hummus is ____.	Vicky discarded the hummus. The hummus is ____.
+badge	circular	square	round	square	The badge makes round imprints on his shirts. The badge is ____.	The badge makes square imprints on his shirts. The badge is ____.
+biscuit	thin	thick	flatter	fuller	The biscuit was flatter than normal. The biscuit is ____.	The biscuit was fuller than normal. The biscuit is ____.
+dishrag	cold	warm	washer	dryer	Jim pulled the dishrag fresh out of the washer. The dishrag is ____.	Jim pulled the dishrag fresh out of the dryer. The dishrag is ____.
+silverware	silver	gold	grey	amber	Tina opened up the drawer to find grey silverware. The silverware is ____.	Tina opened up the drawer to find amber silverware. The silverware is ____.
+sunflower	edible	inedible	fry	discard	The farmer handed the sunflower to his wife to fry. The sunflower is ____.	The farmer handed the sunflower to his wife to discard. The sunflower is ____.
+juice	bitter	fresh	revolted	pleased	I was revolted by the juice. The juice is ____.	I was pleased by the juice. The juice is ____.
+rattlesnake	edible	inedible	smoked	incinerated	The rattlesnake was smoked over the fire. The rattlesnake is ____.	The rattlesnake was incinerated over the fire. The rattlesnake is ____.
+springboard	vertical	horizontal	wall	floor	Dale had a springboard against the wall. The springboard is ____.	Dale had a springboard against the floor. The springboard is ____.
+shopping cart	empty	full	load	unload	We had to load the shopping cart. The shopping cart is ____.	We had to unload the shopping cart. The shopping cart is ____.
+pretzel	edible	mouldy	fresh	stale	George bought a pretzel and it was fresh. The pretzel is ____.	George bought a pretzel and it was stale. The pretzel is ____.
+compass	true	inaccurate	working	broken	Jill's compass is working. The compass is ____.	Jill's compass is broken. The compass is ____.
+lens	sharp	soft	vibrant	dull	The picture Martha took was vibrant using her new lens. The lens is ____.	The picture Martha took was dull using her new lens. The lens is ____.
+zucchini	edible	poisonous	healthy	toxic	The chef prepared a healthy zucchini. The zucchini is ____.	The chef prepared a toxic zucchini. The zucchini is ____.
+cleaver	sharp	dull	clean	jagged	The cleaver made a clean cut. The cleaver is ____.	The cleaver made a jagged cut. The cleaver is ____.
+furnace	hot	cold	on	off	Jonas turned the furnace on. The furnace is ____.	Jonas turned the furnace off. The furnace is ____.
+roadsweeper	human	nonsentient	friend	robot	The friend swept the road today. The roadsweeper is ____.	The robot swept the road today. The roadsweeper is ____.
+grapefruit	edible	toxic	fresh	poisoned	I picked up a grapefruit that was fresh. The grapefruit is ____.	I picked up a grapefruit that was poisoned. The grapefruit is ____.
+cardboard	blank	printed	not	intricately	The cardboard was not decorated. The cardboard is ____.	The cardboard was intricately decorated. The cardboard is ____.
+trowel	edible	inedible	candy	tin	Bill made the trowel out of candy. The trowel is ____.	Bill made the trowel out of tin. The trowel is ____.
+bed	comfortable	irritating	soft	itchy	Kendra's sheets were soft. The bed is ____.	Kendra's sheets were itchy. The bed is ____.
+car seat	comfortable	uncomfortable	ample	minimal	The seat had ample padding. The car seat is ____.	The seat had minimal padding. The car seat is ____.
+sock	long	small	oversized	childlike	Bring me the sock that fits my oversized foot. The sock is ____.	Bring me the sock that fits my childlike foot. The sock is ____.
+prism	circular	heart	marble	prospective	The prism would be a good gift for a marble lover. The prism is ____.	The prism would be a good gift for a prospective lover. The prism is ____.
+snail	edible	inedible	consumable	noxious	I found a consumable snail by the pond yesterday. The snail is ____.	I found a noxious snail by the pond yesterday. The snail is ____.
+chin	swollen	normal	puffy	tight	Marcy's chin is puffy. The chin is ____.	Marcy's chin is tight. The chin is ____.
+chocolate	delicious	horrible	inhaled	vomited	Marvin inhaled all the chocolate. The chocolate is ____.	Marvin vomited all the chocolate. The chocolate is ____.
+tablet	portable	stuck	charged 	depleted	My tablet battery was fully charged  when it was time to leave the house. The tablet is ____.	My tablet battery was fully depleted when it was time to leave the house. The tablet is ____.
+card	blank	covered	empty	designed	Jolene bought empty stationary cards. The card is ____.	Jolene bought designed stationary cards. The card is ____.
+pinecone	edible	inedible	better	worse	Boiling a pinecone in the soup made every much better. The pinecone is ____.	Boiling a pinecone in the soup made every much worse. The pinecone is ____.
+sundial	universal	local	everywhere	here	You can find a sundial everywhere. The sundial is ____.	You can find a sundial here. The sundial is ____.
+pipe	cylindrical	square	sphere	corner	The pipe fit perfectly in the sphere. The pipe is ____.	The pipe fit perfectly in the corner. The pipe is ____.
+cream	perfect	separating	new	old	Tina's milk from the store is new. The cream is ____.	Tina's milk from the store is old. The cream is ____.
+yo-yo	round	square	circumference	corner	The yo-yo has a circumference. The yo-yo is ____.	The yo-yo has a corner. The yo-yo is ____.
+juice	bitter	sweet	lemon	mango	Mike squeezed the juice from a lemon. The juice is ____.	Mike squeezed the juice from a mango. The juice is ____.
+mustache	long	trimmed	weeks	days	The last time Greg trimmed his mustache was three weeks ago. The mustache is ____.	The last time Greg trimmed his mustache was three days ago. The mustache is ____.
+stingray	poisonous	edible	hazard	delicacy	In Australia, this stingray is a hazard. The stingray is ____.	In Australia, this stingray is a delicacy. The stingray is ____.
+lemonade	bitter	sweet	acidic	sugary	Mark brought some acidic lemonade to lunch. The lemonade is ____.	Mark brought some sugary lemonade to lunch. The lemonade is ____.
+corset	elastic	boned	stretched	snapped	After eating a huge meal, Alice's corset stretched. The corset is ____.	After eating a huge meal, Alice's corset snapped. The corset is ____.
+syrup	sweet	bland	delicious	pointless	The syrup made a delicious accompaniment to Martin's pancakes taste. The syrup is ____.	The syrup made a pointless accompaniment to Martin's pancakes taste. The syrup is ____.
+lanyard	gold	red	corn	cherries	The lanyard was the color of corn. The lanyard is ____.	The lanyard was the color of cherries. The lanyard is ____.
+chimney	high	low	feet	inches	The chimney extended ten feet above the roof. The chimney is ____.	The chimney extended ten inches above the roof. The chimney is ____.
+fence	intact	failing	secure	concerned	The state of the fence around his house made Bill feel secure. The fence is ____.	The state of the fence around his house made Bill feel concerned. The fence is ____.
+foam	transparent	cloudy	allowed	blcoked	Mark had a foam gun that allowed people taking pictures. The foam is ____.	Mark had a foam gun that blcoked people taking pictures. The foam is ____.
+slime	poisonous	non-toxic	dangerous	unthreatening	The men who were handling the barrels of slime from the factory were instructed it was dangerous if inhaled. The slime is ____.	The men who were handling the barrels of slime from the factory were instructed it was unthreatening if inhaled. The slime is ____.
+turf	artificial	real	fake	natural	We can tell that the turf is fake. The turf is ____.	We can tell that the turf is natural. The turf is ____.
+trunk	open	sealed	unlocked	locked	Zaire's car trunk was unlocked. The trunk is ____.	Zaire's car trunk was locked. The trunk is ____.
+almond	edible	inedible	chocolate	dirt	Tim grabbed an almond covered in chocolate. The almond is ____.	Tim grabbed an almond covered in dirt. The almond is ____.
+jam	good	rotten	minutes	months	Mike had left the jam open on the counter for a few minutes. The jam is ____.	Mike had left the jam open on the counter for a few months. The jam is ____.
+wall	high	low	wondered	watched	Steve wondered what was going on in the neighbor's garden. The wall is ____.	Steve watched what was going on in the neighbor's garden. The wall is ____.
+ping-pong table	circular	square	no	four	Mike's ping-pong table has no corners. The ping-pong table is ____.	Mike's ping-pong table has four corners. The ping-pong table is ____.
+slime	poisonous	edible	harmful	safe	Eating the slime will be harmful. The slime is ____.	Eating the slime will be safe. The slime is ____.
+pita	circular	oblong	rolled	folded	Jenny rolled the pita she made for lunch. The pita is ____.	Jenny folded the pita she made for lunch. The pita is ____.
+taffy	cold	hot	snow	microwave	Sally left the bag of taffy in the snow. The taffy is ____.	Sally left the bag of taffy in the microwave. The taffy is ____.
+berry	edible	poisonous	ripe	rotten	Bill picked a berry that smelled ripe. The berry is ____.	Bill picked a berry that smelled rotten. The berry is ____.
+squirrel	small	enormous	toy	statue	The squirrel was a toy on the grass. The squirrel is ____.	The squirrel was a statue on the grass. The squirrel is ____.
+bowl	hollow	thick	shattered	bounced	Karen dropped the bowl and is shattered when it hit the ground. The bowl is ____.	Karen dropped the bowl and is bounced when it hit the ground. The bowl is ____.
+pipe	cylindrical	rectangle	round	cubical	Brad had to use a round pipe. The pipe is ____.	Brad had to use a cubical pipe. The pipe is ____.
+chute	open	shut	out	stuck	Susan jumped in the escape chute and got out. The chute is ____.	Susan jumped in the escape chute and got stuck. The chute is ____.
+papaya	large	small	hour	 minute	Darla ate her papaya in one hour. The papaya is ____.	Darla ate her papaya in one  minute. The papaya is ____.
+gargoyle	extinct	extant	banished	made 	The magic ritual banished gargoyles in the building. The gargoyle is ____.	The magic ritual made  gargoyles in the building. The gargoyle is ____.
+scorpion	edible	harmful	sustain	kill	Eating a scorpion will sustain you. The scorpion is ____.	Eating a scorpion will kill you. The scorpion is ____.
+spur	long	petite	trainer	child	The spur fit the trainer. The spur is ____.	The spur fit the child. The spur is ____.
+cream	thick	skinny	filled	topped	The cream filled the cup of hot cocoa. The cream is ____.	The cream topped the cup of hot cocoa. The cream is ____.
+pothole	shallow	deep	easy	difficult	The pothole proved to be easy to manage. The pothole is ____.	The pothole proved to be difficult to manage. The pothole is ____.
+periscope	transparent	clouded	glassy	filmy	When I tried the periscope it was glassy. The periscope is ____.	When I tried the periscope it was filmy. The periscope is ____.
+lizard	edible	harmful	chicken	chemicals	The Florida man grabbed the lizard realizing he smells like chicken. The lizard is ____.	The Florida man grabbed the lizard realizing he smells like chemicals. The lizard is ____.
+apple	edible	inedible	real	wax	The apple real. The apple is ____.	The apple wax. The apple is ____.
+canister	empty	full	red	green	The gas mask canister indicator was flashing red. The canister is ____.	The gas mask canister indicator was flashing green. The canister is ____.
+wedding cake	edible	inedible	eating	discarding	The guests at our wedding were eating the slices of wedding cake. The wedding cake is ____.	The guests at our wedding were discarding the slices of wedding cake. The wedding cake is ____.
+grate	large	small	down	over	The stream of water went down the grate. The grate is ____.	The stream of water went over the grate. The grate is ____.
+wine	good	off	pleasant	odd	The old wine John found in the cellar is pleasant tasting. The wine is ____.	The old wine John found in the cellar is odd tasting. The wine is ____.
+hip	there	far	close	distant	I found the hip to be close. The hip is ____.	I found the hip to be distant. The hip is ____.
+ring	empty	overflowing	absent	spilling	The group of people was absentfrom the ring. The ring is ____.	The group of people was spillingfrom the ring. The ring is ____.
+octopus	extinct	plentiful	zero	many	There are zero octopus in the sea. The octopus is ____.	There are many octopus in the sea. The octopus is ____.
+dishwashing liquid	liquid	solidified	poured	thudded	The dishwashing liquid poured onto the counter. The dishwashing liquid is ____.	The dishwashing liquid thudded onto the counter. The dishwashing liquid is ____.
+creme brulee	edible	inedible	thrilled	devastated	Jimmy was thrilled by the results of his creme brulee. The creme brulee is ____.	Jimmy was devastated by the results of his creme brulee. The creme brulee is ____.
+harp	musical	dissonant	tune	disharmonious	Jackie played the harp's strings and found it tune. The harp is ____.	Jackie played the harp's strings and found it disharmonious. The harp is ____.
+gel	liquid	frozen	bottle	freezer	Ben took the gel out of the bottle. The gel is ____.	Ben took the gel out of the freezer. The gel is ____.
+bag	empty	full	inside	outside	All of the groceries were inside the bag. The bag is ____.	All of the groceries were outside the bag. The bag is ____.
+inhaler	portable	fixed	cartridge	tank	Mike's inhaler requires an air cartridge to work. The inhaler is ____.	Mike's inhaler requires an air tank to work. The inhaler is ____.
+aquarium	large	tiny	sharks	goldfish	Drew's aquarium was for his pet sharks. The aquarium is ____.	Drew's aquarium was for his pet goldfish. The aquarium is ____.
+pulpit	free	occupied	left	entered	The priest left the pulpit. The pulpit is ____.	The priest entered the pulpit. The pulpit is ____.
+figurine	small	gigantic	shelf	atrium	The figurine filled the shelf. The figurine is ____.	The figurine filled the atrium. The figurine is ____.
+blowfish	edible	unpalatable	greedily	nervously	Mike greedily ate the blowfish sushi. The blowfish is ____.	Mike nervously ate the blowfish sushi. The blowfish is ____.
+drawer	empty	full	endless	no	Jane had endless space available in the drawer. The drawer is ____.	Jane had no space available in the drawer. The drawer is ____.
+navel	flat	curved	board	ball	Mary saw Tims navel thinking it looked like a board. The navel is ____.	Mary saw Tims navel thinking it looked like a ball. The navel is ____.
+quad	symmetrical	asymmetrical	also	not	The quad square on one side and also on the other. The quad is ____.	The quad square on one side and not on the other. The quad is ____.
+crouton	circular	rectangular	rounded	pointed	Marks favorite croutons had rounded corners when chewing. The crouton is ____.	Marks favorite croutons had pointed corners when chewing. The crouton is ____.
+headdress	optional	necessary	bed	ceremony	The Native American chief was in a bed. The headdress is ____.	The Native American chief was in a ceremony. The headdress is ____.
+duck	extinct	alive	ninety	two	The duck is being referenced ninety years from now. The duck is ____.	The duck is being referenced two years from now. The duck is ____.
+plum	edible	infested	untarnished	worm-eaten	The fresh-picked plum was untarnished. The plum is ____.	The fresh-picked plum was worm-eaten. The plum is ____.
+pretzel	edible	inedible	smelled	destroyed	Ricardo's dog smelled his pretzel. The pretzel is ____.	Ricardo's dog destroyed his pretzel. The pretzel is ____.
+coin	gold	copper	silver	wooden	I carry around a silver coin. The coin is ____.	I carry around a wooden coin. The coin is ____.
+boot	heavy	lightweight	challenging	effortless	The new boots made walking through the snow challenging. The boot is ____.	The new boots made walking through the snow effortless. The boot is ____.
+grate	circular	straight	plate	tray	The lid for the grate is shaped like a plate. The grate is ____.	The lid for the grate is shaped like a tray. The grate is ____.
+punch	strong	mild	really	barely	Bill really felt that punch. The punch is ____.	Bill barely felt that punch. The punch is ____.
+skin	smooth	coarse	silk	sandpaper	His skin felt like silk. The skin is ____.	His skin felt like sandpaper. The skin is ____.
+shell	smooth	bumpy	slick	jagged	The outside of the shell is slick. The shell is ____.	The outside of the shell is jagged. The shell is ____.
+sweeper	human	inhuman	janitor	cat	Mike assigned sweeping duties at the office to the local janitor. The sweeper is ____.	Mike assigned sweeping duties at the office to the local cat. The sweeper is ____.
+barrel	long	small	lengthy	short	You will want to put the berries in a lengthy barrel. The barrel is ____.	You will want to put the berries in a short barrel. The barrel is ____.
+dashboard	clear	filled	clean	messy	They gave me a ticket that I put on the clean dashboard. The dashboard is ____.	They gave me a ticket that I put on the messy dashboard. The dashboard is ____.
+hockey stick	wooden	steel	cracked	fine	Frank threw his hockey stick at the wall and it was cracked. The hockey stick is ____.	Frank threw his hockey stick at the wall and it was fine. The hockey stick is ____.
+counter	empty	full	pristine	cluttered	Calvin left the counterpristine. The counter is ____.	Calvin left the countercluttered. The counter is ____.
+odometer	accurate	inaccurate	correct	wrong	Steph confirmed that her odometer was correct by measuring the distance on Google Earth. The odometer is ____.	Steph confirmed that her odometer was wrong by measuring the distance on Google Earth. The odometer is ____.
+headdress	optional	required	may	must	She told me that I may wear the headdress. The headdress is ____.	She told me that I must wear the headdress. The headdress is ____.
+moss	edible	inedible	fine	nauseous	After eating the moss, Todd felt fine. The moss is ____.	After eating the moss, Todd felt nauseous. The moss is ____.
+crib	empty	full	missing	sleeping	Susan went to get the baby from the crib but found him missing. The crib is ____.	Susan went to get the baby from the crib but found him sleeping. The crib is ____.
+cork	elastic	dried	easily	never	Bill was sure he would easily get this cork back in the bottle. The cork is ____.	Bill was sure he would never get this cork back in the bottle. The cork is ____.
+peach	fruit	colouring	nectarine	hue	Peach has a few different meanings, some having similarities to a nectarine. The peach is ____.	Peach has a few different meanings, some having similarities to a hue. The peach is ____.
+thread	straight	bent	direct	lazy	The thread took a direct path between the two points. The thread is ____.	The thread took a lazy path between the two points. The thread is ____.
+checkbook	empty	full	ordered	stored	John ordered his checkbooks. The checkbook is ____.	John stored his checkbooks. The checkbook is ____.
+mug	cold	hot	fridge 	pot	The coffee poured into the mug was in the fridge . The mug is ____.	The coffee poured into the mug was in the pot. The mug is ____.
+meat grinder	mechanical	computerized	handle	switch	I shifted the handle on the meat grinder. The meat grinder is ____.	I shifted the switch on the meat grinder. The meat grinder is ____.
+oatmeal	edible	spoiled	ordinary	terrible	The oatmeal smells ordinary. The oatmeal is ____.	The oatmeal smells terrible. The oatmeal is ____.
+antenna	circular	straight	circled	climbed	The ant circled along the antenna. The antenna is ____.	The ant climbed along the antenna. The antenna is ____.
+satellite	operational	inoperable	successful	irritated	Janet is successful when she tries to use the internet. The satellite is ____.	Janet is irritated when she tries to use the internet. The satellite is ____.
+turnstile	automatic	manual	button	hand	Bill activated the turnstile with a push of the button. The turnstile is ____.	Bill activated the turnstile with a push of the hand. The turnstile is ____.
+broccoli	edible	rotten	sad	excited	Suzy was sad to throw out the broccoli. The broccoli is ____.	Suzy was excited to throw out the broccoli. The broccoli is ____.
+wheat	edible	toxic	flour	pesticides	Barbara's wheat is covered in flour. The wheat is ____.	Barbara's wheat is covered in pesticides. The wheat is ____.
+kettle	empty	full	silent	whistled	The tea kettle I put on remained silent. The kettle is ____.	The tea kettle I put on remained whistled. The kettle is ____.
+chair	empty	full	free	occupied	John saw that the chair was free. The chair is ____.	John saw that the chair was occupied. The chair is ____.
+ice-cream cone	edible	fatal	good	expired	The label on the bag of ice cream cones said they were good. The ice-cream cone is ____.	The label on the bag of ice cream cones said they were expired. The ice-cream cone is ____.
+silicone	stable	violate	smooth	cracked	When he had finished the job, the plumber found that the silicone around the bath was smooth. The silicone is ____.	When he had finished the job, the plumber found that the silicone around the bath was cracked. The silicone is ____.
+lemon	edible	brown	perfect	rotten	The lemon in John's package was perfect. The lemon is ____.	The lemon in John's package was rotten. The lemon is ____.
+fudge	edible	inedible	refrigerator	trash	Emily left the fudge in the refrigerator overnight. The fudge is ____.	Emily left the fudge in the trash overnight. The fudge is ____.
+candlestick	empty	lit	dark	bright	The room containing the candlestick was dark. The candlestick is ____.	The room containing the candlestick was bright. The candlestick is ____.
+skunk	edible	noxious	delicious	gross	Tim ran over a skunk who looked delicious to bring home. The skunk is ____.	Tim ran over a skunk who looked gross to bring home. The skunk is ____.
+asparagus	edible	inedible	butter	turpentine	Mike mixed the asparagus with butter. The asparagus is ____.	Mike mixed the asparagus with turpentine. The asparagus is ____.
+syrup	edible	thickened	sweet	stiffened	Jenny poured on the sweet syrup. The syrup is ____.	Jenny poured on the stiffened syrup. The syrup is ____.
+hole	there	here	store	home	Her shirt was ripped at the store. The hole is ____.	Her shirt was ripped at the home. The hole is ____.
+sewing kit	expensive	cheap	lot	little	I had to pay a lot for the sewing kit. The sewing kit is ____.	I had to pay a little for the sewing kit. The sewing kit is ____.
+robot	dead	functional	vulnerable	impervious	The robot sat on the rock, vulnerable to the intense EMP attack leveled against it. The robot is ____.	The robot sat on the rock, impervious to the intense EMP attack leveled against it. The robot is ____.
+cornmeal	edible	molly	fantastic	disgusting	Bill cooked some fantastic break with the cornmeal. The cornmeal is ____.	Bill cooked some disgusting break with the cornmeal. The cornmeal is ____.
+sorbet	edible	toxic	feed	sicken	I used the sorbet to feed my boss. The sorbet is ____.	I used the sorbet to sicken my boss. The sorbet is ____.
+buckle	round	straight	ball	needle	Marcus noticed this belt buckle felt like a ball. The buckle is ____.	Marcus noticed this belt buckle felt like a needle. The buckle is ____.
+chihuahua	extinct	alive	none	alot	At the dog pound there were none of chihuahuas. The chihuahua is ____.	At the dog pound there were alot of chihuahuas. The chihuahua is ____.
+chalice	gold	silver	steel	stone	The chalice is composed of steel. The chalice is ____.	The chalice is composed of stone. The chalice is ____.
+bulldozer	amphibious	wind-driven	pontoons	sails	The bulldozer featured enormous pontoons. The bulldozer is ____.	The bulldozer featured enormous sails. The bulldozer is ____.
+skeleton	human	animal	man	bird	Ming was spooked by the skeleton of the man. The skeleton is ____.	Ming was spooked by the skeleton of the bird. The skeleton is ____.
+chalkboard	empty	covered	lifeguard	teacher	The child pretended to be a lifeguard. The chalkboard is ____.	The child pretended to be a teacher. The chalkboard is ____.
+kiwi	extinct	alive	exterminated	growing	Amy said kiwis are exterminated. The kiwi is ____.	Amy said kiwis are growing. The kiwi is ____.
+popsicle	edible	nutritious	juice	vitamins	Mary made popsicles out of juice. The popsicle is ____.	Mary made popsicles out of vitamins. The popsicle is ____.
+spear	long	short	man	dog	The spear stood at all as a man. The spear is ____.	The spear stood at all as a dog. The spear is ____.
+clipboard	blank	filled	avoided	finished	Oscar had avoided making his list on his clipboard. The clipboard is ____.	Oscar had finished making his list on his clipboard. The clipboard is ____.
+thumbtack	plastic	metal	snapped	bent	Jane pushed the thumbtack too hard and it snapped in half. The thumbtack is ____.	Jane pushed the thumbtack too hard and it bent in half. The thumbtack is ____.
+breakfast	ready	unprepared	plate	stove	The breakfast was on the plate while max sat a the table. The breakfast is ____.	The breakfast was on the stove while max sat a the table. The breakfast is ____.
+vial	empty	overflowing	clean 	spilling	Brad needed a vial that was clean . The vial is ____.	Brad needed a vial that was spilling. The vial is ____.
+counter	empty	filled	room	clutter	Looking for somewhere to set down his bag, John saw that there was room on the counter. The counter is ____.	Looking for somewhere to set down his bag, John saw that there was clutter on the counter. The counter is ____.
+handlebar	straight	curved	forward	up	Jane could reach the handle bars while sitting forward. The handlebar is ____.	Jane could reach the handle bars while sitting up. The handlebar is ____.
+scoop	good	bad	nonstick	rusty	The scoop had a nonstick coating. The scoop is ____.	The scoop had a rusty coating. The scoop is ____.
+trowel	long	short	lengthy	petite	I had to use a lengthy trowel. The trowel is ____.	I had to use a petite trowel. The trowel is ____.
+cordon bleu	common	uncommon	easy	difficult	It is very easy to find cordon bleu on a menu in this area. The cordon bleu is ____.	It is very difficult to find cordon bleu on a menu in this area. The cordon bleu is ____.
+bubble	empty	filled	smell	liquid	When the bubble popped, a sweet smell rained down. The bubble is ____.	When the bubble popped, a sweet liquid rained down. The bubble is ____.
+recorder	portable	huge	easy	difficult	The recorder is very easy to carry. The recorder is ____.	The recorder is very difficult to carry. The recorder is ____.
+chest	bare	overflowing	poor	rich	Susan looked into the chest and realized she was poor. The chest is ____.	Susan looked into the chest and realized she was rich. The chest is ____.
+seaweed	edible	inedible	awesome	terrible	Mike thought this seaweed would be awesome with sushi. The seaweed is ____.	Mike thought this seaweek would be terrible with sushi. The seaweed is ____.
+tennis ball	spherical	rectangular	bounced	slid	Bill threw the tennis ball and it bounced on the ground. The tennis ball is ____.	Bill threw the tennis ball and it slid on the ground. The tennis ball is ____.
+lava	volcanic	petrified	fled	held	The townspeople fled the lava. The lava is ____.	The townspeople held the lava. The lava is ____.
+banana	edible	inedible	yellow	black	A yellow banana was in my lunchbox. The banana is ____.	A black banana was in my lunchbox. The banana is ____.
+mouth	open	closed	teeth	lips	I could see the man's teeth were pressed close together. The mouth is ____.	I could see the man's lips were pressed close together. The mouth is ____.
+sawhorse	extinct	alive	rotten	moving	Jane saw that the sawhorse was rotten. The sawhorse is ____.	Jane saw that the sawhorse was moving. The sawhorse is ____.
+panther	prey	predator	tiger	rabbit	Mike watched the panther and the tiger hunting in the tall grass. The panther is ____.	Mike watched the panther and the rabbit hunting in the tall grass. The panther is ____.
+football	popular	ignored	famous	dismissed	The most famous ball is the football. The football is ____.	The most dismissed ball is the football. The football is ____.
+closet	open	shut	easy	hard	Bill had an easy time spotting the jacket in his closet. The closet is ____.	Bill had an hard time spotting the jacket in his closet. The closet is ____.
+test tube	cylindrical	cubic	rolled	balanced	The test tubes rolled when put down. The test tube is ____.	The test tubes balanced when put down. The test tube is ____.
+coffeemaker	mechanical	manual	press	remote	Mike activated coffeemaker using the press. The coffeemaker is ____.	Mike activated coffeemaker using the remote. The coffeemaker is ____.
+hair	short	lengthy	cut	grew	The girl cut her hair. The hair is ____.	The girl grew her hair. The hair is ____.
+toe	long	short	larger	smaller	Suzy had to get larger shoes, on account of her abnormal toe. The toe is ____.	Suzy had to get smaller shoes, on account of her abnormal toe. The toe is ____.
+computer	dead	operable	smashed	lit	Jenny saw that the screen was smashed. The computer is ____.	Jenny saw that the screen was lit. The computer is ____.
+chisel	sharp	smooth	ease	difficulty	Susan used the chisel to cut the stone with ease. The chisel is ____.	Susan used the chisel to cut the stone with difficulty. The chisel is ____.
+lumber	valuable	knotty	lot	little	Jack paid a lot for the lumber. The lumber is ____.	Jack paid a little for the lumber. The lumber is ____.
+tea	cold	scalding	iced	hot	Depending on if you prefer your tea iced might depend on the occasion in which you are drinking it. The tea is ____.	Depending on if you prefer your tea hot might depend on the occasion in which you are drinking it. The tea is ____.
+stew	delicious	disgusting	enjoyed	despised	Jim really enjoyed the soup. The stew is ____.	Jim really despised the soup. The stew is ____.
+yacht	empty	full	many	no	There is enough room on the yacht to fit many extra people. The yacht is ____.	There is enough room on the yacht to fit no extra people. The yacht is ____.
+drill	simple	hard	easy	arduous	Susan had an easy time figuring out how to use the drill. The drill is ____.	Susan had an arduous time figuring out how to use the drill. The drill is ____.
+swimsuit	transparent	thick	quickly	slowly	The swimsuit dried quickly. The swimsuit is ____.	The swimsuit dried slowly. The swimsuit is ____.
+bed	cold	warm	shade	sun	The bed was sitting in the shade all day. The bed is ____.	The bed was sitting in the sun all day. The bed is ____.
+chessboard	flat	ununiform 	even	raised	The squares on the chessboard were even. The chessboard is ____.	The squares on the chessboard were raised. The chessboard is ____.
+pillbox	empty	full	no	many	Jim looked in the pillbox and found there were no pills. The pillbox is ____.	Jim looked in the pillbox and found there were many pills. The pillbox is ____.
+boulder	there	nonexistent	blocked	opened	The passage was blocked since the work crew had finished with the boulder. The boulder is ____.	The passage was opened since the work crew had finished with the boulder. The boulder is ____.
+blueberry	edible	poisonous	healthy	dangerous	The blueberry in the salad is healthy. The blueberry is ____.	The blueberry in the salad is dangerous. The blueberry is ____.
+swing	vertical	sideways	elevated	horizontal	John's friend pushed him so hard on the swings at the park that it caused chains to extend extremely elevated. The swing is ____.	John's friend pushed him so hard on the swings at the park that it caused chains to extend extremely horizontal. The swing is ____.
+moccasin	edible	inedible	fondant	leather	Mike crafted the moccasin out of fondant. The moccasin is ____.	Mike crafted the moccasin out of leather. The moccasin is ____.
+needle	long	tiny	incredible	no	Jane felt almost incredible pain when the needle was fully inserted in her arm. The needle is ____.	Jane felt almost no pain when the needle was fully inserted in her arm. The needle is ____.
+shrimp	poisonous	tasty	painful	enjoyable	If you eat the shrimp, it will be painful. The shrimp is ____.	If you eat the shrimp, it will be enjoyable. The shrimp is ____.
+fence	high	low	tall	short	Jake climbed the tall fence. The fence is ____.	Jake climbed the short fence. The fence is ____.
+beetle	edible	harmful	nourishment	discomfort	The beetle will give you nourishment. The beetle is ____.	The beetle will give you discomfort. The beetle is ____.
+puppet	dead	animated	dropped	jumped	Tims play was really good especially when the puppet dropped from the top. The puppet is ____.	Tims play was really good especially when the puppet jumped from the top. The puppet is ____.
+cigarette holder	empty	full	many	no	There were many cigarettes in the cigarette holder. The cigarette holder is ____.	There were no cigarettes in the cigarette holder. The cigarette holder is ____.
+prism	transparent	opaque	clearly	nothing	I was able to see clearly through the prism. The prism is ____.	I was able to see nothing through the prism. The prism is ____.
+dolphin	amphibious	oceanic	legs	teeth	Some prehistoric dolphins had legs in addition to fins. The dolphin is ____.	Some prehistoric dolphins had teeth in addition to fins. The dolphin is ____.
+vase	empty	full	much	no	There was much room left for flowers in the vase. The vase is ____.	There was no room left for flowers in the vase. The vase is ____.
+mandolin	musical	fake	delightful	pretend	The man was playing a delightful mandolin. The mandolin is ____.	The man was playing a pretend mandolin. The mandolin is ____.
+crab	prey	carnivorous	fleeing	eating	The crab is fleeing the bird. The crab is ____.	The crab is eating the bird. The crab is ____.
+beer	bitter	sweet	tart	sugary	Tom enjoys tart beer. The beer is ____.	Tom enjoys sugary beer. The beer is ____.
+frog	edible	dangerous	snack	weapon	A frog can be a good snack. The frog is ____.	A frog can be a good weapon. The frog is ____.
+cummerbund	long	tiny	fat	thin	The fat man wore the cummerbund. The cummerbund is ____.	The thin man wore the cummerbund. The cummerbund is ____.
+woman	pregnant	infertile	celebrated	sobbed	The woman celebrated after reading her test. The woman is ____.	The woman sobbed after reading her test. The woman is ____.
+crystal ball	empty	full	nothing	everything	Jim could see nothing in the crystal ball. The crystal ball is ____.	Jim could see everything in the crystal ball. The crystal ball is ____.
+sorbet	edible	molly	pleased	repulsed	Bill was pleased by the old sorbet. The sorbet is ____.	Bill was repulsed by the old sorbet. The sorbet is ____.
+gramophone	portable	stuck	moveable	impossible 	Sheila wanted to use the gramophone in the closet to listen to an old record, all depending on the moveable action of transferring it from under the boxes and clothing. The gramophone is ____.	Sheila wanted to use the gramophone in the closet to listen to an old record, all depending on the impossible  action of transferring it from under the boxes and clothing. The gramophone is ____.
+honeypot	empty	full	light	heavy	Winnie's jar of honey was light. The honeypot is ____.	Winnie's jar of honey was heavy. The honeypot is ____.
+valve	open	closed	allowed	stopped	The valve allowed the water's flow. The valve is ____.	The valve stopped the water's flow. The valve is ____.
+iron	iron	gold	household	art	The iron was designed for household projects. The iron is ____.	The iron was designed for art projects. The iron is ____.
+juice	good	bad	fresh	rank	She poured the fresh juice in a jar. The juice is ____.	She poured the rank juice in a jar. The juice is ____.
+pulpit	empty	full	canceled	promoted	The preacher canceled his new pulpit sermons. The pulpit is ____.	The preacher promoted his new pulpit sermons. The pulpit is ____.
+money	yours	his	take	give	We went to the bank to take the money. The money is ____.	We went to the bank to give the money. The money is ____.
+stingray	poisonous	safe	flee	approach	If you see a stingray, you should flee. The stingray is ____.	If you see a stingray, you should approach. The stingray is ____.
+bark	thick	thin	pine	birch	Tina noticed the bark was from a pine. The bark is ____.	Tina noticed the bark was from a birch. The bark is ____.
+bowling ball	spherical	crooked	rolled	bounced	The bowling ball rolled down the lane. The bowling ball is ____.	The bowling ball bounced down the lane. The bowling ball is ____.
+milkshake	sweet	sour	hours	months	The milkshake has been sitting in the fridge for hours. The milkshake is ____.	The milkshake has been sitting in the fridge for months. The milkshake is ____.
+inkwell	empty	full	finished	added	Laura had finished ink in her inkwell. The inkwell is ____.	Laura had added ink in her inkwell. The inkwell is ____.
+boomerang	long	short	tall	tiny	I couldn't get a good grib on the boomerang because it was too tall. The boomerang is ____.	I couldn't get a good grib on the boomerang because it was too tiny. The boomerang is ____.
+prism	spherical	rectangular	rolled	slid	Mike rolled the prism across the table. The prism is ____.	Mike slid the prism across the table. The prism is ____.
+stamp	circular	scalloped	round	crinkled	Darren's new stamp in his collection was rather round. The stamp is ____.	Darren's new stamp in his collection was rather crinkled. The stamp is ____.
+spaghetti	cold	warm	never	just	Mark had had never cooked the spaghetti. The spaghetti is ____.	Mark had had just cooked the spaghetti. The spaghetti is ____.
+girl	dead	healthy	bus	balloon	Susan was hit by a bus. The girl is ____.	Susan was hit by a balloon. The girl is ____.
+mast	tall	down	upright	sideways	The pirate found the mask to be upright. The mast is ____.	The pirate found the mask to be sideways. The mast is ____.
+veil	thin	thick	see	miss	Logan could see his friend through the veil of smoke outside. The veil is ____.	Logan could miss his friend through the veil of smoke outside. The veil is ____.
+juicer	empty	full	drank	started	Ryan has drank his smoothie. The juicer is ____.	Ryan has started his smoothie. The juicer is ____.
+cape	large	small	giant	bird	Meredith made a cape for a giant. The cape is ____.	Meredith made a cape for a bird. The cape is ____.
+potato	edible	growing	ripe	small	The potato was really ripe for cooking. The potato is ____.	The potato was really small for cooking. The potato is ____.
+bulletin board	open	locked	overfilled	inaccessible	Janet tried to write on the bulletin board but it was overfilled. The bulletin board is ____.	Janet tried to write on the bulletin board but it was inaccessible. The bulletin board is ____.
+earwig	poisonous	delicious	hurt	feed	An earwig is good to hurt someone. The earwig is ____.	An earwig is good to feed someone. The earwig is ____.
+keg	empty	stuffed	over	tomorrow	The party is over. The keg is ____.	The party is tomorrow. The keg is ____.
+cork	elastic	dry	new	old	Gorton's cork is new. The cork is ____.	Gorton's cork is old. The cork is ____.
+couch	comfortable	uncomfortable	cotton	wood	Danielle's couch is made of cotton. The couch is ____.	Danielle's couch is made of wood. The couch is ____.
+cocoon	elastic	hard	bounced	broke	Matt hit the cocoon with a broom and it bounced off the side. The cocoon is ____.	Matt hit the cocoon with a broom and it broke off the side. The cocoon is ____.
+sushi	simple	confusing	beginner	enthusiast	The sushi is perfect for a beginner. The sushi is ____.	The sushi is perfect for a enthusiast. The sushi is ____.
+teddy bear	popular	unpopular	none	lots	Every toy store I went to had none of them available for sale. The teddy bear is ____.	Every toy store I went to had lots of them available for sale. The teddy bear is ____.
+berry	edible	toxic	fresh	moldy	The berries Fred ate were fresh. The berry is ____.	The berries Fred ate were moldy. The berry is ____.
+mushroom	edible	inedible	fresh	slimy	The mushroom at John's house was fresh. The mushroom is ____.	The mushroom at John's house was slimy. The mushroom is ____.
+bowling ball	spherical	squarish	best	worst	Kim's new ball ensured he bowled the best game of his life. The bowling ball is ____.	Kim's new ball ensured he bowled the worst game of his life. The bowling ball is ____.
+starfish	edible	inedible	enjoyed	discarded	Susan enjoyed the starfish soup. The starfish is ____.	Susan discarded the starfish soup. The starfish is ____.
+paddle	long	tiny	correct	doll	Kyle bought a paddle online for his canoe, and it was the correct size. The paddle is ____.	Kyle bought a paddle online for his canoe, and it was the doll size. The paddle is ____.
+computer screen	blank	working	dark	glowing	Kevin's computer screen was dark. The computer screen is ____.	Kevin's computer screen was glowing. The computer screen is ____.
+face	there	missing	drawn	erased	Janet had drawn the face. The face is ____.	Janet had erased the face. The face is ____.
+slingshot	long	short	easily	barely	Sally could easily get enough tension out of the slingshot to make the shot. The slingshot is ____.	Sally could barely get enough tension out of the slingshot to make the shot. The slingshot is ____.
+grasshopper	small	huge	adorable	monolithic	Angelo looked at the adorable grasshopper. The grasshopper is ____.	Angelo looked at the monolithic grasshopper. The grasshopper is ____.
+bucket	heavy	lightweight	burdensome	easy	The bucket was burdensome for the child to carry. The bucket is ____.	The bucket was easy for the child to carry. The bucket is ____.
+barcode	unique	common	None	All	None of the other packages had this barcode. The barcode is ____.	All of the other packages had this barcode. The barcode is ____.
+face	real	fake	authentic	CGI	Mary was able to pick the authentic face out of a lineup. The face is ____.	Mary was able to pick the CGI face out of a lineup. The face is ____.
+test tube	hollow	filled	empty	loaded	The doctor used a empty test tube. The test tube is ____.	The doctor used a loaded test tube. The test tube is ____.
+gondola	empty	stuffed	off	on	People were trying to get off the gondolas rides. The gondola is ____.	People were trying to get on the gondolas rides. The gondola is ____.
+tarantula	poisonous	safe	thrilled	terrified	Kim was thrilled when he asked her to hold the tarantula. The tarantula is ____.	Kim was terrified when he asked her to hold the tarantula. The tarantula is ____.
+gong	hollow	solid	Loud	Soft	Mark smash the side of the gong making a Loud rininging. The gong is ____.	Mark smash the side of the gong making a Soft rininging. The gong is ____.
+sweet potato	edible	inedible	ground	trash	Philip dug the sweet potato out of the ground. The sweet potato is ____.	Philip dug the sweet potato out of the trash. The sweet potato is ____.
+bedpost	straight	crooked	pointed	curved	Brad noticed the bedpost was pointed as he lay in bed. The bedpost is ____.	Brad noticed the bedpost was curved as he lay in bed. The bedpost is ____.
+macadamia	extinct	growing	eliminated	planted	The macadamia was eliminated recently. The macadamia is ____.	The macadamia was planted recently. The macadamia is ____.
+hard disk	empty	full	new	used	The hard disk is new. The hard disk is ____.	The hard disk is used. The hard disk is ____.
+sling	heavy	light	hard	easy	It was hard to carry the sling. The sling is ____.	It was easy to carry the sling. The sling is ____.
+nest	small	huge	hummingbird	emu	The nest held hummingbird eggs. The nest is ____.	The nest held emu eggs. The nest is ____.
+blanket	warm	cold	boy	snow	John's blanket is on the boy. The blanket is ____.	John's blanket is on the snow. The blanket is ____.

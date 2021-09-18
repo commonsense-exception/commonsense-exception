@@ -1,0 +1,144 @@
+	User ID	id	Word	generic	frequentAssociation	makeSense	antonym1	antonym2	antonym3
+11	YYQ2E9ZT4FT3	5278	owl	female	Yes	Yes	Male		
+28	YYQ2E9ZT4FT3	250	backpack	there	Yes	Yes	Here		
+32	YYQ2E9ZT4FT3	2882	flamingo	edible	No	Yes	Inedible		
+34	YYQ2E9ZT4FT3	1252	carriage	ready	Yes	Yes	Preparing		
+36	YYQ2E9ZT4FT3	7503	station wagon	used	Yes	Yes	New		
+37	YYQ2E9ZT4FT3	4111	jewel	safe	Yes	Yes	Vulnerable		
+39	YYQ2E9ZT4FT3	7989	thorn	sharp	Yes	Yes	Dull		
+47	YYQ2E9ZT4FT3	2527	dynamite	explosive	Yes	Yes	Unexploded		
+68	YYQ2E9ZT4FT3	5017	mulch	acidic	Yes	Yes	Basic		
+76	YYQ2E9ZT4FT3	7108	slime	edible	Yes	Yes	Inedible		
+77	YYQ2E9ZT4FT3	4803	memory stick	loaded	No	Yes	Unloaded		
+87	YYQ2E9ZT4FT3	2653	exhaust pipe	empty	No	Yes	Clogged		
+90	YYQ2E9ZT4FT3	1478	chicken wire	clean	No	Yes	Dirty		
+101	YYQ2E9ZT4FT3	1925	cordon bleu	full	No	No			
+106	YYQ2E9ZT4FT3	875	bread	fresh	Yes	Yes	Stale		
+112	YYQ2E9ZT4FT3	7674	sugar cube	removed	No	Yes	Added		
+113	YYQ2E9ZT4FT3	5518	penholder	open	Yes	Yes	Closed		
+116	YYQ2E9ZT4FT3	4438	lens	circular	Yes	Yes	Square		
+117	YYQ2E9ZT4FT3	1921	cordon bleu	complete	No	Yes	Unfinished		
+135	YYQ2E9ZT4FT3	5041	music box	open	Yes	Yes	Closed		
+136	YYQ2E9ZT4FT3	7821	taffy	there	Yes	Yes	Gone		
+149	YYQ2E9ZT4FT3	5951	pot	cold	Yes	Yes	Hot		
+157	YYQ2E9ZT4FT3	526	bell pepper	cooked	Yes	Yes	Raw		
+158	YYQ2E9ZT4FT3	8976	xylophone	unique	Yes	Yes	Commonplace		
+165	YYQ2E9ZT4FT3	6149	racket	over	Yes	Yes	Ongoing		
+169	YYQ2E9ZT4FT3	1798	coin	gold	Yes	Yes	Silver		
+171	YYQ2E9ZT4FT3	3213	gel	sticky	Yes	Yes	Dry		
+181	YYQ2E9ZT4FT3	2150	crystal	liquid	No	Yes	Solid		
+184	YYQ2E9ZT4FT3	6163	radio	working	Yes	Yes	Broken	Inoperable	Trashed
+186	YYQ2E9ZT4FT3	1919	cord	closed	No	No			
+202	YYQ2E9ZT4FT3	3585	hammock	solid	Yes	Yes	Loose		
+208	YYQ2E9ZT4FT3	3232	gift	personal	Yes	Yes	Impersonal		
+211	YYQ2E9ZT4FT3	3492	gum	edible	Yes	Yes	Inedible		
+218	YYQ2E9ZT4FT3	4517	lingerie	free	Yes	Yes	Expensive		
+219	YYQ2E9ZT4FT3	3941	ice	slippery	Yes	Yes	Stable		
+220	YYQ2E9ZT4FT3	8972	wrist	flat	No	Yes	Bony		
+221	YYQ2E9ZT4FT3	8961	wrapping paper	brown	Yes	Yes	Green		
+226	YYQ2E9ZT4FT3	5916	pony	real	Yes	Yes	Imaginary		
+231	YYQ2E9ZT4FT3	4344	laser pointer	fired	No	No			
+246	YYQ2E9ZT4FT3	5619	pickax	round	No	Yes	Pointed		
+250	YYQ2E9ZT4FT3	5722	pinwheel	operational	No	Yes	Broken		
+262	YYQ2E9ZT4FT3	5355	panties	pink	Yes	Yes	Red		
+271	YYQ2E9ZT4FT3	6948	shower cap	missing	No	Yes	There		
+281	YYQ2E9ZT4FT3	1995	couch	full	Yes	Yes	Unoccupied		
+282	YYQ2E9ZT4FT3	21	air conditioner	fixed	Yes	Yes	Broken		
+289	YYQ2E9ZT4FT3	8007	throne	complete	No	Yes	Unfinished		
+292	YYQ2E9ZT4FT3	3715	hedge	thick	Yes	Yes	Thin		
+293	YYQ2E9ZT4FT3	4659	man	here	Yes	Yes	There		
+294	YYQ2E9ZT4FT3	3580	hammer	heavy	Yes	Yes	Light		
+298	YYQ2E9ZT4FT3	5426	parrot	migratory	Yes	Yes	Stationary		
+301	YYQ2E9ZT4FT3	3176	gate	open	Yes	Yes	Closed		
+307	YYQ2E9ZT4FT3	7718	swab	cold	No	Yes	Warm		
+317	YYQ2E9ZT4FT3	7622	straw	cold	No	Yes	Warm		
+328	YYQ2E9ZT4FT3	6418	roller	hot	No	Yes	Cold		
+338	YYQ2E9ZT4FT3	7716	suspenders	adjustable	Yes	Yes	Fixed		
+339	YYQ2E9ZT4FT3	6498	ruby	TRUE	No	No			
+364	YYQ2E9ZT4FT3	4032	iron	brittle	Yes	Yes	Hard		
+371	YYQ2E9ZT4FT3	8361	trunk	large	Yes	Yes	Small		
+395	YYQ2E9ZT4FT3	8109	toilet paper	used	No	Yes	New		
+405	YYQ2E9ZT4FT3	2675	eyepiece	transparent	Yes	Yes	Translucent		
+407	YYQ2E9ZT4FT3	3333	golf club	operational	No	Yes	Broken		
+409	YYQ2E9ZT4FT3	8757	weed	lethal	Yes	Yes	Safe		
+410	YYQ2E9ZT4FT3	8682	water heater	electric	Yes	Yes			
+413	YYQ2E9ZT4FT3	4108	jewel	dead	No	No			
+416	YYQ2E9ZT4FT3	5910	pom-pom	used	Yes	Yes	New		
+424	YYQ2E9ZT4FT3	3100	fungus	aggressive	No	Yes	Passive		
+428	YYQ2E9ZT4FT3	3228	generator	operational	Yes	Yes	Broken		
+430	YYQ2E9ZT4FT3	3885	hot-water bottle	loaded	No	Yes	Empty		
+437	YYQ2E9ZT4FT3	3212	gel	clear	Yes	Yes	Opaque		
+440	YYQ2E9ZT4FT3	69	alligator	dangerous	Yes	Yes	Tame		
+441	YYQ2E9ZT4FT3	952	bucket	dry	Yes	Yes	Wet		
+450	YYQ2E9ZT4FT3	1499	chili	hot	Yes	Yes	Mild		
+452	YYQ2E9ZT4FT3	8074	toaster	empty	Yes	Yes	Full		
+463	YYQ2E9ZT4FT3	3151	gargoyle	female	Yes	Yes	Male		
+470	YYQ2E9ZT4FT3	5395	paper towel	dry	Yes	Yes	Moist		
+471	YYQ2E9ZT4FT3	6035	pudding	good	Yes	Yes	Bad		
+488	YYQ2E9ZT4FT3	5418	parking meter	charged	No	Yes	Dead		
+489	YYQ2E9ZT4FT3	7930	telephone pole	replaced	Yes	Yes	unchanged		
+502	YYQ2E9ZT4FT3	8882	wing	flat	No	No			
+503	YYQ2E9ZT4FT3	6502	rudder	flat	No	Yes			
+511	YYQ2E9ZT4FT3	8286	tree	unique	Yes	Yes	Common		
+516	YYQ2E9ZT4FT3	7269	solar panel	open	No	Yes	Closed		
+529	YYQ2E9ZT4FT3	960	buckle	adjustable	Yes	Yes	Fixed		
+532	YYQ2E9ZT4FT3	578	bird	unusual	Yes	Yes	Commonplace		
+539	YYQ2E9ZT4FT3	5082	nail file	used	Yes	Yes	New		
+544	YYQ2E9ZT4FT3	7298	sorbet	edible	Yes	Yes	Spoiled		
+545	YYQ2E9ZT4FT3	6237	razor	there	Yes	Yes	Gone		
+553	YYQ2E9ZT4FT3	2893	flashlight	glowing	Yes	Yes	Off		
+568	YYQ2E9ZT4FT3	1996	couch	perfect	Yes	Yes	Ugly		
+569	YYQ2E9ZT4FT3	2529	eagle	dead	Yes	Yes	Alive		
+587	YYQ2E9ZT4FT3	6441	roof rack	replaced	No	Yes	Unchanged		
+590	YYQ2E9ZT4FT3	5369	papaya	ripe	Yes	Yes	Unripe		
+595	YYQ2E9ZT4FT3	4997	muff	brown	No	No			
+598	YYQ2E9ZT4FT3	6593	sardine	poisonous	No	Yes	Edible		
+622	YYQ2E9ZT4FT3	7192	snowball	real	No	Yes	Fake		
+623	YYQ2E9ZT4FT3	8852	windsock	present	No	Yes	Gone		
+625	YYQ2E9ZT4FT3	1640	clock	ticking	Yes	Yes	Stopped		
+640	YYQ2E9ZT4FT3	8919	woman	there	Yes	Yes	Here		
+650	YYQ2E9ZT4FT3	140	anvil	empty	No	No			
+651	YYQ2E9ZT4FT3	5512	pendulum	rotating	Yes	Yes	Still		
+660	YYQ2E9ZT4FT3	6429	roller coaster	closed	Yes	Yes	Open		
+663	YYQ2E9ZT4FT3	3713	hedge	high	Yes	Yes	Low		
+666	YYQ2E9ZT4FT3	1738	coffee	hot	Yes	Yes	Lukewarm		
+672	YYQ2E9ZT4FT3	7401	spout	closed	Yes	Yes	Open		
+676	YYQ2E9ZT4FT3	7834	tank	functional	Yes	Yes	Broken		
+678	YYQ2E9ZT4FT3	7449	squirt gun	used	Yes	Yes	New		
+683	YYQ2E9ZT4FT3	2264	detonator	active	Yes	Yes	Inactive		
+685	YYQ2E9ZT4FT3	8792	wheelchair	available	Yes	Yes	Occupied		
+692	YYQ2E9ZT4FT3	228	awning	high	Yes	Yes	Low		
+704	YYQ2E9ZT4FT3	2828	firewood	clean	Yes	Yes	Dirty		
+711	YYQ2E9ZT4FT3	626	blinder	visible	Yes	Yes	Invisible		
+729	YYQ2E9ZT4FT3	5442	pastry	cold	Yes	Yes	Warm		
+734	YYQ2E9ZT4FT3	3190	gazelle	right	No	Yes	Wrong		
+756	YYQ2E9ZT4FT3	6399	rocket	empty	Yes	Yes	Full		
+757	YYQ2E9ZT4FT3	6193	raisin	cold	No	Yes	Warm		
+764	YYQ2E9ZT4FT3	5505	pencil	there	Yes	Yes	Gone		
+766	YYQ2E9ZT4FT3	2574	egg	edible	Yes	Yes	Rotten		
+768	YYQ2E9ZT4FT3	4676	manhole	large	No	Yes	Narrow		
+769	YYQ2E9ZT4FT3	2098	crouton	complete	No	No			
+776	YYQ2E9ZT4FT3	1848	compost	acidic	Yes	Yes	Neutral		
+781	YYQ2E9ZT4FT3	3688	headrest	adjustable	Yes	Yes	Fixed		
+789	YYQ2E9ZT4FT3	8026	tiara	unique	Yes	Yes	Generic		
+822	YYQ2E9ZT4FT3	2275	diaper	wet	Yes	Yes	Dry		
+835	YYQ2E9ZT4FT3	4953	mouse	female	Yes	Yes	Male		
+843	YYQ2E9ZT4FT3	2994	foot	visible	Yes	Yes	Invisible		
+845	YYQ2E9ZT4FT3	3543	hair	long	Yes	Yes	Short		
+851	YYQ2E9ZT4FT3	1809	collar	open	Yes	Yes	Closed		
+854	YYQ2E9ZT4FT3	6483	roulette wheel	fixed	Yes	Yes	Fair		
+859	YYQ2E9ZT4FT3	5439	pasta	soft	Yes	Yes	Firm		
+864	YYQ2E9ZT4FT3	6868	shield	solid	Yes	Yes	Brittle		
+873	YYQ2E9ZT4FT3	1	aardvark	extinct	No	Yes	Thriving		
+875	YYQ2E9ZT4FT3	4130	jigsaw puzzle	finished	Yes	Yes	Incomplete		
+882	YYQ2E9ZT4FT3	8220	tractor	operational	Yes	Yes	Inoperable		
+904	YYQ2E9ZT4FT3	6882	shoe	worn	Yes	Yes	New		
+910	YYQ2E9ZT4FT3	4086	jeep	moving	Yes	Yes	Parked		
+920	YYQ2E9ZT4FT3	1790	coffin	empty	Yes	Yes	Occupied		
+936	YYQ2E9ZT4FT3	8526	viewfinder	automatic	Yes	Yes	Manual		
+947	YYQ2E9ZT4FT3	229	awning	closed	Yes	Yes	Open		
+952	YYQ2E9ZT4FT3	6589	sarcophagus	complete	Yes	Yes	Unfinished		
+960	YYQ2E9ZT4FT3	1445	chessboard	complete	Yes	Yes	Incomplete		
+963	YYQ2E9ZT4FT3	1076	cactus	endemic	Yes	Yes	Invasive		
+973	YYQ2E9ZT4FT3	8754	weed	poisonous	Yes	Yes	Nontoxic		
+991	YYQ2E9ZT4FT3	2326	diving board	available	No	Yes	Occupied		

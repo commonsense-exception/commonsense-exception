@@ -40,3 +40,9 @@ data = pd.read_csv("data/winoventi_bert_large_final.tsv", sep="\t")
 7. `target`: A String, that represents the correct answer to the `masked_prompt`.
 8. `incorrect`: A String, that represents the *incorrect* andswer to the `masked_prompt`.
 9. `test_type`: A number, that represents the type of challenge that the schema is testing. `1` represents the "stereotypical challenge", testing whether a language model correctly predicts the associative bias descriptor when the context is the `biased_word_context`. `2` represents the "exception challenge", testing whether the language model correctly predicts the alternative descriptor when the context is the `adversarial_word_context`.
+
+**Other relevant files in `data/`**:
+- `data/source/things_concepts.tsv`: The original THINGS dataset, from which we derived our entities of interest.
+- `data/assets/associativebias_registry.tsv`: The file that records the biases that language models associate with our entities of interest.
+- `data/assets/crowdsourcing`: Contains files that we used to prepare the our crowdsourcing tasks, as well as the results we collected.
+- `data/assets/finetune`: Contains the train/test splits that we use in order to perform the finetuning experiments as mentioned in the paper.

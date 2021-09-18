@@ -1,0 +1,102 @@
+User ID	Word	generic	Step1Input1	Step1Input2	Step1Input3	SpecialPair	Context	feedback/questions	step1input1quality	step1input2quality	step1input3quality	pairquality	contextquality
+EGZANDYA4C6Q	skirt	short	long	full	mid-length	[short/long]	The skirt is [short/long]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+GXYANFVKRRMZ	ladle	closed	Open	Unlocked	continuing 	[closed/open]	The business is [closed/open] as of now due to the covid emergency. 		yes, but nonsense prompt	yes, but nonsense prompt	yes, but nonsense prompt	yes, but nonsense prompt	no
+4FRFD66TK6XE	scanner	dead	Working	Running	Operational	[broken/fixed]	The scanner is [broken/fixed].	"I wondered if the pair of words for context needed to be adjectives. For example, with my scanner sentence, would something like ""When the scanner is plugged in, it [does/doesn't] work."" be acceptable? I imagine the AI is trying to learn words, so the more descriptive, the better and [does/doesn't] isn't that helpful. "	yes	yes	yes	yes	yes
+WYWGJAYCCA6D	dough	hard	soft	easy	tender	soft/hard	The dough is soft.		yes	yes	yes	mistaken with outcome	mistaken with outcome, bad
+HKXM7AJCMHJQ	plunger	closed	open	unlocked	ajar	shut/ajar.	The plunger is shut/ajar		yes, but nonsense prompt	yes, but nonsense prompt	yes, but nonsense prompt	mistaken with outcome, maybe	mistaken with outcome, maybe
+A969KQ7EMVW3	sewing machine	functional	malfunctioning	useless	inoperable	[functional/inoperable]	The sewing machine is [functional/inoperable].		yes	yes	yes	mistaken with outcome	mistaken with outcome
+R2FHGF3QXQ6M	drill	manual	powered	electric	automatic	[antiquated/modern]	The drill is [antiquated/modern]		yes	yes	yes	yes	yes
+FXEXXAC2PT3N	cow	happy	upset	angry	distraught	 [starving/satisfied] 	The cow was [starving/satisfied] because he wasn't fed enough food.		yes	yes	yes	yes	yes
+DEDRKKX9JTVW	deer	present	absent	gone	away	[up/off]	The deer just walked [up/off].		yes	yes	yes	yes	yes
+TC9FHXCXZWRA	stake	empty	full	occupied		[busy/slow]	The stake is busy.	I know the sentence made mo sense but the original sentence made no sense to me...	yes, but nonsense prompt	yes, but nonsense prompt		yes, but nonsense prompt	no
+YYQ2E9ZT4FT3	faucet	functional	broken	inoperable	unusable	[clogged/flowing]	The faucet is [clogged/flowing].		yes	yes	yes	yes	yes
+WW4J96KNQAGG	gum	edible	inedible	unsuitable	unpalatable	[disgusting/tasty]	The gum is [disgusting/tasty]		yes	yes	yes	yes	yes
+QERTQJJW7XPM	tuba	cocked	Straightened	"
+Evened"	Flattened	usable/useless	The tuba is cocked/straightened.   The tuba can be usable/useless for diving.		yes	maybe	yes	yes	yes
+PTQGWRFHYJTJ	brace	open	closed	shut	unopened	[use/disuse]	The brace is in [use/disuse].	"I found it pretty difficult to create one-word-only synonyms and position pairs. (Just FYI, not a complaint!) Also, it was a bit difficult to understand what ""The brace is open"" even means without more context. So I'm not sure if our answers need to be 100% correct or not, or if it's okay for them to be a bit of a stretch."	yes	yes	yes	yes	yes
+V6ZR7KQXC7EP	rolling pin	loaded	unloaded	empty	bare	[clean/dirty]	The rolling pin is [clean/dirty].		yes, but nonsense prompt	yes but nonsense prompt	yes but nonsense prompt	yes	yes
+MEJWNVYTN6GW	odometer	red	Green	Blue	Black	[blood/leaves]	The odometer is covered in [blood/leaves].	"It's rather difficult to make something like an odometer being different colors register for this format. An odometer being a different color doesn't really contradict anything-- other than it just being a separate color. In the berry example, you could easily do ""That berry is a [strawberry/blueberry]"" to indicate contradictions. For an odometer, there really isn't an easy go to, and I had to provide a very strange workaround. If there's something I'm missing in the process, please let me know! "	yes	yes	yes	yes	yes
+FV7RV6QXWKAW	eyepiece	black	white	light	bright	[black/white]	The eyepiece is [black/white]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+XH7FWCGRRXDJ	board	black	white	orange	yellow	[black/white]	The board was [black/white].		yes	yes	yes	mistaken with outcome	mistaken with outcome
+W9XTVGDF6CV4	chimney	closed	Open	Unenclosed	Unshut	[Unrestricted/restricted]	Smoke came out of the chimney [restricted/unrestricted]		yes	yes	yes	yes	yes
+FPMCK2P37RW2	golf cart	open	locked	occupied	inaccessible	[available/occupied]	The golf cart is currently [available/occupied].		yes	yes	yes	yes	yes
+FGPEPKCMK3KM	artichoke	rare	common	normal	ordinary	[familiar/uncommon]	The artichoke is [familiar/uncommon].		yes	yes	yes	yes	yes
+4TR6J693M9XK	tumbleweed	edible	Inedible 	Unpalatable	Harmful	[gross/tasty]	The tumbleweed is [gross/tasty].		yes	yes	yes	yes	yes
+6XFJ6ADHNKEZ	rattlesnake	common	Rare	uncommon	distinct	[often/rarely]	This particular snake is [often/rarely] seen.		yes	yes	yes	yes	yes
+YKGFKQKA2WC2	bush	green	purple	pink	white	[colorless/colored]	The apple is [colorless/colored]		yes	yes	yes	yes	yes
+P4FAJWWTNR9N	handcuff	open	locked	closed	shut	[free/barred]	The criminal was impatiently waiting to see if the handcuffs would make him [free/barred].		yes	yes	yes	yes	yes
+XJKGQQWFXKTX	mannequin	there	here	nowhere	gone	see/imagine	The girl was was able to get a see/imagine the mannequin.	I used gone as my antonym for step 3 :)	yes	yes	yes	yes	yes
+HWDQZR3ZTFRN	ladle	used	The ladle is unused	The ladle is new		[dirty/clean]	The label is [dirty/clean].		yes, but copied everything	yes, but copied everything		yes	typo
+Q6PJWFGEWTGQ	wreath	large	small	tiny	miniscule	heavy/light	The wreath is heavy/light		yes	yes	yes	yes	yes
+R3CDKNC3PH6K	microscope	adjustable	fixed	static	immovable	[adjustable/fixed]	The microscope is [adjustable/fixed]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+J7YPEAJHPTM7	sleeping bag	opened	The sleeping bag is closed.	The sleeping bag is shut.	The sleeping bag is sealed.	[zipped/unzipped]	The sleeping bag is [zipped/unzipped].		yes, but copied everything	yes, but copied everything	yes, but copied everything	yes	yes
+RGDCWYTV6K79	rake	electrified	lifeless			[dangerous/safe]	The lightening struck the rake and then it was [dangerous/safe] to touch. 	This one was fairly difficult because there isn't a really good antonym for electrified.  I understand the task, so if this one wasn't up to par, I apologize. 	yes, but nonsense prompt			yes	yes
+NFN2M74RPJ2Q	ostrich	female	male			produce/fertilize	The Ostrich could produce/fertilize an egg	Bit of a stretch coming up with the answer to step 3 - my only other thought was 'The ostrich could/couldn't lay eggs'	yes			yes	yes
+2ZF2RAMFQQ3M	sewage	high	low	short	squat	[short/tall]	The sewage is [short/tall.	This is interesting! :)	yes	yes	yes		yes
+K94W3ATCZX2V	screen	green	red	black	white	[grass/milk]	The glare from the screen resembles [grass/milk].	Thanks for the opportunity.	yes	yes	yes	yes	yes
+AZC3WE92JE2T	napkin	wet	dry	parched	moistureless	[wash/dry]	She used the napkin to [wash/dry] her hands.		yes	yes	yes	yes	yes
+WHHM2A4MZ24Z	viewfinder	closed	open	available	free	[locked/unlocked]	The viewfinder is [locked/unlocked].	I'd love more examples to help better understand the instructions - it took me some time to parse.	yes	yes	maybe	yes	yes
+XXKCFJGVJDTX	handprint	red	black	white	invisible	[clear/crimson]	The handprint is [clear/crimson].		yes	yes	yes	yes	yes
+ZX4T6TX7KH4F	coffee	ready	unfinished	unprepared	unavailable	[drinkable/undrinkable]	The coffee is [drinkable/undrinkable].		yes	yes	yes	yes	yes
+DZ76R6HPTQH4	celery	removed	added	kept	retained	[enjoyed/discarded]	The celery is [enjoyed/discarded]		yes	yes	yes	yes	yes
+TRZKH4HK4646	donut	white	black	green	brown	[white/green]	It was easy to find the donut in the grass because it was [white/green].		yes	yes	yes	mistaken with outcome	yes perfect, but mistaken with outcome
+NZ94FAVGWEPR	hearing aid	used	discarded	misused	deactivated	[inaudible/inaudible]	The man could not tell if his hearing aid was working it was [inaudible/loud].		yes	yes	yes	yes ish, accidentally repeated themselves	yes
+4KDNMYPMNZXC	school bus	available	unavailable	inaccessible	unattainable	[unattainable/accessible]	The school bus is [unattainable/accessible].		yes	yes	yes	mistaken with outcome	yes
+DMDJ3QQK6JN9	fungus	unique	common	normal	ordinary	[rarely/abundantly]	The fungus occurs [rarely/abundantly] in the environment.		yes	yes	yes	yes	yes
+X6P6DQRXD62A	station wagon	used	new	unused	pristine	new/old	The car is [new/old].		yes	yes	yes	yes	yes
+QRFN2MNYRJMF	wallet	open	closed	shut	put away	[empty/full]	The wallet is [empty/full]		yes	yes	yes	yes	maybe???
+YKFXDFCC3WM2	vest	green	white	uncolored	plain	dyed/undyed	The vest is [dyed/undyed]		yes	yes	yes	yes	yes
+7R2NKCJQNXPP	cigar	red	Black	White	Pasty	Red/white	The cigar was the color of a fresh crisp snowfall. 		yes	yes	yes	mistaken with outcome	mistaken with outcome
+C69D7VD39FKM	smoothie	edible	spoiled	moldy	curdled	edible/spoiled	The smoothie is edible./The smoothie is spoiled. 		yes	yes	yes	mistaken with outcome	mistaken with outcome
+7YCCTVFCCENT	breakfast	eaten	uneaten	unconsumed	old	[enjoyed, hated]	The man [enjoyed/hated] his breakfast.		yes	yes	yes	yes	yes
+A44DA67CMF3F	spider	blind	sighted	seeing	looking	[aware/unaware]	The spider is [aware/unaware] that the flower in front of him is blue.		yes	yes	yes	yes	yes
+M73R33QFT7KW	water filter	closed	open	leaky	loose	open/out of use	The water filter is [open/out of use]		yes	yes	yes	no	no
+F699KNW3XMJ3	granola	good	disgusting	stale	bland	 [rancid/yummy].	The granola is [rancid/yummy].		yes	yes	yes	yes	yes
+WQCJVFDPQFEC	pastry	dry	wet	damp	moist	[baked/unbaked]	The pasty is [baked/unbaked].		yes	yes	yes	yes	yes, but with typo
+4YNXDR4CKEZM	pliers	fixed	adjustable	slip-joint		[fixed|adjustable]	The pliers can be used on [few|many] sizes of bolts.		yes	yes		mistaken with outcome	yes
+XE3A9G9ZG27F	sword	ready	unprepared	unready	dull	[ready/dull]	It was [difficult/easy] for the King to chop the apple in two using the sword.		yes	yes	yes	mistaken with outcome	yes
+3MMFR6RXMZM2	bulletproof vest	optional	mandatory	required	banned	[integrated/illegal]	the bulletproof vest is completely [integrated/illegal]	Is it okay to use hyphenated words like built-in?	yes	yes	yes	yes	yes
+9KNVR6X2DWC4	makeup	good	bad	awful	cheap	[hardly/easily]	The makeup can [hardly/easily] cover any blemish.	In both of the examples above, the [A/B] selection was at the end of each sentence; I put mine in the middle of the sentence, because I felt it better communicated the point. Should the [A/B] selection always be placed at the end of the sentence, or does it not matter, as long as it fits the requirements?	yes	yes	yes	yes	yes
+9EN7PWYA6G4F	recliner	open	closed	shut	down	[raised/lowered]	I always felt more relaxed when the recliner is [raised/lowered].		yes	yes	yes	yes	yes
+FPWHJG73NYJG	sloth	extinct	Alive	Living	Active	[moving/decaying]	The sloth is [moving/decaying]	Looking forward to it. 	yes	yes	yes	yes	yes
+EDFCGZTFX4GA	dresser	closed	open	unshut	accessible 	[hidden/shown]	The contents of the dresser drawer are [hidden/shown].		yes	yes	yes	yes	yes
+77TD72Y69FWT	bubble	released	confined	restrained	bound	released/restrained	The bubble is released/restrained.		yes	yes	yes	mistaken with outcome	mistaken with outcome
+FWD4Z73KK6F6	wedge	fixed	moving	falling	sliding	[safe/dangerous]	The wedge was lodged in the tree, making it [safe/dangerous] to cut.		yes	yes	yes	yes	yes
+RP7MDHXYNRPN	oil	pure	impure	dirty	polluted	[sterile/contaminated]	The oil is [sterile/contaminated].		yes	yes	yes	yes	yes
+CAG2KV7YTM69	roll	finished	started	incomplete	initiated	started/completed.	The roll has been started/completed.	I hope I did the second segment correctly! I look forward to working with you on this project! :) 	yes	yes	yes	mistaken with outcome	mistaken with outcome
+EZCVAWE2HAMP	pistachio	green	red	blue	yellow	[verdant/rusty]	The pistachio is [verdant/rusty].		yes	yes	yes	yes	yes
+N29ATXR27XGJ	baton	suspended	launched	extended	resumed	[suspended/resumed]	The baton is going to be [cancelled/resumed] next week.		yes	yes	yes	mistaken with outcome	confused
+KKGQRZWNCHJK	hedge	thick	sparse	narrow	thin	[dense/sparse]	The dog slipped through the [dense/sparse] hedge.		yes	yes	yes	mistaken with outcome	yes
+FG2MPT3EFT3R	kettle	full	Empty 	Void	Devoid	[light/heavy]	The kettle is [light/heavy].		yes	yes	???	yes	yes
+Y6NJFXZG9VZX	sticker	green	black	purple	yellow	 [grass/asphalt]	The sticker matches the [grass/asphalt]		yes	yes	yes	yes	yes
+ZW9ZNGVMAYNQ	elbow	bent	straight	aligned	even	[bent/straight]	The muscle builder's elbow was [bent/straight] as he curled his fist toward his shoulder and flexed his bicep.		yes	yes	yes?	mistaken with outcome	heck yes, but mistaken with outcome
+AMNRA9M4CX9N	car door	locked	open	unlock	unsecured	ajar/shut	The car door is ajar/shut.  	Hopefully I did it correctly.  Thank you. 	yes	yes	yes	yes	yes
+HETFGTQ7J3Y6	basil	dry	wet	moist 	drenched 	[dry/wet]	The basil is [dry/wet]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+7DY9YPQK4HG7	frisbee	played	dropped	fumbled	lost	managed/failed	The frisbee golf player [managed/failed] to throw the frisbee into the goal.		yes	yes	yes	yes	yes
+JE2PZ3NEZGRZ	calzone	stable	unstable	flimsy	floppy	[frozen/cooked]	The calzone is [frozen/cooked]	"I feel like I have to explain. Being ""stable"" is not a typical way of describing a calzone. So when its frozen it is stiff and ""stable"". When its cooked it becomes floppy and flimsy."	yes, but the prompt does not make sense	yes	yes	yes	yes
+JF2YNDQTVGT6	camel	killed	The camel is alive	The camel is healthy	The camel is fine	dead/alive	The camel is dead/alive		yes	yes	yes	yes	yes
+7TVRDX6P4GTP	flag	white	black	mahogany	sable	[dark/bright]	The flag is [dark/bright].		yes	yes	yes	yes	yes
+R7AZQKJ2FQVT	paper	blue	red	colorless	white	[white/oceanic]	The paper is [white/oceanic].		yesyes	yes	yes	yes	yes
+NFDMAGMWFZHJ	doily	large	small	tiny	little	[small/little]	The doily is [small/little]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+76VNAHQ9VAC3	gazelle	ready	unprepared	unaware	oblivious	[asleep/awake]	The gazelle was [asleep/awake] as the predator approached.		yes	yes	yes	yes	yes
+CEHXHWFAVDAD	cobra	killed	alive	living	lively	motionless/fast	The cobra was [motionless/fast].		yes	yes	yes	yes	yes
+FQG6KZ9NADDZ	ice pack	there	absent	missing	away	[there/absent]	 The ice pack is [there/absent].	No.	yes	yes	yes	mistaken with outcome	mistaken with outcome
+2VHW4RE6AKTN	corkboard	open	closed	shut	put away	The corkboard is [open/closed].	The corkboard is [open/shut].	The corkboard is [open/put away]	yes	yes	yes	mistaken with outcome	mistaken with outcome
+PZGCK4ZRET2Y	cranberry	common	rare	unusual	different 	[easy/hard]	The cranberry is [easy/hard] to find. 		yes	yes	yes	yes	yes
+6CWGWGGFQQZA	jelly bean	unique	common	ordinary	mundane	[sweet/salty]	The jellybean tastes [sweet/salty].		yes	yes	yes	yes	yes
+2GKTZAGQYCN4	bread	cold	steaming	warm	scorching	old/fresh	The bread is old/fresh.		yes	yes	yes	yes	yes
+6FCQKE2GMKG2	seed	poisonous	cure	antidote	harmless 	poisonous/harmless 	The seed is poisonous/harmless 		yes	yes	yes	mistaken with outcome	mistaken with outcome
+JQ3Z7AZXWMV9	safety pin	removed	inserted	attached	replaced	[open/closed]	Her dress is [open/closed]		yes	yes	yes	yes	yes
+ZA7343AVVAJT	recliner	empty	full			[edible/full]	The recliner is [empty/full].		yes			yes	mistaken with outcome, eliminate
+YQYNXQVVAND6	cannon	armed	The cannon is disarmed	The cannon is unprepared	The cannon is lowered	[armed/disarmed]	The cannon is [armed/disarmed].		yes, but copied everything	yes, but copied everything	yes, but copied everything	mistaken with outcome	mistaken with outcome
+MRA3J262KKCX	spaghetti	delicious	gross	pungent	rotten	[large/small]	Robert added a very [large/small] amount of garlic to the spaghetti.		yes	yes	yes	yes	yes
+FZTXKF9PAXW6	lipstick	purple	plain	natural	stark	[purple/natural]	The lipstick is [purple/natural].	There doesn't seem to be any antonyms for purple little less three, so from merriam webster I chose three, near antonyms, https://www.merriam-webster.com/thesaurus/purple	yes	yes	yes	mistaken with outcome	mistaken with outcome
+E4YKAZCN7VH3	paper towel	empty	full	overflowing	abundant	[empty/overflowing]	The paper towel is [empty/overflowing].		yes, but bad input	yes, but nonsense input	yes, but nonsense input	mistaken with outcome	mistaken with outcome
+ZNXMTR4YRRAP	star fruit	unique	ordinary	common	unremarkable	unique/ordinary	The starfruit was as ripe as the others in the bowl.		yes	yes	yes	mistaken with outcome	bad
+KEMPHTDC6KGH	bassinet	empty	Full	Copious	Abundant 	[empty/full]	The bassinet is [empty/full]		YES	yes	yes	mistaken with outcome	mistaken with outcome
+FXAG33X37DRG	card	valid	invalid	fake	counterfeit	[defective/usable]	The card is [defective/usable].		yes	yes	yes	yes	yes
+EPA4G9HP3XHC	nightshirt	open	buttoned	closed	unopened	open/closed	The nightshirt is closed.		yes	yes	yes	yes	mistaken with outcome
+7G7NZEEGPR4K	ticktacktoe	edible	inconsumable	indigestible	unpalatable	[chocolate/wood]	The ticktacktoe is made out of [chocolate/wood].		yes	yes	yes	yes	yes
+QHKQ32WVQEGN	veil	white	black	blue	gray	[white/black]	The veil is [light/dark]		yes	yes	yes	mistaken with outcome	mistaken with outcome
+VNAQPVX4R36A	crayon	blue	red	green	white	[periwinkle/tomato]	The crayon is the color of a [periwinkle/tomato]		yes	yes	yes	yes	yes
+QEZAEMV2WF9D	magnet	bent	straight	linear	direct	[broken/unbroken]	The magnet is [broken, unbroken]		yes	yes	yes	yes	yes

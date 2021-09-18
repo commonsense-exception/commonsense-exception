@@ -1,0 +1,1992 @@
+User ID,Word,Associative Bias,perplexity,id,min_k,"(1) Does the statement ""The {{Word}} is {{Associative Bias}}."" make sense?",(2.1) Alternative one (Required)ONE WORD ONLY,(2.2) Alternative two (Encouraged)ONE WORD ONLY,(2.3) Alternative three (Encouraged)ONE WORD ONLY
+XH7FWCGRRXDJ,diamond,precious,325.7676218929469,658,3,Yes,fake,,
+FPMCK2P37RW2,loveseat,empty,245.10941258605686,496,3,Yes,full,occupied,
+XH7FWCGRRXDJ,tuba,large,367.591727126544,728,3,Yes,small,,
+EZCVAWE2HAMP,garter,long,691.0200969201614,993,3,Yes,short,small,little 
+XH7FWCGRRXDJ,treasure,ours,154.69335127044153,435,5,Yes,theirs,,
+FWD4Z73KK6F6,net,empty,159.43467745517162,93,1,Yes,full,stuffed,
+FWD4Z73KK6F6,exhaust pipe,long,364.5895643641528,719,3,Yes,short,small,tiny
+FXAG33X37DRG,handlebar,straight,188.18900150346627,584,5,Yes,curved,bent,crooked
+XH7FWCGRRXDJ,computer screen,empty,59.47414766807854,41,5,Yes,full,,
+DZ76R6HPTQH4,funnel,round,677.3008224163841,1703,5,Yes,square,prism,oblong
+FWD4Z73KK6F6,lingerie,expensive,413.1303579243817,1334,5,Yes,inexpensive,affordable,cheap
+XH7FWCGRRXDJ,lens,clear,264.65556400793537,889,5,Yes,smudged,,
+FWD4Z73KK6F6,stair,long,269.86603332523515,544,3,Yes,short,tiny,small
+EZCVAWE2HAMP,eel,edible,857.0397061730458,1045,3,Yes,nonedible,toxic,poisonous
+EZCVAWE2HAMP,coral,abundant,704.4053511827335,1727,5,Yes,scarce,rare,lacking
+FWD4Z73KK6F6,towel,warm,287.8706791966561,971,5,Yes,cold,freezing,chilly
+XH7FWCGRRXDJ,stomach,empty,193.9540044219184,125,1,Yes,full,,
+XH7FWCGRRXDJ,bark,thick,240.56991854381386,806,5,Yes,thin,,
+XH7FWCGRRXDJ,sunroof,open,77.25588901353164,123,8,Yes,closed,,
+FPMCK2P37RW2,denture,straight,339.80697088365594,681,3,Yes,curved,broken,smashed
+FPMCK2P37RW2,compost,organic,253.37174292757274,158,1,Yes,synthetic,,
+DZ76R6HPTQH4,pear,edible,792.1164124216806,302,1,Yes,discolored,brown,smushy
+XH7FWCGRRXDJ,spacesuit,portable,229.77452525515255,453,3,Yes,stuck,,
+XH7FWCGRRXDJ,pocket,open,191.7420922192331,601,5,Yes,closed,,
+XH7FWCGRRXDJ,gutter,empty,234.583777943418,148,1,Yes,full,,
+DZ76R6HPTQH4,lumber,valuable,603.9967062306448,1626,5,Yes,cheap,knotty,common
+XH7FWCGRRXDJ,coffin,empty,84.18331562385386,19,1,Yes,filled,,
+XH7FWCGRRXDJ,glass,glass,97.8847979383978,96,3,No,N/A,,
+FPMCK2P37RW2,windshield,clear,156.69149160801263,269,3,Yes,dirty,fogged,icy
+FWD4Z73KK6F6,car door,open,35.8372920614359,2,3,Yes,shut,closed,sealed
+XH7FWCGRRXDJ,saw,dead,338.8075681276871,1144,5,No,N/A,,
+XH7FWCGRRXDJ,goalpost,vertical,272.86113770867297,555,3,Yes,horizontal,,
+EGZANDYA4C6Q,cobra,edible,967.4376275722176,1069,3,Yes,inedible,toxic,poisonous
+FWD4Z73KK6F6,straw,long,312.45339983360316,1057,5,Yes,short,small,tiny
+XH7FWCGRRXDJ,doll,alive,158.794548280879,279,3,Yes,plastic,,
+FWD4Z73KK6F6,skin,thin,135.38880456648883,208,3,Yes,thick,,
+XH7FWCGRRXDJ,cotton candy,sweet,184.70430571708766,346,3,Yes,bitter,,
+R7AZQKJ2FQVT,firecracker,explosive,835.1844091458009,1040,3,Yes,flammable,,
+XH7FWCGRRXDJ,soup,hot,133.81077534916545,329,5,Yes,cold,,
+JE2PZ3NEZGRZ,vest,long,493.8728706504164,1484,5,Yes,short,small,
+XH7FWCGRRXDJ,bomb,dead,133.0192520206956,195,3,Yes,functioning,,
+XH7FWCGRRXDJ,toast,good,226.35096013715008,447,3,Yes,bad,,
+EZCVAWE2HAMP,hyena,prey,748.7451458336773,1017,3,Yes,attacker,assailant,assaulter 
+DZ76R6HPTQH4,pepper,edible,639.3600891133866,283,1,Yes,hot,sprouted,sprouting
+76VNAHQ9VAC3,visor,open,310.00294652958456,629,3,Yes,closed,sealed,
+NFN2M74RPJ2Q,sled,empty,181.37466447347455,556,5,Yes,full,loaded,
+FWD4Z73KK6F6,lens,transparent,408.2800573006888,1328,5,Yes,solid,,
+XH7FWCGRRXDJ,jump rope,elastic,491.9085042559065,1475,5,Yes,cotton,,
+XH7FWCGRRXDJ,raisin,edible,236.18431216778225,469,3,Yes,inedible,,
+FWD4Z73KK6F6,nest,small,255.45103280017068,511,3,Yes,large,huge,enormous
+W9XTVGDF6CV4,snowboard,portable,552.2345966819059,267,1,Yes,Unportable,Heavy,
+XH7FWCGRRXDJ,cornhusk,edible,372.8428000563594,740,3,Yes,inedible,,
+XH7FWCGRRXDJ,dishrag,empty,148.63206708538587,81,1,No,N/A,,
+XH7FWCGRRXDJ,pine tree,edible,377.38960310035117,752,3,Yes,inedible,,
+XH7FWCGRRXDJ,terrarium,circular,304.83173660169587,1029,5,Yes,square,,
+XH7FWCGRRXDJ,valve,open,156.6745319199997,268,3,Yes,closed,,
+XH7FWCGRRXDJ,face,there,145.3102146739244,233,3,Yes,missing,,
+XH7FWCGRRXDJ,cape,large,460.0976419870062,1423,5,Yes,small,,
+FWD4Z73KK6F6,tray,empty,86.28011574767122,22,1,Yes,full,stuffed,
+XH7FWCGRRXDJ,skewer,sharp,501.2982497846375,875,3,Yes,dull,,
+DZ76R6HPTQH4,squash,edible,631.6109750112474,958,3,Yes,buried,pecked,mauled
+XH7FWCGRRXDJ,banana peel,edible,273.1156220016414,172,1,Yes,inedible,,
+XH7FWCGRRXDJ,ballot box,empty,60.66704060973241,28,3,Yes,full,,
+XH7FWCGRRXDJ,suitcase,full,132.47652606889073,321,5,Yes,empty,,
+XH7FWCGRRXDJ,boy,there,85.38779367153995,117,5,Yes,here,,
+A969KQ7EMVW3,juicer,empty,68.97105501026125,65,5,Yes,full,,
+XH7FWCGRRXDJ,triangle,circular,374.1125665381804,1256,5,No,N/A,,
+XH7FWCGRRXDJ,milk,warm,194.4574949030524,619,5,Yes,cold,,
+XH7FWCGRRXDJ,snake,poisonous,144.57215488251762,77,1,Yes,safe,,
+FPMCK2P37RW2,mouth,wide,225.3083657458033,736,5,Yes,small,tight,
+XH7FWCGRRXDJ,mug,full,156.37195726828932,265,3,Yes,empty,,
+XH7FWCGRRXDJ,cuckoo clock,universal,170.38873520744517,507,5,Yes,localized,,
+XH7FWCGRRXDJ,satellite,operational,299.4869107845998,610,3,Yes,inoperable,,
+XH7FWCGRRXDJ,frog,poisonous,342.6973794703181,1155,5,Yes,edible,,
+7G7NZEEGPR4K,bucket,heavy,203.7905795055047,652,5,Yes,light,lightweight,
+FWD4Z73KK6F6,keg,empty,137.6517524958811,72,1,Yes,full,stuffed,overflowing
+XH7FWCGRRXDJ,odometer,accurate,157.71379332116044,90,1,Yes,inaccurate,,
+XH7FWCGRRXDJ,porthole,empty,269.97775255194165,904,5,Yes,full,,
+XH7FWCGRRXDJ,camcorder,portable,97.14570154741159,27,1,Yes,stuck,,
+FPMCK2P37RW2,cocktail,simple,499.57750946894515,873,3,Yes,fancy,complicated,complex
+XH7FWCGRRXDJ,face,real,153.89427644574513,428,5,Yes,fake,,
+FPMCK2P37RW2,baby,healthy,50.38750861832755,16,3,Yes,sick,unhealthy,sickly
+W9XTVGDF6CV4,leaf,hollow,576.5889228233815,935,3,Yes,Elevated ,,
+FPMCK2P37RW2,chin,swollen,415.5411084821897,1339,5,Yes,healthy,normal,healed
+EGZANDYA4C6Q,roadsweeper,human,1144.550800133695,1098,3,Yes,Nonsentient,,
+EZCVAWE2HAMP,beetle,poisonous,524.9413754653086,262,1,Yes,safe,harmless,nontoxic
+76VNAHQ9VAC3,crab,prey,1024.6716263810301,1881,5,Yes,predatory,aggressive,carnivorous
+FWD4Z73KK6F6,boulder,empty,215.55264777714783,422,3,No,NA,,
+7G7NZEEGPR4K,basketball hoop,circular,305.55544523914847,622,3,Yes,triangular,square,oblong
+DZ76R6HPTQH4,spam,harmless,806.7918007192231,1797,5,Yes,carcinagen,contaminated,allergen
+A969KQ7EMVW3,cooker,hot,70.88182010718047,91,8,Yes,cold,warm,
+XH7FWCGRRXDJ,nail polish,expensive,231.8977848166833,760,5,Yes,free,,
+FPMCK2P37RW2,bok choy,Korean,554.6937272441531,921,3,Yes,chinese,local,
+FPMCK2P37RW2,train car,open,120.81080087842692,276,5,Yes,closed,unavailable,gone
+XH7FWCGRRXDJ,butter,warm,257.5429652653701,864,5,Yes,cold,,
+DZ76R6HPTQH4,silverware,gold,644.6730727090359,970,3,Yes,silver,steel,aluminum
+XH7FWCGRRXDJ,sink,open,273.07238850709496,922,5,Yes,closed,,
+NFN2M74RPJ2Q,shower cap,plastic,465.57751316565583,1438,5,Yes,organic,rigid,
+2VHW4RE6AKTN,suitcase,open,179.39789028689893,544,5,Yes,closed,shut,put away
+XH7FWCGRRXDJ,bazooka,amphibious,60.94559231255012,3,1,Yes,land-locked,,
+XH7FWCGRRXDJ,tee,clear,505.37117509587966,1501,5,Yes,white,,
+XH7FWCGRRXDJ,first-aid kit,available,41.29186283898756,8,5,Yes,unavailable,,
+XH7FWCGRRXDJ,creme brulee,edible,65.48898133534057,33,3,Yes,inedible,,
+XH7FWCGRRXDJ,turbine,vertical,351.48745971178045,1182,5,Yes,horizontal,,
+FPMCK2P37RW2,paper,free,213.05611385117058,695,5,Yes,expensive,costly,charged
+XH7FWCGRRXDJ,radish,edible,246.23658957160458,498,3,Yes,inedible,,
+XH7FWCGRRXDJ,ice cube,cold,111.82638733450172,132,3,Yes,melted,,
+XH7FWCGRRXDJ,potato,vegetable,1229.408366839523,1109,3,Yes,fruit,meat,
+XH7FWCGRRXDJ,seagull,human,662.1773804461646,1687,5,No,N/A,,
+FWD4Z73KK6F6,origami,ancient,139.23576824199458,358,5,Yes,modern,new,
+XH7FWCGRRXDJ,sand,soft,119.54328599064202,267,5,Yes,hard,,
+FWD4Z73KK6F6,handle,curved,321.8174412803223,1092,5,Yes,straight,,
+XH7FWCGRRXDJ,hot tub,hot,64.19475446208106,49,5,Yes,cold,,
+NFN2M74RPJ2Q,pan,cold,183.65945729037585,563,5,Yes,hot,warm,
+FWD4Z73KK6F6,silicone,stable,451.1927390592994,832,3,Yes,unstable,violatle,
+DZ76R6HPTQH4,vent,vertical,705.9440465857318,1000,3,Yes,sideways,horizontal,
+XH7FWCGRRXDJ,gumdrop,long,421.0133434741527,1346,5,No,N/A,,
+FWD4Z73KK6F6,silverware,silver,390.20097624073514,222,1,Yes,gold,platinum,
+EZCVAWE2HAMP,sushi,simple,914.0719065397952,1845,5,Yes,complex,confusing,crazy
+XH7FWCGRRXDJ,juice,good,116.99053887001243,156,3,Yes,bad,,
+FWD4Z73KK6F6,soda,water,312.83922239223295,1059,5,No,sweet,zesty,
+JE2PZ3NEZGRZ,shortbread,short,340.57148922398085,1151,5,Yes,long,,
+XH7FWCGRRXDJ,whipped cream,edible,170.5295956299898,311,3,Yes,inedible,,
+FPMCK2P37RW2,braid,long,294.02331787413624,600,3,Yes,short,cut,small
+XH7FWCGRRXDJ,ice cream,delicious,59.07516947227108,51,8,Yes,melted,,
+FWD4Z73KK6F6,snack,delicious,325.8909837014045,1109,5,Yes,horrible,nasty,rotten
+C69D7VD39FKM,eel,fish,776.2560015277693,1781,5,No,N/A,,
+XH7FWCGRRXDJ,target,visible,279.7892219628857,945,5,Yes,invisible,,
+HWDQZR3ZTFRN,counter,empty,86.18973395966665,20,1,Yes,full,filled,
+FWD4Z73KK6F6,cage,empty,101.48908423024874,30,1,Yes,full,stuffed,overflowing
+FPMCK2P37RW2,computer,dead,92.45384588410127,82,3,Yes,working,fixed,operable
+XH7FWCGRRXDJ,sheet,empty,184.5963587009244,345,3,Yes,filled,,
+XH7FWCGRRXDJ,banana,edible,461.32677715871836,245,1,Yes,inedible,,
+DZ76R6HPTQH4,sailboat,unique,699.1066159435915,1723,5,Yes,ordinary,regulation,boring
+FWD4Z73KK6F6,tiara,gold,354.28694855409117,206,1,Yes,silver,platinum,
+XH7FWCGRRXDJ,cordon bleu,French,170.17737869140154,310,3,Yes,American,,
+4FRFD66TK6XE,dough,thick,388.0885812958831,1282,5,Yes,thin,skinny,slim
+XH7FWCGRRXDJ,altar,high,336.2913526702788,674,3,Yes,low,,
+CM3Q239CAYN3,bucket,full,95.41748774374071,89,3,Yes,empty,vacant,unused
+XXKCFJGVJDTX,smoke alarm,sound,132.8156122149692,194,3,No,loud,beeping,broken
+XH7FWCGRRXDJ,skirt,short,136.99328206176702,71,1,Yes,long,,
+A969KQ7EMVW3,hair,long,123.4635073434042,176,3,Yes,short,,
+XH7FWCGRRXDJ,knife,empty,148.28356707305562,404,5,No,N/A,,
+DZ76R6HPTQH4,trombone,musical,859.4317046790877,1047,3,Yes,broken,rusted,fake
+XH7FWCGRRXDJ,sawhorse,extinct,346.2172272343911,199,1,Yes,alive,,
+EZCVAWE2HAMP,turkey,extinct,710.2273545222263,1002,3,Yes,alive,existing,available 
+FWD4Z73KK6F6,tick,there,445.4907158542382,1394,5,Yes,here,near,away
+XH7FWCGRRXDJ,record,incomplete,244.52292393806286,494,3,Yes,finished,,
+FWD4Z73KK6F6,woman,dead,41.46267697428857,6,3,Yes,alive,breathing,talking
+FWD4Z73KK6F6,cinnamon,sweet,376.94915448065706,219,1,Yes,sour,bitter,
+XH7FWCGRRXDJ,soccer ball,plastic,260.175908918314,525,3,Yes,cloth,,
+W9XTVGDF6CV4,toothbrush,important,589.9654705054589,1613,5,Yes,Uimportant,,
+A969KQ7EMVW3,doll,dead,120.31014111081544,169,3,Yes,alive,conscious,
+XH7FWCGRRXDJ,papaya,perennial,65.20138412588125,52,5,Yes,annual,,
+XH7FWCGRRXDJ,crucifix,large,512.424256720392,889,3,Yes,small,,
+XH7FWCGRRXDJ,hand,empty,124.56119901374876,287,5,Yes,closed,,
+XH7FWCGRRXDJ,syrup,sweet,516.893608285895,259,1,Yes,bland,,
+FPMCK2P37RW2,mouse,small,236.77326713142503,472,3,Yes,large,huge,gigantic
+XH7FWCGRRXDJ,panda,large,184.24003626757963,567,5,Yes,small,,
+FWD4Z73KK6F6,wood,wood,129.0228658231424,307,5,No,steel,metal,
+EZCVAWE2HAMP,knitting needle,circular,530.7001123806025,1547,5,Yes,rectangular,trinagular,flat
+FPMCK2P37RW2,curb,wide,522.7272962567091,1530,5,Yes,narrow,,
+XH7FWCGRRXDJ,mallet,heavy,327.3387599603967,664,3,Yes,light,,
+FWD4Z73KK6F6,barrette,flat,396.42569934447135,777,3,Yes,curved,bent,
+C69D7VD39FKM,biscuit,thin,792.964448499307,1029,3,Yes,thick,plump,fat
+A969KQ7EMVW3,stew,delicious,94.720007926746,150,5,Yes,disgusting,sickening,revolting
+FPMCK2P37RW2,coyote,extinct,522.5996928651161,1529,5,Yes,common,existent,present
+FPMCK2P37RW2,figurine,gold,464.90554644660057,1436,5,Yes,silver,iron,plastic
+XXKCFJGVJDTX,mustache,long,295.181270939223,606,3,Yes,short,trimmed,
+7G7NZEEGPR4K,gutter,wet,325.8081676618883,659,3,Yes,dry,,
+FWD4Z73KK6F6,hair,short,135.43141982437731,344,5,Yes,long,lengthy,
+FWD4Z73KK6F6,solar panel,passive,391.6478679779384,771,3,Yes,active,,
+FPMCK2P37RW2,pet food,edible,284.44932944488096,581,3,Yes,inedible,poisonous,spoiled
+XH7FWCGRRXDJ,rhubarb,edible,270.047793706688,167,1,Yes,inedible,,
+4FRFD66TK6XE,taffy,cold,501.5048208488169,1496,5,Yes,warm,hot,n/a
+XH7FWCGRRXDJ,chalice,empty,171.5511933071204,315,3,Yes,full,,
+XH7FWCGRRXDJ,cornucopia,long,51.2568789555765,17,3,Yes,short,,
+EZCVAWE2HAMP,totem pole,ceremonial,539.2024146250441,912,3,Yes,informal,casual,ordinary 
+XH7FWCGRRXDJ,aluminum foil,transparent,378.05367481481017,753,3,Yes,opaque,,
+FWD4Z73KK6F6,whoopee cushion,popular,93.82858690012577,85,3,Yes,unpopular,,
+W9XTVGDF6CV4,projector,portable,1105.3885855749395,1091,3,Yes,Heavy,,
+FWD4Z73KK6F6,lawnmower,mechanical,113.74582462402977,141,3,No,NA,,
+FPMCK2P37RW2,scalpel,long,524.4900075868036,1535,5,Yes,short,tiny,miniature
+FWD4Z73KK6F6,dial,right,368.7883887064577,1235,5,Yes,wrong,off,broken
+XH7FWCGRRXDJ,sandwich,good,139.79911897062922,217,3,Yes,bad,,
+DZ76R6HPTQH4,corset,elastic,933.9008261154477,314,1,Yes,boned,stiff,tight
+DZ76R6HPTQH4,coffeemaker,simple,752.8662121525031,1763,5,Yes,complicated,programmable,timed
+XH7FWCGRRXDJ,yacht,empty,165.5720539305975,482,5,Yes,full,,
+XH7FWCGRRXDJ,vase,empty,135.22144357067882,68,1,Yes,full,,
+XH7FWCGRRXDJ,knee,swollen,188.79074072663812,359,3,Yes,uninflamed,,
+XH7FWCGRRXDJ,triangle,convex,262.9117308622822,883,5,Yes,concave,,
+DZ76R6HPTQH4,spam,illegal,802.1471733903653,1796,5,Yes,homemade,domestic,
+XH7FWCGRRXDJ,palm tree,tropical,420.57271665759896,800,3,Yes,deciduous,,
+XH7FWCGRRXDJ,chimney,high,271.8695514483627,170,1,Yes,low,,
+XH7FWCGRRXDJ,spear,sharp,142.00104102451016,370,5,Yes,dull,,
+XH7FWCGRRXDJ,pinecone,edible,108.20258536765436,35,1,Yes,inedible,,
+XH7FWCGRRXDJ,piggy bank,free,187.56046913500032,580,5,Yes,expensive,,
+XH7FWCGRRXDJ,guinea pig,human,164.91105770176415,98,1,No,N/A,,
+XH7FWCGRRXDJ,praying mantis,poisonous,338.29501579639805,677,3,Yes,safe,,
+76VNAHQ9VAC3,patty,edible,1136.4607367185065,324,1,Yes,inedible,uneatable,rotten
+XH7FWCGRRXDJ,soy sauce,edible,286.0535271752559,586,3,Yes,inedible,,
+FWD4Z73KK6F6,springboard,vertical,374.0349745993921,1255,5,Yes,horizontal,sideways,
+XH7FWCGRRXDJ,teacup,empty,154.04698778404847,86,1,Yes,filled,,
+XH7FWCGRRXDJ,platypus,small,80.023733952076,141,8,Yes,large,,
+W9XTVGDF6CV4,toothbrush,long,541.9372826079937,1565,5,Yes,Short,,
+FPMCK2P37RW2,shortbread,long,403.78194662937454,782,3,Yes,short,average,conventional
+XH7FWCGRRXDJ,hot-water bottle,plastic,103.1011676372727,111,3,Yes,metal,,
+XH7FWCGRRXDJ,water bottle,empty,89.03961497265543,76,3,Yes,full,,
+A969KQ7EMVW3,swimming pool,open,77.61590040684112,94,5,Yes,closed,shut,locked
+EZCVAWE2HAMP,badge,circular,762.5344602748413,299,1,Yes,square,trinagular,obtuse
+XH7FWCGRRXDJ,swing,long,347.05772458575797,1169,5,Yes,short,,
+76VNAHQ9VAC3,spout,open,362.0071735868641,713,3,Yes,closed,blocked,plugged
+XH7FWCGRRXDJ,lavender,purple,453.2315319071973,834,3,Yes,green,,
+EZCVAWE2HAMP,sandal,long,894.4588263268538,1839,5,Yes,tiny,small,short
+FPMCK2P37RW2,t-shirt,pink,41.448740800615695,13,8,Yes,blue,green,purple
+XH7FWCGRRXDJ,fireplace,cold,148.34905631866062,80,1,Yes,hot,,
+7G7NZEEGPR4K,bow,curved,315.87386116190305,1069,5,Yes,uncurved,straight,
+XH7FWCGRRXDJ,clock,wrong,79.10470556021585,136,8,Yes,right,,
+FWD4Z73KK6F6,whiteboard,blank,165.87724325974378,99,1,Yes,full,cluttered,
+XH7FWCGRRXDJ,manatee,amphibious,102.86638959909227,188,5,No,N/A,,
+J7YPEAJHPTM7,donkey,human,502.67340369389177,877,3,Yes,animal,,
+FWD4Z73KK6F6,pinwheel,vertical,656.4552672725653,976,3,Yes,horizontal,sideways,
+XH7FWCGRRXDJ,headscarf,optional,455.74261757887115,836,3,Yes,mandatory,,
+FWD4Z73KK6F6,closet,open,111.71856696490534,224,5,Yes,closed,shut,
+76VNAHQ9VAC3,payphone,portable,317.26760508589086,1077,5,Yes,stationary,unwieldy,fixed
+XH7FWCGRRXDJ,fungus,poisonous,356.9977273859015,704,3,Yes,edible,,
+FPMCK2P37RW2,scoreboard,empty,57.07021982391819,37,5,Yes,active,,
+JE2PZ3NEZGRZ,tortilla,edible,315.3629186075982,1067,5,Yes,rotten,poisonous ,
+XH7FWCGRRXDJ,shortbread,edible,301.311515492713,615,3,Yes,inedible,,
+XH7FWCGRRXDJ,shower,warm,113.6841182554294,139,3,Yes,cold,,
+DZ76R6HPTQH4,handprint,recognizable,757.4829797204878,1765,5,Yes,alien,foreign,unknown
+FPMCK2P37RW2,skunk,human,565.074698147697,928,3,No,N/A,,
+DZ76R6HPTQH4,basil,edible,799.5626295571609,303,1,Yes,germy,disintegrated,unwatered
+7G7NZEEGPR4K,dial,empty,320.78084111796375,649,3,Yes,full,stuffed,filled
+XH7FWCGRRXDJ,parking meter,free,156.60081223755034,267,3,Yes,expensive,,
+EZCVAWE2HAMP,scallop,fish,742.5146283924865,1756,5,No,NA,,
+XH7FWCGRRXDJ,wooden leg,straight,328.4405571833728,1120,5,Yes,bent,,
+XH7FWCGRRXDJ,neck,long,274.58505792314673,561,3,Yes,short,,
+FWD4Z73KK6F6,owl,large,391.4647068570695,770,3,Yes,small,tiny,puny
+XH7FWCGRRXDJ,golf club,free,175.55737086069283,533,5,Yes,expensive,,
+W9XTVGDF6CV4,bathrobe,long,539.7454507882711,913,3,Yes,Short,,
+XH7FWCGRRXDJ,nose,large,247.91296473053245,835,5,Yes,small,,
+W9XTVGDF6CV4,glue,liquid,581.7241467879409,1604,5,Yes,Solid,,
+XH7FWCGRRXDJ,gold,precious,193.10031482262443,609,5,Yes,fake,,
+FWD4Z73KK6F6,dustpan,empty,134.8782089427255,67,1,Yes,full,stuffed,overflowing
+XH7FWCGRRXDJ,flamethrower,portable,52.18115690067054,19,3,Yes,stuck,,
+XH7FWCGRRXDJ,kale,edible,501.1161361958958,874,3,Yes,inedible,,
+NFN2M74RPJ2Q,speedometer,accurate,461.9911479380008,246,1,Yes,inaccurate,wrong,incorrect
+XH7FWCGRRXDJ,backgammon,popular,203.87562530190664,394,3,Yes,unpopular,,
+XH7FWCGRRXDJ,soldering iron,hot,72.11462688678826,99,8,Yes,cold,,
+FWD4Z73KK6F6,minivan,expensive,506.10742206599883,882,3,Yes,cheap,inexpensive,
+FWD4Z73KK6F6,diaper,wet,275.9615844236528,564,3,Yes,dry,unsoiled,
+FWD4Z73KK6F6,window,open,47.47373274606765,2,1,Yes,closed,shut,sealed
+XH7FWCGRRXDJ,aardvark,large,59.302820039881496,54,8,Yes,small,,
+XH7FWCGRRXDJ,record,complete,157.797141144126,277,3,Yes,incomplete,,
+XH7FWCGRRXDJ,papaya,large,133.77753657825204,199,3,Yes,small,,
+DZ76R6HPTQH4,leech,edible,829.0295930181294,1038,3,No,disgusting,repulsive,vomitous
+XH7FWCGRRXDJ,ladybug,female,267.37613850482717,537,3,Yes,male,,
+NFN2M74RPJ2Q,jug,small,524.4634980463475,1534,5,Yes,big,large,sizable
+XH7FWCGRRXDJ,garbage,clean,211.2144149664512,414,3,Yes,dirty,,
+XH7FWCGRRXDJ,tattoo,real,144.83525220193374,228,3,Yes,unreal,,
+XH7FWCGRRXDJ,ankle,strong,301.051142512846,1014,5,Yes,weak,,
+XH7FWCGRRXDJ,fishhook,edible,428.4540617125368,809,3,No,N/A,,
+FPMCK2P37RW2,stem,smooth,492.23277335906266,1477,5,Yes,rough,thorny,sticky
+XH7FWCGRRXDJ,tadpole,long,327.1802136880664,1114,5,Yes,short,,
+XH7FWCGRRXDJ,wine bottle,open,115.71945007288328,250,5,Yes,closed,,
+XH7FWCGRRXDJ,spear,short,284.80804141044916,963,5,Yes,long,,
+XXKCFJGVJDTX,cashew,bitter,239.19820974126503,485,3,Yes,smooth,sweet,savory
+FWD4Z73KK6F6,duct tape,plastic,141.54965114616297,367,5,No,NA,,
+4FRFD66TK6XE,maple syrup,toxic,324.67866183258195,1105,5,Yes,n/a,n/a,n/a
+XH7FWCGRRXDJ,napkin ring,empty,492.45556818275145,866,3,Yes,filled,,
+FWD4Z73KK6F6,pasta,edible,406.0699829356085,786,3,Yes,inedible,toxic,poisonous
+R7AZQKJ2FQVT,appetizer,optional,811.0401241272134,1800,5,Yes,Extra,,
+XH7FWCGRRXDJ,marmalade,sweet,83.9430896266498,161,8,Yes,bitter,,
+7G7NZEEGPR4K,candy cane,edible,301.5624791648431,1017,5,Yes,poisonous,,
+NFN2M74RPJ2Q,grapevine,important,527.6554872323887,902,3,Yes,unimportant,irrelevant,meaningless
+XH7FWCGRRXDJ,scarecrow,human,490.05078539065005,863,3,No,N/A,,
+FWD4Z73KK6F6,dumbwaiter,human,394.32153401910864,1298,5,No,inhuman,,
+FWD4Z73KK6F6,cape,long,389.1591181764863,764,3,Yes,short,tiny,small
+XH7FWCGRRXDJ,icicle,circular,513.3501745704357,890,3,Yes,rectangular,,
+EGZANDYA4C6Q,sundae,edible,1114.3409029178752,1093,3,Yes,inedible,indigestable,
+XH7FWCGRRXDJ,dishwashing liquid,water,189.1136570035273,360,3,No,N/A,,
+XH7FWCGRRXDJ,railing,high,302.687188223945,1023,5,Yes,low,,
+FPMCK2P37RW2,peg,empty,421.78132794609456,233,1,Yes,filled,full,solid
+EZCVAWE2HAMP,inhaler,portable,634.6108583809188,1655,5,Yes,fixed,immobile,immovable 
+XH7FWCGRRXDJ,platypus,large,85.953085668865,71,3,Yes,small,,
+A969KQ7EMVW3,first-aid kit,portable,73.10043769815272,74,5,Yes,immovable,,
+JE2PZ3NEZGRZ,sheath,thick,503.6820852436141,1499,5,Yes,thin,,
+XH7FWCGRRXDJ,cigarette holder,plastic,354.31871016787755,702,3,Yes,metal,,
+XH7FWCGRRXDJ,mouth,large,328.25439750581717,1119,5,Yes,small,,
+NFN2M74RPJ2Q,thumbtack,plastic,352.4486297841368,1185,5,Yes,metal,rigid,
+XH7FWCGRRXDJ,outlet,free,488.7637639614192,862,3,Yes,expensive,,
+XH7FWCGRRXDJ,stump,hollow,586.3537648421294,1610,5,Yes,dense,,
+FWD4Z73KK6F6,girl,here,56.5602506810657,44,8,Yes,gone,missing,
+XH7FWCGRRXDJ,closet,mine,145.04452549599597,388,5,Yes,theirs,,
+2ZF2RAMFQQ3M,sled,heavy,261.4956619044366,162,1,Yes,Light ,Flimsy,Thin
+FWD4Z73KK6F6,hammock,long,407.2487628222242,1325,5,Yes,short,tiny,small
+XH7FWCGRRXDJ,eggshell,transparent,271.7050912183707,912,5,Yes,opaque,,
+XH7FWCGRRXDJ,chest,bare,146.75027577923606,237,3,Yes,hairy,,
+7G7NZEEGPR4K,magnet,magnetic,370.8569122950335,1248,5,Yes,nonpolar,,
+XH7FWCGRRXDJ,poinsettia,extinct,199.69487963807012,127,1,Yes,alive,,
+XH7FWCGRRXDJ,hippopotamus,extinct,81.27900212558492,106,5,Yes,alive,,
+76VNAHQ9VAC3,knitting needle,long,308.70631984500716,626,3,Yes,short,small,tiny
+FPMCK2P37RW2,sewing kit,complete,400.8022985289713,1316,5,Yes,incomplete,partial,unfinished
+XH7FWCGRRXDJ,subway,free,295.2551757236352,607,3,Yes,expensive,,
+XH7FWCGRRXDJ,leopard,extinct,299.58074934505845,611,3,Yes,alive,,
+XH7FWCGRRXDJ,shower,long,208.3256057997153,410,3,Yes,short,,
+4FRFD66TK6XE,palm tree,extinct,357.20052863732764,1201,5,Yes,present,existing,n/a
+EZCVAWE2HAMP,cocoon,silk,632.3688859708202,1651,5,Yes,NA,,
+FWD4Z73KK6F6,can,heavy,232.0122607553424,762,5,Yes,light,,
+DZ76R6HPTQH4,mustard,edible,629.4390255778377,280,1,Yes,eaten,spilled,
+XH7FWCGRRXDJ,boulder,mine,246.67093714087653,831,5,Yes,theirs,,
+FWD4Z73KK6F6,gourd,edible,192.69697722256748,123,1,Yes,inedible,toxic,dangerous
+XH7FWCGRRXDJ,carousel,empty,238.6751394845275,483,3,Yes,full,,
+XH7FWCGRRXDJ,noose,tight,133.10776424441636,63,1,Yes,loose,,
+FPMCK2P37RW2,walrus,extinct,171.67353087276155,316,3,Yes,common,existant,alive
+XH7FWCGRRXDJ,mud,water,281.201759832825,574,3,No,N/A,,
+XH7FWCGRRXDJ,stove,warm,171.95191770853316,318,3,Yes,cold,,
+XH7FWCGRRXDJ,gramophone,music,113.71957634694223,140,3,No,N/A,,
+R7AZQKJ2FQVT,cork,liquid,816.5943811016098,1807,5,No,Firm,Solid,Wooden
+DZ76R6HPTQH4,cornhusk,extinct,855.3066634900825,1821,5,Yes,grown,nearby,farmed
+HWDQZR3ZTFRN,cup,full,92.03225122558632,142,5,Yes,empty,bare,
+XH7FWCGRRXDJ,magnifier,portable,427.28541188231605,1360,5,Yes,stuck,,
+DZ76R6HPTQH4,coral,large,625.7276751235714,1644,5,Yes,small,new,damaged
+QHKQ32WVQEGN,mouthpiece,open,566.1224762213922,929,3,Yes,closed,shut,unopen
+FWD4Z73KK6F6,latte,hot,310.7011507359931,633,3,Yes,cold,chilled,frozen
+EZCVAWE2HAMP,cactus,edible,691.7450563636042,293,1,Yes,harmful,poisonus,toxic 
+FPMCK2P37RW2,pocket,large,444.92113990477037,1391,5,Yes,small,decorative,tiny
+DZ76R6HPTQH4,hummingbird,extinct,769.1346533485596,1024,3,Yes,alive,flying,living
+FWD4Z73KK6F6,balloon,empty,173.71199048485855,109,1,Yes,full,overflowing,stuffed
+XH7FWCGRRXDJ,barbed wire,invisible,156.9124339733653,449,5,Yes,visible,,
+XH7FWCGRRXDJ,first-aid kit,free,53.342210654901685,35,8,Yes,expensive,,
+XH7FWCGRRXDJ,pan,full,145.09979695720526,231,3,Yes,empty,,
+FPMCK2P37RW2,blanket,warm,129.4814708147996,188,3,Yes,cold,thin,useless
+FWD4Z73KK6F6,compass,true,247.8266834453624,501,3,Yes,wrong,off,inaccurate 
+EZCVAWE2HAMP,snowmobile,portable,1094.7282650927064,1089,3,Yes,immobile,stationary,fixed
+EZCVAWE2HAMP,wrap,elastic,772.4660874465748,1778,5,Yes,solid,inflexible,rigid
+FPMCK2P37RW2,drain,open,290.53618631288896,592,3,Yes,closed,blocked,plugged
+JE2PZ3NEZGRZ,eggshell,hollow,322.48289329737497,651,3,Yes,solid,,
+XH7FWCGRRXDJ,stove,warm,171.95191770853316,317,3,Yes,cold,,
+XH7FWCGRRXDJ,incubator,empty,36.776344359384346,3,3,Yes,full,,
+XH7FWCGRRXDJ,stake,empty,204.07472252893376,130,1,Yes,full,,
+FWD4Z73KK6F6,hedge,long,314.97128015921396,1066,5,Yes,short,small,stubby
+FWD4Z73KK6F6,cart,empty,85.01589100239016,68,3,Yes,full,stuffed,overflowing
+HWDQZR3ZTFRN,stereo,on,102.57661565493281,109,3,Yes,off,idle,unpowered
+XH7FWCGRRXDJ,soap,real,368.4140140824544,1234,5,Yes,fake,,
+FWD4Z73KK6F6,pillow,heavy,154.54235728412374,434,5,Yes,light,,
+FWD4Z73KK6F6,trunk,open,98.67448860381974,98,3,Yes,closed,shut,sealed
+DZ76R6HPTQH4,snowman,human,774.6172391384828,1780,5,No,snow,non-living,water
+XH7FWCGRRXDJ,rice,edible,366.23632716701826,213,1,Yes,inedible,,
+QHKQ32WVQEGN,shrimp,edible,582.9943027127716,273,1,Yes,inedible,spoiled,rancid
+FPMCK2P37RW2,taffy,sweet,559.1903451961317,1580,5,Yes,salty,bitter,
+7G7NZEEGPR4K,hummus,edible,388.39089388908286,763,3,Yes,spoiled,inedible,rotten
+XH7FWCGRRXDJ,candy bar,edible,196.3026970718455,378,3,Yes,inedible,,
+A969KQ7EMVW3,hot tub,free,119.67092608440173,268,5,Yes,costly,expensive,
+XH7FWCGRRXDJ,table,empty,51.98266667386813,26,5,Yes,full,,
+FWD4Z73KK6F6,honey,sweet,241.65720601484654,151,1,Yes,sour,bitter,
+FWD4Z73KK6F6,grille,round,670.4875552936568,1696,5,Yes,square,,
+XH7FWCGRRXDJ,wall,high,154.93888344856109,436,5,Yes,low,,
+XH7FWCGRRXDJ,garbage,garbage,214.9310887064413,701,5,No,N/A,,
+XH7FWCGRRXDJ,mouse,human,280.0460280850796,571,3,No,N/A,,
+FWD4Z73KK6F6,hard disk,empty,253.97352131700688,509,3,Yes,full,stuffed,
+DZ76R6HPTQH4,kimono,short,650.7031645522958,1676,5,Yes,long,lengthened,tall
+FWD4Z73KK6F6,floss,edible,320.73725041595316,648,3,No,inedible,toxic,dangerous
+EZCVAWE2HAMP,bamboo,edible,881.6406392193477,309,1,Yes,harmful,poisonus,inedible
+XH7FWCGRRXDJ,stove,cold,165.67337893639416,293,3,Yes,hot,,
+XH7FWCGRRXDJ,roadsweeper,amphibious,267.4494581106849,165,1,No,N/A,,
+FWD4Z73KK6F6,chute,open,158.72051222542206,458,5,Yes,closed,shut,
+NFN2M74RPJ2Q,windshield wiper,automatic,188.01965710223183,357,3,Yes,manual,,
+FWD4Z73KK6F6,buoy,empty,400.52775685423074,226,1,Yes,full,stuffed,overflowing
+FWD4Z73KK6F6,cornmeal,edible,174.9859619585854,110,1,Yes,inedible,rotten,moldy
+XH7FWCGRRXDJ,oven,warm,190.5106646966147,365,3,Yes,freezing,,
+FWD4Z73KK6F6,abacus,circular,141.44196829751078,366,5,Yes,square,rectangular,
+XH7FWCGRRXDJ,macadamia,extinct,229.56699329790038,146,1,Yes,growing,,
+XH7FWCGRRXDJ,paper plate,blank,328.5318750576923,665,3,Yes,covered,,
+XH7FWCGRRXDJ,arm,long,256.07374498916806,857,5,Yes,short,,
+FPMCK2P37RW2,balance beam,vertical,467.73483105732765,850,3,Yes,horizontal,,
+DZ76R6HPTQH4,highchair,portable,801.5010196305186,1033,3,Yes,N/A,,
+R7AZQKJ2FQVT,whisk,long,1026.2123669299199,1882,5,Yes,NA,,
+XH7FWCGRRXDJ,finger,long,225.01482873958005,445,3,Yes,short,,
+XH7FWCGRRXDJ,pistachio,orange,84.67838856726966,167,8,Yes,green,,
+FPMCK2P37RW2,wreck,there,226.86086731395926,743,5,Yes,unfound,gone,missing
+W9XTVGDF6CV4,pineapple,edible,564.5190989790267,926,3,Yes,Inedible ,Unpalatable ,
+XH7FWCGRRXDJ,dolphin,amphibious,90.5849038295883,136,5,Yes,oceanic,,
+FWD4Z73KK6F6,train,here,95.82552471997464,156,5,Yes,gone,missing,
+FPMCK2P37RW2,paperweight,gold,123.23012415569164,283,5,Yes,silver,lead,iron
+FWD4Z73KK6F6,cane,hollow,365.7689528723645,723,3,Yes,thick,full,stuffed
+XH7FWCGRRXDJ,jar,full,156.50869275407666,266,3,Yes,empty,,
+XH7FWCGRRXDJ,punch,strong,318.9006791000961,645,3,Yes,mild,weak,
+XH7FWCGRRXDJ,boat,empty,77.81489955896744,55,3,Yes,full,,
+FPMCK2P37RW2,music box,music,210.0709830182447,685,5,No,N/A,,
+EZCVAWE2HAMP,sweeper,human,705.3700057816885,999,3,Yes,animalistic,beastly,inhuman
+XH7FWCGRRXDJ,bone,hard,193.8913100819413,616,5,Yes,soft,,
+XH7FWCGRRXDJ,screen,full,149.5438733567864,413,5,Yes,empty,,
+FWD4Z73KK6F6,shutter,open,185.86221630994217,349,3,Yes,closed,shut,
+XH7FWCGRRXDJ,buffet,free,364.618772309141,211,1,Yes,expensive,,
+XH7FWCGRRXDJ,gauge,standard,675.8903024694953,1701,5,Yes,non-standard,,
+XH7FWCGRRXDJ,shelf,stable,447.5169732719594,1400,5,Yes,loose,,
+FWD4Z73KK6F6,chili,hot,197.9355466717736,633,5,Yes,cold,frozen,chilly
+XH7FWCGRRXDJ,barrel,straight,294.97612380470935,604,3,Yes,curved,,
+XH7FWCGRRXDJ,wall,there,97.61180321776868,94,3,Yes,here,,
+XH7FWCGRRXDJ,jewelry,gold,285.4676039796604,583,3,Yes,plastic,,
+XH7FWCGRRXDJ,hook,sharp,204.8842924279399,660,5,Yes,dull,,
+FPMCK2P37RW2,skeleton,human,235.05091511164622,465,3,Yes,inhuman,animal,monstrous
+FPMCK2P37RW2,marble,hard,259.23276980641845,871,5,Yes,weak,soft,
+FPMCK2P37RW2,bouquet,simple,543.5454599903231,916,3,Yes,elaborate,fancy,expensive
+FWD4Z73KK6F6,rhinoceros,extinct,43.19709710532186,8,3,Yes,alive,thriving,repopulating
+XH7FWCGRRXDJ,basket,large,321.99503713857126,1094,5,Yes,small,,
+FWD4Z73KK6F6,sandwich,edible,399.08878173036857,1311,5,Yes,inedible,dangerous,toxic
+NFN2M74RPJ2Q,mousse,long,355.34980302052566,1196,5,No,short,brief,
+XH7FWCGRRXDJ,card,blank,109.74350457687369,125,3,Yes,covered,,
+FPMCK2P37RW2,shell,hollow,236.7734929361164,475,3,Yes,full,filled,solid
+XH7FWCGRRXDJ,container,open,183.21467454540073,341,3,Yes,closed,,
+NFN2M74RPJ2Q,grater,circular,469.33201724392546,1445,5,Yes,angular,square,
+FPMCK2P37RW2,worm,human,235.32836715359738,466,3,No,N/A,,
+FWD4Z73KK6F6,nail,there,288.15523787506464,589,3,Yes,gone,missing,
+HWDQZR3ZTFRN,gold,gold,105.70146809517523,33,1,No,N/A,,
+XH7FWCGRRXDJ,stair,high,355.07303937493685,1195,5,Yes,low,,
+DZ76R6HPTQH4,sail,square,638.7107397333888,965,3,Yes,triangle,hexagon,decagon
+XH7FWCGRRXDJ,cookie,delicious,193.05630683837845,608,5,Yes,revolting,,
+XH7FWCGRRXDJ,gate,open,38.40795680260477,4,3,Yes,closed,,
+A969KQ7EMVW3,mousetrap,human,120.77192235727628,172,3,No,N/A,,
+FWD4Z73KK6F6,fire pit,empty,79.70266722096599,98,5,Yes,full,stuffed,overflowing
+A969KQ7EMVW3,laundry basket,empty,78.27815655170683,133,8,Yes,full,packed,brimming
+XH7FWCGRRXDJ,closet,empty,78.45861116751179,15,1,Yes,full,,
+NFN2M74RPJ2Q,belt,circular,522.9030511347457,261,1,Yes,angular,squared,
+HWDQZR3ZTFRN,bed,comfortable,101.16406092755541,103,3,Yes,uncomfortable,miserable,irritating
+XH7FWCGRRXDJ,pie,good,120.67060904514452,54,1,Yes,bad,,
+EGZANDYA4C6Q,ginger,edible,964.0478756152603,316,1,Yes,indigestable,inedible,toxic
+XH7FWCGRRXDJ,jeep,empty,102.26844263203337,182,5,Yes,full,,
+7G7NZEEGPR4K,silicone,toxic,311.58213496646545,635,3,Yes,healthy,nontoxic,
+FWD4Z73KK6F6,plastic film,plastic,367.1191219940773,727,3,Yes,metal,steel,
+XH7FWCGRRXDJ,gorilla,human,418.5097757672588,231,1,No,N/A,,
+XH7FWCGRRXDJ,spider,edible,512.3096727009944,1517,5,Yes,inedible,,
+FWD4Z73KK6F6,leg,dead,235.6613149262786,777,5,Yes,alive,normal,healthy
+7G7NZEEGPR4K,coffee bean,edible,312.66056373434793,1058,5,Yes,putrid,,
+R3CDKNC3PH6K,cream,perfect,188.68391432502673,585,5,Yes,spoiled,old,separating
+R7AZQKJ2FQVT,beer,alcoholic,364.2647837363211,210,1,Yes,NA,,
+FPMCK2P37RW2,exhaust pipe,cylindrical,566.2372158462457,930,3,Yes,square,flat,
+XH7FWCGRRXDJ,marmalade,delicious,64.6485590503064,68,8,Yes,bad,,
+FPMCK2P37RW2,penholder,human,584.9683320711732,942,3,No,N/A,,
+DZ76R6HPTQH4,strawberry,edible,625.65845706442,278,1,Yes,slimy,holey,wormy
+FPMCK2P37RW2,punching bag,plastic,234.95398502912047,464,3,Yes,leather,expensive,fancy
+XH7FWCGRRXDJ,suitcase,empty,114.0604066984606,42,1,Yes,full,,
+EGZANDYA4C6Q,banjo,musical,1045.1914135129023,1889,5,Yes,discordant,,
+FWD4Z73KK6F6,bulletin board,interactive,146.38161630307806,395,5,Yes,passive,,
+XXKCFJGVJDTX,armor,heavy,136.49375178539051,211,3,Yes,lightweight,,
+DZ76R6HPTQH4,swimsuit,transparent,705.9225032118659,1729,5,Yes,thick,appropriate,covering
+FWD4Z73KK6F6,hot tub,open,94.53320505139908,149,5,Yes,closed,shut,
+FWD4Z73KK6F6,milk,bitter,323.0047553607105,653,3,Yes,sweet,sugarly,
+FWD4Z73KK6F6,sword,long,138.0795846468274,355,5,Yes,short,tiny,small
+XH7FWCGRRXDJ,chick,there,240.7933678339129,808,5,Yes,here,,
+XH7FWCGRRXDJ,jigsaw puzzle,simple,134.52949468496752,201,3,Yes,complex,,
+XH7FWCGRRXDJ,mushroom,edible,353.3364338230365,204,1,Yes,inedible,,
+EZCVAWE2HAMP,sponge,edible,874.0324842219458,308,1,No,unsafe,nonedible,harmful
+DZ76R6HPTQH4,curb,high,692.6325912166632,996,3,Yes,low,small,slight
+XH7FWCGRRXDJ,pot,empty,106.51413938106064,34,1,Yes,full,,
+EGZANDYA4C6Q,sling,elastic,953.4853983415873,1860,5,Yes,rigid,stiff,
+XH7FWCGRRXDJ,bomb,there,162.36913597152818,473,5,Yes,here,,
+XH7FWCGRRXDJ,ruby,gold,293.9729899355824,182,1,No,N/A,,
+W9XTVGDF6CV4,grate,circular,603.9031108594535,1625,5,Yes,Rectangular ,Straight ,
+W9XTVGDF6CV4,chin,prominent,551.9213276592718,1575,5,Yes,Unnoticeable ,,
+XH7FWCGRRXDJ,sponge,slippery,446.5698730207009,1399,5,Yes,sticky,,
+XH7FWCGRRXDJ,furnace,hot,135.13075259412213,205,3,Yes,cold,,
+XH7FWCGRRXDJ,veil,thin,118.04120564437912,161,3,Yes,thick,,
+R7AZQKJ2FQVT,tuba,cylindrical,980.7158614607226,1866,5,No,Flared,Curvy,Intricate
+FXAG33X37DRG,seaweed,edible,667.82261927462,287,1,Yes,poisonous,toxic,inedible
+DZ76R6HPTQH4,cinnamon,edible,836.0801483114458,1041,3,Yes,contaminated,inedible,gross
+FWD4Z73KK6F6,bubble,full,234.70271341629612,771,5,Yes,empty,barren,
+FPMCK2P37RW2,cork,hollow,538.0238187930198,264,1,Yes,solid,,
+XH7FWCGRRXDJ,crate,empty,118.73007124388069,53,1,Yes,full,,
+XH7FWCGRRXDJ,compost,water,236.03108409186004,468,3,No,N/A,,
+EZCVAWE2HAMP,bean,edible,637.4149306165417,282,1,Yes,poisonous,harmful,inedible 
+XH7FWCGRRXDJ,clipboard,blank,281.7922295868955,954,5,Yes,filled,,
+XH7FWCGRRXDJ,wreath,heavy,458.26040460780257,1418,5,Yes,light,,
+XH7FWCGRRXDJ,denture,long,366.2862762084423,725,3,Yes,short,,
+FWD4Z73KK6F6,speedboat,amphibious,73.31673106118096,75,5,No,mechanical,,
+XH7FWCGRRXDJ,recliner,comfortable,414.9878587436887,794,3,Yes,uncomfortable,,
+DZ76R6HPTQH4,basketball,basketball,613.0906603686767,1634,5,No,N/A,,
+XH7FWCGRRXDJ,file,empty,117.29915976068537,157,3,Yes,full,,
+3MMFR6RXMZM2,cornhusk,long,496.3586527514038,1487,5,Yes,short,petite,truncated
+FWD4Z73KK6F6,mouse,small,236.77326713142503,471,3,Yes,large,huge,enormous
+2VHW4RE6AKTN,crown,gold,181.6372534433871,557,5,Yes,Silver,Bronze,Copper
+FPMCK2P37RW2,sea urchin,marine,458.3626813150778,1419,5,Yes,dry,,
+XH7FWCGRRXDJ,rubber band,elastic,187.91443187083985,117,1,Yes,stiff,,
+R7AZQKJ2FQVT,roll,round,598.8170417087533,1620,5,Yes,NA,,
+FWD4Z73KK6F6,yo-yo,simple,81.27497151329383,149,8,Yes,complex,,
+DZ76R6HPTQH4,carrot,fruit,614.1893969848477,1635,5,No,vegetable,,
+XH7FWCGRRXDJ,bow,long,203.92287749713927,396,3,Yes,short,,
+XH7FWCGRRXDJ,cookie,edible,430.038287185447,1365,5,Yes,inedible,,
+XH7FWCGRRXDJ,shortbread,thin,304.90093348149134,1030,5,Yes,thick,,
+FPMCK2P37RW2,hotdog,hot,92.59246611848465,84,3,Yes,cold,chilly,frozen
+NFN2M74RPJ2Q,pulpit,free,525.4324659902229,1539,5,Yes,occupied,busy,
+C69D7VD39FKM,beetle,edible,811.5728318088811,1801,5,Yes,inedible,poisonous,harmful
+FPMCK2P37RW2,power line,underground,226.84788660239064,742,5,Yes,strung,hanging,
+XH7FWCGRRXDJ,creme brulee,rare,73.41776550196157,105,8,Yes,common,,
+XH7FWCGRRXDJ,hula hoop,cylindrical,336.9803062968317,1138,5,Yes,square,,
+XH7FWCGRRXDJ,gopher,human,244.2235680542462,153,1,No,N/A,,
+XH7FWCGRRXDJ,kangaroo,extinct,584.8885622044098,1608,5,Yes,alive,hopping,
+DZ76R6HPTQH4,melon,edible,808.4812825575079,304,1,Yes,discolored,buggy,stinky
+XH7FWCGRRXDJ,wrist,swollen,270.75282035292577,910,5,Yes,soothed,,
+FPMCK2P37RW2,go-kart,fast,55.0033097193808,38,8,Yes,slow,broken,stopped
+XH7FWCGRRXDJ,truck,empty,64.55094258217139,67,8,Yes,full,,
+XH7FWCGRRXDJ,marijuana,illegal,462.5583136623477,846,3,Yes,legal,,
+XH7FWCGRRXDJ,screen,full,149.5438733567864,412,5,Yes,filled,,
+XH7FWCGRRXDJ,cantaloupe,edible,40.08084015173362,1,1,Yes,inedible,,
+XXKCFJGVJDTX,pan,hot,133.85576610566486,330,5,Yes,cool,cold,
+XH7FWCGRRXDJ,slide,long,390.4466558195877,224,1,Yes,short,,
+FWD4Z73KK6F6,horn,long,219.63180148332,140,1,Yes,short,tiny,small
+FWD4Z73KK6F6,train car,empty,59.11715654768612,40,5,Yes,full,stuffed,crammed
+XH7FWCGRRXDJ,sarcophagus,hollow,348.5156008268998,201,1,Yes,filled,,
+FWD4Z73KK6F6,hot tub,full,75.5020359557246,80,5,Yes,empty,unused,
+FWD4Z73KK6F6,copier,portable,389.19307814978265,765,3,Yes,immobile,unmovable,
+XH7FWCGRRXDJ,tablet,portable,655.3227916172053,1679,5,Yes,stuck,,
+XH7FWCGRRXDJ,globe,empty,171.41463837246647,106,1,Yes,full,,
+FWD4Z73KK6F6,hot tub,empty,76.32758225592445,117,8,Yes,full,overflowing,
+7G7NZEEGPR4K,balloon,hot,345.45156578156906,1162,5,Yes,cold,cool,tepid
+DZ76R6HPTQH4,kazoo,musical,873.9620527328152,1051,3,Yes,broken,smashed,dislodged
+3MMFR6RXMZM2,cap,round,376.7196920746624,749,3,Yes,square,triangular,flat
+DZ76R6HPTQH4,skewer,long,726.6893405455597,1746,5,Yes,short,miniature,replica
+XH7FWCGRRXDJ,polar bear,extinct,141.72160065638187,221,3,Yes,alive,,
+DZ76R6HPTQH4,cabbage,edible,632.0999721761925,960,3,Yes,decorative,overcooked,overboiled
+DZ76R6HPTQH4,mango,edible,618.721185057573,276,1,Yes,inorganic,artificial,plastic
+XH7FWCGRRXDJ,praying mantis,edible,488.4287375155378,1469,5,Yes,inedible,,
+XH7FWCGRRXDJ,desk,there,116.8953518751119,155,3,Yes,here,,
+FWD4Z73KK6F6,wing,transparent,456.4089574361373,838,3,Yes,solid,,
+FWD4Z73KK6F6,canister,full,215.1117469114222,703,5,Yes,empty,barren,
+XH7FWCGRRXDJ,birdcage,large,238.24816839644177,796,5,Yes,small,,
+7G7NZEEGPR4K,swing,free,374.8462927937102,744,3,Yes,occupied,taken,
+XH7FWCGRRXDJ,plant,edible,301.1332656682834,614,3,Yes,inedible,,
+XH7FWCGRRXDJ,briefcase,open,161.5535203309808,286,3,Yes,closed,,
+76VNAHQ9VAC3,acorn,edible,599.4987236058265,1622,5,Yes,inedible,uneatable,rotten
+XXKCFJGVJDTX,mattress,empty,111.54838752267513,129,3,No,full,,
+FWD4Z73KK6F6,torch,light,320.17065202843867,1083,5,Yes,heavy,,
+HWDQZR3ZTFRN,lamp,on,98.49627687467877,167,5,Yes,off,disconnected,unplugged
+76VNAHQ9VAC3,radar,operational,323.80820064450006,1102,5,Yes,inoperable,broken,destroyed
+JE2PZ3NEZGRZ,pothole,shallow,319.42070427816225,1082,5,Yes,deep,,
+FWD4Z73KK6F6,mushroom,poisonous,311.5686150312769,634,3,Yes,safe,edible,tasty
+XH7FWCGRRXDJ,trigger,here,294.77364929644796,993,5,Yes,elsewhere,,
+XH7FWCGRRXDJ,pine needle,long,375.24956971569435,218,1,Yes,short,,
+FWD4Z73KK6F6,rim,convex,240.23347232487748,805,5,Yes,concave,,
+XH7FWCGRRXDJ,trunk,round,310.1460702129296,1049,5,Yes,rectangular,,
+XH7FWCGRRXDJ,perfume,sweet,212.18460713163373,416,3,Yes,harsh,,
+XH7FWCGRRXDJ,metronome,complex,59.935607563991184,42,5,Yes,simple,,
+FWD4Z73KK6F6,purse,full,153.31674176420114,425,5,Yes,empty,barren,
+NFN2M74RPJ2Q,skull,hollow,190.7130785408207,367,3,Yes,solid,full,
+XH7FWCGRRXDJ,bok choy,Chinese,423.1378535769695,805,3,Yes,Thai,,
+XH7FWCGRRXDJ,sloth,extinct,227.1072088380613,448,3,Yes,alive,,
+FWD4Z73KK6F6,eagle,extinct,315.70024357852736,640,3,Yes,alive,reproducing,
+XH7FWCGRRXDJ,wine bottle,empty,67.98891083597798,8,1,Yes,full,,
+XH7FWCGRRXDJ,tomato,poisonous,493.2548427161989,867,3,Yes,edible,,
+FPMCK2P37RW2,coat,simple,350.1213137169063,202,1,Yes,fancy,elaborate,sumptuous
+FWD4Z73KK6F6,yo-yo,round,86.45852521120868,127,5,Yes,square,triangular,
+XH7FWCGRRXDJ,map,complete,145.66888232643655,234,3,Yes,incomplete,,
+XH7FWCGRRXDJ,drill,perfect,216.27055005231827,711,5,Yes,imperfect,,
+DZ76R6HPTQH4,orchid,edible,790.9652325915521,301,1,No,floral,decorative,
+FPMCK2P37RW2,sequin,long,531.4793419249016,904,3,No,N/A,,
+76VNAHQ9VAC3,okra,edible,581.0006152467822,939,3,Yes,inedible,uneatable,poisonous
+76VNAHQ9VAC3,sarcophagus,large,359.8093618673301,708,3,Yes,small,tiny,short
+A969KQ7EMVW3,match,over,54.55441670370845,20,3,Yes,beginning,commencing,
+XH7FWCGRRXDJ,snack,good,278.62919810783933,566,3,Yes,terrible,,
+XH7FWCGRRXDJ,hole,small,129.21366621986485,308,5,Yes,huge,,
+XH7FWCGRRXDJ,sundial,symbolic,385.7522897021632,1276,5,Yes,meaningless,,
+XH7FWCGRRXDJ,scarf,long,352.170767134674,1184,5,Yes,short,,
+XH7FWCGRRXDJ,door,open,26.755372552219978,0,3,Yes,closed,,
+DZ76R6HPTQH4,meat grinder,mechanical,682.8102372117107,991,3,Yes,computerized,advanced,expensive
+XH7FWCGRRXDJ,burner,hot,210.05115036368562,413,3,Yes,cold,,
+XH7FWCGRRXDJ,oven,hot,140.88650746872685,363,5,Yes,cold,,
+XH7FWCGRRXDJ,photo booth,empty,154.4214767695468,433,5,Yes,full,,
+DZ76R6HPTQH4,chessboard,square,815.8517770712523,1806,5,Yes,round,circular,rectangular
+XH7FWCGRRXDJ,plate,blank,281.94141866211464,575,3,Yes,filled,,
+XH7FWCGRRXDJ,combination lock,universal,387.01988207825724,221,1,Yes,specific,,
+DZ76R6HPTQH4,slime,edible,647.7529098509838,1673,5,No,putrid,unappealing,nasty
+DZ76R6HPTQH4,tumbleweed,edible,635.6857164427387,962,3,No,spiky,sharp,pokey
+FWD4Z73KK6F6,scoop,easy,466.35584535040994,1441,5,Yes,hard,heavy,overbearing
+DZ76R6HPTQH4,scooter,portable,874.4305913234554,1833,5,Yes,stationary,heavy,large
+FPMCK2P37RW2,girl,there,76.12320263778145,82,5,Yes,missing,gone,departed
+EGZANDYA4C6Q,valve,vertical,1084.0482366330575,321,1,Yes,horizontal,sideways,side-to-side
+NFN2M74RPJ2Q,tie,complete,464.20865067652915,1434,5,No,incomplete,unfinished,ongoing
+XH7FWCGRRXDJ,match,complete,178.7461229769081,543,5,Yes,starting,,
+XH7FWCGRRXDJ,sauerkraut,French,65.06094461021513,70,8,Yes,German,,
+R7AZQKJ2FQVT,roll,long,490.5700512031684,864,3,Yes,NA,,
+FWD4Z73KK6F6,foam,thick,362.12388248294417,1212,5,Yes,thin,skinny,
+FWD4Z73KK6F6,kitten,important,478.3362012460804,1460,5,Yes,unimportant,forgotten,
+FPMCK2P37RW2,yogurt,edible,999.5696046191288,1873,5,Yes,Inedible,poisoned,spoiled
+XH7FWCGRRXDJ,slingshot,long,661.3761743187424,1684,5,Yes,short,,
+FWD4Z73KK6F6,canoe,portable,667.2875316787788,982,3,Yes,massive,overbearing,huge
+XH7FWCGRRXDJ,stake,high,327.5671953274395,1118,5,Yes,low,,
+XH7FWCGRRXDJ,dishrag,cold,174.7655694512315,529,5,Yes,warm,,
+FWD4Z73KK6F6,bucket,empty,98.11873262890123,28,1,Yes,full,overflowing,
+FWD4Z73KK6F6,chest,bare,146.75027577923606,238,3,Yes,full,stuffed,overflowing
+FWD4Z73KK6F6,pomegranate,fruit,64.43362252616491,31,3,Yes,NA,,
+XH7FWCGRRXDJ,couch,comfortable,154.98018821808563,87,1,Yes,uncomfortable,,
+3MMFR6RXMZM2,chain,short,193.39361973269456,612,5,Yes,lengthy,big,elongated
+EGZANDYA4C6Q,tuxedo,traditional,1222.9924911136811,1929,5,Yes,nontraditional,untraditional,
+EGZANDYA4C6Q,olive,edible,941.5307422396404,315,1,Yes,inedible,toxic,indigestible
+XH7FWCGRRXDJ,compost,dry,155.06460535749991,438,5,Yes,wet,,
+XH7FWCGRRXDJ,oven,open,130.90085350487092,313,5,Yes,closed,,
+XH7FWCGRRXDJ,jug,heavy,385.64782534701163,757,3,Yes,light,,
+XH7FWCGRRXDJ,grate,open,196.5189487046481,380,3,Yes,closed,,
+XH7FWCGRRXDJ,curb,free,395.9101705978792,1302,5,Yes,expensive,,
+XH7FWCGRRXDJ,wrap,thin,390.391364431165,768,3,Yes,thick,,
+EZCVAWE2HAMP,snail,poisonous,714.1139458908681,1734,5,Yes,harmless,safe,nontoxic 
+76VNAHQ9VAC3,calculator,simple,1015.5710350086664,1078,3,Yes,complex,scientific,sophisticated
+XH7FWCGRRXDJ,sink,full,230.7016674442852,456,3,Yes,empty,,
+XH7FWCGRRXDJ,beard,long,180.94473312003268,114,1,Yes,short,,
+DZ76R6HPTQH4,turf,artificial,929.6053944461056,313,1,Yes,real,grass,sod
+EZCVAWE2HAMP,grasshopper,small,699.8030182727869,1724,5,Yes,large,huge,big
+FWD4Z73KK6F6,radar,active,245.879086586253,828,5,Yes,inactive,off,
+XH7FWCGRRXDJ,metal detector,portable,324.60188076291547,657,3,Yes,stuck,,
+XH7FWCGRRXDJ,envelope,empty,125.41160187809764,58,1,Yes,full,,
+XH7FWCGRRXDJ,wolf,human,129.72607472541637,189,3,Yes,canine,,
+FPMCK2P37RW2,sock,long,608.4329786933067,1631,5,Yes,short,small,
+FWD4Z73KK6F6,elephant,human,310.03960828643744,630,3,No,inhuman,animalistic,
+XH7FWCGRRXDJ,razor,straight,480.2454525895111,858,3,Yes,bendable,,
+EZCVAWE2HAMP,loveseat,here,732.635433717309,1750,5,Yes,absent,away,elsewhere
+XH7FWCGRRXDJ,cage,open,131.41124243076175,192,3,Yes,closed,,
+FPMCK2P37RW2,cream cheese,edible,225.35252602267502,446,3,Yes,spoiled,inedible,poisoned
+FPMCK2P37RW2,barrel,round,212.11025469550827,690,5,Yes,square,rectangular,
+FWD4Z73KK6F6,dagger,long,217.7122897649749,430,3,Yes,short,tiny,small
+DZ76R6HPTQH4,caramel,orange,698.2467429910868,1721,5,Yes,brown,dark,unlit
+FWD4Z73KK6F6,trunk,hollow,311.8722863104,636,3,Yes,thick,fat,
+FWD4Z73KK6F6,computer screen,blank,49.54839209152958,13,3,Yes,working,on,
+NFN2M74RPJ2Q,blowfish,edible,473.9649099612619,1455,5,Yes,inedible,unpalatable,indigestible
+XH7FWCGRRXDJ,tape measure,standard,252.40572368859668,847,5,No,uncommon,,
+XH7FWCGRRXDJ,cherry,edible,487.9066199012861,861,3,Yes,inedible,,
+XH7FWCGRRXDJ,arch,circular,396.3565202168682,776,3,Yes,square,,
+NFN2M74RPJ2Q,bomb,empty,180.42890439174462,552,5,No,full,,
+XH7FWCGRRXDJ,apple tree,evergreen,321.5178841190624,1090,5,No,N/A,,
+7G7NZEEGPR4K,mustache,thick,345.3224461900758,1161,5,Yes,thin,sparse,
+4YNXDR4CKEZM,palette,large,1172.082523520784,1917,5,Yes,small,tiny,
+XH7FWCGRRXDJ,giraffe,amphibious,78.1044108088971,132,8,Yes,mammalian,,
+XH7FWCGRRXDJ,oatmeal,sweet,374.724590178254,743,3,Yes,bitter,,
+XH7FWCGRRXDJ,cornbread,edible,219.30978786005548,139,1,Yes,inedible,,
+DZ76R6HPTQH4,lingerie,available,773.5147273982068,1779,5,Yes,sold,gone,stolen
+XH7FWCGRRXDJ,mullet,long,321.89893594415213,1093,5,Yes,short,,
+XH7FWCGRRXDJ,scone,edible,200.1635397756562,387,3,Yes,inedible,,
+XH7FWCGRRXDJ,spider web,artificial,433.9067821503194,1368,5,Yes,real,,
+XXKCFJGVJDTX,duckling,human,244.06943046465668,821,5,No,animal,,
+XH7FWCGRRXDJ,mug,empty,115.02369703793144,46,1,Yes,full,,
+DZ76R6HPTQH4,frog,edible,625.0319644792654,954,3,Yes,sick,consumptive,dangerous
+XH7FWCGRRXDJ,porthole,open,197.8617529065424,632,5,Yes,closed,,
+W9XTVGDF6CV4,lettuce,edible,538.4963342507641,265,1,Yes,Inedible ,,
+XH7FWCGRRXDJ,cotton candy,edible,241.84003171906303,814,5,Yes,inedible,,
+XH7FWCGRRXDJ,ship,empty,69.13615253508864,88,8,Yes,full,,
+FPMCK2P37RW2,spout,long,606.9551467609988,1627,5,Yes,short,,
+FPMCK2P37RW2,robot,human,206.2058753953584,404,3,No,N/A,,
+XH7FWCGRRXDJ,hanger,empty,134.63589522084158,335,5,Yes,full,,
+FPMCK2P37RW2,soup,good,79.97746132985641,58,3,No,disgusting,rancid,bad
+XH7FWCGRRXDJ,bell pepper,poisonous,346.0884815720252,1163,5,Yes,edible,,
+FWD4Z73KK6F6,cockatoo,extinct,89.90709979226185,135,5,Yes,alive,living,flourishing
+XH7FWCGRRXDJ,powder,explosive,284.1699209468954,580,3,Yes,innocuous,,
+FWD4Z73KK6F6,harmonica,musical,320.71645132666293,647,3,No,silent,,
+FWD4Z73KK6F6,napkin,empty,233.0140888522784,460,3,No,full,stuffed,overflowing
+C69D7VD39FKM,pendulum,rigid,761.8428342523987,1021,3,Yes,loose,flexible,lenient
+R7AZQKJ2FQVT,pelican,extinct,826.7651808767836,1809,5,No,Common,Extant,Living
+XH7FWCGRRXDJ,whiteboard,empty,238.61881059082057,482,3,Yes,full,,
+FWD4Z73KK6F6,papaya,edible,118.39114951803049,52,1,Yes,inedible,toxic,dangerous
+FWD4Z73KK6F6,ring,empty,116.5755079340862,50,1,Yes,full,stuffed,overflowing
+DZ76R6HPTQH4,knitting,simple,680.6991306349447,1707,5,Yes,complex,difficult,ornate
+XH7FWCGRRXDJ,scallop,long,429.6130017795541,810,3,Yes,short,,
+XH7FWCGRRXDJ,weasel,human,463.88912850069664,847,3,No,N/A,,
+FWD4Z73KK6F6,cummerbund,long,77.10827108754779,48,3,Yes,short,tiny,small
+FWD4Z73KK6F6,jukebox,music,369.2645513734367,733,3,No,silent,broken,
+EZCVAWE2HAMP,wasp,important,679.1889025126425,290,1,Yes,unimportant,insignificant,trivial 
+XH7FWCGRRXDJ,milk,cold,142.9997584766749,376,5,Yes,hot,,
+7G7NZEEGPR4K,trophy,empty,301.63395434309683,1018,5,Yes,full,,
+FPMCK2P37RW2,ram,large,466.180201556268,1440,5,Yes,small,tiny,little
+FPMCK2P37RW2,incubator,portable,77.21276319646206,89,5,Yes,immobile,gigantic,heavy
+DZ76R6HPTQH4,olive,olive,903.8449146982643,1843,5,No,non-oily,non-juicy,
+XH7FWCGRRXDJ,tarp,transparent,507.7625146129147,1508,5,Yes,opaque,,
+DZ76R6HPTQH4,peanut,edible,771.0375121066536,300,1,Yes,seedling,frozen,scattered
+XH7FWCGRRXDJ,lampshade,light,257.62255588518445,518,3,Yes,dark,,
+FPMCK2P37RW2,bow,long,203.92287749713927,395,3,Yes,short,broken,tiny
+XH7FWCGRRXDJ,tarantula,female,221.58862879739368,728,5,Yes,male,,
+XH7FWCGRRXDJ,rock,good,166.00685382764547,487,5,Yes,bad,,
+FPMCK2P37RW2,drumstick,musical,443.2201591622566,1387,5,Yes,delicious,chicken,turkey
+XH7FWCGRRXDJ,mouth,small,332.83956253175637,1129,5,Yes,large,,
+EZCVAWE2HAMP,roller,high,932.9011759003544,1853,5,Yes,low,down,lowly
+EZCVAWE2HAMP,sunflower,edible,919.4457105197673,311,1,Yes,inedible,poisonous ,harmful
+XH7FWCGRRXDJ,fox,human,292.81935789885875,985,5,No,N/A,,
+XH7FWCGRRXDJ,hood,open,141.25722289690202,220,3,Yes,closed,,
+XH7FWCGRRXDJ,mirror,empty,104.39586021140738,113,3,Yes,full,,
+FWD4Z73KK6F6,ant,male,675.9276890983573,1702,5,Yes,female,,
+XH7FWCGRRXDJ,checkbook,empty,440.097615329594,237,1,Yes,full,,
+XH7FWCGRRXDJ,chest,empty,113.39847202796885,135,3,Yes,full,,
+DZ76R6HPTQH4,lemon,edible,814.769440454043,305,1,Yes,green,brown,dirty
+EZCVAWE2HAMP,teddy bear,human,226.17067668246503,740,5,No,inhuman,,
+XH7FWCGRRXDJ,parachute,open,217.8013798078715,717,5,Yes,closed,,
+XH7FWCGRRXDJ,thread,straight,193.39122209869203,375,3,Yes,bent,,
+FWD4Z73KK6F6,juice,sweet,201.54748843369742,648,5,Yes,bitter,sour,
+XH7FWCGRRXDJ,lava,hot,191.2917817118901,368,3,Yes,cooled,,
+FWD4Z73KK6F6,chicken wire,edible,426.1910720311621,234,1,No,inedible,,
+FWD4Z73KK6F6,shower,cold,77.40655776754555,13,1,Yes,hot,warm,scalding
+DZ76R6HPTQH4,basketball hoop,spherical,631.8185190790113,959,3,Yes,stretched,,
+XH7FWCGRRXDJ,aluminum foil,thin,349.3846678327904,1176,5,Yes,thick,,
+XH7FWCGRRXDJ,money,mine,57.35019341607489,26,3,Yes,theirs,,
+FWD4Z73KK6F6,chisel,sharp,362.683606095928,714,3,Yes,dull,smooth,
+FWD4Z73KK6F6,cereal,free,407.3031400281824,1326,5,Yes,expensive,,
+FWD4Z73KK6F6,orange,orange,207.03199456163017,673,5,Yes,black,green,yellow
+3MMFR6RXMZM2,spear,long,200.00974088633737,128,1,Yes,short,stubby,miniature
+XH7FWCGRRXDJ,baby,dead,62.15051100641502,47,5,Yes,alive,,
+XH7FWCGRRXDJ,bag,heavy,102.35655086534635,183,5,Yes,light,,
+XH7FWCGRRXDJ,table,incomplete,349.2357595389204,693,3,Yes,finished,,
+XH7FWCGRRXDJ,tarantula,edible,267.4850413028226,539,3,Yes,inedible,,
+HWDQZR3ZTFRN,knife,sharp,95.6798743081045,155,5,Yes,dull,,
+76VNAHQ9VAC3,bow,curved,315.87386116190305,1070,5,Yes,straight,uncurving,uncurved
+FWD4Z73KK6F6,omelet,simple,437.43300265457634,1376,5,Yes,complex,difficult,
+76VNAHQ9VAC3,pretzel,edible,598.5038881962382,275,1,Yes,inedible,uneatable,mouldy
+XH7FWCGRRXDJ,leg,long,347.1899763029202,1170,5,Yes,short,,
+2VHW4RE6AKTN,perfume,strong,177.2998943212086,329,3,No,weak,puny,faint
+QHKQ32WVQEGN,bongo,musical,576.2022133555498,1596,5,No,N/A,,
+XH7FWCGRRXDJ,gum,bitter,358.08800833272187,705,3,Yes,sweet,,
+DZ76R6HPTQH4,cardigan,long,716.8128557706277,1004,3,Yes,cut,normal,shortened
+FWD4Z73KK6F6,shell,transparent,364.0140545090459,1216,5,Yes,solid,,
+R7AZQKJ2FQVT,granola,edible,1073.8497167733572,320,1,Yes,NA,,
+FWD4Z73KK6F6,wheat,edible,388.22017774725924,761,3,Yes,inedible,toxic,dangerous
+XH7FWCGRRXDJ,mulch,dry,129.67078526873345,310,5,Yes,wet,,
+XH7FWCGRRXDJ,gargoyle,human,296.75683183641115,608,3,No,N/A,,
+XH7FWCGRRXDJ,lightning bug,extinct,392.26108169331366,1296,5,Yes,alive,,
+EZCVAWE2HAMP,pug,human,934.482147760762,1065,3,No,inhuman,animalistic,beastly 
+XH7FWCGRRXDJ,parsley,edible,249.88072299347232,156,1,Yes,inedible,,
+FWD4Z73KK6F6,cocoon,transparent,491.2535792778702,1474,5,Yes,solid,,
+XH7FWCGRRXDJ,satellite,visible,505.98628849049436,881,3,Yes,invisible,,
+DZ76R6HPTQH4,cork,elastic,1218.3796040102752,1926,5,Yes,dry,dried,heated
+XH7FWCGRRXDJ,cauliflower,edible,143.26771372446552,76,1,Yes,inedible,,
+XH7FWCGRRXDJ,luggage,empty,216.21486927068105,427,3,Yes,full,,
+XH7FWCGRRXDJ,string cheese,edible,510.0761421038713,256,1,Yes,inedible,,
+7G7NZEEGPR4K,tree trunk,straight,201.41970886539607,390,3,Yes,crooked,bent,curved
+XH7FWCGRRXDJ,lemonade,sweet,264.33950168224914,887,5,Yes,sour,,
+XH7FWCGRRXDJ,jar,empty,118.18302000230848,51,1,Yes,full,,
+XH7FWCGRRXDJ,crystal ball,empty,108.40745649283606,121,3,Yes,full,,
+XH7FWCGRRXDJ,bathtub,empty,181.666703703826,339,3,Yes,full,,
+FWD4Z73KK6F6,riser,vertical,402.6270242927114,781,3,Yes,horizontal,sideways,
+XH7FWCGRRXDJ,hovercraft,amphibious,108.94613608518988,123,3,Yes,land-driven,,
+XH7FWCGRRXDJ,modem,wireless,180.1221917641499,549,5,Yes,wired,,
+XH7FWCGRRXDJ,maple syrup,sweet,197.05559350005626,381,3,Yes,bland,,
+XH7FWCGRRXDJ,macadamia,rare,181.72891141435585,559,5,Yes,common,,
+XH7FWCGRRXDJ,tooth,sharp,346.59697550551965,688,3,Yes,dull,,
+FPMCK2P37RW2,odometer,digital,266.0617204001495,535,3,Yes,analog,,
+XH7FWCGRRXDJ,sidecar,amphibious,133.1377892846341,64,1,No,N/A,,
+FWD4Z73KK6F6,eggbeater,edible,422.6141867735842,804,3,No,inedible,,
+XH7FWCGRRXDJ,flamethrower,simple,43.83597704912248,20,8,Yes,complex,,
+XH7FWCGRRXDJ,veil,invisible,213.2739390788909,696,5,Yes,visible,,
+XH7FWCGRRXDJ,cushion,empty,246.06475435454868,829,5,Yes,full,,
+FPMCK2P37RW2,napkin,clean,262.97454677258384,531,3,Yes,dirty,soiled,messy
+XH7FWCGRRXDJ,mandolin,portable,425.6382558535593,1355,5,Yes,stuck,,
+XH7FWCGRRXDJ,sauce,good,107.90050626204187,208,5,Yes,bad,,
+XH7FWCGRRXDJ,leech,human,370.3914124574608,216,1,No,N/A,,
+XH7FWCGRRXDJ,ladybug,small,197.24680782820982,627,5,Yes,large,,
+FPMCK2P37RW2,girl,dead,39.28199822917409,6,5,Yes,alive,healthy,
+EZCVAWE2HAMP,pulpit,high,641.7587264803955,969,3,Yes,low,short,small 
+XH7FWCGRRXDJ,iron,strong,160.6382541351493,284,3,Yes,weak,,
+XH7FWCGRRXDJ,saucer,empty,178.7200436448444,112,1,Yes,filled,,
+FWD4Z73KK6F6,coffee pot,empty,68.62086804070816,40,3,Yes,full,overflowing,
+XH7FWCGRRXDJ,lawnmower,portable,143.0731471580176,377,5,Yes,stuck,,
+XH7FWCGRRXDJ,bed,cold,74.77047473472092,78,5,Yes,warm,,
+FPMCK2P37RW2,thread,long,205.6430367230521,131,1,Yes,short,trimmed,
+W9XTVGDF6CV4,bikini,optional,541.9690686876796,266,1,Yes,Mandatory ,Compulsory ,
+XH7FWCGRRXDJ,crate,full,177.9506308276728,330,3,Yes,empty,,
+XH7FWCGRRXDJ,tube top,flat,395.50505729520063,775,3,Yes,curved,,
+76VNAHQ9VAC3,mulberry,poisonous,1008.4450560329117,1076,3,Yes,edible,safe,non-poisonous
+2ZF2RAMFQQ3M,pom-pom,circular,259.83843246488414,874,5,Yes,rectangular ,angular,angled
+XH7FWCGRRXDJ,spider web,simple,334.4124357158439,672,3,Yes,complex,,
+XH7FWCGRRXDJ,cockroach,human,509.3389791505324,885,3,No,N/A,,
+XH7FWCGRRXDJ,hail,heavy,351.51176288275605,696,3,Yes,light,,
+XH7FWCGRRXDJ,tomato sauce,edible,156.9630215812539,89,1,Yes,inedible,,
+FPMCK2P37RW2,spaghetti,hot,224.3266174908294,733,5,Yes,cold,icy,frozen
+XH7FWCGRRXDJ,sweet potato,edible,347.4422052224185,200,1,Yes,inedible,,
+EZCVAWE2HAMP,lizard,edible,684.6016963610822,1711,5,Yes,inedible,noxious,harmful
+EZCVAWE2HAMP,potpie,small,526.906485827271,1543,5,Yes,large,massive ,gigantic
+FPMCK2P37RW2,hamburger,meat,570.6856166756469,270,1,Yes,vegetarian,,
+DZ76R6HPTQH4,cardinal,cardinal,716.9208736581347,1005,3,No,N/A,,
+XH7FWCGRRXDJ,marshmallow,edible,456.17462713986237,244,1,Yes,inedible,,
+XH7FWCGRRXDJ,plastic film,transparent,394.0471099016305,225,1,Yes,opaque,,
+XH7FWCGRRXDJ,starfish,edible,240.7460669595612,487,3,Yes,inedible,,
+W9XTVGDF6CV4,cactus,large,577.8453864800631,1601,5,Yes,Small,,
+W9XTVGDF6CV4,gargoyle,extinct,572.2472928030522,933,3,Yes,Extant ,,
+XH7FWCGRRXDJ,stereo,good,285.72621589473005,178,1,Yes,inaudible,,
+FWD4Z73KK6F6,chick,dead,135.8501485285354,209,3,Yes,alive,lively,chirping
+76VNAHQ9VAC3,button,depressed,338.5806579127887,679,3,Yes,untouched,unpressed,
+FWD4Z73KK6F6,pig,human,336.98705512313967,676,3,No,inhuman,animalistic,
+XH7FWCGRRXDJ,orangutan,extinct,82.03801139724854,107,5,Yes,alive,,
+A969KQ7EMVW3,basket,empty,123.48011036027842,57,1,Yes,brimming,full,stuffed
+XH7FWCGRRXDJ,slot,open,147.65405821760734,402,5,Yes,closed,,
+EGZANDYA4C6Q,asparagus,vegetable,1131.9825953177,1909,5,No,nonplant,nonvegetable,
+C69D7VD39FKM,bonnet,long,748.8861857712295,1761,5,Yes,short,miniature,
+XH7FWCGRRXDJ,bike,mine,136.81317306138763,213,3,Yes,theirs,,
+XH7FWCGRRXDJ,eggplant,edible,201.29105047555183,129,1,Yes,inedible,,
+XH7FWCGRRXDJ,tongue,sharp,170.22785954749403,506,5,Yes,soft,,
+XH7FWCGRRXDJ,paperweight,empty,95.2766371302835,88,3,Yes,full,,
+R7AZQKJ2FQVT,clam,edible,1215.3872292957058,329,1,Yes,NA,,
+DZ76R6HPTQH4,measuring cup,circular,761.3097331997052,1768,5,Yes,square,heart,rectangle
+XH7FWCGRRXDJ,cantaloupe,extinct,63.06608588366771,64,8,Yes,alive,,
+FWD4Z73KK6F6,air mattress,portable,455.7556566662743,1411,5,Yes,heavy,immobile,
+XH7FWCGRRXDJ,scallop,amphibious,178.39207612065118,540,5,Yes,mollusk-like,,
+XH7FWCGRRXDJ,razor,sharp,161.54404533809378,94,1,Yes,dull,,
+EZCVAWE2HAMP,turtleneck,long,757.5443855346472,1019,3,Yes,short,small,little
+FWD4Z73KK6F6,canoe,amphibious,132.97828350563535,323,5,No,NA,,
+W9XTVGDF6CV4,gravy,edible,603.1626352584551,1624,5,Yes,Inedible ,Unpalatable ,
+XH7FWCGRRXDJ,stool,cold,303.3392621592411,1025,5,Yes,warm,,
+XH7FWCGRRXDJ,drawer,open,156.94820281218432,271,3,Yes,closed,,
+XH7FWCGRRXDJ,anvil,heavy,326.1292942868192,661,3,Yes,light,,
+XH7FWCGRRXDJ,pedometer,accurate,270.6691732331527,169,1,Yes,inaccurate,,
+FPMCK2P37RW2,parsley,poisonous,224.43628573773103,444,3,Yes,delicious,edible,tasty
+JE2PZ3NEZGRZ,nutcracker,extinct,309.47906886482843,627,3,No,N/A,,
+XH7FWCGRRXDJ,applesauce,edible,277.7668076999925,935,5,Yes,inedible,,
+XH7FWCGRRXDJ,duck,extinct,511.1445230900897,1513,5,Yes,alive,,
+76VNAHQ9VAC3,strawberry,fruit,1047.7077989829697,1084,3,No,NA,NA,NA
+DZ76R6HPTQH4,pincushion,extinct,794.2541117337483,1030,3,No,N/A,,
+XH7FWCGRRXDJ,punch,strong,318.9006791000961,646,3,Yes,mild,,
+3MMFR6RXMZM2,pill,poison,361.66399821073264,207,1,Yes,medicine,sugar,
+XH7FWCGRRXDJ,washcloth,wet,277.22680673064116,933,5,Yes,dry,,
+XH7FWCGRRXDJ,dough,thin,435.4127458028018,1370,5,Yes,thick,,
+XH7FWCGRRXDJ,sausage,edible,506.9068578175171,883,3,Yes,inedible,,
+DZ76R6HPTQH4,filter,transparent,727.3469721089917,1747,5,Yes,opaque,solid,sheer
+FPMCK2P37RW2,ice cream,cold,55.3129294698298,22,3,Yes,melted,softened,
+FWD4Z73KK6F6,vending machine,empty,74.12994089950641,108,8,Yes,full,stuffed,overflowing
+FPMCK2P37RW2,bracket,empty,378.2655514617168,754,3,Yes,full,used,occupied
+XH7FWCGRRXDJ,bowl,empty,99.31452893884615,29,1,Yes,full,,
+XH7FWCGRRXDJ,screen,blank,55.98834943863943,23,3,Yes,full,,
+XH7FWCGRRXDJ,juicer,empty,68.97105501026125,64,5,Yes,full,,
+FPMCK2P37RW2,tripod,circular,982.1773946509703,1867,5,Yes,rectangular,square,
+FWD4Z73KK6F6,mail,anonymous,446.3842269721611,828,3,Yes,identifable,,
+FPMCK2P37RW2,peach,fruit,951.0474655257848,1859,5,Yes,coloring,,
+XH7FWCGRRXDJ,hydrant,water,159.30883077781903,462,5,No,N/A,,
+EZCVAWE2HAMP,chickpea,extinct,764.8953572487293,1772,5,Yes,extant,living,existing
+FWD4Z73KK6F6,drink,alcoholic,309.6176691730812,628,3,Yes,nonalcoholic,water,lemonade
+XH7FWCGRRXDJ,hula hoop,traditional,205.6449978972284,667,5,Yes,new,,
+XH7FWCGRRXDJ,rhinoceros,large,49.31519367012188,18,5,Yes,small,,
+XH7FWCGRRXDJ,baby,alive,60.5650096085868,58,8,Yes,dead,,
+XH7FWCGRRXDJ,sheath,long,492.74307311866477,1479,5,Yes,short,,
+XH7FWCGRRXDJ,life jacket,optional,232.80141074889042,147,1,Yes,mandatory,,
+XH7FWCGRRXDJ,lava,volcanic,515.2144026650559,1520,5,Yes,petrified,,
+XH7FWCGRRXDJ,stilt,long,414.330818770243,793,3,Yes,short,,
+FPMCK2P37RW2,hairspray,expensive,265.41079644377544,533,3,Yes,cheap,afordable,ordinary
+NFN2M74RPJ2Q,chinchilla,long,191.94929248461102,121,1,Yes,short,small,
+XH7FWCGRRXDJ,ear,large,461.5472475288073,1427,5,Yes,small,,
+XH7FWCGRRXDJ,trunk,long,294.2700353146442,992,5,Yes,short,,
+XH7FWCGRRXDJ,ruler,sovereign,656.655632093301,285,1,Yes,democratic,,
+EGZANDYA4C6Q,walnut,edible,1179.272281677091,327,1,Yes,inedible,toxic,
+XH7FWCGRRXDJ,seal,unique,238.55396348399472,798,5,Yes,common,,
+XH7FWCGRRXDJ,cot,warm,299.6191787913856,1010,5,Yes,cold,,
+XH7FWCGRRXDJ,boar,human,450.16358295847084,830,3,No,N/A,,
+XH7FWCGRRXDJ,stove,hot,114.60077893967264,44,1,Yes,cold,,
+W9XTVGDF6CV4,buckle,round,549.1528340928478,1574,5,Yes,Straight ,,
+FWD4Z73KK6F6,drill,simple,232.34849374297275,763,5,Yes,complex,hard,
+XH7FWCGRRXDJ,stalagmite,hard,298.48736622334144,1006,5,Yes,soft,,
+FPMCK2P37RW2,slide,easy,235.9586140555397,467,3,Yes,hard,difficult,challenging
+XH7FWCGRRXDJ,shovel,long,331.7222173760659,1127,5,Yes,short,,
+DZ76R6HPTQH4,cucumber,edible,829.75886913334,1039,3,Yes,putrid,oozing,soft
+XH7FWCGRRXDJ,clarinet,rare,347.4874369919937,690,3,Yes,ubiquitous,,
+XH7FWCGRRXDJ,roulette wheel,endless,182.97205198773102,340,3,Yes,ending,,
+XH7FWCGRRXDJ,star fruit,poisonous,426.0726090578356,806,3,Yes,edible,,
+FPMCK2P37RW2,cookie sheet,edible,340.5648310062817,1150,5,No,N/A,,
+FWD4Z73KK6F6,cot,empty,123.88651912561022,286,5,Yes,full,sagging,
+XH7FWCGRRXDJ,sheet,blank,258.4835308977994,161,1,Yes,full,,
+XH7FWCGRRXDJ,man,alone,89.31661242710537,132,5,Yes,accompanied,,
+XH7FWCGRRXDJ,tool,simple,250.3856045293467,840,5,Yes,complex,,
+XH7FWCGRRXDJ,charcoal,hot,255.19572794671612,855,5,Yes,cold,,
+FWD4Z73KK6F6,cigarette butt,empty,175.49309160192712,327,3,Yes,full,stuffed,
+FWD4Z73KK6F6,rag,clean,213.4156499743572,419,3,Yes,dirty,greasy,used
+FPMCK2P37RW2,toucan,extinct,462.26659820304405,844,3,Yes,common,existant,alive
+FPMCK2P37RW2,batter,out,268.95303715970886,541,3,Yes,safe,,
+XH7FWCGRRXDJ,lobster,edible,456.61248942587264,839,3,Yes,inedible,,
+DZ76R6HPTQH4,rudder,vertical,636.8923627669634,1659,5,Yes,fallen,falling,tipped
+XH7FWCGRRXDJ,vial,open,235.1435122605388,775,5,Yes,closed,,
+FPMCK2P37RW2,stick,long,222.59585941930504,143,1,Yes,short,broken,halved
+JE2PZ3NEZGRZ,diamond,hard,398.12968043030156,1307,5,Yes,soft,,
+EZCVAWE2HAMP,peach,edible,714.2014638818988,1003,3,Yes,toxic,inedible,poisonous 
+XH7FWCGRRXDJ,taxi,here,110.4516559842848,219,5,Yes,missing,,
+XH7FWCGRRXDJ,bow,long,203.92287749713927,397,3,Yes,short,,
+JE2PZ3NEZGRZ,razor,long,360.98636896376564,1208,5,Yes,short,tiny,small
+DZ76R6HPTQH4,llama,large,827.9455659215109,1810,5,Yes,baby,small,little
+R7AZQKJ2FQVT,macaroni,edible,598.9355517940218,948,3,Yes,NA,,
+EZCVAWE2HAMP,cactus,small,522.7370173232383,1532,5,Yes,large,huge,massive
+R7AZQKJ2FQVT,ferret,prey,1059.1519176824388,1893,5,No,NA,,
+XH7FWCGRRXDJ,blind,free,295.87938751359314,1001,5,Yes,expensive,,
+EZCVAWE2HAMP,javelin,long,576.6276905289225,936,3,Yes,short,stubby,tiny
+EGZANDYA4C6Q,vise,empty,571.456792730577,1593,5,No,N/A,,
+W9XTVGDF6CV4,asparagus,edible,558.1516710165,923,3,Yes,Inedible ,Unpalatable ,
+C69D7VD39FKM,zebra,extinct,725.5536679531883,296,1,Yes,plentiful,alive,active
+2ZF2RAMFQQ3M,hook,long,257.1144833538688,514,3,Yes,Short,Stumpy,Stubby
+FPMCK2P37RW2,shopping basket,empty,149.7615212174434,248,3,Yes,full,filled,occupied
+XH7FWCGRRXDJ,bow,straight,215.97951868938588,426,3,Yes,bent,,
+FWD4Z73KK6F6,lamppost,tall,661.4234813208723,1685,5,Yes,short,stubby,
+EZCVAWE2HAMP,harp,musical,694.9609570735745,1719,5,Yes,discordant,dissonant,harsh
+FWD4Z73KK6F6,fire alarm,sound,105.90786551159049,115,3,Yes,square,triangular,
+NFN2M74RPJ2Q,kayak,amphibious,191.5959517624061,369,3,No,aquatic,marine,
+R7AZQKJ2FQVT,foot,mobile,858.6599712759288,1046,3,Yes,Ambulatory,,
+XH7FWCGRRXDJ,moss,alive,291.74286142221456,979,5,Yes,dead,,
+JE2PZ3NEZGRZ,snowsuit,optional,321.4274429539796,1088,5,Yes,mandatory,required,
+XH7FWCGRRXDJ,bomb,here,115.5342510467764,151,3,Yes,there,,
+C69D7VD39FKM,hinge,vertical,714.485545567484,1736,5,Yes,horizontal,slanted,flat
+FWD4Z73KK6F6,chocolate,delicious,101.048498619133,177,5,Yes,awful,horrible,terrible
+XH7FWCGRRXDJ,cordon bleu,common,229.0998302137561,746,5,Yes,uncommon,,
+FWD4Z73KK6F6,cream cheese,popular,376.1002850991608,748,3,Yes,unpopular,,
+W9XTVGDF6CV4,spatula,long,997.432767797845,1074,3,Yes,Short,,
+DZ76R6HPTQH4,seahorse,marine,828.0707254624907,1811,5,Yes,N/A,,
+XH7FWCGRRXDJ,corn,sweet,213.63099048568387,699,5,Yes,bitter,,
+HWDQZR3ZTFRN,cash register,open,89.6361779557857,23,1,Yes,closed,shut,sealed
+JE2PZ3NEZGRZ,eagle,large,321.50025375992817,1089,5,Yes,small,tiny,
+FWD4Z73KK6F6,ice-cream cone,edible,68.0049604513551,37,3,Yes,toxic,inedible,fatal
+XH7FWCGRRXDJ,slide,free,316.35561093534665,1074,5,Yes,expensive,,
+XH7FWCGRRXDJ,man,there,67.75023591503809,79,8,Yes,here,,
+FWD4Z73KK6F6,tambourine,wooden,85.62480453123646,172,8,Yes,metal,copper,
+EZCVAWE2HAMP,aquarium,large,530.6644324678524,1546,5,Yes,small,tiny,inconsequential 
+QHKQ32WVQEGN,chute,straight,560.746232953062,1582,5,Yes,curved,crooked,bent
+FWD4Z73KK6F6,cream,thick,494.1065388718833,869,3,Yes,thin,skinny,
+DZ76R6HPTQH4,plum,edible,744.2423167261705,1015,3,Yes,sweating,leafy,infested
+XH7FWCGRRXDJ,apron,empty,292.23657637302694,983,5,No,N/A,,
+QHKQ32WVQEGN,antenna,circular,1039.0351102720883,1887,5,Yes,vertical,straight,linear
+XH7FWCGRRXDJ,bassinet,large,100.12706879438404,101,3,Yes,small,,
+XH7FWCGRRXDJ,fireplace,empty,161.5789437893042,470,5,Yes,full,,
+XH7FWCGRRXDJ,scoop,simple,370.6514830430435,1247,5,Yes,complex,,
+2VHW4RE6AKTN,brush,thick,185.34774665463752,347,3,Yes,thin,sparse,meager
+FPMCK2P37RW2,makeup,perfect,126.90746205852436,299,5,Yes,flawed,poor,ugly
+7G7NZEEGPR4K,pipe,hollow,316.8341673812031,189,1,Yes,solid,full,filled
+XH7FWCGRRXDJ,garbage,dead,251.56475315011213,844,5,No,N/A,,
+W9XTVGDF6CV4,strainer,portable,533.1134253993943,907,3,Yes,Unportable,,
+XH7FWCGRRXDJ,shower,empty,149.03346747099104,245,3,Yes,full,,
+XH7FWCGRRXDJ,man,dead,31.650527952247227,0,1,Yes,alive,,
+XH7FWCGRRXDJ,turnstile,open,60.84924374512595,45,5,Yes,closed,,
+R7AZQKJ2FQVT,pipe,cylindrical,607.3497527599409,1629,5,No,NA,,
+XH7FWCGRRXDJ,pipe,hollow,316.8341673812031,190,1,Yes,filled,,
+XH7FWCGRRXDJ,handle,long,282.8987753759579,577,3,Yes,short,,
+XH7FWCGRRXDJ,hole,there,118.33025207552635,163,3,Yes,here,,
+FWD4Z73KK6F6,sand,sand,121.53692247709587,278,5,No,NA,,
+FWD4Z73KK6F6,weed,edible,422.23892517021864,803,3,Yes,toxic,inedible,poisonous
+XH7FWCGRRXDJ,hot chocolate,cold,81.05475486317498,104,5,Yes,hot,,
+FWD4Z73KK6F6,vegetable,edible,445.03635494807816,1393,5,Yes,inedible,toxic,poisonus
+FPMCK2P37RW2,button,depressed,338.5806579127887,678,3,Yes,unpressed,undisturbed,
+DZ76R6HPTQH4,shrimp,poisonous,855.7370450443127,1044,3,Yes,healthy,nutritious,tasty
+FPMCK2P37RW2,hose,elastic,1027.6706452479593,1883,5,Yes,inelastic,fixed,solid
+XH7FWCGRRXDJ,vial,full,144.1133479049259,380,5,Yes,empty,,
+FPMCK2P37RW2,juice,bitter,255.17747557862447,510,3,Yes,fresh,sweet,refreshing
+XH7FWCGRRXDJ,torso,flat,438.63735467536657,816,3,Yes,curved,,
+7G7NZEEGPR4K,fireplace,open,197.67116777708182,382,3,Yes,closed,sealed,
+XH7FWCGRRXDJ,rabbit,human,284.8661727625924,582,3,No,N/A,,
+FPMCK2P37RW2,pastry,edible,520.6196125187919,894,3,Yes,rotten,spoiled,poisonous
+XH7FWCGRRXDJ,bag,empty,66.29368593549488,7,1,Yes,full,,
+NFN2M74RPJ2Q,peanut butter,edible,190.20731062303003,119,1,Yes,inedible,stale,unpalatable
+EZCVAWE2HAMP,cement mixer,portable,924.1916011575432,312,1,Yes,unhandy,irremovable,nonmobile 
+FWD4Z73KK6F6,screen,empty,77.39862245486465,12,1,Yes,full,clogged,stuffed
+FWD4Z73KK6F6,turkey,edible,391.55711689719976,1294,5,Yes,inedible,rotten,moldy
+XH7FWCGRRXDJ,meat,tender,137.47392427792968,353,5,Yes,tough,,
+XH7FWCGRRXDJ,ambulance,here,51.574715848135604,18,3,Yes,there,,
+XH7FWCGRRXDJ,star fruit,fruit,516.6095017795739,1522,5,Yes,fake,,
+DZ76R6HPTQH4,tripod,portable,789.0327580617321,1783,5,Yes,glued,nailed,screwed
+FWD4Z73KK6F6,hay,cold,208.54664934079943,678,5,Yes,warm,hot,scalding
+FWD4Z73KK6F6,pearl,there,362.7574594298565,715,3,Yes,gone,missing,
+XH7FWCGRRXDJ,skirt,long,187.9153279188129,356,3,Yes,short,,
+FWD4Z73KK6F6,coffin,open,101.58800086863394,105,3,Yes,closed,shut,sealed
+FWD4Z73KK6F6,sorbet,edible,329.4354551127612,195,1,Yes,rotten,moldy,toxic
+XH7FWCGRRXDJ,wrist,free,261.48855462267056,527,3,Yes,chained,,
+XH7FWCGRRXDJ,test tube,hollow,326.3842757299434,662,3,Yes,filled,,
+XH7FWCGRRXDJ,trap,there,157.08207152949973,273,3,Yes,elsewhere,,
+XH7FWCGRRXDJ,watermelon,edible,662.0539333993569,286,1,Yes,inedible,,
+76VNAHQ9VAC3,cat,human,196.41945649392537,126,1,No,NA,NA,NA
+XH7FWCGRRXDJ,mirror,there,165.71146093810802,295,3,Yes,here,,
+XH7FWCGRRXDJ,guacamole,extinct,186.1611260680399,350,3,No,N/A,,
+FPMCK2P37RW2,orange rind,edible,193.4067150275313,124,1,Yes,inedible,bitter,sour
+DZ76R6HPTQH4,meerkat,extinct,633.3892047597861,1654,5,No,living,existing,here
+FWD4Z73KK6F6,wafer,thin,211.9132204096057,134,1,Yes,thick,heavy,girthy
+76VNAHQ9VAC3,chimney,tall,370.59210302567084,737,3,Yes,short,small,tiny
+XH7FWCGRRXDJ,videogame,real,278.84890351170793,567,3,Yes,fake,,
+FPMCK2P37RW2,chalkboard,empty,261.0145489798245,526,3,Yes,covered,full,used
+EZCVAWE2HAMP,antenna,round,718.5242523398946,1007,3,No,flat,stright,direct 
+XH7FWCGRRXDJ,beard,short,239.5779838496744,486,3,Yes,long,,
+XH7FWCGRRXDJ,noose,sharp,368.99419295864317,1237,5,Yes,soft,,
+EGZANDYA4C6Q,headdress,optional,1187.2282855279248,328,1,Yes,mandatory,required,necessary 
+XH7FWCGRRXDJ,cashew,sweet,183.8226832231536,564,5,Yes,bitter,,
+XH7FWCGRRXDJ,game,endless,180.9574168968955,338,3,Yes,ending,,
+A969KQ7EMVW3,iguana,extinct,84.62724534263951,67,3,Yes,alive,dormant,
+XH7FWCGRRXDJ,stick,heavy,179.72779266574182,547,5,Yes,light,,
+XH7FWCGRRXDJ,bacon,good,150.43386894900405,251,3,Yes,terrible,,
+XH7FWCGRRXDJ,stew,good,95.00058749260576,87,3,Yes,bad,,
+FPMCK2P37RW2,amber,amber,471.1464642726094,1451,5,No,N/A,,
+XH7FWCGRRXDJ,gem,gold,197.57806383573399,629,5,Yes,ruby,,
+XH7FWCGRRXDJ,saw,sharp,287.32062569061037,587,3,Yes,dull,,
+76VNAHQ9VAC3,granite,abundant,1049.3532272640587,1892,5,Yes,rare,sparse,uncommon
+FPMCK2P37RW2,earwig,poisonous,543.4855920902432,1568,5,Yes,delicious,edible,
+XH7FWCGRRXDJ,fudge,good,206.62990186149312,672,5,Yes,bad,,
+XH7FWCGRRXDJ,awning,long,493.2637804821979,868,3,Yes,short,,
+XH7FWCGRRXDJ,granite,hard,272.17501925168864,551,3,Yes,soft,,
+XH7FWCGRRXDJ,cummerbund,common,107.58131443122488,206,5,Yes,uncommon,,
+XH7FWCGRRXDJ,plant,poisonous,205.58254368742973,402,3,Yes,edible,,
+XH7FWCGRRXDJ,birdhouse,free,237.37523575872345,791,5,Yes,expensive,,
+XH7FWCGRRXDJ,defibrillator,portable,64.76966767562838,5,1,Yes,stuck,,
+XH7FWCGRRXDJ,noisemaker,noise,237.81005417764442,794,5,No,N/A,,
+FWD4Z73KK6F6,container,empty,111.39349828462328,38,1,Yes,full,stuffed,overflowing
+FPMCK2P37RW2,bowl,round,280.4524066979584,572,3,Yes,square,rectangular,flat
+EGZANDYA4C6Q,tulip,edible,1122.0525112685525,323,1,Yes,inedible,toxic,
+C69D7VD39FKM,bun,edible,744.8934557071758,298,1,Yes,moldy, stale,rotted
+FPMCK2P37RW2,barrette,long,292.08876420368296,982,5,Yes,short,broken,
+FWD4Z73KK6F6,snorkel,portable,370.3273062567128,734,3,Yes,immobile,unmovable,
+A969KQ7EMVW3,fire,dead,82.79637002258795,156,8,Yes,active,,
+FWD4Z73KK6F6,elbow,swollen,462.4897230358968,247,1,Yes,normal,,
+XH7FWCGRRXDJ,fishing pole,long,247.25302776383373,154,1,Yes,short,,
+XH7FWCGRRXDJ,cage,full,154.36552514589545,432,5,Yes,empty,,
+XH7FWCGRRXDJ,jelly bean,edible,285.9669256831395,179,1,Yes,inedible,,
+4FRFD66TK6XE,grater,large,369.13621204678964,732,3,Yes,small,tiny,little
+XH7FWCGRRXDJ,first-aid kit,expensive,56.98094877679103,36,5,Yes,cheap,,
+DZ76R6HPTQH4,pita,circular,651.4774618133913,974,3,Yes,oblong,misshapen,misshape
+XH7FWCGRRXDJ,tortellini,extinct,183.98122905870048,344,3,No,N/A,,
+XH7FWCGRRXDJ,ring,rigid,508.09335831746284,1509,5,Yes,bendable,,
+XH7FWCGRRXDJ,sea urchin,edible,257.92972603786643,160,1,Yes,inedible,,
+XH7FWCGRRXDJ,pinecone,poisonous,105.41768107208382,196,5,Yes,edible,,
+XH7FWCGRRXDJ,soap,good,271.81109122018216,913,5,Yes,ineffective,,
+XH7FWCGRRXDJ,woman,pregnant,65.40437806197022,53,5,Yes,infertile,,
+FWD4Z73KK6F6,inkwell,empty,115.86239758633043,48,1,Yes,full,overflowing,stuffed
+XH7FWCGRRXDJ,squirrel,small,386.77248572123045,758,3,Yes,enormous,,
+XH7FWCGRRXDJ,soup,cold,114.8165599452972,245,5,Yes,hot,,
+XH7FWCGRRXDJ,fire,there,105.74184811870913,198,5,Yes,here,,
+XH7FWCGRRXDJ,razor blade,straight,199.98103595135376,641,5,Yes,bent,,
+FPMCK2P37RW2,mouse,human,280.0460280850796,570,3,No,N/A,,
+C69D7VD39FKM,stem,hollow,733.1348218432414,1011,3,Yes,solid,full,N/A
+XH7FWCGRRXDJ,tray,full,117.65357967275035,160,3,Yes,empty,,
+DZ76R6HPTQH4,mast,tall,611.739473918582,950,3,Yes,flattened,flat,down
+XH7FWCGRRXDJ,tongue,soft,214.57759414847703,420,3,Yes,hard,,
+XH7FWCGRRXDJ,pocketknife,long,252.9217370157,849,5,Yes,short,,
+EZCVAWE2HAMP,clover,edible,734.1468718202126,297,1,Yes,nonedible,inedible,toxic
+A969KQ7EMVW3,tambourine,musical,77.37223877721303,50,3,No,N/A,,
+XH7FWCGRRXDJ,cashew,edible,265.50813718383273,164,1,Yes,bitter,,
+76VNAHQ9VAC3,pug,important,988.9927795050172,1869,5,Yes,unimportant,inconsequential,immaterial
+FPMCK2P37RW2,honey,edible,577.6387698142267,1599,5,No,inedible,toxic,disgusting
+XH7FWCGRRXDJ,xylophone,musical,152.81692070739916,255,3,Yes,fake,,
+EGZANDYA4C6Q,maggot,human,640.1517181217077,968,3,No,N/a,,
+FWD4Z73KK6F6,ear,small,382.1868022182082,756,3,Yes,large,huge,enormous
+FPMCK2P37RW2,rim,round,402.85843573848007,1318,5,Yes,sharp,square,angular
+XH7FWCGRRXDJ,creme brulee,poisonous,86.78131243991636,128,5,Yes,edible,,
+FPMCK2P37RW2,fur coat,long,213.3672155635172,418,3,Yes,short,small,
+XH7FWCGRRXDJ,jet,empty,151.66594242808827,254,3,Yes,full,,
+76VNAHQ9VAC3,beehive,simple,248.2248914183173,836,5,No,NA,NA,NA
+XH7FWCGRRXDJ,mitten,edible,587.7923668011534,943,3,Yes,inedible,,
+XH7FWCGRRXDJ,shoelace,long,183.62565619884631,342,3,Yes,short,,
+DZ76R6HPTQH4,hovercraft,portable,611.8894261517744,1633,5,Yes,N/A,,
+XH7FWCGRRXDJ,tick,here,431.57136300289545,1366,5,Yes,elsewhere,,
+JE2PZ3NEZGRZ,straw,long,312.45339983360316,1056,5,Yes,short,small,
+R7AZQKJ2FQVT,toothpaste,bitter,795.6661341715378,1789,5,No,Fresh,Minty,Sweet
+XH7FWCGRRXDJ,bread,good,113.43887145867129,137,3,Yes,stale,,
+FWD4Z73KK6F6,paddle,long,404.2269549964454,783,3,Yes,short,small,tiny
+FWD4Z73KK6F6,zucchini,edible,41.0071738986514,11,8,Yes,inedible,toxic,poisonous
+XH7FWCGRRXDJ,stair,straight,456.92242407344077,1417,5,Yes,winding,,
+XH7FWCGRRXDJ,seahorse,extinct,346.83306188722605,1168,5,Yes,alive,,
+FPMCK2P37RW2,tomato,edible,465.390844679429,248,1,Yes,rotten,poisoned,toxic
+FPMCK2P37RW2,puck,empty,438.9288093771666,817,3,No,N/A,,
+XH7FWCGRRXDJ,lemonade,good,168.04428129406318,302,3,Yes,bad,,
+FWD4Z73KK6F6,pet food,available,371.5303930255269,738,3,Yes,unavailable,gone,
+FWD4Z73KK6F6,golf club,private,215.8385754125436,423,3,Yes,public,open,
+XH7FWCGRRXDJ,mattress,warm,134.67968633016486,66,1,Yes,cold,,
+3MMFR6RXMZM2,bug,human,375.1583250123001,745,3,No,insectoid,alien,
+DZ76R6HPTQH4,pear,fruit,860.956725876747,1826,5,Yes,artificial,fake,toy
+FWD4Z73KK6F6,credit card,valid,85.43458925742873,118,5,Yes,invalid,expired,fake
+FWD4Z73KK6F6,creme brulee,common,100.58205228016482,176,5,Yes,rare,uncommon,
+XH7FWCGRRXDJ,terrarium,large,199.6872620282524,384,3,Yes,small,,
+XH7FWCGRRXDJ,pie,cold,169.30227619557502,499,5,Yes,warm,,
+XH7FWCGRRXDJ,vent,open,204.39941346277385,399,3,Yes,closed,,
+EZCVAWE2HAMP,typewriter,portable,724.5586464702617,1009,3,Yes,nonmovable,stationary,fixed
+FWD4Z73KK6F6,twig,long,415.2051896635096,230,1,Yes,short,tiny,stubby
+DZ76R6HPTQH4,bun,round,876.3987741210608,1054,3,Yes,square,rectangular,oval
+XH7FWCGRRXDJ,crate,heavy,187.11052156969882,352,3,Yes,light,,
+XH7FWCGRRXDJ,breakfast,free,360.01461867689784,709,3,Yes,expensive,,
+XH7FWCGRRXDJ,can,empty,115.0959539774444,47,1,Yes,full,,
+FPMCK2P37RW2,stingray,poisonous,272.6096203243177,171,1,Yes,delicious,edible,safe
+XH7FWCGRRXDJ,lamp,light,294.0801048608372,990,5,Yes,dark,,
+XH7FWCGRRXDJ,locker,empty,170.0368902860842,105,1,Yes,full,,
+XH7FWCGRRXDJ,mustache,short,408.1142209865985,1327,5,Yes,long,,
+EGZANDYA4C6Q,fern,edible,1010.1054024243781,318,1,Yes,inedible,toxic,indigestible
+FWD4Z73KK6F6,bra,optional,446.0582558878192,826,3,Yes,mandatory,compulsory,
+7G7NZEEGPR4K,dart,long,501.43332424178186,876,3,Yes,short,,
+EZCVAWE2HAMP,pedal,free,632.6949314735732,281,1,Yes,expensive,costly,pricey 
+XH7FWCGRRXDJ,shell,transparent,364.0140545090459,1218,5,Yes,opaque,,
+XH7FWCGRRXDJ,bag,open,104.7981074662568,194,5,Yes,closed,,
+FWD4Z73KK6F6,board,empty,96.1085083091975,26,1,Yes,full,stuffed,overflowing
+NFN2M74RPJ2Q,chain,long,187.39866017172142,354,3,Yes,short,,
+XH7FWCGRRXDJ,rocking chair,empty,71.72939110250404,97,8,Yes,full,,
+NFN2M74RPJ2Q,latch,open,177.6112863447038,538,5,Yes,closed,locked,sealed
+XH7FWCGRRXDJ,apple,edible,332.86717926459363,670,3,Yes,inedible,,
+FPMCK2P37RW2,cane,long,242.98890069468442,816,5,Yes,short,stubby,
+FWD4Z73KK6F6,folder,open,172.57570174594886,319,3,Yes,closed,shut,
+XH7FWCGRRXDJ,branch,vertical,399.1348370748397,1312,5,Yes,horizontal,,
+XH7FWCGRRXDJ,breakfast,good,219.81546747835392,141,1,Yes,bad,,
+XH7FWCGRRXDJ,scrambled egg,edible,359.0761314972465,706,3,Yes,inedible,,
+FWD4Z73KK6F6,wedding cake,edible,152.7437779558012,422,5,Yes,toxic,inedible,poisonous
+DZ76R6HPTQH4,syrup,edible,792.8574491982623,1786,5,Yes,maloderous,runny,thickened
+DZ76R6HPTQH4,toe,swollen,779.0972603961824,1026,3,Yes,fit,normal,regular
+XH7FWCGRRXDJ,chair,comfortable,144.22299576211037,381,5,Yes,uncomfortable,,
+XH7FWCGRRXDJ,treasure,there,124.80323256261964,288,5,Yes,here,,
+FWD4Z73KK6F6,mailbox,open,106.34291203641142,117,3,Yes,shut,closed,
+XH7FWCGRRXDJ,ankle,swollen,148.11276642084806,241,3,Yes,uninflamed,,
+XH7FWCGRRXDJ,hay,dry,209.37835238000943,681,5,Yes,wet,,
+FWD4Z73KK6F6,grass,long,133.2721914336855,198,3,Yes,short,scalped,
+XH7FWCGRRXDJ,wineglass,empty,242.15170714983293,152,1,Yes,full,,
+DZ76R6HPTQH4,counter,zero,693.8689141574324,1718,5,No,N/A,,
+XH7FWCGRRXDJ,papaya,tall,164.56126433942904,480,5,Yes,shorr,,
+XH7FWCGRRXDJ,machine gun,portable,316.2679791605646,1072,5,Yes,stuck,,
+FPMCK2P37RW2,boulder,dead,277.84814362072547,565,3,No,N/A,,
+FPMCK2P37RW2,soda fountain,popular,470.8161050800695,854,3,Yes,unpopular,obscure,unknown
+JE2PZ3NEZGRZ,pinwheel,circular,478.77455994485115,1461,5,Yes,square,triangular,
+XH7FWCGRRXDJ,root,simple,348.19882971839223,691,3,Yes,complex,,
+XH7FWCGRRXDJ,tab,empty,280.458290885345,573,3,Yes,filled,,
+FPMCK2P37RW2,croissant,edible,1068.5824029342252,1086,3,Yes,Inedible,toxic,disgusting
+FPMCK2P37RW2,soup,delicious,81.93253681122677,151,8,Yes,bad,disgusting,rancid
+XH7FWCGRRXDJ,stalagmite,solid,212.59842141538175,693,5,Yes,crumbling,,
+FPMCK2P37RW2,octopus,extinct,580.2281800915941,938,3,Yes,plentiful,common,overpopulated
+EZCVAWE2HAMP,hail,cold,542.2627258208879,915,3,Yes,hot,warm,burning
+FPMCK2P37RW2,sling,long,538.3325366780671,1559,5,Yes,short,broken,
+XH7FWCGRRXDJ,bagpipe,ancient,273.02746938569885,557,3,Yes,new,,
+FPMCK2P37RW2,bulletin board,open,127.01891760274223,300,5,Yes,locked,closed,private
+DZ76R6HPTQH4,turtle,edible,615.7746855448078,1636,5,Yes,pet,,
+FPMCK2P37RW2,nightstand,open,252.1106619684837,846,5,Yes,closed,locked,sealed
+XH7FWCGRRXDJ,thorn,sharp,424.5378102765692,1354,5,Yes,soft,,
+XH7FWCGRRXDJ,flour,flour,340.2309503886499,682,3,No,N/A,,
+R3CDKNC3PH6K,coin,gold,181.01420279601103,555,5,Yes,copper,nickel,silver
+76VNAHQ9VAC3,barrette,ornamental,1102.5717203246104,1090,3,Yes,functional,important,vital
+R7AZQKJ2FQVT,sponge,water,581.1283459618091,1603,5,No,Solid,Living,Sticky 
+XH7FWCGRRXDJ,coin,silver,225.58582721858863,738,5,Yes,gold,,
+XH7FWCGRRXDJ,rake,long,502.9532036846714,1498,5,Yes,short,,
+FPMCK2P37RW2,platypus,amphibious,40.36978032776087,10,8,Yes,aquatic,,
+FWD4Z73KK6F6,slime,poisonous,330.5999527147729,668,3,Yes,edible,nontoxic,delicous
+XH7FWCGRRXDJ,cleaver,sharp,341.6226808953366,683,3,Yes,dull,,
+XH7FWCGRRXDJ,bedpost,wooden,673.6116969898281,1699,5,Yes,metal,,
+3MMFR6RXMZM2,subway,underground,375.26656872986695,747,3,Yes,rasied,elevated,
+FWD4Z73KK6F6,tortilla,circular,673.1920153465692,1698,5,Yes,square,traingular,
+XH7FWCGRRXDJ,fence,high,151.06492813650019,252,3,Yes,low,,
+XH7FWCGRRXDJ,ladle,empty,435.5576893639109,813,3,Yes,full,,
+FXAG33X37DRG,bathtub,large,448.67249035740167,829,3,Yes,tiny,small,miniature
+XH7FWCGRRXDJ,tree trunk,vertical,234.4849160775697,462,3,Yes,horizontal,,
+XH7FWCGRRXDJ,clock,right,73.17684930462461,103,8,Yes,wrong,,
+XH7FWCGRRXDJ,pool table,empty,68.57955388521182,39,3,Yes,full,,
+XH7FWCGRRXDJ,pan,empty,162.51839988695974,96,1,Yes,full,,
+XH7FWCGRRXDJ,oil,good,145.09965857932156,230,3,Yes,bad,,
+XH7FWCGRRXDJ,lifesaver,dead,248.34884826423232,837,5,Yes,alive,,
+FWD4Z73KK6F6,map,accurate,109.72958573790888,124,3,Yes,inaccurate,wrong,
+XH7FWCGRRXDJ,sauce,hot,144.62538433316152,385,5,Yes,cold,,
+XH7FWCGRRXDJ,scalpel,sharp,304.79990549706014,185,1,Yes,dull,,
+FPMCK2P37RW2,cookie cutter,human,531.7330850057922,905,3,No,N/A,,
+EZCVAWE2HAMP,porcupine,extinct,904.9752373934081,1058,3,Yes,present,existing,available 
+XH7FWCGRRXDJ,wineglass,full,426.15408691543587,1357,5,Yes,empty,,
+XH7FWCGRRXDJ,shoelace,elastic,221.18863809383961,440,3,Yes,brittle,,
+XH7FWCGRRXDJ,sewing machine,mechanical,236.22181809034905,783,5,Yes,fake,,
+XH7FWCGRRXDJ,locket,gold,250.6720730781181,505,3,Yes,silver,,
+FPMCK2P37RW2,turtleneck,amphibious,472.10156266350083,855,3,No,N/A,,
+FWD4Z73KK6F6,whoopee cushion,flat,73.80745843288315,76,5,Yes,full,round,
+FWD4Z73KK6F6,viewfinder,visible,276.2510998191486,932,5,Yes,hidden,missing,gone
+NFN2M74RPJ2Q,wallet,empty,188.7687765289772,118,1,Yes,full,,
+XH7FWCGRRXDJ,paper towel,wet,131.51210389513977,318,5,Yes,dry,,
+FWD4Z73KK6F6,baklava,long,243.0734976974871,817,5,Yes,short,tiny,puny
+J7YPEAJHPTM7,spider,large,302.3898650670011,1020,5,Yes,small,,
+FPMCK2P37RW2,lantern,light,258.3814962725225,520,3,Yes,heavy,bulky,
+FWD4Z73KK6F6,mussel,edible,304.2196801419372,184,1,Yes,toxic,inedible,poisonous
+XH7FWCGRRXDJ,wire,thin,238.50971829535786,480,3,Yes,thick,,
+XH7FWCGRRXDJ,shell,hollow,236.7734929361164,474,3,Yes,filled,,
+FWD4Z73KK6F6,urn,full,198.1064536866564,634,5,Yes,empty,barren,
+XH7FWCGRRXDJ,blind,blind,153.58791628248355,85,1,No,N/A,,
+XH7FWCGRRXDJ,towel,empty,233.4709751509752,461,3,Yes,full,,
+XH7FWCGRRXDJ,axe,sharp,162.33244131444604,472,5,Yes,dull,,
+EZCVAWE2HAMP,potato,potato,900.1567479119777,1842,5,Yes,NA,NA,NA
+XH7FWCGRRXDJ,mandolin,musical,229.6242511932805,452,3,Yes,fake,,
+XXKCFJGVJDTX,fire alarm,audible,169.8895508869011,104,1,Yes,silent,soundless,inaudible
+XH7FWCGRRXDJ,panda,edible,261.58383319567656,880,5,Yes,inedible,,
+FPMCK2P37RW2,exerciser,human,547.9932503380006,919,3,Yes,mechanical,inhuman,
+XH7FWCGRRXDJ,cobra,poisonous,333.7923918557702,197,1,Yes,safe,,
+XH7FWCGRRXDJ,shell,smooth,296.1053528998338,1002,5,Yes,bumpy,,
+XH7FWCGRRXDJ,seismograph,obsolete,56.85569417073648,34,5,Yes,relevant,,
+XH7FWCGRRXDJ,pine tree,extinct,497.78101700717735,1489,5,Yes,alive,,
+XH7FWCGRRXDJ,dynamite,there,325.92797026958806,660,3,Yes,elsewhere,,
+XXKCFJGVJDTX,jewelry,expensive,244.5777309589272,824,5,Yes,inexpensive,cheap,affordable
+W9XTVGDF6CV4,pineapple,fruit,982.7494026770377,1072,3,Yes,N/A,,
+XH7FWCGRRXDJ,beer,bitter,192.692750555288,122,1,Yes,sweet,,
+EZCVAWE2HAMP,humvee,long,710.239546487433,1733,5,Yes,short,small,little
+XH7FWCGRRXDJ,showerhead,cylindrical,148.3532299395732,406,5,Yes,cubical,,
+3MMFR6RXMZM2,prune,edible,405.875238616356,227,1,Yes,rotten,slimy,moldy
+XH7FWCGRRXDJ,petal,pink,434.3361109766465,1369,5,Yes,blue,,
+XH7FWCGRRXDJ,eye,human,272.9740968496492,556,3,Yes,canine,,
+FPMCK2P37RW2,hippopotamus,amphibious,42.417994061184004,16,8,Yes,aquatic,hydrophobic,
+EZCVAWE2HAMP,wall,empty,76.27206242533784,47,3,Yes,full,complete,stacked 
+XH7FWCGRRXDJ,tape recorder,portable,230.05968069843263,755,5,Yes,stuck,,
+XH7FWCGRRXDJ,cigarette holder,empty,105.95186084884008,200,5,Yes,full,,
+XH7FWCGRRXDJ,station wagon,standard,458.71054914718667,1421,5,Yes,automatic,,
+DZ76R6HPTQH4,football,popular,691.3193513851343,994,3,Yes,unpopular,ignored,dismissed
+XH7FWCGRRXDJ,chalice,gold,355.45233142293915,703,3,Yes,silver,,
+7G7NZEEGPR4K,golf cart,portable,320.8600843005458,650,3,Yes,immobile,stationary,
+XH7FWCGRRXDJ,reel,complete,398.6851685973768,1309,5,Yes,incomplete,,
+XH7FWCGRRXDJ,lens,sharp,330.9859286640746,669,3,Yes,soft,,
+XH7FWCGRRXDJ,tree trunk,hollow,168.599855854655,100,1,Yes,dense,,
+XH7FWCGRRXDJ,briefcase,full,173.4783948466874,524,5,Yes,empty,,
+XH7FWCGRRXDJ,carrot,edible,394.81428476888715,773,3,Yes,inedible,,
+XH7FWCGRRXDJ,mole,human,363.4725551861508,209,1,No,N/A,,
+FPMCK2P37RW2,test tube,long,344.89689120399635,1159,5,Yes,short,broken,little
+XH7FWCGRRXDJ,lid,open,106.328714673657,116,3,Yes,closed,,
+3MMFR6RXMZM2,stiletto,long,489.1885851159996,1471,5,Yes,stubby,short,small
+FPMCK2P37RW2,glue,water,443.07963778849984,1386,5,No,N/A,,
+EZCVAWE2HAMP,daisy,edible,735.9919471127272,1013,3,Yes,toxic,inedible,poisonous
+7G7NZEEGPR4K,hubcap,circular,344.17255027676316,1157,5,Yes,square,triangular,pointed
+XH7FWCGRRXDJ,sofa bed,flat,281.13204300353067,950,5,Yes,curved,,
+FWD4Z73KK6F6,hockey stick,wooden,413.1512400181362,792,3,Yes,metalic,steel,
+FPMCK2P37RW2,baseball glove,plastic,365.04046176858185,212,1,Yes,leather,bronze,
+4YNXDR4CKEZM,kayak,portable,1135.3168058626559,1910,5,Yes,immobile,fixed,cumbersome
+A969KQ7EMVW3,hot chocolate,hot,81.16045395006594,148,8,Yes,cold,warm,
+XH7FWCGRRXDJ,nacho,edible,281.7323073822721,952,5,Yes,inedible,,
+EGZANDYA4C6Q,vulture,human,595.4199576612552,1617,5,No,N/A,,
+XH7FWCGRRXDJ,branch,long,231.46296002659986,457,3,Yes,short,,
+FPMCK2P37RW2,spoon,empty,263.9761063992796,886,5,Yes,full,filled,
+A969KQ7EMVW3,worm,alive,121.18935277000277,277,5,Yes,dead,unconscious,
+XH7FWCGRRXDJ,ping-pong table,round,60.35792195631359,27,3,Yes,square,,
+XH7FWCGRRXDJ,dresser,empty,113.6624909969336,138,3,Yes,full,,
+FWD4Z73KK6F6,couch,warm,210.30500941235462,686,5,Yes,cold,freezing,chilly
+XH7FWCGRRXDJ,toilet,empty,107.06719937275965,119,3,Yes,full,,
+XH7FWCGRRXDJ,contact lens,transparent,327.30535898580524,1116,5,Yes,opaque,,
+76VNAHQ9VAC3,handle,straight,313.0067889429492,1060,5,Yes,bent,curved,round
+DZ76R6HPTQH4,duct,long,728.6119049352883,1748,5,Yes,short,stubby,stumpy
+XH7FWCGRRXDJ,cream cheese,sweet,172.97312806984593,521,5,Yes,spoiled,,
+FWD4Z73KK6F6,go-kart,stationary,83.8033910445905,160,8,Yes,moving,approaching,leaving
+EZCVAWE2HAMP,scorpion,edible,917.8643545434073,1060,3,Yes,eatable,delicous,harmful
+XH7FWCGRRXDJ,furnace,cold,207.83446557789784,409,3,Yes,hot,,
+XH7FWCGRRXDJ,pillbox,empty,48.25932434700989,12,3,Yes,full,,
+FWD4Z73KK6F6,dumpling,edible,323.13662396466077,193,1,Yes,inedible,toxic,poisonous
+EZCVAWE2HAMP,dandelion,edible,892.6501174502257,1057,3,Yes,harmful,poisonous,inedible 
+XH7FWCGRRXDJ,block,empty,96.08994971753157,25,1,Yes,full,,
+XH7FWCGRRXDJ,pogo stick,circular,166.65809618278087,299,3,Yes,oblong,,
+XH7FWCGRRXDJ,milk,good,135.38667415562742,207,3,Yes,bad,,
+FPMCK2P37RW2,flip-flop,flat,126.17193379225895,183,3,Yes,bent,warped,
+DZ76R6HPTQH4,soda,edible,812.2503435944025,1803,5,Yes,flat,old,expired
+W9XTVGDF6CV4,toe,free,943.479882828221,1858,5,No,Unfree,,
+W9XTVGDF6CV4,plaster cast,original,561.0827037382123,924,3,Yes,Fake,,
+XH7FWCGRRXDJ,spout,empty,317.28228006864106,191,1,Yes,full,,
+XH7FWCGRRXDJ,hook,sharp,204.8842924279399,661,5,Yes,dull,,
+FWD4Z73KK6F6,flamingo,extinct,100.26772673934124,102,3,Yes,living,alive,thriving
+FPMCK2P37RW2,teabag,empty,146.7888376122716,239,3,Yes,full,filled,prepared
+XH7FWCGRRXDJ,french horn,French,257.36127642115,159,1,Yes,Swedish,,
+XH7FWCGRRXDJ,pole,empty,197.8346769303648,631,5,Yes,occupied,,
+FWD4Z73KK6F6,robot,dead,108.74610631479477,36,1,Yes,alive,working,functional
+XH7FWCGRRXDJ,teapot,empty,209.392230513545,133,1,Yes,full,,
+FWD4Z73KK6F6,bottle,empty,71.69611907002988,10,1,Yes,full,overflowing,
+W9XTVGDF6CV4,spider,hairy,539.0872408646724,1561,5,Yes,Unhairy,,
+FWD4Z73KK6F6,kitten,human,412.2841433648097,229,1,No,inhuman,animalistic,
+FPMCK2P37RW2,oar,long,531.7706117437333,906,3,Yes,short,broken,
+XH7FWCGRRXDJ,stomach,full,268.98933345359995,542,3,Yes,empty,,
+FPMCK2P37RW2,gravel,hard,257.8516389072632,866,5,Yes,weak,crumbling,
+XH7FWCGRRXDJ,van,empty,81.13402593512427,61,3,Yes,full,,
+XH7FWCGRRXDJ,nutcracker,musical,277.5077248625616,934,5,Yes,silent,,
+XH7FWCGRRXDJ,surfboard,portable,283.3826583192065,177,1,Yes,stuck,,
+XH7FWCGRRXDJ,goalpost,tall,206.3829392946011,406,3,Yes,short,,
+XH7FWCGRRXDJ,pie,perfect,146.43865417108947,397,5,Yes,imperfect,,
+4YNXDR4CKEZM,fig,edible,1152.4511381391185,325,1,Yes,rancid,rotten,inedible
+XH7FWCGRRXDJ,switch,open,294.9395556216558,183,1,Yes,closed,,
+DZ76R6HPTQH4,microscope,portable,846.0299912012099,1819,5,Yes,fixed,stationary,inline
+XH7FWCGRRXDJ,orangutan,human,71.59861466716156,70,5,No,N/A,,
+FWD4Z73KK6F6,soda,bitter,398.58347384149084,778,3,Yes,sweet,tasty,
+XH7FWCGRRXDJ,hip,right,302.5586152824481,617,3,No,N/A,,
+DZ76R6HPTQH4,viewfinder,horizontal,620.3350309495971,1639,5,Yes,vertical,standing,leaning
+FPMCK2P37RW2,prism,spherical,1125.8147596671656,1908,5,Yes,angular,sharp,rectangular
+XH7FWCGRRXDJ,chest,empty,113.39847202796885,136,3,Yes,full,,
+NFN2M74RPJ2Q,pine tree,evergreen,352.96074601890535,203,1,Yes,deciduous,,
+XH7FWCGRRXDJ,skin,soft,82.55089028781383,63,3,Yes,rough,,
+R7AZQKJ2FQVT,cranberry,edible,1218.2064876472045,330,1,Yes,NA,,
+XH7FWCGRRXDJ,desk,full,142.39274889438144,374,5,Yes,empty,,
+XH7FWCGRRXDJ,snow,heavy,122.81591254301777,174,3,Yes,light,,
+EZCVAWE2HAMP,chive,human,932.098137171819,1852,5,No,plantlike,herbivore,verdant
+XH7FWCGRRXDJ,tiramisu,long,126.71438725793064,298,5,Yes,short,,
+XH7FWCGRRXDJ,stilt,tall,486.313002731648,1467,5,Yes,short,,
+EGZANDYA4C6Q,horseshoe,universal,1208.7488080170667,1104,3,Yes,local,specific,
+XH7FWCGRRXDJ,tongue,long,173.86148430072137,323,3,Yes,short,,
+FWD4Z73KK6F6,wetsuit,optional,187.3874906740308,116,1,Yes,mandatory,compulsory,
+FWD4Z73KK6F6,rattlesnake,poisonous,306.5502994956927,187,1,Yes,harmless,safe,
+FPMCK2P37RW2,pine needle,hollow,432.8580195375279,812,3,No,solid,filled,
+EZCVAWE2HAMP,crumb,edible,875.2937093245357,1053,3,Yes,uneatable,noxious,toxic
+A969KQ7EMVW3,ice,cold,83.15777032205935,110,5,Yes,melted,hot,
+NFN2M74RPJ2Q,tuba,long,366.4440271615731,1229,5,No,short,small,
+XH7FWCGRRXDJ,bassinet,portable,127.18012894392356,301,5,Yes,stuck,,
+XH7FWCGRRXDJ,fire pit,large,158.9797895433087,461,5,Yes,small,,
+C69D7VD39FKM,brooch,simple,796.8245357029535,1791,5,Yes,fancy,ornate,intricate
+FPMCK2P37RW2,bow,straight,215.97951868938588,424,3,Yes,bent,drawn,curved
+XH7FWCGRRXDJ,shell,smooth,296.1053528998338,1003,5,Yes,jagged,,
+FWD4Z73KK6F6,ear,open,306.5241353636285,1035,5,Yes,closed,shut,
+JE2PZ3NEZGRZ,turf,grass,305.0303563463575,1031,5,Yes,cement,dirt,
+FWD4Z73KK6F6,broom,long,240.9805959226231,809,5,Yes,short,tiny,puny
+9KNVR6X2DWC4,crib,empty,120.59692251733871,170,3,Yes,full,occupied,
+XH7FWCGRRXDJ,owl,extinct,405.3737088624752,784,3,Yes,alive,,
+FPMCK2P37RW2,incubator,open,41.47155507898715,10,5,Yes,closed,locked,
+XH7FWCGRRXDJ,bow,straight,215.97951868938588,425,3,Yes,bent,,
+FWD4Z73KK6F6,dogfood,edible,368.9621714222374,1236,5,Yes,toxic,poisonous,inedible
+R7AZQKJ2FQVT,penguin,large,809.3040020634427,1035,3,Yes,Huge,,
+XH7FWCGRRXDJ,raft,empty,216.84055449567745,137,1,Yes,full,,
+4FRFD66TK6XE,rattlesnake,extinct,388.2396156035245,762,3,Yes,existing,prevalent ,n/a
+FWD4Z73KK6F6,mannequin,human,419.7404784909453,232,1,No,robotic,,
+XH7FWCGRRXDJ,ice cream,good,54.649253479641715,21,3,Yes,bad,,
+A969KQ7EMVW3,gun,empty,77.14854265756595,49,3,Yes,loaded,full,
+FWD4Z73KK6F6,book,fiction,144.3805671001165,382,5,Yes,nonfiction,true,
+XH7FWCGRRXDJ,vacuum,empty,264.9898199763346,532,3,Yes,full,,
+XH7FWCGRRXDJ,stove,hot,114.60077893967264,45,1,Yes,cold,,
+XH7FWCGRRXDJ,wine,strong,105.18083777350799,195,5,Yes,weak,,
+FWD4Z73KK6F6,barrel,long,303.1770156345609,618,3,Yes,short,tiny,small
+FWD4Z73KK6F6,computer,here,97.07383534326969,160,5,Yes,missing,gone,
+XH7FWCGRRXDJ,bottle,open,140.71067307046152,362,5,Yes,closed,,
+FWD4Z73KK6F6,cupcake,edible,482.12416056645554,1465,5,Yes,toxic,poisonous,inedible
+XH7FWCGRRXDJ,vending machine,free,127.71236151148209,184,3,Yes,expensive,,
+FWD4Z73KK6F6,cord,long,219.62949746611545,436,3,Yes,short,small,tiny
+FWD4Z73KK6F6,platypus,long,112.65697601338215,134,3,Yes,short,tiny,small
+XH7FWCGRRXDJ,can,full,144.96494116263696,229,3,Yes,empty,,
+XH7FWCGRRXDJ,pot,heavy,177.26658743801602,536,5,Yes,light,,
+XH7FWCGRRXDJ,toy,real,294.1934311746276,601,3,Yes,fake,,
+FWD4Z73KK6F6,dress,simple,153.94359739373797,429,5,Yes,complex,,
+XH7FWCGRRXDJ,chicken wire,thin,251.7979345390192,157,1,Yes,thick,,
+XH7FWCGRRXDJ,hyena,human,456.58679803204626,1415,5,No,N/A,,
+XH7FWCGRRXDJ,bag,full,86.04272695675371,122,5,Yes,empty,,
+2ZF2RAMFQQ3M,nose,long,259.2358601202698,523,3,Yes,Short,Stubby,Blunt
+FWD4Z73KK6F6,girl,alone,93.2059884676207,147,5,Yes,socializing,,
+XXKCFJGVJDTX,ferris wheel,circular,167.3340738085542,301,3,Yes,N/A,,
+EZCVAWE2HAMP,ski pole,vertical,525.6542457482194,899,3,Yes,flat,down,horizontal 
+XH7FWCGRRXDJ,timer,accurate,327.2256162378584,194,1,Yes,inaccurate,,
+XH7FWCGRRXDJ,oatmeal,bitter,498.48766555568017,872,3,Yes,sweet,,
+3MMFR6RXMZM2,seaweed,poisonous,492.04550651863696,865,3,Yes,safe,edible,potable
+XH7FWCGRRXDJ,corn,edible,275.85094048195805,174,1,Yes,inedible,,
+EGZANDYA4C6Q,bun,optional,1070.7404420002383,1898,5,Yes,mandatory,required,
+FPMCK2P37RW2,pine needle,edible,436.75791953372703,1374,5,Yes,inedible,poisonous,bitter
+XH7FWCGRRXDJ,grass,short,115.18703928406444,248,5,Yes,long,,
+FWD4Z73KK6F6,vial,empty,109.886615098219,37,1,Yes,full,overflowing,
+FWD4Z73KK6F6,needle,sharp,157.88520064823368,91,1,Yes,dull,,
+XH7FWCGRRXDJ,flagpole,tall,199.3903067140532,638,5,Yes,short,,
+XH7FWCGRRXDJ,hummus,human,659.6156105386226,1683,5,No,N/A,,
+DZ76R6HPTQH4,scanner,portable,649.2786816883901,973,3,Yes,delicate,installed,unwheeled
+XH7FWCGRRXDJ,mold,perfect,189.9898507320377,362,3,Yes,imperfect,,
+FWD4Z73KK6F6,coin,circular,497.4310333832407,1488,5,Yes,rectangular,square,
+XH7FWCGRRXDJ,jalapeno,long,76.04817460389653,113,8,Yes,short,,
+7G7NZEEGPR4K,boulder,there,202.38032333697328,391,3,Yes,here,nonexistent,
+XH7FWCGRRXDJ,mail,free,269.6051920605521,166,1,Yes,expensive,,
+XH7FWCGRRXDJ,music box,empty,166.4721635805837,298,3,Yes,full,,
+EZCVAWE2HAMP,pepper,edible,639.3600891133866,284,1,Yes,noxious,harmful,nonedible 
+FWD4Z73KK6F6,scoreboard,complete,71.3594824835796,68,5,Yes,incomplete,,
+XH7FWCGRRXDJ,tadpole,aquatic,205.53304480246948,401,3,Yes,landlocked,,
+XH7FWCGRRXDJ,rubber band,flexible,238.9704291921384,484,3,Yes,brittle,,
+C69D7VD39FKM,treadmill,stationary,722.0009694557483,1741,5,Yes,moving,active,mobile
+XH7FWCGRRXDJ,forklift,portable,427.4902252432148,1361,5,Yes,heavy,,
+XH7FWCGRRXDJ,sewage,clean,481.4315260090538,251,1,Yes,dirty,,
+XH7FWCGRRXDJ,cushion,soft,234.79819630701482,772,5,Yes,hard,,
+XH7FWCGRRXDJ,hole,empty,112.11940706275404,133,3,Yes,filled,,
+XH7FWCGRRXDJ,thumb,free,293.652439291492,598,3,Yes,expensive,,
+XH7FWCGRRXDJ,scallop,edible,441.4959968925624,238,1,Yes,inedible,,
+7G7NZEEGPR4K,sundial,universal,302.1112728102669,1019,5,Yes,local,,
+XH7FWCGRRXDJ,tent,open,120.00092220514729,270,5,Yes,closed,,
+XH7FWCGRRXDJ,tent,empty,91.44581339032291,24,1,Yes,filled,,
+J7YPEAJHPTM7,camel,strong,371.0682943498276,1249,5,Yes,"weak
+",,
+NFN2M74RPJ2Q,radiator,open,519.2173978567778,1526,5,No,closed,shut,
+FWD4Z73KK6F6,top hat,optional,153.2833354506071,256,3,Yes,mandatory,compulsery,
+W9XTVGDF6CV4,cougar,extinct,583.347739347332,1606,5,Yes,Extant,,
+FWD4Z73KK6F6,accordion,musical,455.52600600264816,1409,5,No,NA,,
+XH7FWCGRRXDJ,float,empty,259.7684380438642,524,3,Yes,full,,
+JE2PZ3NEZGRZ,sling,heavy,300.01175555989613,613,3,Yes,light,,
+FWD4Z73KK6F6,gem,precious,307.7713824494682,1039,5,Yes,normal,common,
+FWD4Z73KK6F6,coin,empty,209.2624709409287,680,5,No,NA,,
+XH7FWCGRRXDJ,otter,amphibious,157.18517128349873,274,3,Yes,mammalian,,
+DZ76R6HPTQH4,prism,transparent,607.3289014189097,1628,5,Yes,opaque,filmy,dusty
+EZCVAWE2HAMP,funnel,circular,765.500319573827,1773,5,Yes,unrounded,nonspherical,flat
+XH7FWCGRRXDJ,pill,safe,212.07880184985288,689,5,Yes,unsafe,,
+FWD4Z73KK6F6,toad,amphibious,104.77472335189222,193,5,Yes,NA,,
+FWD4Z73KK6F6,boot,heavy,254.0987737408768,852,5,Yes,lightweight,,
+EGZANDYA4C6Q,saffron,purple,1001.1499341454146,1874,5,Yes,yellow,colorless,
+FPMCK2P37RW2,bin,open,289.97495566596336,591,3,Yes,closed,sealed,blocked
+FWD4Z73KK6F6,neck,straight,311.89310672661037,1055,5,Yes,curved,crooked,bent
+XH7FWCGRRXDJ,saddle,high,443.62824052464515,1388,5,Yes,low,,
+XH7FWCGRRXDJ,jug,empty,149.09779489891656,83,1,Yes,filled,,
+FPMCK2P37RW2,aquarium,open,230.2763324296429,455,3,Yes,closed,abandoned,gone
+EGZANDYA4C6Q,grapefruit,edible,1062.2255150272654,319,1,Yes,inedible,toxic,indigestable
+XH7FWCGRRXDJ,nest,large,303.63867709303014,1026,5,Yes,small,,
+FPMCK2P37RW2,washcloth,clean,289.400181125704,180,1,Yes,dirty,wet,used
+7G7NZEEGPR4K,hawk,large,410.2194094502978,788,3,Yes,small,tiny,miniscule
+XH7FWCGRRXDJ,rifle,heavy,156.01475711560084,442,5,Yes,light,,
+FPMCK2P37RW2,barbell,musical,520.0234075456639,1527,5,No,N/A,,
+EGZANDYA4C6Q,saffron,orange,1063.6872907033903,1895,5,Yes,N/A,,
+DZ76R6HPTQH4,blueberry,edible,863.6034069135459,306,1,Yes,poisonous,toxic,rotton
+XH7FWCGRRXDJ,stained glass,original,361.7874969522414,208,1,Yes,forged,,
+XH7FWCGRRXDJ,hockey stick,long,293.61029497321886,597,3,Yes,short,,
+FPMCK2P37RW2,ruby,precious,515.4485825928933,891,3,Yes,fake,tiny,flawed
+FWD4Z73KK6F6,chipmunk,human,102.20228939810379,31,1,No,nonhuman,animalistic,
+EZCVAWE2HAMP,pony,human,635.6196400287588,1656,5,No,inhuman,quinine ,animalistic 
+XH7FWCGRRXDJ,outlet,open,349.4646447892995,694,3,Yes,closed,,
+FWD4Z73KK6F6,dynamite,here,274.07489623611906,559,3,Yes,gone,missing,
+DZ76R6HPTQH4,avocado,edible,629.218161358154,279,1,Yes,baby,unripe,unripened
+3MMFR6RXMZM2,clove,edible,366.3233057683518,214,1,Yes,toxic,inedible,foul
+XH7FWCGRRXDJ,teddy bear,popular,353.6555179127365,700,3,Yes,unpopular,,
+FWD4Z73KK6F6,arch,round,399.153108435894,1313,5,Yes,square,triangular,
+XH7FWCGRRXDJ,oven,cold,205.41478584510742,400,3,Yes,warm,,
+FWD4Z73KK6F6,vacuum,real,386.52100841085604,1278,5,Yes,fake,phony,
+XH7FWCGRRXDJ,screen,blank,55.98834943863943,24,3,Yes,full,,
+FPMCK2P37RW2,swimsuit,optional,469.8696566168997,249,1,Yes,mandatory,required,
+FWD4Z73KK6F6,shell,transparent,364.0140545090459,1217,5,Yes,solid,,
+FPMCK2P37RW2,oatmeal,edible,437.15609037622596,815,3,Yes,spoiled,dirty,rotten
+XH7FWCGRRXDJ,jalapeno,extinct,76.16575621881293,46,3,Yes,alive,,
+76VNAHQ9VAC3,recorder,portable,617.341693267944,951,3,Yes,unwiedly,huge,stationary
+DZ76R6HPTQH4,biscuit,edible,647.1916226832642,971,3,Yes,swollen,dirty,burned
+W9XTVGDF6CV4,tennis ball,spherical,564.7231770897077,927,3,Yes,Rectangular ,,
+XH7FWCGRRXDJ,wafer,thick,268.6246694703154,898,5,Yes,thin,,
+DZ76R6HPTQH4,rooster,important,842.8321002757567,1042,3,Yes,rude,unwanted,gone
+FPMCK2P37RW2,racehorse,Thoroughbred,232.82927551551518,459,3,Yes,Arabian ,,
+XH7FWCGRRXDJ,gutter,dry,268.7839328124769,540,3,Yes,wet,,
+XH7FWCGRRXDJ,puffin,large,202.36112025889042,649,5,Yes,small,,
+XH7FWCGRRXDJ,blind,deaf,378.3700007295658,755,3,No,N/A,,
+FWD4Z73KK6F6,noisemaker,sound,125.87939769312618,181,3,No,NA,,
+XH7FWCGRRXDJ,bullet,empty,162.98924164851394,290,3,Yes,full,,
+XH7FWCGRRXDJ,coconut,edible,435.9826227490545,236,1,Yes,inedible,,
+XH7FWCGRRXDJ,tool,free,298.5320611476589,609,3,Yes,expensive,,
+XH7FWCGRRXDJ,cord,elastic,370.6191409609945,1246,5,Yes,stiff,,
+FWD4Z73KK6F6,moccasin,edible,305.2554502117363,186,1,Yes,toxic,inedible,poisonous
+FPMCK2P37RW2,water cooler,portable,549.0088319144548,1573,5,Yes,fixed,enormous,heavy
+XH7FWCGRRXDJ,french horn,German,263.86926132770645,885,5,Yes,English,,
+XH7FWCGRRXDJ,coffee,free,172.98797510967282,522,5,Yes,expensive,,
+FWD4Z73KK6F6,raincoat,wet,314.43046020100587,639,3,Yes,dry,,
+XH7FWCGRRXDJ,tuba,hollow,429.72753123548085,235,1,Yes,filled,,
+XH7FWCGRRXDJ,snowball,cold,360.81513853161636,710,3,Yes,hot,,
+EGZANDYA4C6Q,exerciser,passive,1005.5663923950052,1075,3,Yes,active,energetic,vital
+FWD4Z73KK6F6,lemonade,bitter,426.2115981231356,808,3,Yes,sweet,tasty,
+R7AZQKJ2FQVT,shoehorn,musical,869.3932571244553,1049,3,No,stiff ,Practical ,Dull 
+XH7FWCGRRXDJ,hard disk,hard,256.9898276126525,513,3,Yes,soft,,
+XH7FWCGRRXDJ,bra,elastic,505.66622040899216,254,1,Yes,plastic,,
+XH7FWCGRRXDJ,nail file,plastic,364.2329989410022,717,3,Yes,glass,,
+XH7FWCGRRXDJ,bunkbed,empty,336.57113022158075,198,1,Yes,full,,
+FWD4Z73KK6F6,seahorse,amphibious,88.75810136574871,75,3,No,NA,,
+XH7FWCGRRXDJ,brush,dense,326.3319875162179,1112,5,Yes,sparse,,
+EZCVAWE2HAMP,chessboard,flat,700.245967792545,1725,5,Yes,uneven,irregular,ununiform 
+FWD4Z73KK6F6,hip,there,381.1332645965036,1272,5,Yes,gone,far,
+FWD4Z73KK6F6,spinach,edible,512.1294196620248,258,1,Yes,inedible,toxic,poisonous
+FPMCK2P37RW2,pocket watch,universal,529.7002129827952,903,3,No,N/A,,
+FPMCK2P37RW2,buffet,optional,1035.0711592532552,1082,3,Yes,mandatory,required,included
+XH7FWCGRRXDJ,siren,silent,109.60120757645572,213,5,Yes,blaring,,
+JE2PZ3NEZGRZ,binder,empty,198.67035772899857,383,3,Yes,full,,
+FWD4Z73KK6F6,artichoke,edible,323.0024450589283,192,1,Yes,toxic,inedible,poisonous
+FWD4Z73KK6F6,stool,dead,397.26815704940805,1305,5,No,alive,working,
+76VNAHQ9VAC3,pecan,edible,976.6241379909897,317,1,Yes,inedible,uneatable,unedible
+XH7FWCGRRXDJ,air conditioner,portable,317.2800106970453,643,3,Yes,stuck,,
+FWD4Z73KK6F6,cup,empty,71.53923417335498,9,1,Yes,full,overflowing,
+C69D7VD39FKM,stereo,available,813.2723254806862,1036,3,Yes,unavailable,missing,broken
+76VNAHQ9VAC3,moss,edible,597.7643320982435,946,3,Yes,inedible,uneatable,revolting
+76VNAHQ9VAC3,bathtub,small,323.0334044757128,1099,5,Yes,large,spacious,huge
+DZ76R6HPTQH4,cockroach,edible,698.7466798192528,1722,5,No,trash,filth,vermin
+XH7FWCGRRXDJ,mongoose,prey,383.38691624802834,1274,5,Yes,predatory,,
+XH7FWCGRRXDJ,knee,weak,302.4065916535721,616,3,Yes,strong,,
+FPMCK2P37RW2,candlestick,empty,442.435500832425,822,3,Yes,lit,prepared,
+XH7FWCGRRXDJ,puddle,full,272.2701669370766,552,3,Yes,dried,,
+XH7FWCGRRXDJ,stomach,upset,339.6397943872433,680,3,Yes,soothed,,
+XH7FWCGRRXDJ,leotard,long,112.89762534592722,229,5,Yes,short,,
+EZCVAWE2HAMP,skunk,edible,872.405675122025,307,1,Yes,harmful,noxious,poisonous 
+XH7FWCGRRXDJ,orange rind,orange,172.3719884887841,517,5,Yes,green,,
+DZ76R6HPTQH4,bathrobe,optional,799.2195681205493,1031,3,Yes,nudity,towel,clothes
+FWD4Z73KK6F6,board game,popular,325.39393755782487,1106,5,Yes,unpopular,hated,
+76VNAHQ9VAC3,almond,edible,1109.142557950048,322,1,Yes,inedible,uneatable,rotten
+XH7FWCGRRXDJ,knot,simple,283.2455372122869,578,3,Yes,complicated,,
+FPMCK2P37RW2,pita,large,450.6272611421805,831,3,Yes,smally,tiny,little
+XXKCFJGVJDTX,needle,long,245.87357616661046,497,3,Yes,short,tiny,
+XH7FWCGRRXDJ,armor,thick,218.38770654710805,434,3,Yes,thin,,
+EGZANDYA4C6Q,butter,edible,568.3395719707906,1590,5,Yes,indigestible,inedible,
+XH7FWCGRRXDJ,tiger,extinct,272.4370477232426,553,3,Yes,alive,,
+HWDQZR3ZTFRN,cabinet,empty,97.74990655338374,95,3,Yes,full,plentiful,replete
+XH7FWCGRRXDJ,gramophone,portable,114.53238267897572,146,3,Yes,stuck,,
+NFN2M74RPJ2Q,roulette wheel,round,174.7273230015237,324,3,Yes,angular,,
+DZ76R6HPTQH4,stamp,circular,644.6875208625067,1670,5,Yes,triangular,star,octagon
+XH7FWCGRRXDJ,eggnog,edible,138.39954932205262,73,1,Yes,inedible,,
+XH7FWCGRRXDJ,chihuahua,nomadic,206.30402871865985,405,3,No,N/A,,
+FWD4Z73KK6F6,telephone pole,horizontal,493.4486874395162,1482,5,Yes,vertical,standing,
+FPMCK2P37RW2,football helmet,football,1017.1863635550262,1079,3,No,N/A,,
+XH7FWCGRRXDJ,scale,symmetric,206.61512306774966,407,3,Yes,asymmetric,,
+FWD4Z73KK6F6,jam,good,193.13097903308307,374,3,Yes,bad,rotten,horrible
+XH7FWCGRRXDJ,whoopee cushion,edible,83.52457147222067,112,5,Yes,inedible,,
+FWD4Z73KK6F6,eyedropper,long,78.97569509952281,135,8,Yes,short,tiny,small
+DZ76R6HPTQH4,swing,vertical,847.6241876932887,1820,5,Yes,horizontal,sideways,
+XH7FWCGRRXDJ,palm tree,evergreen,399.0098148942694,779,3,Yes,tropical,,
+XH7FWCGRRXDJ,ferry,free,236.076783162196,781,5,Yes,expensive,,
+FWD4Z73KK6F6,pizza,good,135.87411865053787,69,1,Yes,awful,terrible,rotten
+XH7FWCGRRXDJ,syringe,empty,171.19898880193145,510,5,Yes,filled,,
+R7AZQKJ2FQVT,cannon,portable,797.2965802586548,1792,5,No,Heavy,Fixed,Planted
+XH7FWCGRRXDJ,blowtorch,mechanical,355.7078489881327,1198,5,No,N/A,,
+FWD4Z73KK6F6,popcorn,cold,216.8386933462565,428,3,Yes,warm,hot,scalding
+XH7FWCGRRXDJ,mouth,open,134.0154297615091,65,1,Yes,closed,,
+XH7FWCGRRXDJ,flask,empty,169.696857280359,103,1,Yes,full,,
+XH7FWCGRRXDJ,hairpin,straight,323.30816447117667,655,3,Yes,bent,,
+FWD4Z73KK6F6,mashed potato,potato,380.73964066299794,1271,5,No,NA,,
+XH7FWCGRRXDJ,nest,empty,155.944842770102,264,3,Yes,filled,,
+XXKCFJGVJDTX,coffee table,round,135.39345285200466,343,5,Yes,N/A,,
+FPMCK2P37RW2,mailbox,empty,122.97724287570094,56,1,Yes,full,stuffed,filled
+XH7FWCGRRXDJ,wooden leg,rigid,352.863815766584,1186,5,Yes,bendable,,
+XH7FWCGRRXDJ,bookshelf,empty,172.73418369737774,107,1,Yes,filled,,
+XH7FWCGRRXDJ,walker,human,278.7191593587949,940,5,No,N/A,,
+C69D7VD39FKM,rattlesnake,edible,723.8645312215114,1743,5,Yes,poisonous,inedible,harmful
+4FRFD66TK6XE,barnacle,edible,369.09837014619484,731,3,No,inedible,poisonous,n/a
+EGZANDYA4C6Q,leek,edible,577.7528130771287,272,1,Yes,inedible,toxic,indigestible
+XH7FWCGRRXDJ,grain,good,193.54168509322471,614,5,Yes,bad,,
+XH7FWCGRRXDJ,envelope,blank,204.90266018264703,662,5,Yes,full,,
+XH7FWCGRRXDJ,couch,empty,90.807151264364,79,3,Yes,occupied,,
+XH7FWCGRRXDJ,pogo stick,plastic,131.110184731773,314,5,Yes,glass,,
+XXKCFJGVJDTX,spaghetti,cold,243.57647193759703,818,5,Yes,hot ,warm,
+W9XTVGDF6CV4,harp,sacred,590.8365091002368,1614,5,Yes,Profane ,,
+FWD4Z73KK6F6,air conditioner,electric,149.96468280695632,416,5,Yes,battery,,
+W9XTVGDF6CV4,pumpkin,edible,563.5062629110485,268,1,Yes,Inedible ,,
+NFN2M74RPJ2Q,music box,musical,350.8804262319452,1180,5,Yes,tuneless,discordant,
+A969KQ7EMVW3,coffee,good,85.76291811984693,70,3,Yes,bad,undrinkable,
+R7AZQKJ2FQVT,pantsuit,optional,1047.3057094220894,1083,3,Yes,NA,,
+XH7FWCGRRXDJ,paper bag,heavy,125.27031217137598,178,3,Yes,light,,
+XH7FWCGRRXDJ,freezer,cold,223.99205967169274,144,1,Yes,hot,,
+XH7FWCGRRXDJ,cilantro,edible,86.2481135463879,21,1,Yes,inedible,,
+XH7FWCGRRXDJ,bead,empty,504.2054566704303,1500,5,No,N/A,,
+XH7FWCGRRXDJ,shower cap,circular,666.4836383249642,1689,5,Yes,square,,
+FPMCK2P37RW2,folder,empty,147.17908410527926,79,1,Yes,filled,full,occupied
+FPMCK2P37RW2,tab,blank,545.7961841282889,917,3,Yes,full,claimed,
+FWD4Z73KK6F6,basketball hoop,basketball,421.54929814616753,801,3,No,NA,,
+XXKCFJGVJDTX,pipe,long,243.92422971861257,492,3,Yes,short,small,
+FPMCK2P37RW2,lemon,sweet,411.95478612882806,1332,5,Yes,bitter,sour,
+NFN2M74RPJ2Q,cloud,there,176.91260292196134,111,1,Yes,here,,
+FWD4Z73KK6F6,zucchini,Italian,47.995000509996224,11,3,Yes,German,American,
+XH7FWCGRRXDJ,throne,vacant,229.2376274541816,747,5,Yes,occupied,,
+2VHW4RE6AKTN,honey,good,179.52068733231758,333,3,Yes,bad,awful,terrible
+FPMCK2P37RW2,bed,empty,49.79974021906429,14,3,Yes,full,occupied,unavailable
+NFN2M74RPJ2Q,egg,empty,175.36819939446357,326,3,No,full,solid,
+XH7FWCGRRXDJ,prune,fruit,512.2107454968431,1516,5,Yes,fake,,
+XH7FWCGRRXDJ,mug,cold,142.92954249469543,225,3,Yes,hot,,
+FWD4Z73KK6F6,exhaust pipe,straight,373.64600905012657,217,1,Yes,curved,crooked,bent
+XXKCFJGVJDTX,puppet,dead,249.44821700788967,155,1,Yes,alive,functional,animated
+XH7FWCGRRXDJ,bubble wrap,edible,423.4303162189797,1352,5,Yes,inedible,,
+XH7FWCGRRXDJ,lizard,poisonous,410.7051955620843,789,3,Yes,edible,,
+XH7FWCGRRXDJ,poinsettia,long,114.35322749500645,240,5,Yes,short,,
+XH7FWCGRRXDJ,hourglass,empty,115.88063069465423,49,1,Yes,full,,
+FWD4Z73KK6F6,tattoo,there,135.67212467897042,345,5,Yes,missing,gone,
+XH7FWCGRRXDJ,card,empty,126.64395463811087,297,5,Yes,full,,
+XH7FWCGRRXDJ,bed,warm,104.49437115553856,192,5,Yes,cold,,
+FWD4Z73KK6F6,hoe,long,664.5088743763048,979,3,Yes,short,,
+XH7FWCGRRXDJ,notebook,empty,153.78460868828267,258,3,Yes,filled,,
+XH7FWCGRRXDJ,airboat,amphibious,82.34547288080891,153,8,No,N/A,,
+FPMCK2P37RW2,hay,warm,261.74616103377724,163,1,Yes,cold,frozen,wet
+FWD4Z73KK6F6,beehive,large,207.52895698159168,674,5,Yes,small,tiny,puny
+XH7FWCGRRXDJ,game,simple,94.77408708399591,86,3,Yes,complex,,
+XH7FWCGRRXDJ,mashed potato,edible,307.33465076309153,624,3,Yes,inedible,,
+XH7FWCGRRXDJ,pistachio,edible,79.7194672867675,57,3,Yes,inedible,,
+FPMCK2P37RW2,surfboard,rigid,291.9967154397288,595,3,Yes,flexible,broken,bent
+XH7FWCGRRXDJ,hot chocolate,good,66.63606381536513,57,5,Yes,bad,,
+W9XTVGDF6CV4,bikini,transparent,535.379410298219,1555,5,Yes,Intransparent ,,
+XH7FWCGRRXDJ,chimney,steep,332.4690217478306,1128,5,Yes,flat,,
+XH7FWCGRRXDJ,notepad,empty,238.20704672585086,479,3,Yes,full,,
+DZ76R6HPTQH4,loveseat,there,629.3603938316753,1646,5,Yes,removed,delivered,shipped
+FWD4Z73KK6F6,water bottle,plastic,310.5015035122593,188,1,Yes,steel,,
+XH7FWCGRRXDJ,hook,long,257.1144833538688,515,3,Yes,short,,
+XH7FWCGRRXDJ,man,here,55.296368286264716,39,8,Yes,there,,
+XH7FWCGRRXDJ,doll,human,309.08486254005936,1042,5,Yes,inhuman,,
+FPMCK2P37RW2,pancake,edible,511.5497673980442,257,1,Yes,ruined,spoiled,contaminated
+XH7FWCGRRXDJ,mold,perfect,189.9898507320377,363,3,Yes,imperfect,,
+R7AZQKJ2FQVT,ostrich,extinct,845.7081244504925,1817,5,No,Thriving,Mating,Everywhere
+XH7FWCGRRXDJ,envelope,open,144.51536164326922,383,5,Yes,closed,,
+XH7FWCGRRXDJ,tent,full,144.0870997906463,379,5,Yes,empty,,
+FPMCK2P37RW2,chinchilla,elongated,400.443540655095,1314,5,No,N/A,,
+XH7FWCGRRXDJ,jar,heavy,234.38844293134227,768,5,Yes,light,,
+XH7FWCGRRXDJ,foot,long,281.75608664235506,953,5,Yes,short,,
+FPMCK2P37RW2,wolf,wolf,235.77011619991745,778,5,No,N/A,,
+QHKQ32WVQEGN,quad,symmetrical,1174.1780057762085,1101,3,Yes,asymmetrical,,
+R7AZQKJ2FQVT,windowsill,high,584.1081728068374,941,3,Yes,NA,,
+XH7FWCGRRXDJ,bagpipe,musical,321.5795213194643,1091,5,Yes,fake,,
+XH7FWCGRRXDJ,box,empty,80.34877592319874,16,1,Yes,full,,
+XH7FWCGRRXDJ,goblet,empty,131.87877697364746,193,3,Yes,full,,
+FWD4Z73KK6F6,champagne,good,131.27339623824926,62,1,Yes,awful,terrible,horrible
+R7AZQKJ2FQVT,mistletoe,edible,1171.9126325147465,1916,5,No,Plastic,Fake,Bitter
+XH7FWCGRRXDJ,stingray,edible,440.7530600590408,1381,5,Yes,inedible,,
+FPMCK2P37RW2,milkshake,sweet,473.44719156970876,1454,5,Yes,sour,bitter,bland
+XH7FWCGRRXDJ,orchid,poisonous,505.7004606711806,879,3,Yes,edible,,
+EGZANDYA4C6Q,hopscotch,edible,996.3489594019203,1871,5,No,N/A,,
+DZ76R6HPTQH4,spur,long,752.0718175429846,1018,3,Yes,short,stubby,petite
+XH7FWCGRRXDJ,drawer,empty,100.39043795156384,175,5,Yes,full,,
+FPMCK2P37RW2,onion,edible,535.9515627104872,263,1,Yes,rotten,poisoned,
+EGZANDYA4C6Q,toothpaste,liquid,1185.560552253961,1920,5,Yes,charcoal,dry,powder
+XH7FWCGRRXDJ,buffet,open,307.1576710534115,1037,5,Yes,closed,,
+7G7NZEEGPR4K,bush,dead,203.5921478119297,392,3,Yes,alive,healthy,thriving
+XH7FWCGRRXDJ,brush,long,195.48788148160386,621,5,Yes,short,,
+FWD4Z73KK6F6,soccer ball,round,229.50898360988867,750,5,Yes,square,triangular,
+XH7FWCGRRXDJ,ant,alive,322.98242313566317,1096,5,Yes,dead,,
+EZCVAWE2HAMP,scale,linear,708.2837238112711,1001,3,Yes,curvy,jagged,nonlinear 
+XH7FWCGRRXDJ,cheese,hard,371.83434582820536,739,3,Yes,soft,,
+FWD4Z73KK6F6,ping-pong table,endless,68.7239510335625,41,3,Yes,short,tiny,small
+DZ76R6HPTQH4,pipe,cylindrical,607.3497527599409,1630,5,Yes,rectangle,square,joint
+XH7FWCGRRXDJ,wooden leg,hollow,483.6406271039513,252,1,Yes,dense,,
+XH7FWCGRRXDJ,oil,expensive,238.5784212873957,481,3,Yes,inexpenaive,,
+XH7FWCGRRXDJ,pocket,empty,102.39194235249285,32,1,Yes,full,,
+XH7FWCGRRXDJ,chocolate,chocolate,218.20939548663142,433,3,No,N/A,,
+XH7FWCGRRXDJ,soup,ready,77.92131528903556,131,8,Yes,unprepared,,
+FWD4Z73KK6F6,altar,empty,119.739250644034,167,3,Yes,full,clogged,
+XH7FWCGRRXDJ,monkey,human,270.23599050329744,168,1,No,N/A,,
+XH7FWCGRRXDJ,gel,edible,666.7519190206917,980,3,Yes,inedible,,
+XH7FWCGRRXDJ,trowel,long,162.01600420879302,287,3,Yes,short,,
+DZ76R6HPTQH4,cane,edible,650.8226331055267,1677,5,No,plastic,metal,paper
+XH7FWCGRRXDJ,credit card,optional,198.4506977437576,635,5,Yes,mandatory,,
+XH7FWCGRRXDJ,treasure,empty,241.18291977368838,811,5,Yes,full,,
+XH7FWCGRRXDJ,pomegranate,edible,49.98456788130714,15,3,Yes,inedible,,
+FPMCK2P37RW2,football,good,216.3372827606794,712,5,Yes,damaged,unusable,
+XH7FWCGRRXDJ,boy,alone,107.87586406134886,207,5,Yes,accompanied,,
+XH7FWCGRRXDJ,tadpole,poisonous,261.5581394819437,879,5,Yes,edible,,
+XH7FWCGRRXDJ,yo-yo,plastic,86.11488507028582,123,5,Yes,glass,,
+XH7FWCGRRXDJ,weed,poisonous,199.37880276435538,637,5,Yes,edible,,
+XH7FWCGRRXDJ,trough,deep,359.10763751431466,707,3,Yes,shallow,,
+FPMCK2P37RW2,ping-pong table,circular,76.95766918698678,85,5,Yes,square,standard,rectangular
+DZ76R6HPTQH4,caviar,edible,722.2860870025959,295,1,Yes,leftovers,expired,
+FWD4Z73KK6F6,hobbyhorse,one,138.10816280472108,356,5,Yes,many,,
+XH7FWCGRRXDJ,canvas,blank,258.7888893944341,522,3,Yes,filled,,
+XH7FWCGRRXDJ,puppy,dead,156.7386447029052,88,1,Yes,alive,,
+XH7FWCGRRXDJ,belt buckle,optional,266.1412786004821,536,3,Yes,mandatory,,
+XH7FWCGRRXDJ,cornmeal,bitter,197.43754868256,628,5,Yes,sweet,,
+XH7FWCGRRXDJ,gum,edible,443.76174135680776,241,1,Yes,inedible,,
+FPMCK2P37RW2,figurine,small,445.68151572275696,1395,5,Yes,large,huge,gigantic
+XH7FWCGRRXDJ,toilet,open,166.30594528069742,297,3,Yes,shut,,
+XH7FWCGRRXDJ,eye,open,155.7898043131374,263,3,Yes,closed,,
+XH7FWCGRRXDJ,gift,good,133.96399728638934,331,5,Yes,bad,,
+76VNAHQ9VAC3,broccoli,edible,677.6303239837678,289,1,Yes,inedible,uneatable,rotten
+W9XTVGDF6CV4,bookshelf,large,560.4508507516691,1581,5,Yes,Small,,
+XH7FWCGRRXDJ,bacon,cold,161.49798784332626,467,5,Yes,hot,,
+XH7FWCGRRXDJ,tool,useful,284.28417274994393,961,5,Yes,useless,,
+EGZANDYA4C6Q,gong,large,989.7952769633612,1073,3,Yes,small,tiny,short
+FWD4Z73KK6F6,clipboard,empty,186.81231437702297,351,3,Yes,full,overflowing,stuffed
+XH7FWCGRRXDJ,potholder,human,175.59127760712502,534,5,No,N/A,,
+XH7FWCGRRXDJ,pallet,empty,162.44549362678742,95,1,Yes,full,,
+XH7FWCGRRXDJ,trampoline,stationary,71.12786410937453,92,8,Yes,mobile,,
+XH7FWCGRRXDJ,chinchilla,cylindrical,440.6753049668458,1380,5,No,N/A,,
+M73R33QFT7KW,ambulance,there,84.42318242777124,164,8,Yes,gone,missing,elsewhere
+XH7FWCGRRXDJ,table,complete,149.91006008503732,249,3,Yes,incomplete,,
+XH7FWCGRRXDJ,cufflink,gold,113.84843538293345,142,3,Yes,silver,,
+FWD4Z73KK6F6,bowl,hollow,344.78787168753104,685,3,Yes,thick,heavy,stuffed
+FPMCK2P37RW2,aardvark,extinct,56.86453301360228,25,3,Yes,common,alive,present
+DZ76R6HPTQH4,wax,liquid,642.6112363250163,1667,5,Yes,smushy,gel,hardened
+XH7FWCGRRXDJ,beehive,small,187.22056371611006,577,5,Yes,huge,,
+XH7FWCGRRXDJ,dagger,sharp,141.56416355873685,368,5,Yes,dull,,
+FPMCK2P37RW2,exhaust pipe,vertical,522.7342754656572,1531,5,Yes,horizontal,angled,curved
+FWD4Z73KK6F6,tarantula,male,241.07139073982282,810,5,Yes,female,,
+XH7FWCGRRXDJ,ukulele,musical,145.78242474292773,235,3,Yes,fake,,
+FPMCK2P37RW2,pulpit,empty,225.892926724572,739,5,Yes,occupied,full,
+JE2PZ3NEZGRZ,iron,iron,203.81118163002571,393,3,Yes,gold,aluminum,
+XH7FWCGRRXDJ,turnstile,automatic,134.64103127061688,202,3,Yes,manual,,
+XH7FWCGRRXDJ,cake mix,simple,351.4209279036306,1181,5,Yes,complicated,,
+XH7FWCGRRXDJ,desk,empty,65.73087863414962,6,1,Yes,full,,
+FPMCK2P37RW2,star fruit,edible,474.0329420717079,250,1,Yes,rotten,poisonous,spoiled
+FPMCK2P37RW2,globe,round,299.75193401244,612,3,Yes,oblong,squished,flat
+XH7FWCGRRXDJ,television,good,190.66825084246602,120,1,Yes,bad,,
+NFN2M74RPJ2Q,test tube,cylindrical,555.3794665895523,922,3,Yes,angular,asymmetric,cubic
+FWD4Z73KK6F6,bowling ball,spherical,498.21272546474717,871,3,Yes,crooked,squarish,triangular
+FWD4Z73KK6F6,sandbag,portable,444.9983710022677,825,3,Yes,immobile,,
+NFN2M74RPJ2Q,alligator,large,469.96802543826203,1448,5,Yes,small,tiny,little
+XH7FWCGRRXDJ,chinchilla,hollow,192.6686786963258,604,5,No,N/A,,
+R7AZQKJ2FQVT,jukebox,simple,864.5630176592528,1828,5,Yes,streamlined,,
+FPMCK2P37RW2,scoreboard,accurate,72.14059369567083,100,8,Yes,innacurate,wrong,false
+XH7FWCGRRXDJ,diving board,portable,294.8416877175658,602,3,Yes,stuck,,
+FPMCK2P37RW2,cauliflower,perennial,55.49468924045753,31,5,No,N/A,,
+EZCVAWE2HAMP,toe,long,888.7181467093504,1056,3,Yes,short,small,little
+76VNAHQ9VAC3,stuffing,good,310.13808430052507,631,3,Yes,bad,poor,subpar
+FWD4Z73KK6F6,candy cane,candy,446.1582347517368,243,1,Yes,fruit,vegetable,
+NFN2M74RPJ2Q,bolt,open,180.38941855343373,336,3,Yes,closed,locked,sealed
+EZCVAWE2HAMP,strap,elastic,526.2551498881646,901,3,Yes,solid,rigid,inflexible 
+XH7FWCGRRXDJ,fishhook,long,254.500142373876,853,5,Yes,short,,
+FWD4Z73KK6F6,chili,edible,476.8052177359643,857,3,Yes,inedible,toxic,poisonous
+XH7FWCGRRXDJ,robe,long,264.49319751406523,888,5,Yes,short,,
+3MMFR6RXMZM2,seafood,good,201.27185478039246,645,5,Yes,disgusting,gross,horrible
+XH7FWCGRRXDJ,popcorn,hot,227.15410461577002,745,5,Yes,cold,,
+XH7FWCGRRXDJ,tennis ball,round,291.91624876607466,181,1,Yes,square,,
+FPMCK2P37RW2,diving board,plastic,219.29985345474827,721,5,Yes,metal,composit,rock
+XH7FWCGRRXDJ,cornucopia,large,38.72499739902155,5,5,Yes,small,,
+FPMCK2P37RW2,raft,full,237.4051196235209,477,3,Yes,empty,light,unused
+XH7FWCGRRXDJ,hearse,dead,385.78834382796373,1277,5,No,N/A,,
+XXKCFJGVJDTX,coleslaw,extinct,167.05033809546654,491,5,No,available,present,
+XH7FWCGRRXDJ,harmonica,harmonica,126.20334303055485,295,5,No,N/A,,
+XH7FWCGRRXDJ,oyster,edible,508.98499520115683,255,1,Yes,inedible,,
+XH7FWCGRRXDJ,telephone pole,vertical,453.63022808603563,835,3,Yes,horizontal,,
+XH7FWCGRRXDJ,urn,empty,149.40987424564574,84,1,Yes,filled,,
+FWD4Z73KK6F6,pillow,empty,111.5656225488247,39,1,Yes,full,stuffed,
+FPMCK2P37RW2,inkwell,blank,189.16479394552812,361,3,No,N/A,,
+XH7FWCGRRXDJ,giraffe,extinct,191.60517935159248,370,3,Yes,alive,,
+XH7FWCGRRXDJ,hammer,heavy,125.94033677276691,60,1,Yes,light,,
+FPMCK2P37RW2,poodle,human,534.4897030649875,1554,5,No,N/A,,
+XH7FWCGRRXDJ,maple syrup,edible,270.57084347732297,548,3,Yes,inedible,,
+XH7FWCGRRXDJ,sauerkraut,German,84.45213153340323,66,3,Yes,English,,
+XH7FWCGRRXDJ,yo-yo,circular,112.10385049655257,226,5,Yes,square,,
+XH7FWCGRRXDJ,milk,sweet,231.9934540662048,761,5,Yes,bitter,,
+W9XTVGDF6CV4,pepperoni,edible,971.6534745635884,1070,3,Yes,Inedible ,Toxic,
+XH7FWCGRRXDJ,beer,cold,89.48188456174255,77,3,Yes,warm,,
+XH7FWCGRRXDJ,playpen,empty,72.88561653202889,44,3,Yes,full,,
+DZ76R6HPTQH4,blackberry,edible,937.3347412523134,1066,3,Yes,poison,old,rancid
+XH7FWCGRRXDJ,backpack,heavy,145.17301736064638,232,3,Yes,light,,
+DZ76R6HPTQH4,cardboard,blank,647.7890489599138,972,3,Yes,printed,decorated,
+XH7FWCGRRXDJ,landmine,explosive,209.5235691715289,412,3,Yes,safe,,
+XH7FWCGRRXDJ,bowling ball,plastic,338.55337432738656,1141,5,Yes,metal,,
+XH7FWCGRRXDJ,flute,musical,505.722645740688,880,3,No,N/A,,
+XH7FWCGRRXDJ,eye,visible,230.0313795802013,754,5,Yes,invisible,,
+XH7FWCGRRXDJ,footrest,flat,80.79883347471893,102,5,Yes,bumpy,,
+FWD4Z73KK6F6,lime,edible,668.7196372034776,288,1,Yes,toxic,inedible,poisonus
+XH7FWCGRRXDJ,snorkel,amphibious,119.03499372525505,166,3,No,N/A,,
+FWD4Z73KK6F6,fruit,edible,207.5966549634388,132,1,Yes,toxic,inedible,poisonous
+NFN2M74RPJ2Q,mouse,intelligent,346.69747442562783,1166,5,Yes,Stupid,unintelligent,dim
+FWD4Z73KK6F6,cuckoo clock,ancient,132.1723345760248,320,5,Yes,modern,new,
+EZCVAWE2HAMP,charger,portable,895.8242768370003,1841,5,Yes,immobile,immovable,fixed
+FPMCK2P37RW2,bubble,empty,220.35267689672386,142,1,Yes,full,filled,
+FWD4Z73KK6F6,gondola,empty,186.2639484255289,574,5,Yes,full,overflowing,stuffed
+XH7FWCGRRXDJ,sea urchin,poisonous,241.40935579945838,488,3,Yes,edible,,
+XH7FWCGRRXDJ,money,yours,59.128405131233606,53,8,Yes,his,,
+FWD4Z73KK6F6,skin,smooth,92.47959535981607,144,5,Yes,rough,coarse,
+FPMCK2P37RW2,marble,precious,540.0466585059535,1564,5,Yes,common,cheap,ruined
+XH7FWCGRRXDJ,lanyard,gold,71.90376560531513,72,5,Yes,red,,
+XH7FWCGRRXDJ,birdhouse,open,168.6756850815646,101,1,Yes,closed,,
+XH7FWCGRRXDJ,locker,open,196.71029888598545,625,5,Yes,closed,,
+FPMCK2P37RW2,coal,hot,208.9467927551337,679,5,Yes,cold,icy,chilly
+W9XTVGDF6CV4,pitchfork,long,537.7486113230002,1557,5,Yes,Short ,,
+R7AZQKJ2FQVT,grinder,human,1033.8892638459315,1081,3,No,Mechanical,Automatic ,Electric 
+XH7FWCGRRXDJ,blinder,blind,442.4133495698383,239,1,No,N/A,,
+FWD4Z73KK6F6,money,there,77.19454047942374,88,5,Yes,gone,missing,
+FWD4Z73KK6F6,beanbag,portable,475.2512595927901,1457,5,Yes,immobile,unmovable,heavy
+XH7FWCGRRXDJ,screen,empty,77.39862245486465,11,1,Yes,full,,
+XH7FWCGRRXDJ,pipe,long,243.92422971861257,491,3,Yes,short,,
+EZCVAWE2HAMP,blackberry,poisonous,646.5013330523346,1671,5,Yes,nontoxic,safe,fine
+XH7FWCGRRXDJ,ship,dead,80.82611582311716,60,3,No,N/A,,
+DZ76R6HPTQH4,eggbeater,extinct,920.3896872626548,1849,5,No,relevant,used,
+XH7FWCGRRXDJ,dalmatian,human,140.18502025100722,219,3,Yes,canine,,
+4YNXDR4CKEZM,snail,edible,1139.062695380529,1097,3,Yes,inedible,rotten,moldy
+FWD4Z73KK6F6,panther,prey,510.462526907871,1512,5,Yes,predator,hunting,
+FWD4Z73KK6F6,parking meter,full,75.93153484943952,81,5,Yes,empty,expired,
+XH7FWCGRRXDJ,boy,dead,45.09820388629478,9,3,Yes,alive,,
+XH7FWCGRRXDJ,walker,human,278.7191593587949,939,5,No,N/A,,
+DZ76R6HPTQH4,raspberry,edible,695.8164518737905,294,1,Yes,smashed,dropped,destroyed
+FPMCK2P37RW2,pillow,warm,128.90061625706934,187,3,Yes,cool,cold,comfortable
+XH7FWCGRRXDJ,puddle,empty,274.5482683951429,560,3,Yes,overflowing,,
+XH7FWCGRRXDJ,power line,overhead,295.8163286642273,1000,5,Yes,underneath,,
+FPMCK2P37RW2,coral,edible,524.835504355666,896,3,No,N/A,,
+FWD4Z73KK6F6,satellite dish,circular,316.3305708080419,1073,5,Yes,square,rectangular,triangular
+FPMCK2P37RW2,grenade,empty,291.2023490335605,593,3,No,N/A,,
+XH7FWCGRRXDJ,basket,round,350.54863455618425,1179,5,Yes,square,,
+FWD4Z73KK6F6,hookah,musical,670.0941036090087,985,3,No,NA,,
+XH7FWCGRRXDJ,test tube,circular,456.40416954074544,1413,5,Yes,rectangular,,
+XH7FWCGRRXDJ,fire,hot,61.95548890688818,61,8,Yes,cold,,
+XH7FWCGRRXDJ,nail,sharp,215.94553563340511,706,5,Yes,dull,,
+XH7FWCGRRXDJ,television,television,461.2847633218315,841,3,No,N/A,,
+NFN2M74RPJ2Q,seal,circular,464.4391352397103,848,3,Yes,angular,square,
+FWD4Z73KK6F6,crepe,edible,172.67110280326088,519,5,Yes,inedible,toxic,poisonous
+XH7FWCGRRXDJ,butter,butter,342.31080420094736,1154,5,No,N/A,,
+FPMCK2P37RW2,teapot,cold,278.96952932011186,942,5,Yes,warm,hot,empty
+DZ76R6HPTQH4,cocoon,elastic,738.9186937556558,1014,3,Yes,stiff,hard,unbending
+DZ76R6HPTQH4,pedal,open,636.1608807429574,963,3,No,N/A,,
+FWD4Z73KK6F6,pickle,edible,444.2408553364622,242,1,Yes,inedible,toxic,poisonous
+DZ76R6HPTQH4,crab,edible,682.8226097169421,292,1,Yes,sick,diseased,ill
+XH7FWCGRRXDJ,heater,cold,134.10070419813604,333,5,Yes,hot,,
+2ZF2RAMFQQ3M,shell,hollow,236.7734929361164,473,3,Yes,Full,Filled ,Solid
+XH7FWCGRRXDJ,face,human,167.29330552137438,300,3,Yes,feline,,
+R7AZQKJ2FQVT,aloe,edible,364.6549377686718,721,3,Yes,NA,,
+XH7FWCGRRXDJ,sundial,ancient,236.66738846179518,470,3,Yes,new,,
+EZCVAWE2HAMP,jukebox,musical,894.857703214988,1840,5,Yes,discordant,unmelodious,dissonant 
+FWD4Z73KK6F6,ring,circular,313.5571212153447,638,3,Yes,square,triangular,
+FPMCK2P37RW2,dashboard,clear,335.75106599875267,1134,5,Yes,cluttered,filled,
+XH7FWCGRRXDJ,file,empty,117.29915976068537,158,3,Yes,full,,
+FWD4Z73KK6F6,rat,human,252.74933425140492,507,3,No,inhuman,animalistic,
+FPMCK2P37RW2,toad,small,475.7337462983072,1458,5,Yes,large,huge,gigantic
+XH7FWCGRRXDJ,paper plate,empty,160.0930356927791,282,3,Yes,full,,
+NFN2M74RPJ2Q,sloth,edible,353.53985247223466,1190,5,Yes,inedible,unpalatable,indigestible
+XH7FWCGRRXDJ,compass,accurate,229.40088392499737,145,1,Yes,inaccurate,,
+XH7FWCGRRXDJ,duct,open,501.30183536195307,1494,5,Yes,closed,,
+XXKCFJGVJDTX,pastry,delicious,167.0775029346247,492,5,Yes,disgusting,gross,bad
+XH7FWCGRRXDJ,gift,free,169.18905042235198,498,5,Yes,expensive,,
+XH7FWCGRRXDJ,plug,empty,224.0993203130082,443,3,Yes,full,,
+XH7FWCGRRXDJ,throne,empty,136.51855153459294,70,1,Yes,full,,
+XH7FWCGRRXDJ,tarantula,poisonous,140.06141074065383,74,1,Yes,safe,,
+FPMCK2P37RW2,gel,liquid,545.8807738505965,918,3,Yes,hardened,solid,frozen
+FWD4Z73KK6F6,breadstick,edible,451.8140762961412,1406,5,Yes,toxic,poisonous,inedible
+XH7FWCGRRXDJ,machete,long,376.94430144108014,1264,5,Yes,short,,
+W9XTVGDF6CV4,garlic,edible,572.7146348725165,271,1,Yes,Inedible ,Unpalatable ,Indigestible 
+NFN2M74RPJ2Q,honeypot,empty,171.05414968570398,312,3,Yes,full,,
+FPMCK2P37RW2,hand,strong,151.5839537658681,253,3,Yes,weak,injured,hurt
+R7AZQKJ2FQVT,totem pole,symbolic,388.06489497154143,760,3,No,NA,,
+EZCVAWE2HAMP,fingerprint,visible,729.3849973975647,1749,5,Yes,invisible,unclear,hidden
+EGZANDYA4C6Q,coffeemaker,mechanical,1067.2665629213107,1896,5,Yes,manual,,
+XXKCFJGVJDTX,backpack,full,137.41231857077258,352,5,Yes,empty,bare,void
+XH7FWCGRRXDJ,shield,round,335.02085107787553,1133,5,Yes,square,,
+C69D7VD39FKM,tablecloth,linen,754.9433429704904,1764,5,Yes,silk,plastic,cotton
+XH7FWCGRRXDJ,hourglass,endless,369.39029322570804,1241,5,Yes,limited,,
+XH7FWCGRRXDJ,stair,steep,237.78170669971271,150,1,Yes,flat,,
+FWD4Z73KK6F6,syrup,bitter,667.2108528995751,981,3,Yes,sweet,tasty,delicoius
+XH7FWCGRRXDJ,sewing kit,expensive,451.8052432711385,833,3,Yes,cheap,,
+XH7FWCGRRXDJ,candy,good,183.9263188463557,343,3,Yes,bad,,
+FPMCK2P37RW2,navel,round,599.6413863484518,949,3,Yes,missing,,
+XH7FWCGRRXDJ,nightstand,empty,128.81981563869772,61,1,Yes,full,,
+XH7FWCGRRXDJ,roller,hard,675.508819268078,1700,5,Yes,soft,,
+EZCVAWE2HAMP,quad,circular,689.3189877215013,1713,5,Yes,rectangular,triangular,flat
+FWD4Z73KK6F6,wax paper,thick,195.37009210256642,620,5,Yes,thin,skinny,
+A969KQ7EMVW3,money,here,79.31625801076001,137,8,Yes,N/A,,
+XH7FWCGRRXDJ,cornucopia,circular,58.947644337224595,39,5,Yes,square,,
+XH7FWCGRRXDJ,drill,over,163.19587276849845,97,1,Yes,incomplete,,
+NFN2M74RPJ2Q,mouse,intelligent,346.69747442562783,1167,5,Yes,stupid,unintelligent,dim
+EZCVAWE2HAMP,seaweed,toxic,633.1237817244454,1653,5,Yes,nontoxic,harmless,safe
+A969KQ7EMVW3,bottle,full,91.0502604667889,138,5,Yes,empty,desolate,
+QHKQ32WVQEGN,ostrich,large,1034.7775324767226,1885,5,Yes,small,little,tiny
+XH7FWCGRRXDJ,navel,flat,458.37492108256515,840,3,Yes,curved,,
+XH7FWCGRRXDJ,bell pepper,edible,353.49467566738616,205,1,Yes,inedible,,
+XH7FWCGRRXDJ,bowling ball,round,271.4882958497778,911,5,Yes,cubical,,
+XH7FWCGRRXDJ,mud,mud,178.52073922027847,331,3,No,N/A,,
+DZ76R6HPTQH4,spool,flat,767.7049176222231,1775,5,No,tall,wound,elevated
+XH7FWCGRRXDJ,barrel,empty,140.9960533077826,364,5,Yes,full,,
+XH7FWCGRRXDJ,compass,right,179.66130107773034,546,5,Yes,wrong,,
+FPMCK2P37RW2,bead,small,586.6829408308837,1611,5,Yes,large,huge,gigantic
+FPMCK2P37RW2,chihuahua,extinct,292.6365034482928,596,3,Yes,common,plentyful,alive
+7G7NZEEGPR4K,groundhog,edible,345.3069682550127,686,3,Yes,unconsumable,rotten,
+EZCVAWE2HAMP,grate,large,534.4491811375099,908,3,Yes,small,little,tiny
+XH7FWCGRRXDJ,ladybug,extinct,224.00573147927972,731,5,Yes,alive,,
+FWD4Z73KK6F6,food processor,human,411.3037250916617,790,3,No,inhuman,mechanical,robotic
+EZCVAWE2HAMP,visor,transparent,525.0547788466691,898,3,Yes,cloudy,murky,dark
+XH7FWCGRRXDJ,scoreboard,online,80.6649445407683,143,8,Yes,offline,,
+FPMCK2P37RW2,crucifix,round,466.0617349526349,1439,5,No,N/A,,
+XH7FWCGRRXDJ,shell,smooth,296.1053528998338,1004,5,Yes,jagged,,
+FPMCK2P37RW2,gong,hollow,591.5367480021541,274,1,Yes,solid,,
+XH7FWCGRRXDJ,shopping cart,empty,65.20430669299488,73,8,Yes,full,,
+FWD4Z73KK6F6,camper,empty,185.49425133305317,348,3,Yes,full,overflowing,
+XH7FWCGRRXDJ,badge,gold,246.94196909488326,499,3,Yes,silver,,
+FWD4Z73KK6F6,skeleton,rigid,671.3388525749882,986,3,Yes,soft,mobile,
+FPMCK2P37RW2,skin,dry,97.20056308611125,162,5,Yes,moist,healthy,moisturized
+XH7FWCGRRXDJ,seed,edible,442.4245305447136,240,1,Yes,inedible,,
+DZ76R6HPTQH4,stamp,circular,644.6875208625067,1669,5,Yes,scalloped,rectangular,postage
+FWD4Z73KK6F6,scaffold,empty,83.27490755960417,18,1,Yes,full,used,
+7G7NZEEGPR4K,stomach,hungry,341.6441841593246,1153,5,Yes,full,satiated,
+XH7FWCGRRXDJ,shield,circular,406.1857897414026,228,1,Yes,square,,
+XH7FWCGRRXDJ,hedgehog,edible,189.2113432862117,590,5,Yes,inedible,,
+XH7FWCGRRXDJ,fudge,edible,656.1839330606248,975,3,Yes,inedible,,
+R7AZQKJ2FQVT,yarn,elastic,966.7546683324516,1862,5,No,Breakable,Stiff ,
+XH7FWCGRRXDJ,screw,free,212.5875745855949,692,5,Yes,expensive,,
+XH7FWCGRRXDJ,paper bag,empty,77.6738799392551,14,1,Yes,full,,
+XH7FWCGRRXDJ,kiwi,extinct,257.3121933343546,516,3,Yes,alive,,
+NFN2M74RPJ2Q,bathtub,cold,173.95187273003617,527,5,Yes,hot,warm,
+4FRFD66TK6XE,station wagon,optional,335.8695598556537,673,3,Yes,n/a,n/a,n/a
+XH7FWCGRRXDJ,go-kart,popular,68.16491754561844,38,3,Yes,unpopular,,
+XXKCFJGVJDTX,periscope,transparent,163.40954472402183,478,5,Yes,clouded,opaque,
+XH7FWCGRRXDJ,column,empty,155.1548390915245,262,3,Yes,full,,
+FWD4Z73KK6F6,wagon,empty,85.46804202062549,69,3,Yes,full,stuffed,overflowing
+W9XTVGDF6CV4,squirrel,large,531.7287746716785,1549,5,Yes,Small ,,
+FPMCK2P37RW2,plastic film,thin,353.58200021902735,1191,5,Yes,thick,,
+R7AZQKJ2FQVT,octopus,edible,1019.5536462022612,1080,3,Yes,NA,,
+4YNXDR4CKEZM,stethoscope,portable,1222.1530170570973,1107,3,Yes,cumbersome,fixed,immobile
+FPMCK2P37RW2,pocket watch,portable,468.3155239950347,851,3,Yes,gigantic,huge,
+XH7FWCGRRXDJ,refrigerator,empty,106.28339720855568,201,5,Yes,full,,
+XH7FWCGRRXDJ,skeleton,hollow,275.7168064061412,928,5,Yes,dense,,
+FWD4Z73KK6F6,pigeon,human,418.0261199995324,796,3,No,inhuman,animalistic,
+XH7FWCGRRXDJ,cookie sheet,circular,373.38668603482915,741,3,Yes,square,,
+EZCVAWE2HAMP,detonator,electronic,689.0583835205728,1712,5,Yes,nonelectronic ,analog,manual 
+XH7FWCGRRXDJ,closet,full,117.5191809630062,159,3,Yes,empty,,
+FPMCK2P37RW2,candle,light,256.467715799138,512,3,Yes,big,heavy,dense
+XH7FWCGRRXDJ,chime,silent,493.80081384506326,1483,5,Yes,loud,,
+R7AZQKJ2FQVT,lip balm,liquid,1122.533612040922,1095,3,No,Solid,Chunky ,
+XH7FWCGRRXDJ,tick,right,395.21209464921793,774,3,Yes,wrong,,
+FWD4Z73KK6F6,maple syrup,bitter,250.41115596926463,504,3,Yes,sweet,,
+XH7FWCGRRXDJ,trowel,edible,436.23403750417015,1373,5,Yes,inedible,,
+FWD4Z73KK6F6,lizard,extinct,424.0366737941672,1353,5,Yes,alive,existing,reproducing
+XH7FWCGRRXDJ,barcode,unique,215.0820027185373,136,1,Yes,common,,
+XH7FWCGRRXDJ,belt buckle,circular,270.4404374804149,547,3,Yes,square,,
+XH7FWCGRRXDJ,canister,empty,180.12743106654457,113,1,Yes,full,,
+R3CDKNC3PH6K,fence,intact,191.9866397679422,603,5,Yes,broken,failing,fractured
+FWD4Z73KK6F6,berry,edible,390.2432146743738,223,1,Yes,inedible,toxic,poisonous
+FPMCK2P37RW2,dish,edible,468.5782104867337,852,3,Yes,inedible,rotten,spoiled
+FWD4Z73KK6F6,radio,good,153.9556364529776,259,3,Yes,bad,awful,horrible
+NFN2M74RPJ2Q,trap,empty,171.5248550904897,314,3,Yes,full,,
+XH7FWCGRRXDJ,espresso,hot,309.71187604192033,1045,5,Yes,cold,,
+FWD4Z73KK6F6,dog,human,160.35585496784933,283,3,No,nonhuman,animalistic,
+FWD4Z73KK6F6,brooch,gold,377.30755327707845,220,1,Yes,silver,copper,iron
+XH7FWCGRRXDJ,exhaust pipe,hollow,340.2380887929532,1149,5,Yes,filled,,
+DZ76R6HPTQH4,screwdriver,simple,845.7690196666359,1043,3,Yes,multipurpose,multitool,set
+FWD4Z73KK6F6,treasure,mine,104.2816780008661,112,3,Yes,yours,his,hers
+XH7FWCGRRXDJ,car,empty,51.262182967020905,24,5,Yes,full,,
+A969KQ7EMVW3,chair,empty,82.44007822259168,17,1,Yes,occupied,full,
+XH7FWCGRRXDJ,pot,full,96.43301381265282,92,3,Yes,empty,,
+XH7FWCGRRXDJ,seaplane,amphibious,75.10242897519727,45,3,Yes,marine,,
+XH7FWCGRRXDJ,octopus,amphibious,123.03020630495593,282,5,Yes,marine,,
+XH7FWCGRRXDJ,vise,tight,279.57984052866084,176,1,Yes,loose,,
+EZCVAWE2HAMP,snack,edible,762.1204268919972,1022,3,Yes,unsavory,uneatable,harmful
+XH7FWCGRRXDJ,ballot box,open,69.93156415589098,66,5,Yes,closed,,
+W9XTVGDF6CV4,nut,edible,570.557188549838,269,1,Yes,Inedible ,Unpalatable ,Toxic 
+XH7FWCGRRXDJ,raccoon,intelligent,517.445511707979,1524,5,Yes,unintelligent,,
+XH7FWCGRRXDJ,grill,open,142.31251588931892,224,3,Yes,closed,,
+XH7FWCGRRXDJ,apple tree,edible,229.35855511373242,449,3,Yes,inedible,,
+XH7FWCGRRXDJ,record,clear,126.27130278460248,296,5,Yes,full,,
+XH7FWCGRRXDJ,gurney,empty,142.15001642497714,75,1,Yes,full,,
+NFN2M74RPJ2Q,pincushion,long,470.174241027613,1449,5,Yes,short,small,compact
+XH7FWCGRRXDJ,sardine,edible,185.7028464819632,115,1,Yes,inedible,,
+FPMCK2P37RW2,go-kart,portable,91.37920958126611,139,5,No,N/A,,
+XH7FWCGRRXDJ,warthog,human,102.55749271197512,108,3,No,N/A,,
+XH7FWCGRRXDJ,backpack,empty,114.5207506376753,43,1,Yes,full,,
+FWD4Z73KK6F6,aquarium,empty,244.78587624897088,495,3,Yes,full,overflowing,
+FWD4Z73KK6F6,bear,extinct,330.09792812594867,196,1,Yes,alive,reproducing,thriving
+XH7FWCGRRXDJ,radio,free,212.85109614368875,135,1,Yes,expensive,,
+FPMCK2P37RW2,fork,long,275.72574664833735,173,1,Yes,short,tiny,
+JE2PZ3NEZGRZ,globe,flat,313.4222870646608,1062,5,Yes,round,,
+7G7NZEEGPR4K,bow,curved,315.87386116190305,1071,5,Yes,straight,,
+XH7FWCGRRXDJ,ironing board,wooden,295.1040074371073,605,3,Yes,cloth,,
+DZ76R6HPTQH4,peppermint,poisonous,816.8081801016298,1808,5,Yes,maintained,farmed,consumable
+XH7FWCGRRXDJ,briefcase,empty,122.44465710531759,55,1,Yes,closed,,
+NFN2M74RPJ2Q,snowmobile,new,460.7380527174613,1424,5,Yes,old,used,worn
+DZ76R6HPTQH4,lectern,circular,766.4481301568962,1774,5,Yes,cubical,elaborate,scrolled
+XH7FWCGRRXDJ,trashcan,empty,113.96890800974924,41,1,Yes,full,,
+FPMCK2P37RW2,harness,heavy,218.1655946867261,432,3,Yes,light,small,breezy
+XH7FWCGRRXDJ,snow,deep,100.30435694411258,174,5,Yes,shallow,,
+FWD4Z73KK6F6,soda,expensive,416.1605761178755,1340,5,Yes,cheap,inexpensive,
+CM3Q239CAYN3,cockroach,prey,1039.7398798650217,1888,5,Yes,hunting,attacking,
+XH7FWCGRRXDJ,stool,empty,157.4391628310561,275,3,Yes,occupied,,
+A969KQ7EMVW3,boomerang,long,88.56814695877821,129,5,Yes,short,small,
+XH7FWCGRRXDJ,mantle,flat,460.09435112399376,1422,5,Yes,bumpy,,
+NFN2M74RPJ2Q,foam,transparent,525.977685620172,900,3,Yes,opaque,cloudy,
+FWD4Z73KK6F6,fireplace,warm,142.17116611007089,223,3,Yes,cold,chilly,frigid
+EZCVAWE2HAMP,diaper,plastic,733.5750826622743,1752,5,Yes,NA,,
+9KNVR6X2DWC4,rhinoceros,amphibious,30.686084859465183,1,8,No,earthbound,terrestrial,
+XH7FWCGRRXDJ,bulldozer,amphibious,192.7235338401901,607,5,Yes,land-driven,,
+XH7FWCGRRXDJ,panther,human,331.4226064380838,1126,5,No,N/A,,
+XH7FWCGRRXDJ,kettle,empty,261.76400951456435,530,3,Yes,full,,
+XH7FWCGRRXDJ,manhole,open,127.5861823317435,302,5,Yes,closed,,
+XH7FWCGRRXDJ,purse,empty,125.4121400874591,59,1,Yes,full,,
+DZ76R6HPTQH4,fungus,edible,681.0215175144723,291,1,Yes,toxic,dangerous,bright
+C69D7VD39FKM,yogurt,sweet,717.6220180419976,1006,3,Yes,sour,tart,tangy
+FPMCK2P37RW2,chihuahua,indigenous,472.9009487143546,1453,5,Yes,imported,invasive,exotic
+QHKQ32WVQEGN,balance beam,horizontal,593.5320606973472,945,3,Yes,vertical,,
+FWD4Z73KK6F6,thread,thin,128.07625732325286,185,3,Yes,thick,girthy,
+XH7FWCGRRXDJ,dalmatian,extinct,148.87053419012526,82,1,Yes,alive,,
+FWD4Z73KK6F6,licorice,edible,237.2682959351291,149,1,Yes,inedible,toxic,poisonous
+FWD4Z73KK6F6,goat,human,313.516605082134,1063,5,No,inhuman,animalistic,
+FWD4Z73KK6F6,tea,cold,110.42937989798742,218,5,Yes,hot,warm,scalding
+R7AZQKJ2FQVT,popsicle,edible,916.4194253358056,310,1,Yes,nutritious,,
+FPMCK2P37RW2,wine,good,62.46172126184539,4,1,Yes,sour,bad,off
+XH7FWCGRRXDJ,accordion,portable,398.0560281499595,1306,5,Yes,stuck,,
+XH7FWCGRRXDJ,dough,hard,324.3431879982772,656,3,Yes,soft,,
+EZCVAWE2HAMP,swan,large,641.8297257500273,1666,5,Yes,small,little,tiny
+XH7FWCGRRXDJ,bin,empty,169.32262128121056,102,1,Yes,full,,
+NFN2M74RPJ2Q,sloth,human,173.20017947873424,108,1,No,inhuman,animal,
+XH7FWCGRRXDJ,coffee table,bare,65.13252409243155,71,8,Yes,full,,
+XH7FWCGRRXDJ,sickle,sharp,418.26079771395456,797,3,Yes,dull,,
+XH7FWCGRRXDJ,sugar cube,sugar,368.3210945252675,730,3,Yes,salt,,
+FXAG33X37DRG,box,open,99.7921310067042,100,3,Yes,closed,locked,sealed
+XH7FWCGRRXDJ,horse,human,217.78050579422367,138,1,Yes,equine,,
+FWD4Z73KK6F6,dumpster,empty,111.70503680703202,40,1,Yes,full,stuffed,overflowing
+FWD4Z73KK6F6,tea,hot,116.25099572443257,253,5,Yes,cold,frozen,chilly
+FWD4Z73KK6F6,slot,empty,158.92468706333142,92,1,Yes,full,stuffed,clogged
+FWD4Z73KK6F6,razor blade,long,164.3590957361297,479,5,Yes,short,tiny,small
+XH7FWCGRRXDJ,combination lock,simple,131.14563734803863,190,3,Yes,complex,,
+FWD4Z73KK6F6,scoop,good,306.11865780513267,1034,5,Yes,bad,broken,
+FWD4Z73KK6F6,thumb,swollen,313.29169376209745,637,3,Yes,normal,okay,fine
+R7AZQKJ2FQVT,hose,long,367.87053022073235,729,3,Yes,NA,,
+A969KQ7EMVW3,eyepiece,transparent,42.432589974064335,7,3,Yes,cloudy,opaque,
+XH7FWCGRRXDJ,license plate,unique,92.47985994643923,83,3,Yes,common,,
+DZ76R6HPTQH4,basil,poisonous,700.9371546128402,998,3,Yes,healthy,monitored,delicious
+XH7FWCGRRXDJ,hobbyhorse,extinct,169.589755968432,306,3,No,N/A,,
+FWD4Z73KK6F6,aardvark,amphibious,36.84728576206943,5,8,No,NA,,
+XH7FWCGRRXDJ,towel,wet,146.43851451637263,78,1,Yes,dry,,
+XH7FWCGRRXDJ,sink,empty,150.28617263613432,250,3,Yes,filled,,
+XH7FWCGRRXDJ,breakfast,ready,84.30422899165724,163,8,Yes,unprepared,,
+XH7FWCGRRXDJ,jewel,there,250.4929619894652,842,5,Yes,elsewhere,,
+XH7FWCGRRXDJ,fire,out,42.69002890275118,12,5,Yes,ablaze,,
+DZ76R6HPTQH4,peppermint,edible,1222.8023930352804,1108,3,Yes,seeds,bolted,
+XH7FWCGRRXDJ,stove,cold,165.67337893639416,294,3,Yes,hot,,
+76VNAHQ9VAC3,iron,heavy,193.73457049948948,615,5,Yes,light,thin,floaty
+FPMCK2P37RW2,corn,bitter,343.4004394759062,684,3,Yes,sweet,good,
+XH7FWCGRRXDJ,meat,cold,91.39568166071061,80,3,Yes,hot,,
+XH7FWCGRRXDJ,dish,cold,200.83382736630506,388,3,Yes,warm,,
+FWD4Z73KK6F6,fingerprint,unique,495.61200902033113,253,1,Yes,common,,
+XH7FWCGRRXDJ,steak,good,120.1405651641879,168,3,Yes,bad,,
+XH7FWCGRRXDJ,pheasant,extinct,98.69401697599979,169,5,Yes,alive,,
+XH7FWCGRRXDJ,wallet,open,285.566717678141,966,5,Yes,closed,,
+XXKCFJGVJDTX,car seat,comfortable,129.8615530468737,312,5,Yes,uncomfortable,cramped,
+XH7FWCGRRXDJ,crouton,circular,287.93849729755505,588,3,Yes,rectangular,,
+XH7FWCGRRXDJ,computer,human,300.52834857778106,1013,5,No,N/A,,
+XH7FWCGRRXDJ,tea,good,102.85824753553499,110,3,Yes,bad,,
+DZ76R6HPTQH4,bedpost,straight,624.8063900754727,1641,5,Yes,crooked,slanted,bent
+XH7FWCGRRXDJ,smoke alarm,silent,109.9129744639254,127,3,Yes,blaring,,
+FWD4Z73KK6F6,cheetah,extinct,179.94654865757735,334,3,Yes,alive,reproducing,
+FPMCK2P37RW2,bologna,extinct,1189.0151541946293,1922,5,No,N/A,,
+FPMCK2P37RW2,string cheese,cheese,463.59060517067115,1432,5,Yes,plastic,fake,
+DZ76R6HPTQH4,potato,edible,620.683875776413,277,1,Yes,sprouted,vined,growing
+DZ76R6HPTQH4,eclair,edible,747.4652191807304,1759,5,Yes,runny,sweaty,uniced
+XH7FWCGRRXDJ,pudding,edible,517.4487193021358,260,1,Yes,inedible,,
+FPMCK2P37RW2,toothpick,long,469.75047643632524,1446,5,Yes,short,broken,
+FWD4Z73KK6F6,gutter,clean,288.71528694138067,974,5,Yes,dirty,,
+7G7NZEEGPR4K,flower,purple,194.31614135091078,618,5,Yes,green,yellow,orange
+XH7FWCGRRXDJ,filing cabinet,empty,73.82981009475573,77,5,Yes,full,,
+XH7FWCGRRXDJ,locket,important,278.26353973409925,937,5,Yes,meaningless,,
+R7AZQKJ2FQVT,dart,legal,1015.599122593432,1878,5,No,Poisonous,Restricted,Counterfeit
+7G7NZEEGPR4K,bone,hollow,308.15818280099165,625,3,Yes,solid,filled,
+DZ76R6HPTQH4,spool,long,796.1674836539831,1790,5,Yes,stub,short,little
+FWD4Z73KK6F6,salami,sacred,339.7951427104269,1146,5,No,NA,,
+XH7FWCGRRXDJ,knitting needle,straight,356.37251082452866,1199,5,Yes,bent,,
+FWD4Z73KK6F6,earring,gold,370.37569393241836,215,1,Yes,silver,,
+FWD4Z73KK6F6,cap,convex,281.9668289944928,576,3,Yes,concave,,
+XH7FWCGRRXDJ,mat,empty,279.0657215566278,175,1,Yes,occupied,,
+XH7FWCGRRXDJ,ostrich,amphibious,190.74227222047662,597,5,No,N/A,,
+EZCVAWE2HAMP,bunkbed,bare,678.8848636911455,988,3,Yes,full,filled,flush 
+A969KQ7EMVW3,yo-yo,flat,70.46505685831623,67,5,Yes,spiky,,
+JE2PZ3NEZGRZ,pine needle,straight,480.61680326871766,1463,5,Yes,curved,bent,
+DZ76R6HPTQH4,stretcher,portable,812.1066638687082,1802,5,Yes,fixed,planted,grounded
+XH7FWCGRRXDJ,dishwashing liquid,liquid,230.13011952438225,454,3,Yes,solidified,,
+FWD4Z73KK6F6,doorknocker,human,274.49682369286114,925,5,No,wooden,metal,silver
+QHKQ32WVQEGN,spam,anonymous,1162.5005708789286,326,1,Yes,identified,known,named
+DZ76R6HPTQH4,prism,circular,760.5093304285164,1020,3,Yes,multifaceted,star,heart
+XH7FWCGRRXDJ,hopscotch,long,388.5924429068634,1286,5,No,N/A,,

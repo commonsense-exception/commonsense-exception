@@ -1,0 +1,52 @@
+Word	generic	Step1Input1	Step1Input2	Step1Input3	SpecialPair	Context	p_generic	p_input1	p_input2	p_input3	all_applicable
+scanner	dead	working	running	operational	[broken/fixed]	The scanner is [broken/fixed].	5.913267284631729	5.297303199768066	0.7619151379913092	0.2124914200976491	working,running,operational
+drill	manual	powered	electric	automatic	[antiquated/modern]	The drill is [antiquated/modern].	4.145623743534088	0.29731427785009146	2.791125141084194	3.887319192290306	powered,electric,automatic
+cow	happy	upset	angry	distraught	[starving/satisfied]	The cow was [starving/satisfied] because he wasn't fed enough food.	1.1335840448737144	0.23967346642166376	0.24225953966379166	0.02346968394704163	upset,angry,distraught
+deer	present	absent	gone	away	[up/off]	The deer just walked [up/off].	1.7992841079831123	2.823558822274208	3.291899710893631	0.09993939893320203	away
+faucet	functional	broken	inoperable	unusable	[clogged/flowing]	The faucet is [clogged/flowing].	1.8919667229056358	1.2897920794785023	0.0046422926970990375	0.0046422926970990375	broken,inoperable,unusable
+gum	edible	inedible	unsuitable	unpalatable	[disgusting/tasty]	The gum is [disgusting/tasty].	6.560021638870239	0.004071079092682339	0.002194740045524668	0.004071079092682339	inedible,unsuitable,unpalatable
+brace	open	closed	shut	unopened	[use/disuse]	The brace is in [use/disuse].	1.6578171402215958	2.0761623978614807	0.050269707571715117	0.002424361082375981	shut,unopened
+odometer	red	green	blue	black	[blood/leaves]	The odometer is covered in [blood/leaves].	2.9243940487504005	5.378178507089615	1.3480150140821934	21.79650217294693	blue
+chimney	closed	open	unenclosed	unshut	[Unrestricted/restricted]	Smoke came out of the chimney [restricted/unrestricted].	0.8501317352056503	1.2956688180565834	0.0013215083527029492	0.0013215083527029492	unenclosed,unshut
+golf cart	open	locked	occupied	inaccessible	[available/occupied]	The golf cart is currently [available/occupied].	1.9584055989980698	0.3667070996016264	0.4684919957071543	0.012876527034677565	locked,occupied,inaccessible
+artichoke	rare	common	normal	ordinary	[familiar/uncommon]	The artichoke is [familiar/uncommon].	3.8101237267255783	0.640360452234745	0.01721714361337945	0.005402165334089659	common,normal,ordinary
+tumbleweed	edible	inedible	unpalatable	harmful	[gross/tasty]	The tumbleweed is [gross/tasty].	8.032651990652084	0.003217178164049983	0.003217178164049983	0.026084939599968493	inedible,unpalatable,harmful
+rattlesnake	common	rare	uncommon	distinct	[often/rarely]	This particular snake is [often/rarely] seen.	0.8809842169284821	2.579507790505886	0.2895061857998371	0.14119385741651058	uncommon,distinct
+bush	green	purple	pink	white	[colorless/colored]	The apple is [colorless/colored].	2.335711382329464	0.052662548841908574	0.10167689761146903	0.735639501363039	purple,pink,white
+handcuff	open	locked	closed	shut	[free/barred]	The criminal was impatiently waiting to see if the handcuffs would make him [free/barred].	6.997274607419968	1.8417367711663246	4.834830388426781	0.1022537937387824	locked,closed,shut
+mannequin	there	here	nowhere	gone	[see/imagine]	The girl was was able to get a [see/imagine] the mannequin.	0.5440435837954283	0.20181841682642698	0.025270620244555175	4.024452716112137	here,nowhere
+wreath	large	small	tiny	miniscule	[heavy/light]	The wreath is [heavy/light].	0.94083147123456	0.9250910021364689	0.011754254956031218	0.038137356750667095	small,tiny,miniscule
+screen	green	red	black	white	[grass/milk]	The glare from the screen resembles [grass/milk].	1.4610573649406433	1.3779962435364723	5.54032027721405	1.172039844095707	red,white
+napkin	wet	dry	parched	moistureless	[wash/dry]	She used the napkin to [wash/dry] her hands.	4.239406809210777	2.0095570012927055	0.00013434602124107187	0.00013434602124107187	dry,parched,moistureless
+handprint	red	black	white	invisible	[clear/crimson]	The handprint is [clear/crimson].	6.166963651776314	5.337662622332573	5.955643951892853	0.15935468254610896	black,white,invisible
+coffee	ready	unfinished	unprepared	unavailable	[drinkable/undrinkable]	The coffee is [drinkable/undrinkable].	1.8063295632600784	0.009377420064993203	0.00015177424756984692	0.0028408334401319735	unfinished,unprepared,unavailable
+celery	removed	added	kept	retained	[enjoyed/discarded]	The celery is [enjoyed/discarded].	0.529960636049509	0.13077468611299992	0.01032976433634758	0.08201144519262016	added,kept,retained
+fungus	unique	common	normal	ordinary	[rarely/abundantly]	The fungus occurs [rarely/abundantly] in the environment.	0.3297386225312948	0.6286079064011574	0.026577996322885156	0.0002687471123863361	normal,ordinary
+station wagon	used	new	unused	pristine	[new/old]	The car is [new/old].	1.413945946842432	1.4386030845344067	0.5365528631955385	0.013558560749515891	unused,pristine
+vest	green	white	uncolored	plain	[dyed/undyed]	The vest is [dyed/undyed].	3.4074801951646805	13.380962610244751	0.0010862367162189912	0.9797028265893459	uncolored,plain
+breakfast	eaten	uneaten	unconsumed	old	[enjoyed/hated]	The man [enjoyed/hated] his breakfast.	0.20994774531573057	0.000358960232915706	0.000358960232915706	0.013129219587426633	uneaten,unconsumed,old
+spider	blind	sighted	seeing	looking	[aware/unaware]	The spider is [aware/unaware] that the flower in front of him is blue.	0.3332768101245165	0.0020137344108661637	0.00011005132591890288	0.005544419764191844	sighted,seeing,looking
+granola	good	disgusting	stale	bland	[rancid/yummy]	The granola is [rancid/yummy].	2.01523806899786	0.06701917736791074	0.5049420986324549	0.17064547864720225	disgusting,stale,bland
+bulletproof vest	optional	mandatory	required	banned	[integrated/illegal]	the bulletproof vest is completely [integrated/illegal].	7.250513881444931	0.2528453478589654	0.2549581229686737	0.15596570447087288	mandatory,required,banned
+makeup	good	bad	awful	cheap	[hardly/easily]	The makeup can [hardly/easily] cover any blemish.	1.5069062821567059	0.10008731624111533	0.08776484173722565	0.24005877785384655	bad,awful,cheap
+recliner	open	closed	shut	down	[raised/lowered]	I always felt more relaxed when the recliner is [raised/lowered].	1.9781429320573807	1.2308964505791664	0.06355470977723598	0.1387604628689587	closed,shut,down
+sloth	extinct	alive	living	active	[moving/decaying]	The sloth is [moving/decaying].	0.7946738041937351	0.8248206228017807	0.045440151006914675	0.10906171519309282	living,active
+dresser	closed	open	unshut	accessible	[hidden/shown]	The contents of the dresser drawer are [hidden/shown].	3.0459191650152206	5.669589713215828	7.231869290080795e-05	0.006195322202984244	unshut,accessible
+wedge	fixed	moving	falling	sliding	[safe/dangerous]	The wedge was lodged in the tree, making it [safe/dangerous] to cut.	0.6857939530164003	0.08778399787843227	0.023819033231120557	0.02517909451853484	moving,falling,sliding
+oil	pure	impure	dirty	polluted	[sterile/contaminated]	The oil is [sterile/contaminated].	0.9296583943068981	0.005855598647031002	0.02123425656463951	0.005855598647031002	impure,dirty,polluted
+pistachio	green	red	blue	yellow	[verdant/rusty]	The pistachio is [verdant/rusty].	7.095150649547577	2.8245151042938232	0.3646463621407747	2.806294895708561	red,blue,yellow
+sticker	green	black	purple	yellow	[grass/asphalt]	The sticker matches the [grass/asphalt].	11.991629749536514	8.137182891368866	0.3496082266792655	8.47659558057785	black,purple,yellow
+car door	locked	open	unlock	unsecured	[ajar/shut]	The car door is [ajar/shut].  .	4.0000006556510925	67.04265475273132	0.18131932010874152	1.05826579499535e-05	unlock,unsecured
+frisbee	played	dropped	fumbled	lost	[managed/failed]	The frisbee golf player [managed/failed] to throw the frisbee into the goal.	0.947068352252245	0.21340600214898586	0.005470061660162173	0.26285971980541945	dropped,fumbled,lost
+camel	killed	alive	healthy	fine	[dead/alive]	The camel is [dead/alive].	4.721540212631226	0.4776754416525364	0.024765892885625362	0.24144586641341448	alive,healthy,fine
+flag	white	black	mahogany	sable	[dark/bright]	The flag is [dark/bright].	26.732027530670166	15.444952249526978	0.0007611581622768426	0.01216135933646001	black,mahogany,sable
+gazelle	ready	unprepared	unaware	oblivious	[asleep/awake]	The gazelle was [asleep/awake] as the predator approached.	0.5346841178834438	0.0003109175850113388	0.0028853286494268104	0.028653605841100216	unprepared,unaware,oblivious
+cobra	killed	alive	living	lively	[motionless/fast]	The cobra was [motionless/fast].	3.382428362965584	0.8857728913426399	0.012810046609956771	0.005055669680587016	alive,living,lively
+cranberry	common	rare	unusual	different	[easy/hard]	The cranberry is [easy/hard] to find. .	0.4961545579135418	2.0516932010650635	0.10382492328062654	0.3406274365261197	unusual,different
+jelly bean	unique	common	ordinary	mundane	[sweet/salty]	The jellybean tastes [sweet/salty].	0.44912160374224186	0.325213884934783	0.009201566717820242	0.0003811056103586452	common,ordinary,mundane
+bread	cold	steaming	warm	scorching	[old/fresh]	The bread is [old/fresh].	13.697585463523865	0.1980941742658615	3.407488763332367	0.0019394752598600462	steaming,warm,scorching
+safety pin	removed	inserted	attached	replaced	[open/closed]	Her dress is [open/closed].	8.629600703716278	0.33320749644190073	0.7524025160819292	0.8605458773672581	inserted,attached,replaced
+spaghetti	delicious	gross	pungent	rotten	[large/small]	Robert added a very [large/small] amount of garlic to the spaghetti.	7.405471056699753	0.06674244650639594	0.0019564626200008206	0.23942855186760426	gross,pungent,rotten
+card	valid	invalid	fake	counterfeit	[defective/usable]	The card is [defective/usable].	1.654534973204136	0.10761008597910404	0.22998836357146502	0.005434323611552827	invalid,fake,counterfeit
+ticktacktoe	edible	inconsumable	indigestible	unpalatable	[chocolate/wood]	The ticktacktoe is made out of [chocolate/wood].	3.0221855267882347	0.03950985556002706	0.03950985556002706	0.03950985556002706	inconsumable,indigestible,unpalatable
+magnet	bent	straight	linear	direct	[broken/unbroken]	The magnet is [broken/unbroken].	0.8663433603942394	0.03758329839911312	0.15952304238453507	0.009574057185091078	straight,linear,direct
